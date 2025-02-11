@@ -46,7 +46,7 @@ All agent evaluations are conducted on this test_hard subset.
 ## Performance Zero-shot
 
 |                Model-Task               |  Mean | Median | Std Dev |  Min  |  Max   | Number of Samples |
-|---------------------------------------|-------+--------+---------+-------+--------+-----------------|
+|---------------------------------------|-------|--------|---------|-------|--------|-----------------|
 |            medqa_gpt-35-turbo           | 25.46 | 25.00  |   4.67  |  8.00 | 67.00  |        1273       |
 |               medqa_gpt-4               | 23.40 | 23.00  |   2.54  | 11.00 | 35.00  |        1273       |
 |            medqa_gpt-4o-mini            | 24.54 | 24.00  |   3.53  | 15.00 | 41.00  |        1273       |
@@ -124,4 +124,3 @@ All agent evaluations are conducted on this test_hard subset.
 |  afrimedqa_Llama-3.3-70B-Instruct-Turbo | 27.20 | 25.00  |  12.84  |  0.00 | 85.00  |        174        |
 |       afrimedqa_claude-3-5-sonnet       | 25.71 | 25.00  |  11.74  |  0.00 | 72.00  |        174        |
 |        afrimedqa_claude-3-5-haiku       | 26.32 | 25.00  |  10.62  |  0.00 | 79.00  |        174        |
-|---------------------------------------|-------+--------+---------+-------+--------+-----------------|
