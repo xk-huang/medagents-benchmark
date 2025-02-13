@@ -13,6 +13,7 @@ import time
 load_dotenv()
 
 class AnswerResponse(BaseModel):
+    thinking: str
     answer_idx: str
 
 ANTHROPIC_MODELS = {
@@ -28,11 +29,9 @@ def run_cot(question_text: str, options_text: str, client: Any, model: str) -> t
             "content": (
                 "You are a helpful medical expert. Your task is to answer a multi-choice medical question. "
                 "Please first think step-by-step and then choose the answer from the provided options. "
-                "Organize your output in a json formatted as Dict{\"step_by_step_thinking\": Str(explanation), \"answer_choice\": Str{A/B/C/...}}. "
-                "Your responses will be used for research purposes only, so please have a definite answer.\n\n"
+                "Your responses will be used for research purposes only, so please have a definite answer (e.g., 'A', 'B', 'C', etc.).\n\n"
                 f"Question:\n{question_text}\n\n"
                 f"Options:\n{options_text}\n\n"
-                "Please think step-by-step and generate your output in json:"
             )
         }]
     else:
@@ -45,11 +44,9 @@ def run_cot(question_text: str, options_text: str, client: Any, model: str) -> t
                 "role": "user",
                 "content": (
                     "Please answer this medical question by first thinking step-by-step and then choosing from the provided options. "
-                    "Organize your output in a json formatted as Dict{\"step_by_step_thinking\": Str(explanation), \"answer_choice\": Str{A/B/C/...}}. "
-                    "Your responses will be used for research purposes only, so please have a definite answer.\n\n"
+                    "Your responses will be used for research purposes only, so please have a definite answer (e.g., 'A', 'B', 'C', etc.).\n\n"
                     f"Question:\n{question_text}\n\n"
                     f"Options:\n{options_text}\n\n"
-                    "Please think step-by-step and generate your output in json:"
                 )
             }
         ]
@@ -86,9 +83,10 @@ def parse_answer(raw_response: str, options: Dict, client_old: Any) -> str:
         "schema": {
             "type": "object",
             "properties": {
+                "thinking": {"type": "string"},
                 "answer_idx": {"type": "string", "enum": list(options.keys())}
             },
-            "required": ["answer_idx"],
+            "required": ["thinking", "answer_idx"],
             "additionalProperties": False
         },
         "strict": True
@@ -96,8 +94,8 @@ def parse_answer(raw_response: str, options: Dict, client_old: Any) -> str:
 
     extraction_prompt = (
         "You are an answer extractor. Extract the answer option from the text below. "
-        "Only return the answer as a JSON object following this format: {\"answer_idx\": \"<option>\"}, "
-        "where <option> is one of the following: " + ", ".join(options.keys()) + "."
+        "Only return the answer as a JSON object following this format: {\"thinking\": \"<thinking>\", \"answer_idx\": \"<option>\"}, "
+        "where <thinking> is the thinking process and <option> is one of the following: " + ", ".join(options.keys()) + "."
         "\nText:\n" + raw_response
     )
     extraction_messages = [{"role": "user", "content": extraction_prompt}]
@@ -107,7 +105,8 @@ def parse_answer(raw_response: str, options: Dict, client_old: Any) -> str:
         response_format={"type": "json_schema", "json_schema": answer_schema}
     )
     extraction_raw_response = extraction_completion.choices[0].message.content.strip()
-    return AnswerResponse.parse_raw(extraction_raw_response).answer_idx.strip()
+    result = AnswerResponse.parse_raw(extraction_raw_response)
+    return result.thinking, result.answer_idx
 
 def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3) -> Dict:
     question_text = problem.get('question', '')
@@ -122,7 +121,7 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3) ->
             completion, raw_response = run_cot(question_text, options_text, client, model)
             
             # Second call: parse answer using GPT-4o-mini
-            predicted_answer = parse_answer(raw_response, options, client_old)
+            thinking, predicted_answer = parse_answer(raw_response, options, client_old)
 
             # Calculate token usage
             usage_first = completion.usage

@@ -12,12 +12,12 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "No disease at all",
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 154,
-            "completion_tokens": 157
+            "prompt_tokens": 123,
+            "completion_tokens": 327
         },
-        "time_elapsed": 2.160482406616211
+        "time_elapsed": 3.275517225265503
     },
     {
         "realidx": 6003,
@@ -40,10 +40,10 @@
         "answer": "The botanist Dmitri Iwanowsky",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 224,
-            "completion_tokens": 141
+            "prompt_tokens": 193,
+            "completion_tokens": 382
         },
-        "time_elapsed": 2.9103035926818848
+        "time_elapsed": 4.892513036727905
     },
     {
         "realidx": 6012,
@@ -66,10 +66,10 @@
         "answer": "Inspect the nail-bed angle from the side",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 233,
-            "completion_tokens": 166
+            "prompt_tokens": 202,
+            "completion_tokens": 453
         },
-        "time_elapsed": 2.2111287117004395
+        "time_elapsed": 9.58718991279602
     },
     {
         "realidx": 6013,
@@ -90,12 +90,12 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "Expiratory component louder and longer with a gap between inspiration and expiration",
-        "predicted_answer": "G",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 297,
-            "completion_tokens": 146
+            "prompt_tokens": 266,
+            "completion_tokens": 490
         },
-        "time_elapsed": 2.216118335723877
+        "time_elapsed": 6.027463674545288
     },
     {
         "realidx": 6018,
@@ -118,10 +118,10 @@
         "answer": "Typically less successful",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 212,
-            "completion_tokens": 161
+            "prompt_tokens": 181,
+            "completion_tokens": 319
         },
-        "time_elapsed": 2.018756866455078
+        "time_elapsed": 3.902906894683838
     },
     {
         "realidx": 6021,
@@ -144,10 +144,10 @@
         "answer": "Hindu",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 193,
-            "completion_tokens": 143
+            "prompt_tokens": 162,
+            "completion_tokens": 449
         },
-        "time_elapsed": 1.873389720916748
+        "time_elapsed": 4.408496141433716
     },
     {
         "realidx": 6029,
@@ -170,10 +170,10 @@
         "answer": "arise from the ascending aorta and fill during diastole.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 297,
-            "completion_tokens": 153
+            "prompt_tokens": 266,
+            "completion_tokens": 409
         },
-        "time_elapsed": 1.925358533859253
+        "time_elapsed": 5.491333723068237
     },
     {
         "realidx": 6030,
@@ -196,10 +196,10 @@
         "answer": "The ribs and sternum",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 256,
-            "completion_tokens": 702
+            "prompt_tokens": 225,
+            "completion_tokens": 674
         },
-        "time_elapsed": 4.918707847595215
+        "time_elapsed": 6.031677484512329
     },
     {
         "realidx": 6032,
@@ -220,12 +220,12 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "Pupillary constriction and vasodilation of facial vessels",
-        "predicted_answer": "E",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 304,
-            "completion_tokens": 152
+            "prompt_tokens": 273,
+            "completion_tokens": 522
         },
-        "time_elapsed": 1.7322685718536377
+        "time_elapsed": 8.912852764129639
     },
     {
         "realidx": 6039,
@@ -248,10 +248,10 @@
         "answer": "the neck was treated in simultaneous hyperrotation and extension",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 396,
-            "completion_tokens": 169
+            "prompt_tokens": 365,
+            "completion_tokens": 406
         },
-        "time_elapsed": 2.267632007598877
+        "time_elapsed": 5.777288198471069
     },
     {
         "realidx": 6042,
@@ -272,12 +272,12 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Ribosomal assembly",
-        "predicted_answer": "E",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 378,
-            "completion_tokens": 668
+            "prompt_tokens": 347,
+            "completion_tokens": 363
         },
-        "time_elapsed": 5.664154052734375
+        "time_elapsed": 5.866527557373047
     },
     {
         "realidx": 6045,
@@ -298,10 +298,10 @@
         "answer": "Vitamin D deficiency",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 372,
-            "completion_tokens": 194
+            "prompt_tokens": 341,
+            "completion_tokens": 453
         },
-        "time_elapsed": 2.472139596939087
+        "time_elapsed": 6.052078008651733
     },
     {
         "realidx": 6049,
@@ -322,12 +322,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "32%",
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 196,
-            "completion_tokens": 154
+            "prompt_tokens": 165,
+            "completion_tokens": 242
         },
-        "time_elapsed": 1.8970355987548828
+        "time_elapsed": 5.151151895523071
     },
     {
         "realidx": 6050,
@@ -350,10 +350,10 @@
         "answer": "Carboxylation of pyruvate to oxaloacetate",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 264,
-            "completion_tokens": 152
+            "prompt_tokens": 233,
+            "completion_tokens": 536
         },
-        "time_elapsed": 2.2482779026031494
+        "time_elapsed": 5.554359197616577
     },
     {
         "realidx": 6051,
@@ -376,10 +376,10 @@
         "answer": "Carboxylation of pyruvate to oxaloacetate",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 264,
-            "completion_tokens": 158
+            "prompt_tokens": 233,
+            "completion_tokens": 568
         },
-        "time_elapsed": 1.7634005546569824
+        "time_elapsed": 5.767067193984985
     },
     {
         "realidx": 6052,
@@ -402,10 +402,10 @@
         "answer": "Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 343,
-            "completion_tokens": 312
+            "prompt_tokens": 312,
+            "completion_tokens": 591
         },
-        "time_elapsed": 2.9975249767303467
+        "time_elapsed": 5.440376043319702
     },
     {
         "realidx": 6054,
@@ -426,10 +426,10 @@
         "answer": "High nutrient requirements for tissue turnover",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 232,
-            "completion_tokens": 414
+            "prompt_tokens": 201,
+            "completion_tokens": 450
         },
-        "time_elapsed": 4.345544099807739
+        "time_elapsed": 5.994314908981323
     },
     {
         "realidx": 6055,
@@ -447,12 +447,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Hypoglycaemia",
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 189,
-            "completion_tokens": 295
+            "prompt_tokens": 158,
+            "completion_tokens": 301
         },
-        "time_elapsed": 2.8992631435394287
+        "time_elapsed": 4.642319440841675
     },
     {
         "realidx": 6059,
@@ -475,10 +475,10 @@
         "answer": "Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 368,
-            "completion_tokens": 231
+            "prompt_tokens": 337,
+            "completion_tokens": 472
         },
-        "time_elapsed": 2.12516188621521
+        "time_elapsed": 8.717499256134033
     },
     {
         "realidx": 6061,
@@ -501,10 +501,10 @@
         "answer": "High dose \u00df-carotene supplements",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 196,
-            "completion_tokens": 326
+            "prompt_tokens": 165,
+            "completion_tokens": 424
         },
-        "time_elapsed": 5.149183511734009
+        "time_elapsed": 3.923149347305298
     },
     {
         "realidx": 6062,
@@ -527,10 +527,10 @@
         "answer": "High dose \u00df-carotene supplements",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 196,
-            "completion_tokens": 319
+            "prompt_tokens": 165,
+            "completion_tokens": 431
         },
-        "time_elapsed": 2.624260187149048
+        "time_elapsed": 14.1748948097229
     },
     {
         "realidx": 6064,
@@ -552,10 +552,10 @@
         "answer": "Respiratory diseases",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 183,
-            "completion_tokens": 534
+            "prompt_tokens": 152,
+            "completion_tokens": 421
         },
-        "time_elapsed": 5.633219242095947
+        "time_elapsed": 6.279641389846802
     },
     {
         "realidx": 6067,
@@ -572,10 +572,10 @@
         "answer": "Shot gun sequencing",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 165,
-            "completion_tokens": 208
+            "prompt_tokens": 134,
+            "completion_tokens": 296
         },
-        "time_elapsed": 2.040379047393799
+        "time_elapsed": 3.3860068321228027
     },
     {
         "realidx": 6068,
@@ -592,10 +592,10 @@
         "answer": "An icosahedral large pleomorphic virus",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 177,
-            "completion_tokens": 161
+            "prompt_tokens": 146,
+            "completion_tokens": 328
         },
-        "time_elapsed": 2.3993136882781982
+        "time_elapsed": 3.523841142654419
     },
     {
         "realidx": 6070,
@@ -616,12 +616,12 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "Factor VIII is made synthetically",
-        "predicted_answer": "F",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 280,
-            "completion_tokens": 618
+            "prompt_tokens": 249,
+            "completion_tokens": 574
         },
-        "time_elapsed": 5.520837783813477
+        "time_elapsed": 5.952256441116333
     },
     {
         "realidx": 6071,
@@ -644,10 +644,10 @@
         "answer": "Part of a cycle of mosquitoes biting humans in cities",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 274,
-            "completion_tokens": 120
+            "prompt_tokens": 243,
+            "completion_tokens": 463
         },
-        "time_elapsed": 1.4767694473266602
+        "time_elapsed": 4.142195224761963
     },
     {
         "realidx": 6072,
@@ -668,12 +668,12 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "Higher than the pOH",
-        "predicted_answer": "H",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 227,
-            "completion_tokens": 627
+            "prompt_tokens": 196,
+            "completion_tokens": 513
         },
-        "time_elapsed": 4.614585638046265
+        "time_elapsed": 4.953965902328491
     },
     {
         "realidx": 6074,
@@ -694,12 +694,12 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
-        "predicted_answer": "E",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 334,
-            "completion_tokens": 738
+            "prompt_tokens": 303,
+            "completion_tokens": 810
         },
-        "time_elapsed": 6.612738132476807
+        "time_elapsed": 7.87836766242981
     },
     {
         "realidx": 6079,
@@ -722,10 +722,10 @@
         "answer": "A diversified and developed economy.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 262,
-            "completion_tokens": 141
+            "prompt_tokens": 231,
+            "completion_tokens": 402
         },
-        "time_elapsed": 1.7390851974487305
+        "time_elapsed": 4.503742456436157
     },
     {
         "realidx": 6087,
@@ -746,12 +746,12 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "No variation with posture",
-        "predicted_answer": "B",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 241,
-            "completion_tokens": 222
+            "prompt_tokens": 210,
+            "completion_tokens": 490
         },
-        "time_elapsed": 2.111004590988159
+        "time_elapsed": 4.084010124206543
     },
     {
         "realidx": 6092,
@@ -774,10 +774,10 @@
         "answer": "Receive more opportunities than older workers",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 238,
-            "completion_tokens": 134
+            "prompt_tokens": 207,
+            "completion_tokens": 390
         },
-        "time_elapsed": 1.549339771270752
+        "time_elapsed": 3.804076910018921
     },
     {
         "realidx": 6093,
@@ -800,10 +800,10 @@
         "answer": "On foot",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 205,
-            "completion_tokens": 277
+            "prompt_tokens": 174,
+            "completion_tokens": 406
         },
-        "time_elapsed": 2.9123358726501465
+        "time_elapsed": 9.013952016830444
     },
     {
         "realidx": 6104,
@@ -826,10 +826,10 @@
         "answer": "Obtain a swallowing evaluation",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 522,
-            "completion_tokens": 195
+            "prompt_tokens": 491,
+            "completion_tokens": 576
         },
-        "time_elapsed": 2.1067936420440674
+        "time_elapsed": 6.879586696624756
     },
     {
         "realidx": 6105,
@@ -852,10 +852,10 @@
         "answer": "Obtain a swallowing evaluation",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 522,
-            "completion_tokens": 207
+            "prompt_tokens": 491,
+            "completion_tokens": 556
         },
-        "time_elapsed": 2.085927963256836
+        "time_elapsed": 6.245754241943359
     },
     {
         "realidx": 6108,
@@ -878,10 +878,10 @@
         "answer": "Development of polycythemia",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 343,
-            "completion_tokens": 591
+            "prompt_tokens": 312,
+            "completion_tokens": 562
         },
-        "time_elapsed": 4.651030540466309
+        "time_elapsed": 7.347060680389404
     },
     {
         "realidx": 6109,
@@ -904,10 +904,10 @@
         "answer": "Development of polycythemia",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 343,
-            "completion_tokens": 182
+            "prompt_tokens": 312,
+            "completion_tokens": 552
         },
-        "time_elapsed": 2.183284044265747
+        "time_elapsed": 4.765456438064575
     },
     {
         "realidx": 6127,
@@ -925,10 +925,10 @@
         "answer": "The classic glycogen loading regime",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 173,
-            "completion_tokens": 430
+            "prompt_tokens": 142,
+            "completion_tokens": 302
         },
-        "time_elapsed": 3.789121627807617
+        "time_elapsed": 3.4404332637786865
     },
     {
         "realidx": 6128,
@@ -951,10 +951,10 @@
         "answer": "1 unit of BMI",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 233,
-            "completion_tokens": 149
+            "prompt_tokens": 202,
+            "completion_tokens": 229
         },
-        "time_elapsed": 4.175212860107422
+        "time_elapsed": 3.3691275119781494
     },
     {
         "realidx": 6140,
@@ -977,10 +977,10 @@
         "answer": "glucose-1-phosphate.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 239,
-            "completion_tokens": 129
+            "prompt_tokens": 208,
+            "completion_tokens": 343
         },
-        "time_elapsed": 1.721024513244629
+        "time_elapsed": 3.090982675552368
     },
     {
         "realidx": 6142,
@@ -1003,10 +1003,10 @@
         "answer": "Passive",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 249,
-            "completion_tokens": 354
+            "prompt_tokens": 218,
+            "completion_tokens": 297
         },
-        "time_elapsed": 2.960810661315918
+        "time_elapsed": 3.907163143157959
     },
     {
         "realidx": 6145,
@@ -1027,12 +1027,12 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "The nurse, patient, and ward clerk.",
-        "predicted_answer": "I",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 264,
-            "completion_tokens": 637
+            "prompt_tokens": 233,
+            "completion_tokens": 349
         },
-        "time_elapsed": 4.934452295303345
+        "time_elapsed": 5.418197393417358
     },
     {
         "realidx": 6146,
@@ -1055,10 +1055,10 @@
         "answer": "Dysphagia is an indication for surgery",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 282,
-            "completion_tokens": 391
+            "prompt_tokens": 251,
+            "completion_tokens": 470
         },
-        "time_elapsed": 3.945667028427124
+        "time_elapsed": 3.9553568363189697
     },
     {
         "realidx": 6147,
@@ -1081,10 +1081,10 @@
         "answer": "the highest rate of air expelled from the lungs through an open mouth.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 259,
-            "completion_tokens": 126
+            "prompt_tokens": 228,
+            "completion_tokens": 462
         },
-        "time_elapsed": 1.6051256656646729
+        "time_elapsed": 4.6212475299835205
     },
     {
         "realidx": 6150,
@@ -1107,10 +1107,10 @@
         "answer": "Identity",
         "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 182,
-            "completion_tokens": 485
+            "prompt_tokens": 151,
+            "completion_tokens": 446
         },
-        "time_elapsed": 3.922647714614868
+        "time_elapsed": 7.395557165145874
     },
     {
         "realidx": 6154,
@@ -1133,10 +1133,10 @@
         "answer": "An increased vulnerability",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 206,
-            "completion_tokens": 140
+            "prompt_tokens": 175,
+            "completion_tokens": 375
         },
-        "time_elapsed": 1.653306245803833
+        "time_elapsed": 3.6744461059570312
     },
     {
         "realidx": 6157,
@@ -1157,12 +1157,12 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "social epigenetics",
-        "predicted_answer": "D",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 227,
-            "completion_tokens": 554
+            "prompt_tokens": 196,
+            "completion_tokens": 502
         },
-        "time_elapsed": 4.112102508544922
+        "time_elapsed": 6.162980556488037
     },
     {
         "realidx": 6158,
@@ -1185,10 +1185,10 @@
         "answer": "lack of expression or reduced expression of the lac operon genes under all circumstances",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 296,
-            "completion_tokens": 597
+            "prompt_tokens": 265,
+            "completion_tokens": 612
         },
-        "time_elapsed": 4.4676501750946045
+        "time_elapsed": 6.43747615814209
     },
     {
         "realidx": 6159,
@@ -1209,12 +1209,12 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "0.08",
-        "predicted_answer": "H",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 226,
-            "completion_tokens": 380
+            "prompt_tokens": 195,
+            "completion_tokens": 405
         },
-        "time_elapsed": 3.8326311111450195
+        "time_elapsed": 4.810493230819702
     },
     {
         "realidx": 6167,
@@ -1235,12 +1235,12 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "Pupillary dilatation and a lateral strabismus",
-        "predicted_answer": "A",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 291,
-            "completion_tokens": 493
+            "prompt_tokens": 260,
+            "completion_tokens": 583
         },
-        "time_elapsed": 5.5687220096588135
+        "time_elapsed": 6.271134376525879
     },
     {
         "realidx": 6169,
@@ -1261,12 +1261,12 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
-        "predicted_answer": "A",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 349,
-            "completion_tokens": 234
+            "prompt_tokens": 318,
+            "completion_tokens": 637
         },
-        "time_elapsed": 2.2712206840515137
+        "time_elapsed": 7.026541233062744
     },
     {
         "realidx": 6171,
@@ -1289,10 +1289,10 @@
         "answer": "ligaments and articular discs.",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 241,
-            "completion_tokens": 155
+            "prompt_tokens": 210,
+            "completion_tokens": 514
         },
-        "time_elapsed": 1.9268639087677002
+        "time_elapsed": 4.661781072616577
     },
     {
         "realidx": 6173,
@@ -1315,10 +1315,10 @@
         "answer": "auditory tube opens.",
         "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 209,
-            "completion_tokens": 532
+            "prompt_tokens": 178,
+            "completion_tokens": 444
         },
-        "time_elapsed": 4.362044095993042
+        "time_elapsed": 4.619765043258667
     },
     {
         "realidx": 6181,
@@ -1340,10 +1340,10 @@
         "answer": "Atlanto-axial instability",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 430,
-            "completion_tokens": 177
+            "prompt_tokens": 399,
+            "completion_tokens": 408
         },
-        "time_elapsed": 3.3951404094696045
+        "time_elapsed": 4.232408761978149
     },
     {
         "realidx": 6183,
@@ -1360,10 +1360,10 @@
         "answer": "Cervical culture",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 278,
-            "completion_tokens": 219
+            "prompt_tokens": 247,
+            "completion_tokens": 435
         },
-        "time_elapsed": 1.93505859375
+        "time_elapsed": 3.6297807693481445
     },
     {
         "realidx": 6184,
@@ -1384,10 +1384,10 @@
         "answer": "Significant findings can be reported with greater confidence",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 291,
-            "completion_tokens": 204
+            "prompt_tokens": 260,
+            "completion_tokens": 526
         },
-        "time_elapsed": 3.0642199516296387
+        "time_elapsed": 6.907116651535034
     },
     {
         "realidx": 6190,
@@ -1408,12 +1408,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "70%-75 %",
-        "predicted_answer": "J",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 275,
-            "completion_tokens": 162
+            "prompt_tokens": 244,
+            "completion_tokens": 327
         },
-        "time_elapsed": 1.8996694087982178
+        "time_elapsed": 3.6967992782592773
     },
     {
         "realidx": 6196,
@@ -1434,12 +1434,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "40%",
-        "predicted_answer": "D",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 193,
-            "completion_tokens": 157
+            "prompt_tokens": 162,
+            "completion_tokens": 293
         },
-        "time_elapsed": 1.7331585884094238
+        "time_elapsed": 3.5062386989593506
     },
     {
         "realidx": 6197,
@@ -1460,10 +1460,10 @@
         "answer": "Depressive symptoms",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 189,
-            "completion_tokens": 433
+            "prompt_tokens": 158,
+            "completion_tokens": 394
         },
-        "time_elapsed": 3.5621182918548584
+        "time_elapsed": 4.279148817062378
     },
     {
         "realidx": 6198,
@@ -1486,10 +1486,10 @@
         "answer": "Animal growth assays underestimate the quality of dietary proteins for human nutrition",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 377,
-            "completion_tokens": 325
+            "prompt_tokens": 346,
+            "completion_tokens": 572
         },
-        "time_elapsed": 3.1708896160125732
+        "time_elapsed": 11.245863437652588
     },
     {
         "realidx": 6199,
@@ -1512,10 +1512,10 @@
         "answer": "Chylomicrons and HDL",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 230,
-            "completion_tokens": 148
+            "prompt_tokens": 199,
+            "completion_tokens": 324
         },
-        "time_elapsed": 3.0523324012756348
+        "time_elapsed": 4.0355064868927
     },
     {
         "realidx": 6200,
@@ -1538,10 +1538,10 @@
         "answer": "C20 and C22 polyunsaturated fatty acids",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 259,
-            "completion_tokens": 691
+            "prompt_tokens": 228,
+            "completion_tokens": 563
         },
-        "time_elapsed": 5.593339443206787
+        "time_elapsed": 4.879871129989624
     },
     {
         "realidx": 6201,
@@ -1564,10 +1564,10 @@
         "answer": "Glycine",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 214,
-            "completion_tokens": 575
+            "prompt_tokens": 183,
+            "completion_tokens": 438
         },
-        "time_elapsed": 6.7011048793792725
+        "time_elapsed": 5.552878141403198
     },
     {
         "realidx": 6203,
@@ -1588,12 +1588,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "0.15 mol retinol /mol \u00df-carotene",
-        "predicted_answer": "J",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 306,
-            "completion_tokens": 560
+            "prompt_tokens": 275,
+            "completion_tokens": 352
         },
-        "time_elapsed": 4.272352695465088
+        "time_elapsed": 3.7929327487945557
     },
     {
         "realidx": 6208,
@@ -1616,10 +1616,10 @@
         "answer": "gain in body mass.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 200,
-            "completion_tokens": 131
+            "prompt_tokens": 169,
+            "completion_tokens": 382
         },
-        "time_elapsed": 1.6765522956848145
+        "time_elapsed": 3.780320167541504
     },
     {
         "realidx": 6209,
@@ -1642,10 +1642,10 @@
         "answer": "Dyspnoea, tachycardia, and distended neck veins.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 286,
-            "completion_tokens": 142
+            "prompt_tokens": 255,
+            "completion_tokens": 508
         },
-        "time_elapsed": 1.6209194660186768
+        "time_elapsed": 4.6159210205078125
     },
     {
         "realidx": 6214,
@@ -1668,10 +1668,10 @@
         "answer": "Redoing the home",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 203,
-            "completion_tokens": 197
+            "prompt_tokens": 172,
+            "completion_tokens": 314
         },
-        "time_elapsed": 2.0776968002319336
+        "time_elapsed": 5.294696569442749
     },
     {
         "realidx": 6215,
@@ -1694,10 +1694,10 @@
         "answer": "Smaller outer circles",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 205,
-            "completion_tokens": 156
+            "prompt_tokens": 174,
+            "completion_tokens": 500
         },
-        "time_elapsed": 1.8079335689544678
+        "time_elapsed": 4.4671008586883545
     },
     {
         "realidx": 6218,
@@ -1720,10 +1720,10 @@
         "answer": "Hurler syndrome",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 208,
-            "completion_tokens": 549
+            "prompt_tokens": 177,
+            "completion_tokens": 265
         },
-        "time_elapsed": 5.320842027664185
+        "time_elapsed": 3.7879223823547363
     },
     {
         "realidx": 6219,
@@ -1746,10 +1746,10 @@
         "answer": "incomplete dominance",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 245,
-            "completion_tokens": 413
+            "prompt_tokens": 214,
+            "completion_tokens": 583
         },
-        "time_elapsed": 4.66840124130249
+        "time_elapsed": 6.918574333190918
     },
     {
         "realidx": 6222,
@@ -1770,12 +1770,12 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "The mental symphysis closes at about 1 year postnatally",
-        "predicted_answer": "J",
+        "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 306,
-            "completion_tokens": 342
+            "prompt_tokens": 275,
+            "completion_tokens": 498
         },
-        "time_elapsed": 2.969435930252075
+        "time_elapsed": 4.575001239776611
     },
     {
         "realidx": 6224,
@@ -1798,10 +1798,10 @@
         "answer": "Erect",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 188,
-            "completion_tokens": 152
+            "prompt_tokens": 157,
+            "completion_tokens": 248
         },
-        "time_elapsed": 2.308424949645996
+        "time_elapsed": 3.311751365661621
     },
     {
         "realidx": 6225,
@@ -1824,10 +1824,10 @@
         "answer": "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 326,
-            "completion_tokens": 679
+            "prompt_tokens": 295,
+            "completion_tokens": 568
         },
-        "time_elapsed": 5.121472597122192
+        "time_elapsed": 5.989526271820068
     },
     {
         "realidx": 6248,
@@ -1850,10 +1850,10 @@
         "answer": "The patient is at no increased risk",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 348,
-            "completion_tokens": 180
+            "prompt_tokens": 317,
+            "completion_tokens": 360
         },
-        "time_elapsed": 1.856607437133789
+        "time_elapsed": 3.64933180809021
     },
     {
         "realidx": 6249,
@@ -1876,10 +1876,10 @@
         "answer": "The patient is at no increased risk",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 348,
-            "completion_tokens": 154
+            "prompt_tokens": 317,
+            "completion_tokens": 357
         },
-        "time_elapsed": 1.956022024154663
+        "time_elapsed": 3.4062931537628174
     },
     {
         "realidx": 6250,
@@ -1902,10 +1902,10 @@
         "answer": "Prescribe rifampin",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 375,
-            "completion_tokens": 181
+            "prompt_tokens": 344,
+            "completion_tokens": 450
         },
-        "time_elapsed": 1.7817118167877197
+        "time_elapsed": 4.4685142040252686
     },
     {
         "realidx": 6251,
@@ -1928,10 +1928,10 @@
         "answer": "Prescribe rifampin",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 375,
-            "completion_tokens": 181
+            "prompt_tokens": 344,
+            "completion_tokens": 322
         },
-        "time_elapsed": 1.871291160583496
+        "time_elapsed": 3.834848642349243
     },
     {
         "realidx": 6252,
@@ -1954,10 +1954,10 @@
         "answer": "Administer intravenous fluids",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 372,
-            "completion_tokens": 205
+            "prompt_tokens": 341,
+            "completion_tokens": 458
         },
-        "time_elapsed": 1.9416558742523193
+        "time_elapsed": 5.083619594573975
     },
     {
         "realidx": 6253,
@@ -1980,10 +1980,10 @@
         "answer": "Administer intravenous fluids",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 372,
-            "completion_tokens": 216
+            "prompt_tokens": 341,
+            "completion_tokens": 511
         },
-        "time_elapsed": 2.324800729751587
+        "time_elapsed": 5.1725099086761475
     },
     {
         "realidx": 6260,
@@ -2006,10 +2006,10 @@
         "answer": "Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 441,
-            "completion_tokens": 275
+            "prompt_tokens": 410,
+            "completion_tokens": 653
         },
-        "time_elapsed": 2.545137882232666
+        "time_elapsed": 5.773467063903809
     },
     {
         "realidx": 6268,
@@ -2030,12 +2030,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "> 95%",
-        "predicted_answer": "B",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 213,
-            "completion_tokens": 542
+            "prompt_tokens": 182,
+            "completion_tokens": 441
         },
-        "time_elapsed": 5.321589946746826
+        "time_elapsed": 5.161761283874512
     },
     {
         "realidx": 6269,
@@ -2056,12 +2056,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Have been unchanged",
-        "predicted_answer": "J",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 233,
-            "completion_tokens": 147
+            "prompt_tokens": 202,
+            "completion_tokens": 442
         },
-        "time_elapsed": 2.242004632949829
+        "time_elapsed": 4.5037596225738525
     },
     {
         "realidx": 6270,
@@ -2082,12 +2082,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "40 to 60%",
-        "predicted_answer": "B",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 221,
-            "completion_tokens": 126
+            "prompt_tokens": 190,
+            "completion_tokens": 366
         },
-        "time_elapsed": 1.6378562450408936
+        "time_elapsed": 4.03218674659729
     },
     {
         "realidx": 6272,
@@ -2108,12 +2108,12 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "The elderly need the most protein dense food",
-        "predicted_answer": "G",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 259,
-            "completion_tokens": 226
+            "prompt_tokens": 228,
+            "completion_tokens": 449
         },
-        "time_elapsed": 2.5704400539398193
+        "time_elapsed": 4.118183374404907
     },
     {
         "realidx": 6274,
@@ -2136,10 +2136,10 @@
         "answer": "Cohort",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 207,
-            "completion_tokens": 337
+            "prompt_tokens": 176,
+            "completion_tokens": 447
         },
-        "time_elapsed": 3.2799389362335205
+        "time_elapsed": 4.351912498474121
     },
     {
         "realidx": 6275,
@@ -2162,10 +2162,10 @@
         "answer": "Cohort",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 207,
-            "completion_tokens": 330
+            "prompt_tokens": 176,
+            "completion_tokens": 481
         },
-        "time_elapsed": 2.6074025630950928
+        "time_elapsed": 4.48824405670166
     },
     {
         "realidx": 6277,
@@ -2188,10 +2188,10 @@
         "answer": "Pigs",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 182,
-            "completion_tokens": 152
+            "prompt_tokens": 151,
+            "completion_tokens": 437
         },
-        "time_elapsed": 1.732492208480835
+        "time_elapsed": 4.63836669921875
     },
     {
         "realidx": 6278,
@@ -2208,10 +2208,10 @@
         "answer": "None are oncogenic per se",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 181,
-            "completion_tokens": 431
+            "prompt_tokens": 150,
+            "completion_tokens": 347
         },
-        "time_elapsed": 3.928865432739258
+        "time_elapsed": 3.77736234664917
     },
     {
         "realidx": 6286,
@@ -2234,10 +2234,10 @@
         "answer": "Water.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 198,
-            "completion_tokens": 279
+            "prompt_tokens": 167,
+            "completion_tokens": 377
         },
-        "time_elapsed": 2.4944348335266113
+        "time_elapsed": 4.60516619682312
     },
     {
         "realidx": 6288,
@@ -2257,12 +2257,12 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Immunization",
-        "predicted_answer": "G",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 192,
-            "completion_tokens": 127
+            "prompt_tokens": 161,
+            "completion_tokens": 353
         },
-        "time_elapsed": 1.521601915359497
+        "time_elapsed": 6.372701406478882
     },
     {
         "realidx": 6290,
@@ -2283,12 +2283,12 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "A white woman",
-        "predicted_answer": "C",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 202,
-            "completion_tokens": 401
+            "prompt_tokens": 171,
+            "completion_tokens": 342
         },
-        "time_elapsed": 3.431994676589966
+        "time_elapsed": 6.544624328613281
     },
     {
         "realidx": 6291,
@@ -2309,12 +2309,12 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Alcoholism",
-        "predicted_answer": "E",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 190,
-            "completion_tokens": 468
+            "prompt_tokens": 159,
+            "completion_tokens": 522
         },
-        "time_elapsed": 5.782083511352539
+        "time_elapsed": 6.432917356491089
     },
     {
         "realidx": 6293,
@@ -2337,10 +2337,10 @@
         "answer": "There are many more memories to search through to find the one that is sought",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 276,
-            "completion_tokens": 150
+            "prompt_tokens": 245,
+            "completion_tokens": 449
         },
-        "time_elapsed": 1.5973520278930664
+        "time_elapsed": 4.1152777671813965
     },
     {
         "realidx": 6294,
@@ -2361,12 +2361,12 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "Almost 100%",
-        "predicted_answer": "I",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 202,
-            "completion_tokens": 374
+            "prompt_tokens": 171,
+            "completion_tokens": 210
         },
-        "time_elapsed": 3.2843122482299805
+        "time_elapsed": 2.474712610244751
     },
     {
         "realidx": 6298,
@@ -2387,12 +2387,12 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "1 in 40",
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 218,
-            "completion_tokens": 127
+            "prompt_tokens": 187,
+            "completion_tokens": 392
         },
-        "time_elapsed": 1.5858502388000488
+        "time_elapsed": 4.61458158493042
     },
     {
         "realidx": 6299,
@@ -2415,10 +2415,10 @@
         "answer": "a recessive maxilla due to failure of elongation of the cranial base.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 285,
-            "completion_tokens": 138
+            "prompt_tokens": 254,
+            "completion_tokens": 554
         },
-        "time_elapsed": 1.607064962387085
+        "time_elapsed": 5.12445592880249
     },
     {
         "realidx": 6300,
@@ -2441,10 +2441,10 @@
         "answer": "Proprioceptive information is carried by the masseteric and auriculotemporal nerves.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 299,
-            "completion_tokens": 290
+            "prompt_tokens": 268,
+            "completion_tokens": 638
         },
-        "time_elapsed": 2.5356366634368896
+        "time_elapsed": 5.198432683944702
     },
     {
         "realidx": 6301,
@@ -2467,10 +2467,10 @@
         "answer": "facial artery crosses the mandible.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 243,
-            "completion_tokens": 529
+            "prompt_tokens": 212,
+            "completion_tokens": 547
         },
-        "time_elapsed": 5.548671007156372
+        "time_elapsed": 4.909588098526001
     },
     {
         "realidx": 6305,
@@ -2493,10 +2493,10 @@
         "answer": "sensory neuronal processes.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 221,
-            "completion_tokens": 132
+            "prompt_tokens": 190,
+            "completion_tokens": 263
         },
-        "time_elapsed": 1.5614681243896484
+        "time_elapsed": 2.7044193744659424
     },
     {
         "realidx": 6307,
@@ -2519,10 +2519,10 @@
         "answer": "Provide education for well-baby care",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 365,
-            "completion_tokens": 193
+            "prompt_tokens": 334,
+            "completion_tokens": 534
         },
-        "time_elapsed": 2.1542954444885254
+        "time_elapsed": 4.601583242416382
     },
     {
         "realidx": 6308,
@@ -2545,9 +2545,9 @@
         "answer": "The patient's DMD carrier status is uncertain because of random X inactivation",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 435,
-            "completion_tokens": 203
+            "prompt_tokens": 404,
+            "completion_tokens": 716
         },
-        "time_elapsed": 1.9910526275634766
+        "time_elapsed": 7.476858854293823
     }
 ]
