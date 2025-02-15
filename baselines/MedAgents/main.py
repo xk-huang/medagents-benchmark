@@ -26,10 +26,10 @@ def save_results(results, existing_output_file):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model_name', default='gpt-4o')
+    parser.add_argument('--model_name', default='deepseek-V3')
     parser.add_argument('--dataset_name', default='medqa')
-    parser.add_argument('--dataset_dir', default='./data/medqa/')
-    parser.add_argument('--split', default='test')
+    parser.add_argument('--dataset_dir', default='../../data/medqa/')
+    parser.add_argument('--split', default='test_hard')
     parser.add_argument('--start_pos', type=int, default=0)
     parser.add_argument('--end_pos', type=int, default=-1)
     parser.add_argument('--output_files_folder', default='./output/')
@@ -41,7 +41,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # get handler
-    if args.model_name in ['gpt-4o', 'gpt-4o-mini']: # select the model
+    if args.model_name in ['gpt-4o', 'gpt-4o-mini', 'deepseek-V3']: # select the model
         handler = api_handler(args.model_name)
     else:
         raise ValueError

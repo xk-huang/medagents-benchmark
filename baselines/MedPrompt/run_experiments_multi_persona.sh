@@ -19,7 +19,7 @@ for model in gpt-4o-mini gpt-4o deepseek-ai/DeepSeek-V3; do
                 model_filename=$(echo $model | tr '/' '_')
                 log_file=$LOGS_DIR/$dataset/${model_filename}_${dataset}_${split}.log
                 error_file=$LOGS_DIR/$dataset/${model_filename}_${dataset}_${split}.err
-                python multi_persona.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder ./output/ --num_processes 4 --num_rounds 2 > $log_file 2> $error_file
+                python multi_persona.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder ../../output/ --num_processes 4 --num_rounds 2 > $log_file 2> $error_file
             done
         done
     } &

@@ -19,7 +19,7 @@ for model in claude-3-5-haiku claude-3-5-sonnet o1-mini o3-mini gpt-4o-mini gpt-
                 model_filename=$(echo $model | tr '/' '_')
                 log_file=$LOGS_DIR/$dataset/${model_filename}_${dataset}_${split}.log
                 error_file=$LOGS_DIR/$dataset/${model_filename}_${dataset}_${split}.err
-                python zero_shot.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder ./output/ --num_processes 4 > $log_file 2> $error_file
+                python zero_shot.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder ../../output/ --num_processes 4 > $log_file 2> $error_file
             done
         done
     } &

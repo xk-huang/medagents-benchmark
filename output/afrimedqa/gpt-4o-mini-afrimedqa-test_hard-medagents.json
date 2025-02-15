@@ -1,0 +1,610 @@
+[
+    {
+        "id": 0,
+        "realidx": 0,
+        "question": "A 1-week old term baby presents with clear fluid draining from t the umbilicus. At exploration, you confirm a patent urachus\r\n\r\nWhat is the most correct description of the operation required for this anomaly?",
+        "options": {
+            "A": "Suture ligate the patent urachus at the umbilicus",
+            "B": "Ligate and divide the patent urachus at the dome of the bladder",
+            "C": "Resect the entire patent urachus and ligate and divide at the dome of the bladder",
+            "D": "Excision of the patent urachus, with wedge resection at dome of bladder and formal bladder repair",
+            "E": "n/a"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 14552,
+            "completion_tokens": 3686
+        },
+        "time_elapsed": 46.97555661201477
+    },
+    {
+        "id": 1,
+        "realidx": 1,
+        "question": "A 3-year-old child with no significant medical or surgical history presents with bowel obstruction and is taken to theatre for exploratory laparotomy. At laparotomy you find a loop of small intestine volved around a fibrous band which extends from the umbilicus to the jejunum. \r\n\r\nWhat is the most likely cause of this finding?\r\n\r\n?",
+        "options": {
+            "A": "adhesive bowel obstruction",
+            "B": "omphalomesenteric duct remnant",
+            "C": "internal hernia",
+            "D": "remnant of the omphalomesenteric artery",
+            "E": "n/a"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 15296,
+            "completion_tokens": 4013
+        },
+        "time_elapsed": 51.269347190856934
+    },
+    {
+        "id": 2,
+        "realidx": 2,
+        "question": "You review a nine month old infant at your clinic, who had a benign sacrococcygeal teratoma resected as a neonate. The alpha-feto protein levels is elevated, and a CT scan is ordered which confirms the presence of recurrence. \r\n\r\nWhich of the following is likely to account for the recurrence?\r\n\r\n?",
+        "options": {
+            "A": "a sampling error of the original tumor,",
+            "B": "complete resection of a malignant focus with clear margins",
+            "C": "progression of malignant disease",
+            "D": "the lack of established neo-adjuvant therapy",
+            "E": "n/a"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 16036,
+            "completion_tokens": 4240
+        },
+        "time_elapsed": 45.22496008872986
+    },
+    {
+        "id": 3,
+        "realidx": 3,
+        "question": "The diagnosis of a SCT is made on antenatal ultrasound. \r\n\r\nWhich of the following features would mandate delivery by caesarean section?\r\n\r\n?",
+        "options": {
+            "A": "Tumor size > 10cm",
+            "B": "Presence of fetal hydrops",
+            "C": "Altman IV SCT",
+            "D": "Tumor size >5cm",
+            "E": "n/a"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 14197,
+            "completion_tokens": 3950
+        },
+        "time_elapsed": 45.424999475479126
+    },
+    {
+        "id": 4,
+        "realidx": 4,
+        "question": "In a counselling session with the parents of a child born with oesophageal atresia, they ask you how this congenital anomaly occurs. \r\n \r\nWhich of the following is the most recent theory explaining the normal embryological development of the oesophagus and trachea?\r\n\r\n\r\n?",
+        "options": {
+            "A": "Watershed model",
+            "B": "Septation model",
+            "C": "Outgrowth model",
+            "D": "Splitting and extension model",
+            "E": "n/a"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 15196,
+            "completion_tokens": 4077
+        },
+        "time_elapsed": 39.30824303627014
+    },
+    {
+        "id": 5,
+        "realidx": 5,
+        "question": "The immune system has a protective effect against NEC, but in the presence of an immature intestinal tract, an initial insult can trigger an exaggerated immune response which can be harmful.\r\n\r\nWhich of the following statements is true with regards to adaptive immunity in premature neonates?\r\n?",
+        "options": {
+            "A": "The transfer of IgG across the placenta occurs during the last 4 weeks of gestation",
+            "B": "Breast milk contains protective factors such as lactoferrin and lysosyme",
+            "C": "T-cells promote intestinal cell regeneration",
+            "D": "Breast milk contains the IgA",
+            "E": "n/a"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "C",
+        "token_usage": {
+            "prompt_tokens": 15438,
+            "completion_tokens": 4007
+        },
+        "time_elapsed": 48.936962842941284
+    },
+    {
+        "id": 6,
+        "realidx": 6,
+        "question": "You get called to assess a premature neonate with Bell 3 b NEC. You take the child to theatre for an exploratory laparotomy and find the majority of the small intestine is involved as well as most of the colon. The child has severe metabolic acidosis\r\n\r\nYou make a diagnosis of NEC totalis based on?\r\n\r\n?",
+        "options": {
+            "A": "involvement of more than 75% of the GI tract",
+            "B": "The involvement of more than 50% of the GI tract in a child with severe metabolic acidosis",
+            "C": "Intra-operative assessment of bowel perfusion using near-infrared spectroscopy",
+            "D": "Intra-operative assessment of bowel viability using Doppler ultrasound",
+            "E": "n/a"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 17599,
+            "completion_tokens": 4737
+        },
+        "time_elapsed": 46.898937940597534
+    },
+    {
+        "id": 7,
+        "realidx": 7,
+        "question": "You are in the operating theatre performating a laparotomy on a D 17 of life, 1800 g neonate with NEC IIIb. Intra-operatively you find multiple areas of bowel necrosis with perforation. The patient is hemodynamically unstable with severe metabolic acidosis. \r\n\r\nThe most appropriate surgical management is?\r\n\r\n?",
+        "options": {
+            "A": "Proximal jejunostomy",
+            "B": "Peritoneal drainage and relook when more stable",
+            "C": "\u201cClip and drop\u201d",
+            "D": "Enterostomy and mucous fistula",
+            "E": "n/a"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "C",
+        "token_usage": {
+            "prompt_tokens": 17572,
+            "completion_tokens": 4695
+        },
+        "time_elapsed": 42.29687571525574
+    },
+    {
+        "id": 8,
+        "realidx": 8,
+        "question": "A 2-year-old child presents to your rooms after a hairdresser noticed that the child has mass in the midline of the child\u2019s scalp. On examination, a painless superficial 1 cm mass is felt. The mom is not sure whether it has been there since birth\r\n\r\nWhat would be the next step in the management of this child?\r\n?",
+        "options": {
+            "A": "Obtain an ultrasound to exclude intra-cranial extension",
+            "B": "Do a fine-needle aspiration for cytological diagnosis",
+            "C": "Obtain an MRI to exclude intra-cranial extension",
+            "D": "Plan for elective excisional biopsy",
+            "E": "n/a"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 19767,
+            "completion_tokens": 4728
+        },
+        "time_elapsed": 67.40234971046448
+    },
+    {
+        "id": 9,
+        "realidx": 9,
+        "question": "A 1-year-old child presents to your clinic with a midline neck lesion that has been present since birth. You notice some secretions from the lesion. \r\n\r\nWhat is the surgical management of this lesion?\r\n\r\n?",
+        "options": {
+            "A": "A Sistrunk procedure",
+            "B": "A level 1 neck dissection",
+            "C": "Radical neck dissection",
+            "D": "Complete excision with Z-plasty",
+            "E": "n/a"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 13446,
+            "completion_tokens": 3538
+        },
+        "time_elapsed": 42.122682332992554
+    },
+    {
+        "id": 10,
+        "realidx": 10,
+        "question": "You see a three-month-old infant with a branchial cyst, and you are counselling the parents in preparation for elective cyst excision. The father asks you how branchial cysts come about.\r\n\r\nWhat is the correct description of the embryology of the branchial arches?",
+        "options": {
+            "A": "There are six pairs of branchial arches that contain cranial nerves I to VI",
+            "B": "The branchial arches have no ectodermal components, as their external surface become the branchial clefts",
+            "C": "Each branchial arch contains a distinct artery, cartilage rod, muscle and nerve",
+            "D": "The second branchial arch contains cranial nerves VII and VIII",
+            "E": "n/a"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 16967,
+            "completion_tokens": 4496
+        },
+        "time_elapsed": 51.994826316833496
+    },
+    {
+        "id": 11,
+        "realidx": 11,
+        "question": "You observe a senior O&G Resident performing a caesarean section in the second stage of labour following an unsuccessful attempt at operative vaginal delivery. There is some difficulty with delivery of the baby. What next step is likely to be performed?",
+        "options": {
+            "A": "Ask an assistant to perform vaginal examination and apply direct pressure to the foetal head over the posterior fontanelle",
+            "B": "Continue attempts to disimpact the foetal head from above",
+            "C": "D. Request that the on-call consultant attends as soon as possible and wait for their arrival",
+            "D": "D. Request that the on-call consultant attends as soon as possible and wait for their arrival",
+            "E": "Use a forceps blade to disimpact head by 'scooping the head"
+        },
+        "predicted_answer": "E",
+        "answer_idx": "C",
+        "token_usage": {
+            "prompt_tokens": 18320,
+            "completion_tokens": 5017
+        },
+        "time_elapsed": 45.76390027999878
+    },
+    {
+        "id": 12,
+        "realidx": 12,
+        "question": ". Invasive mole?",
+        "options": {
+            "A": "It occurs in 30% of patients who have undergone evacuation of a molar pregnancy",
+            "B": "It occurs in 3% of patients who have undergone evacuation of a molar pregnancy",
+            "C": "It occurs in 1% of patients who have undergone evacuation of a molar pregnancy",
+            "D": "The microscopic findings are similar to that of choriocarcinoma",
+            "E": "The microscopic findings are similar to that of a hydatidiform mole"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "E",
+        "token_usage": {
+            "prompt_tokens": 15148,
+            "completion_tokens": 4083
+        },
+        "time_elapsed": 39.90664458274841
+    },
+    {
+        "id": 13,
+        "realidx": 13,
+        "question": "Diseases that have a carrier include?",
+        "options": {
+            "A": "chicken pox",
+            "B": "Cerebrospinal Meningitis",
+            "C": "T.B.",
+            "D": ". influenza",
+            "E": "Measles"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "B",
+        "token_usage": {
+            "prompt_tokens": 22989,
+            "completion_tokens": 5889
+        },
+        "time_elapsed": 75.27801895141602
+    },
+    {
+        "id": 14,
+        "realidx": 14,
+        "question": "Which of the following is associated with an acute asthmatic attack?",
+        "options": {
+            "A": "Restrictive pattern on spirometry",
+            "B": "Prompt relief from nebulized beta2receptor blockers",
+            "C": "Consolidation on chest radiograph",
+            "D": "Reduced FEV1",
+            "E": "Stridor"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "E",
+        "token_usage": {
+            "prompt_tokens": 15321,
+            "completion_tokens": 4385
+        },
+        "time_elapsed": 44.988829612731934
+    },
+    {
+        "id": 15,
+        "realidx": 15,
+        "question": "Metastasis ?",
+        "options": {
+            "A": "unequiocally indicates malignancy",
+            "B": "is the ost common presntaion of a melanoma",
+            "C": "is proven by lymph node enlargement adjacent to the tumour",
+            "D": "of breast is usually to supraclavicular nodes",
+            "E": "all of the above"
+        },
+        "predicted_answer": "E",
+        "answer_idx": "E",
+        "token_usage": {
+            "prompt_tokens": 15153,
+            "completion_tokens": 4405
+        },
+        "time_elapsed": 45.63707160949707
+    },
+    {
+        "id": 16,
+        "realidx": 16,
+        "question": "Macrophages may secrete?",
+        "options": {
+            "A": "histamine",
+            "B": "serotonin",
+            "C": "prostaglandins",
+            "D": "oxygen free radicals",
+            "E": "all of the above"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 15986,
+            "completion_tokens": 4628
+        },
+        "time_elapsed": 45.49237847328186
+    },
+    {
+        "id": 17,
+        "realidx": 17,
+        "question": " In acute inflammation, which event occurs first?",
+        "options": {
+            "A": "aretriolar dilatation",
+            "B": "arteriolar constricton",
+            "C": ". oedema",
+            "D": "leucocyte migration",
+            "E": "lood flow stasis"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 12855,
+            "completion_tokens": 3630
+        },
+        "time_elapsed": 42.837825536727905
+    },
+    {
+        "id": 18,
+        "realidx": 18,
+        "question": "Irreversible cell injury is characterised by?",
+        "options": {
+            "A": "dispersion of ribosomes",
+            "B": "cell swelling",
+            "C": "nuclear chromatin dumping",
+            "D": "cell membrane defects",
+            "E": "lysosomal rupture"
+        },
+        "predicted_answer": "E",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 14303,
+            "completion_tokens": 4232
+        },
+        "time_elapsed": 47.057776927948
+    },
+    {
+        "id": 19,
+        "realidx": 19,
+        "question": "One of the following is not a feature of chronic renal failure:",
+        "options": {
+            "A": "increased serum inorganic phosphate",
+            "B": "increased serum creatinine",
+            "C": "increased serum urea",
+            "D": "decreased serum calcium",
+            "E": "increased serum potassium"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 17141,
+            "completion_tokens": 4327
+        },
+        "time_elapsed": 55.07226824760437
+    },
+    {
+        "id": 20,
+        "realidx": 20,
+        "question": "Lymphocytosis occurs in all of the following diosders except:\r\n?",
+        "options": {
+            "A": "infectious Mononucleois",
+            "B": "Lymphoma",
+            "C": "Tuberculosis",
+            "D": "Protozoal infections",
+            "E": "Tuberculosis"
+        },
+        "predicted_answer": "E",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 14966,
+            "completion_tokens": 3683
+        },
+        "time_elapsed": 51.335325479507446
+    },
+    {
+        "id": 21,
+        "realidx": 21,
+        "question": "Recurrent episodes of mania and depression is\r\n    \r\n?",
+        "options": {
+            "A": "Bipolar I",
+            "B": "Biopolar II",
+            "C": "Bipolar III",
+            "D": "Bipolar IV",
+            "E": "Cyclothymia"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "B",
+        "token_usage": {
+            "prompt_tokens": 12923,
+            "completion_tokens": 3856
+        },
+        "time_elapsed": 42.49349236488342
+    },
+    {
+        "id": 22,
+        "realidx": 22,
+        "question": "The following are types of Schizophrenia except \r\n\r\n\r\n\r\n\r\n\r\n?",
+        "options": {
+            "A": "Simple Schizophrenia",
+            "B": "Paranoid Schizophrenia",
+            "C": "Negative Schizophrenia",
+            "D": "Positive Schizophrenia",
+            "E": "None of the above"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 14024,
+            "completion_tokens": 4048
+        },
+        "time_elapsed": 51.42389512062073
+    },
+    {
+        "id": 23,
+        "realidx": 23,
+        "question": "All of the following investigate iron status except\r\n?",
+        "options": {
+            "A": "Serum Iron",
+            "B": "TIBC",
+            "C": "RDW",
+            "D": "%saturation of transferrin",
+            "E": "Serum ferritin"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "B",
+        "token_usage": {
+            "prompt_tokens": 11780,
+            "completion_tokens": 3175
+        },
+        "time_elapsed": 34.31045150756836
+    },
+    {
+        "id": 24,
+        "realidx": 24,
+        "question": "6. The normal HB level for an adult male is :\r\n?",
+        "options": {
+            "A": "13-19 g/dl",
+            "B": "11-16g/dl",
+            "C": "12-16g/dl",
+            "D": "15-18g/dl",
+            "E": "13-17g/dl"
+        },
+        "predicted_answer": "E",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 13445,
+            "completion_tokens": 3724
+        },
+        "time_elapsed": 35.77570652961731
+    },
+    {
+        "id": 25,
+        "realidx": 25,
+        "question": "97.\u200bPyloric stenosis may cause the following except\r\n?",
+        "options": {
+            "A": "A.\u200bHypokalaemia",
+            "B": "hyperchloraemia",
+            "C": "hyponatremia",
+            "D": "D.\u200bMetabolic acidosis",
+            "E": "n/a"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "B",
+        "token_usage": {
+            "prompt_tokens": 13717,
+            "completion_tokens": 3732
+        },
+        "time_elapsed": 35.766573429107666
+    },
+    {
+        "id": 26,
+        "realidx": 26,
+        "question": "\r\n29. Which of the following is true regarding otitis media in children?",
+        "options": {
+            "A": "Common bacterial cause is H. Influenza",
+            "B": "Chronic and recurrent otitis media lead to sensorineural hearing loss",
+            "C": "C. Must be treated with a full course of antibiotics",
+            "D": "D. Viral upper respiratory tract infection is a common cause",
+            "E": "n/a"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "C",
+        "token_usage": {
+            "prompt_tokens": 14808,
+            "completion_tokens": 4146
+        },
+        "time_elapsed": 44.24440884590149
+    },
+    {
+        "id": 27,
+        "realidx": 27,
+        "question": "\r\n28. About Kawasaki disease, which of the following is true?",
+        "options": {
+            "A": "A. Vasculitis of large arteries",
+            "B": "B. Treated with IV antibiotics",
+            "C": "C. Associated with coronary aneurysms",
+            "D": "D. Aspirin is contraindicated",
+            "E": "n/a"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 12849,
+            "completion_tokens": 3482
+        },
+        "time_elapsed": 34.915191888809204
+    },
+    {
+        "id": 28,
+        "realidx": 28,
+        "question": "Which of the following views of plain X-rays of paranasal sinuses is useful in delineating the type of opacity in the maxillary sinus?\r\n\r\n?",
+        "options": {
+            "A": "Occipitofrontal",
+            "B": "Occipitomental",
+            "C": "Lateral",
+            "D": "Submentovertical",
+            "E": "Oblique"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "E",
+        "token_usage": {
+            "prompt_tokens": 17088,
+            "completion_tokens": 4284
+        },
+        "time_elapsed": 54.64008903503418
+    },
+    {
+        "id": 29,
+        "realidx": 29,
+        "question": "Which of the following fracture does not usually need open\r\nreduction and internal fixation:\r\n\r\n\r\n\r\n\r\n?",
+        "options": {
+            "A": "Mid shaft fracture of femur",
+            "B": "Pathological fractures",
+            "C": "Trochanteric fracture in eldery",
+            "D": "Displaced intra-articular fractures",
+            "E": "Displaced fracture of both bones of forearm in adults."
+        },
+        "predicted_answer": "B",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 12760,
+            "completion_tokens": 3373
+        },
+        "time_elapsed": 33.39338278770447
+    },
+    {
+        "id": 30,
+        "realidx": 30,
+        "question": "6. Arthroscope was invented and first used by:\r\n\r\n\r\n\r\n\r\n?",
+        "options": {
+            "A": "Takagi",
+            "B": "Watanabe",
+            "C": "Dandy",
+            "D": "Jackson",
+            "E": "Patel"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 12224,
+            "completion_tokens": 3354
+        },
+        "time_elapsed": 41.299811363220215
+    },
+    {
+        "id": 31,
+        "realidx": 31,
+        "question": " Which part of quadriceps muscle is most frequently fibrosed in post\r\ninjection quadriceps contracture:\r\n\r\n\r\n\r\n\r\n\r\n?",
+        "options": {
+            "A": "Rectus femoris",
+            "B": "Vastus medialis",
+            "C": "Vastus intermedius",
+            "D": "Vastus lateralis",
+            "E": "All of above"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 13985,
+            "completion_tokens": 3944
+        },
+        "time_elapsed": 45.17868137359619
+    }
+]

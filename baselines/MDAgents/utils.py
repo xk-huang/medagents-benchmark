@@ -10,7 +10,7 @@ try:
 except:
     pass
 #from openai import OpenAI
-from openai import AzureOpenAI
+from openai import AzureOpenAI, OpenAI
 from pptree import *
 from dotenv import load_dotenv
 load_dotenv()
@@ -39,6 +39,20 @@ class Agent:
                     self.messages.append({"role": "user", "content": exampler['question']})
                     self.messages.append({"role": "assistant", "content": exampler['answer'] + "\n\n" + exampler['reason']})
 
+        elif self.model_info == 'deepseek-V3':
+            self.client = OpenAI(
+                base_url="https://api.together.xyz/v1",
+                api_key=os.getenv("TOGETHER_API_KEY"),
+            )
+            self.messages = [
+                {"role": "system", "content": instruction},
+            ]
+            if examplers is not None:
+                for exampler in examplers:
+                    self.messages.append({"role": "user", "content": exampler['question']})
+                    self.messages.append({"role": "assistant", "content": exampler['answer'] + "\n\n" + exampler['reason']})
+            
+
     def chat(self, message, img_path=None, chat_mode=True):
         if self.model_info == 'gemini-pro':
             for _ in range(10):
@@ -61,6 +75,13 @@ class Agent:
 
             self.messages.append({"role": "assistant", "content": response.choices[0].message.content})
             return response.choices[0].message.content, {'prompt_tokens': response.usage.prompt_tokens, 'completion_tokens': response.usage.completion_tokens}
+        
+        elif self.model_info == 'deepseek-V3':
+            response = self.client.chat.completions.create(
+                model='deepseek-ai/DeepSeek-V3',
+                messages=self.messages
+            )
+            return response.choices[0].message.content, {'prompt_tokens': response.usage.prompt_tokens, 'completion_tokens': response.usage.completion_tokens}
         else:
             raise ValueError(f"Unsupported model: {self.model_info}")
 
@@ -82,6 +103,20 @@ class Agent:
                 
             return responses, {'prompt_tokens': response.usage.prompt_tokens, 'completion_tokens': response.usage.completion_tokens}
         
+        elif self.model_info == 'deepseek-V3':
+            self.messages.append({"role": "user", "content": message})
+            
+            temperatures = [0.0]
+            responses = {}
+            for temperature in temperatures:
+                response = self.client.chat.completions.create(
+                    model='deepseek-ai/DeepSeek-V3',
+                    messages=self.messages,
+                    temperature=temperature,
+                )
+                responses[temperature] = response.choices[0].message.content
+                
+            return responses, {'prompt_tokens': response.usage.prompt_tokens, 'completion_tokens': response.usage.completion_tokens}
         elif self.model_info == 'gemini-pro':
             response = self._chat.send_message(message, stream=True)
             responses = ""
@@ -221,6 +256,12 @@ def setup_model(model_name):
                 api_version = os.getenv("AZURE_API_VERSION"),
             )
         return None, client
+    elif 'deepseek' in model_name:
+        client = OpenAI(
+            base_url="https://api.together.xyz/v1",
+            api_key=os.getenv("TOGETHER_API_KEY"),
+        )
+        return None, client
     else:
         raise ValueError(f"Unsupported model: {model_name}")
 
@@ -297,7 +338,7 @@ def process_basic_query(question, examplers, model, args):
     total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
     total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
 
-    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=model)
+    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
     decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output A, B, C, D, or E from the following {final_decision}.', img_path=None)
 
@@ -505,7 +546,7 @@ def process_intermediate_query(question, examplers, model, args):
     print()
 
     # Parse the final decision
-    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=model)
+    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
     decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output A, B, C, D, or E from the following {final_decision}.', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
@@ -597,7 +638,7 @@ def process_advanced_query(question, model, args):
     total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
 
     # Parse the final decision
-    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=model)
+    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
     decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output A, B, C, D, or E from the following {final_decision}.', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']

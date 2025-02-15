@@ -2,7 +2,7 @@ import os
 import time
 import random
 from wrapt_timeout_decorator import timeout
-from openai import AzureOpenAI
+from openai import AzureOpenAI, OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -14,22 +14,41 @@ client = AzureOpenAI(
     api_version = os.environ['AZURE_API_VERSION'],
 )
 
+client_together = OpenAI(
+    base_url="https://api.together.xyz/v1",
+    api_key=os.getenv("TOGETHER_API_KEY"),
+)
+
 
 def generate_response_multiagent(engine, temperature, frequency_penalty, presence_penalty, stop, system_role, user_input):
     print("Generating response for engine: ", engine)
     start_time = time.time()
-    response = client.chat.completions.create(
-        model=engine,
-        temperature=temperature,
-        top_p=1,
-        frequency_penalty=frequency_penalty,
-        presence_penalty=presence_penalty,
-        stop=stop,
-        messages=[  
-            {"role": "system", "content": system_role},
-            {"role": "user", "content": user_input}
-        ],
-    )
+    if engine == 'deepseek-ai/DeepSeek-V3':
+        response = client_together.chat.completions.create(
+            model=engine,
+            temperature=temperature,
+            top_p=1,
+            frequency_penalty=frequency_penalty,
+            presence_penalty=presence_penalty,
+            stop=stop,
+            messages=[  
+                {"role": "system", "content": system_role},
+                {"role": "user", "content": user_input}
+            ],
+        )
+    else:
+        response = client.chat.completions.create(
+            model=engine,
+            temperature=temperature,
+            top_p=1,
+            frequency_penalty=frequency_penalty,
+            presence_penalty=presence_penalty,
+            stop=stop,
+            messages=[  
+                {"role": "system", "content": system_role},
+                {"role": "user", "content": user_input}
+            ],
+        )
     end_time = time.time()
     print('Finish!')
     print("Time taken: ", end_time - start_time)
@@ -110,6 +129,8 @@ class api_handler:
             self.engine = 'Qwen/Qwen2.5-72B-Instruct'
         elif self.model == 'deepseek-V2-67b':
             self.engine = 'deepseek-ai/deepseek-llm-67b-chat'
+        elif self.model == 'deepseek-V3':
+            self.engine = 'deepseek-ai/DeepSeek-V3'
 
         else:
             raise NotImplementedError
