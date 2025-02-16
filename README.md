@@ -2,6 +2,11 @@
 
 This repository contains the evaluation benchmark for medical question-answering agents.
 
+## Overview
+
+![MedAgents Benchmark Overview](assets/overview.png)
+
+
 ## Installation
 
 Please install the dependencies using the `requirements.txt` file.
@@ -28,6 +33,8 @@ To run the baseline experiments:
 3. For analyzing results and calculating error/success metrics, refer to `misc.ipynb`
 
 ## Dataset Statistics
+
+![Dataset Statistics](assets/hardset.pdf)
 
 The benchmark focuses on challenging medical questions, specifically selecting questions where models achieve less than 50% accuracy. The hard question distribution across tasks is:
 
