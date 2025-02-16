@@ -34,7 +34,7 @@ To run the baseline experiments:
 
 ## Dataset Statistics
 
-![Dataset Statistics](assets/hardset.pdf)
+![Dataset Statistics](assets/hardset.png)
 
 The benchmark focuses on challenging medical questions, specifically selecting questions where models achieve less than 50% accuracy. The hard question distribution across tasks is:
 
