@@ -42,48 +42,6 @@
         "time_elapsed": 105.92613315582275
     },
     {
-        "idx": 5,
-        "realidx": 5,
-        "question": "A 9-year-old girl presents to the emergency department with a fever and a change in her behavior. She presented with similar symptoms 6 weeks ago and was treated for an Escherchia coli infection. She also was treated for a urinary tract infection 10 weeks ago. Her mother says that last night her daughter felt ill, and her condition has been worsening. Her daughter experienced a severe headache and had a stiff neck. This morning she was minimally responsive, vomited several times, and produced a small amount of dark cloudy urine. The patient was born at 39 weeks and met all her developmental milestones. She is currently up to date on her vaccinations and did not have infections during early childhood. Her parents are divorced and her father has noted she does not seem to get sick when he takes care of her. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 60/35 mmHg, pulse is 190/min, respirations are 33/min, and oxygen saturation is 98% on room air. The patient is started on intravenous fluids, vasopressors, and broad-spectrum antibiotics. Which of the following is the most appropriate underlying explanation for this patient's presentation?",
-        "answer_idx": "C",
-        "answer": "Intentional contamination",
-        "options": {
-            "A": "Gastroenteritis",
-            "B": "Immunodeficiency",
-            "C": "Intentional contamination",
-            "D": "Meningitis",
-            "E": "Urinary tract infection"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 15291,
-            "completion_tokens": 1704
-        },
-        "time_elapsed": 100.51316928863525
-    },
-    {
-        "idx": 5,
-        "realidx": 5,
-        "question": "A 9-year-old girl presents to the emergency department with a fever and a change in her behavior. She presented with similar symptoms 6 weeks ago and was treated for an Escherchia coli infection. She also was treated for a urinary tract infection 10 weeks ago. Her mother says that last night her daughter felt ill, and her condition has been worsening. Her daughter experienced a severe headache and had a stiff neck. This morning she was minimally responsive, vomited several times, and produced a small amount of dark cloudy urine. The patient was born at 39 weeks and met all her developmental milestones. She is currently up to date on her vaccinations and did not have infections during early childhood. Her parents are divorced and her father has noted she does not seem to get sick when he takes care of her. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 60/35 mmHg, pulse is 190/min, respirations are 33/min, and oxygen saturation is 98% on room air. The patient is started on intravenous fluids, vasopressors, and broad-spectrum antibiotics. Which of the following is the most appropriate underlying explanation for this patient's presentation?",
-        "answer_idx": "C",
-        "answer": "Intentional contamination",
-        "options": {
-            "A": "Gastroenteritis",
-            "B": "Immunodeficiency",
-            "C": "Intentional contamination",
-            "D": "Meningitis",
-            "E": "Urinary tract infection"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 15252,
-            "completion_tokens": 1835
-        },
-        "time_elapsed": 102.00952386856079
-    },
-    {
         "idx": 8,
         "realidx": 8,
         "question": "A 67-year-old man presents to the emergency department after fainting. He was outside tending to his lawn for several hours in the heat, when he stood up suddenly from pulling weeds and fainted. He denies any preceding symptoms and returned to baseline within 1 minute. The patient is not aware of any medical problems and just started seeing a primary care physician last week. He recently used a friend's prescription for ondansetron for nausea. His temperature is 99.3\u00b0F (37.4\u00b0C), blood pressure is 142/88 mmHg, pulse is 107/min, respirations are 14/min, and oxygen saturation is 99% on room air. Physical exam reveals intact cranial nerves, normal strength and sensation, and a stable gait. His abdomen is soft and nontender. An ECG is performed as seen in Figure A. Which of the following is the most likely diagnosis based on this patient\u2019s ECG?",
@@ -124,48 +82,6 @@
             "completion_tokens": 348
         },
         "time_elapsed": 6.355225563049316
-    },
-    {
-        "idx": 9,
-        "realidx": 9,
-        "question": "A 34-year-old man is brought to a rural emergency department by ambulance after being involved in a motor vehicle accident. Paramedics report that the patient was driving the car and crashed into a tree at roughly 25 miles per hour. There were no passengers and he was awake but disoriented at the scene. His temperature is 97.9\u00b0F (36.6\u00b0C), blood pressure is 131/88 mmHg, pulse is 89/min, and respirations are 14/min. He is speaking but is confused, opens his eyes to voice commands, and follows simple commands. He has multiple lacerations on his face and arms and smells of alcohol and marijuana. His cardiac exam is normal and his lungs are clear to auscultation bilaterally. He has bruising over his abdomen without any tenderness to palpation, distension, or rigidity. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "A",
-        "answer": "Abdominal and chest CT",
-        "options": {
-            "A": "Abdominal and chest CT",
-            "B": "Chest radiograph anterior-posterior and lateral",
-            "C": "Diagnostic laparoscopy",
-            "D": "Diagnostic peritoneal lavage",
-            "E": "Focused abdominal sonography for trauma exam"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 13171,
-            "completion_tokens": 1301
-        },
-        "time_elapsed": 84.37346363067627
-    },
-    {
-        "idx": 9,
-        "realidx": 9,
-        "question": "A 34-year-old man is brought to a rural emergency department by ambulance after being involved in a motor vehicle accident. Paramedics report that the patient was driving the car and crashed into a tree at roughly 25 miles per hour. There were no passengers and he was awake but disoriented at the scene. His temperature is 97.9\u00b0F (36.6\u00b0C), blood pressure is 131/88 mmHg, pulse is 89/min, and respirations are 14/min. He is speaking but is confused, opens his eyes to voice commands, and follows simple commands. He has multiple lacerations on his face and arms and smells of alcohol and marijuana. His cardiac exam is normal and his lungs are clear to auscultation bilaterally. He has bruising over his abdomen without any tenderness to palpation, distension, or rigidity. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "A",
-        "answer": "Abdominal and chest CT",
-        "options": {
-            "A": "Abdominal and chest CT",
-            "B": "Chest radiograph anterior-posterior and lateral",
-            "C": "Diagnostic laparoscopy",
-            "D": "Diagnostic peritoneal lavage",
-            "E": "Focused abdominal sonography for trauma exam"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 18378,
-            "completion_tokens": 1190
-        },
-        "time_elapsed": 43.36904430389404
     },
     {
         "idx": 14,
@@ -231,48 +147,6 @@
         "time_elapsed": 134.78425908088684
     },
     {
-        "idx": 20,
-        "realidx": 20,
-        "question": "A 4-week-old boy is brought to the pediatrician by his parents for an initial evaluation. His parents are concerned that he is not feeding well and has lost weight over the last 2 weeks. He was born at home via spontaneous vaginal delivery at 37 weeks of gestation to a G1P1 mother. His mother did not receive prenatal care. His blood pressure is 70/44 mmHg, pulse is 151/min, and respirations are 41/min. His weight is 3 kg (4th percentile) compared with 3.5 kg at birth (45th percentile). On physical exam, he is jaundiced with an enlarged liver and spleen. He does not appear to respond to visual stimuli, and further examination reveals bilateral clouding of the lens. Which of the following interventions could have avoided this patient's symptoms?",
-        "answer_idx": "B",
-        "answer": "Changing to a soy based formula",
-        "options": {
-            "A": "Avoiding fruit juice and sweetened foods",
-            "B": "Changing to a soy based formula",
-            "C": "Providing imiglucerase enzyme replacement",
-            "D": "Removing phenylalanine from maternal diet during pregnancy",
-            "E": "Vitamin B6 supplementation"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14088,
-            "completion_tokens": 1251
-        },
-        "time_elapsed": 103.86822509765625
-    },
-    {
-        "idx": 20,
-        "realidx": 20,
-        "question": "A 4-week-old boy is brought to the pediatrician by his parents for an initial evaluation. His parents are concerned that he is not feeding well and has lost weight over the last 2 weeks. He was born at home via spontaneous vaginal delivery at 37 weeks of gestation to a G1P1 mother. His mother did not receive prenatal care. His blood pressure is 70/44 mmHg, pulse is 151/min, and respirations are 41/min. His weight is 3 kg (4th percentile) compared with 3.5 kg at birth (45th percentile). On physical exam, he is jaundiced with an enlarged liver and spleen. He does not appear to respond to visual stimuli, and further examination reveals bilateral clouding of the lens. Which of the following interventions could have avoided this patient's symptoms?",
-        "answer_idx": "B",
-        "answer": "Changing to a soy based formula",
-        "options": {
-            "A": "Avoiding fruit juice and sweetened foods",
-            "B": "Changing to a soy based formula",
-            "C": "Providing imiglucerase enzyme replacement",
-            "D": "Removing phenylalanine from maternal diet during pregnancy",
-            "E": "Vitamin B6 supplementation"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14917,
-            "completion_tokens": 1459
-        },
-        "time_elapsed": 98.1467034816742
-    },
-    {
         "idx": 22,
         "realidx": 22,
         "question": "A 25-year-old woman is brought to the emergency department by her family. They found her somnolent next to her computer with an empty pill bottle around 3 hours ago. The family cannot recall the types of pill bottles that they found and did not bring them to the ED. The patient's medical history is notable for anxiety, obesity, hypertension, and polycystic ovarian syndrome. She is currently not on any medications. She was given an exercise program but she has not been compliant with these exercises. Her temperature is 99.5\u00b0F (37.5\u00b0C), pulse is 82/min, blood pressure is 125/85 mmHg, respirations are 11/min, and oxygen saturation is 97% on room air. Physical exam is within normal limits. The patient begins communicating with the physician and states that she did take acetaminophen but it was only a few pills. Her parents are certain the bottle was new. Which of the following is the most appropriate next step in management?",
@@ -292,48 +166,6 @@
             "completion_tokens": 3902
         },
         "time_elapsed": 76.24448323249817
-    },
-    {
-        "idx": 22,
-        "realidx": 22,
-        "question": "A 25-year-old woman is brought to the emergency department by her family. They found her somnolent next to her computer with an empty pill bottle around 3 hours ago. The family cannot recall the types of pill bottles that they found and did not bring them to the ED. The patient's medical history is notable for anxiety, obesity, hypertension, and polycystic ovarian syndrome. She is currently not on any medications. She was given an exercise program but she has not been compliant with these exercises. Her temperature is 99.5\u00b0F (37.5\u00b0C), pulse is 82/min, blood pressure is 125/85 mmHg, respirations are 11/min, and oxygen saturation is 97% on room air. Physical exam is within normal limits. The patient begins communicating with the physician and states that she did take acetaminophen but it was only a few pills. Her parents are certain the bottle was new. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "D",
-        "answer": "N-acetylcysteine",
-        "options": {
-            "A": "Blood acetaminophen levels",
-            "B": "Charcoal",
-            "C": "Lactated ringer bolus",
-            "D": "N-acetylcysteine",
-            "E": "Syrup of ipecac"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 213674,
-            "completion_tokens": 6407
-        },
-        "time_elapsed": 111.11746621131897
-    },
-    {
-        "idx": 22,
-        "realidx": 22,
-        "question": "A 25-year-old woman is brought to the emergency department by her family. They found her somnolent next to her computer with an empty pill bottle around 3 hours ago. The family cannot recall the types of pill bottles that they found and did not bring them to the ED. The patient's medical history is notable for anxiety, obesity, hypertension, and polycystic ovarian syndrome. She is currently not on any medications. She was given an exercise program but she has not been compliant with these exercises. Her temperature is 99.5\u00b0F (37.5\u00b0C), pulse is 82/min, blood pressure is 125/85 mmHg, respirations are 11/min, and oxygen saturation is 97% on room air. Physical exam is within normal limits. The patient begins communicating with the physician and states that she did take acetaminophen but it was only a few pills. Her parents are certain the bottle was new. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "D",
-        "answer": "N-acetylcysteine",
-        "options": {
-            "A": "Blood acetaminophen levels",
-            "B": "Charcoal",
-            "C": "Lactated ringer bolus",
-            "D": "N-acetylcysteine",
-            "E": "Syrup of ipecac"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 209793,
-            "completion_tokens": 5660
-        },
-        "time_elapsed": 116.15329480171204
     },
     {
         "idx": 23,
@@ -357,48 +189,6 @@
         "time_elapsed": 82.31743669509888
     },
     {
-        "idx": 23,
-        "realidx": 23,
-        "question": "A 22-year-old woman presents to the emergency department with shortness of breath. She was hiking when she suddenly felt unable to breathe and had to take slow deep breaths to improve her symptoms. The patient is a Swedish foreign exchange student and does not speak any English. Her medical history and current medications are unknown. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 120/min, respirations are 22/min, and oxygen saturation is 90% on room air. Physical exam is notable for poor air movement bilaterally and tachycardia. The patient is started on treatment. Which of the following parameters including forced expiratory volume in 1 second (FEV1), forced vital capacity (FVC), and diffusing capacity of carbon monoxide (DLCO) most appropriately describes this patient's underlying pathology?",
-        "answer_idx": "E",
-        "answer": "Normal DLCO",
-        "options": {
-            "A": "Decreased airway tone",
-            "B": "Increased FEV1",
-            "C": "Increased FEV1/FVC",
-            "D": "Increased FVC",
-            "E": "Normal DLCO"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 26552,
-            "completion_tokens": 1869
-        },
-        "time_elapsed": 45.61547923088074
-    },
-    {
-        "idx": 23,
-        "realidx": 23,
-        "question": "A 22-year-old woman presents to the emergency department with shortness of breath. She was hiking when she suddenly felt unable to breathe and had to take slow deep breaths to improve her symptoms. The patient is a Swedish foreign exchange student and does not speak any English. Her medical history and current medications are unknown. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 120/min, respirations are 22/min, and oxygen saturation is 90% on room air. Physical exam is notable for poor air movement bilaterally and tachycardia. The patient is started on treatment. Which of the following parameters including forced expiratory volume in 1 second (FEV1), forced vital capacity (FVC), and diffusing capacity of carbon monoxide (DLCO) most appropriately describes this patient's underlying pathology?",
-        "answer_idx": "E",
-        "answer": "Normal DLCO",
-        "options": {
-            "A": "Decreased airway tone",
-            "B": "Increased FEV1",
-            "C": "Increased FEV1/FVC",
-            "D": "Increased FVC",
-            "E": "Normal DLCO"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14990,
-            "completion_tokens": 2018
-        },
-        "time_elapsed": 102.5694215297699
-    },
-    {
         "idx": 29,
         "realidx": 29,
         "question": "A 56-year-old woman presents to the emergency department with muscle weakness. Her symptoms have progressively worsened over the course of 2 weeks and are most significant in her lower extremities. She also notices increased urinary frequency. Approximately 1 month ago, she was diagnosed with calcium phosphate nephrolithiasis. Medical history is significant for rheumatoid arthritis diagnosed approximately 10 years ago and treated with methotrexate as well as type 2 diabetes mellitus treated with metformin. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 138/92 mmHg, pulse is 92/min, and respirations are 17/min. On physical exam, there is mild tenderness to palpation of the metacarpophalangeal and proximal interphalangeal joints. There is 4/5 power throughout the lower extremity. Laboratory testing is shown. Serum: Na+: 137 mEq/L Cl-: 106 mEq/L K+: 2.9 mEq/L HCO3-: 18 mEq/L Glucose: 115 mg/dL Creatinine: 1.0 mg/dL Urine pH: 5.6 Which of the following is the most appropriate next step in management?",
@@ -418,48 +208,6 @@
             "completion_tokens": 1500
         },
         "time_elapsed": 94.74906706809998
-    },
-    {
-        "idx": 29,
-        "realidx": 29,
-        "question": "A 56-year-old woman presents to the emergency department with muscle weakness. Her symptoms have progressively worsened over the course of 2 weeks and are most significant in her lower extremities. She also notices increased urinary frequency. Approximately 1 month ago, she was diagnosed with calcium phosphate nephrolithiasis. Medical history is significant for rheumatoid arthritis diagnosed approximately 10 years ago and treated with methotrexate as well as type 2 diabetes mellitus treated with metformin. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 138/92 mmHg, pulse is 92/min, and respirations are 17/min. On physical exam, there is mild tenderness to palpation of the metacarpophalangeal and proximal interphalangeal joints. There is 4/5 power throughout the lower extremity. Laboratory testing is shown. Serum: Na+: 137 mEq/L Cl-: 106 mEq/L K+: 2.9 mEq/L HCO3-: 18 mEq/L Glucose: 115 mg/dL Creatinine: 1.0 mg/dL Urine pH: 5.6 Which of the following is the most appropriate next step in management?",
-        "answer_idx": "C",
-        "answer": "Administer intravenous sodium bicarbonate",
-        "options": {
-            "A": "Administer hydrochlorothiazide",
-            "B": "Administer intravenous insulin",
-            "C": "Administer intravenous sodium bicarbonate",
-            "D": "Begin potassium replacement therapy with dextrose",
-            "E": "Increase methotrexate dose"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14866,
-            "completion_tokens": 1368
-        },
-        "time_elapsed": 111.54681158065796
-    },
-    {
-        "idx": 29,
-        "realidx": 29,
-        "question": "A 56-year-old woman presents to the emergency department with muscle weakness. Her symptoms have progressively worsened over the course of 2 weeks and are most significant in her lower extremities. She also notices increased urinary frequency. Approximately 1 month ago, she was diagnosed with calcium phosphate nephrolithiasis. Medical history is significant for rheumatoid arthritis diagnosed approximately 10 years ago and treated with methotrexate as well as type 2 diabetes mellitus treated with metformin. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 138/92 mmHg, pulse is 92/min, and respirations are 17/min. On physical exam, there is mild tenderness to palpation of the metacarpophalangeal and proximal interphalangeal joints. There is 4/5 power throughout the lower extremity. Laboratory testing is shown. Serum: Na+: 137 mEq/L Cl-: 106 mEq/L K+: 2.9 mEq/L HCO3-: 18 mEq/L Glucose: 115 mg/dL Creatinine: 1.0 mg/dL Urine pH: 5.6 Which of the following is the most appropriate next step in management?",
-        "answer_idx": "C",
-        "answer": "Administer intravenous sodium bicarbonate",
-        "options": {
-            "A": "Administer hydrochlorothiazide",
-            "B": "Administer intravenous insulin",
-            "C": "Administer intravenous sodium bicarbonate",
-            "D": "Begin potassium replacement therapy with dextrose",
-            "E": "Increase methotrexate dose"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14796,
-            "completion_tokens": 1296
-        },
-        "time_elapsed": 105.39846324920654
     },
     {
         "idx": 32,
@@ -504,27 +252,6 @@
         "time_elapsed": 87.00638318061829
     },
     {
-        "idx": 35,
-        "realidx": 35,
-        "question": "A 55-year-old male bodybuilder presents to the emergency department with weakness of his right arm. The patient states he has experienced these symptoms for a few weeks; however, today his hand felt so weak he dropped his cup of tea. The patient has a medical history of diabetes. He drinks 2-7 alcoholic drinks per day and has smoked 2 packs of cigarettes per day since he was 25. The patient uses anabolic steroids. He has lost 17 pounds since he last came to the emergency department 1 month ago. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam reveals decreased sensation in the right arm and 2/5 strength in the right arm and 5/5 strength in in the left arm. The patient states that he is experiencing a dull aching and burning pain in his right arm during the exam. Symptoms are not changed with changes in head and neck position. Which of the following is the most likely diagnosis?",
-        "answer_idx": "A",
-        "answer": "Apical lung tumor",
-        "options": {
-            "A": "Apical lung tumor",
-            "B": "Brachial plexopathy",
-            "C": "Cerebral infarction",
-            "D": "Scalenus anticus syndrome",
-            "E": "Subclavian steal syndrome"
-        },
-        "predicted_answer": "I'm sorry, but it seems there is no answer provided in your message. Please provide the options A, B, C, D, and E along with their respective diagnoses, and I'll help you determine the most likely diagnosis based on the clinical scenario.",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 34008,
-            "completion_tokens": 2290
-        },
-        "time_elapsed": 55.15165996551514
-    },
-    {
         "idx": 39,
         "realidx": 39,
         "question": "A 55-year-old male bodybuilder presents to the emergency department with weakness of his right arm. The patient states he has experienced these symptoms for a few weeks; however, today his hand felt so weak he dropped his cup of tea. The patient has a medical history of diabetes. He drinks 2-7 alcoholic drinks per day and has smoked 2 packs of cigarettes per day since he was 25. The patient uses anabolic steroids. He has lost 17 pounds since he last came to the emergency department 1 month ago. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam reveals decreased sensation in the right arm and 2/5 strength in the right arm and 5/5 strength in in the left arm. The patient states that he is experiencing a dull aching and burning pain in his right arm during the exam. Symptoms are not changed with changes in head and neck position. Which of the following is the most likely diagnosis?",
@@ -544,48 +271,6 @@
             "completion_tokens": 588
         },
         "time_elapsed": 6.743813753128052
-    },
-    {
-        "idx": 39,
-        "realidx": 39,
-        "question": "A 55-year-old male bodybuilder presents to the emergency department with weakness of his right arm. The patient states he has experienced these symptoms for a few weeks; however, today his hand felt so weak he dropped his cup of tea. The patient has a medical history of diabetes. He drinks 2-7 alcoholic drinks per day and has smoked 2 packs of cigarettes per day since he was 25. The patient uses anabolic steroids. He has lost 17 pounds since he last came to the emergency department 1 month ago. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam reveals decreased sensation in the right arm and 2/5 strength in the right arm and 5/5 strength in in the left arm. The patient states that he is experiencing a dull aching and burning pain in his right arm during the exam. Symptoms are not changed with changes in head and neck position. Which of the following is the most likely diagnosis?",
-        "answer_idx": "A",
-        "answer": "Apical lung tumor",
-        "options": {
-            "A": "Apical lung tumor",
-            "B": "Brachial plexopathy",
-            "C": "Cerebral infarction",
-            "D": "Scalenus anticus syndrome",
-            "E": "Subclavian steal syndrome"
-        },
-        "predicted_answer": "C",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 209927,
-            "completion_tokens": 6902
-        },
-        "time_elapsed": 120.18313264846802
-    },
-    {
-        "idx": 39,
-        "realidx": 39,
-        "question": "A 55-year-old male bodybuilder presents to the emergency department with weakness of his right arm. The patient states he has experienced these symptoms for a few weeks; however, today his hand felt so weak he dropped his cup of tea. The patient has a medical history of diabetes. He drinks 2-7 alcoholic drinks per day and has smoked 2 packs of cigarettes per day since he was 25. The patient uses anabolic steroids. He has lost 17 pounds since he last came to the emergency department 1 month ago. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam reveals decreased sensation in the right arm and 2/5 strength in the right arm and 5/5 strength in in the left arm. The patient states that he is experiencing a dull aching and burning pain in his right arm during the exam. Symptoms are not changed with changes in head and neck position. Which of the following is the most likely diagnosis?",
-        "answer_idx": "A",
-        "answer": "Apical lung tumor",
-        "options": {
-            "A": "Apical lung tumor",
-            "B": "Brachial plexopathy",
-            "C": "Cerebral infarction",
-            "D": "Scalenus anticus syndrome",
-            "E": "Subclavian steal syndrome"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14478,
-            "completion_tokens": 1852
-        },
-        "time_elapsed": 87.78251767158508
     },
     {
         "idx": 44,
@@ -630,27 +315,6 @@
         "time_elapsed": 138.2255666255951
     },
     {
-        "idx": 45,
-        "realidx": 45,
-        "question": "A 43-year-old man presents to the emergency department with bright red blood in his stool this morning. He noticed this yesterday as well, but it was much scanter. The patient is otherwise healthy. He was celebrating his birthday last night and admits having \"too much to drink\" and vomited profusely overnight. He currently feels well and is not nauseous. He has no other significant medical history and does not take any medications. His temperature is 99.2\u00b0F (37.3\u00b0C), blood pressure is 110/75 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 100% on room air. Physical exam reveals a nontender abdomen with normal bowel sounds. Rectal exam reveals grossly bloody stool. Laboratory studies are ordered as shown below.\n\nHemoglobin: 12 g/dL\nHematocrit: 36%\nLeukocyte count: 5,500/mm^3 with normal differential\nPlatelet count: 179,000/mm^3\n\nWhich of the following is the most likely cause of this patient's symptoms?",
-        "answer_idx": "E",
-        "answer": "Vascular malformation",
-        "options": {
-            "A": "Erosion into a gastric vessel",
-            "B": "Inflammation and infection of colonic outpouching",
-            "C": "Malignancy",
-            "D": "Submucosal esophageal tear",
-            "E": "Vascular malformation"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 132611,
-            "completion_tokens": 4150
-        },
-        "time_elapsed": 91.43916940689087
-    },
-    {
         "idx": 46,
         "realidx": 46,
         "question": "A 5-year-old girl presents to the emergency room due to difficulty walking. She has been complaining of pain in her right leg for the last few days. Her neighbor\u2019s cat bit her last week and her parents attributed the pain to her healing bite. At the time of the bite, they cleaned the wound and irrigated it with sterile saline water from a first aid kit. She has no medical history and has never been hospitalized. Her temperature is 102.2\u00b0F (39\u00b0C), blood pressure is 118/78 mmHg, pulse is 90/min, respirations are 21/min, and pulse oximetry is 99% on room air. The open wound remains present on the thigh with surrounding erythema and edema. MRI is consistent with osteomyelitis. Which of the following is the most appropriate next step in management?",
@@ -670,48 +334,6 @@
             "completion_tokens": 1369
         },
         "time_elapsed": 98.1845223903656
-    },
-    {
-        "idx": 46,
-        "realidx": 46,
-        "question": "A 5-year-old girl presents to the emergency room due to difficulty walking. She has been complaining of pain in her right leg for the last few days. Her neighbor\u2019s cat bit her last week and her parents attributed the pain to her healing bite. At the time of the bite, they cleaned the wound and irrigated it with sterile saline water from a first aid kit. She has no medical history and has never been hospitalized. Her temperature is 102.2\u00b0F (39\u00b0C), blood pressure is 118/78 mmHg, pulse is 90/min, respirations are 21/min, and pulse oximetry is 99% on room air. The open wound remains present on the thigh with surrounding erythema and edema. MRI is consistent with osteomyelitis. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "B",
-        "answer": "Ampicillin and sulbactam",
-        "options": {
-            "A": "Amoxicillin and clavulanate",
-            "B": "Ampicillin and sulbactam",
-            "C": "Doxycycline",
-            "D": "Flucanozole",
-            "E": "Vancomycin"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 31883,
-            "completion_tokens": 1773
-        },
-        "time_elapsed": 55.22714948654175
-    },
-    {
-        "idx": 46,
-        "realidx": 46,
-        "question": "A 5-year-old girl presents to the emergency room due to difficulty walking. She has been complaining of pain in her right leg for the last few days. Her neighbor\u2019s cat bit her last week and her parents attributed the pain to her healing bite. At the time of the bite, they cleaned the wound and irrigated it with sterile saline water from a first aid kit. She has no medical history and has never been hospitalized. Her temperature is 102.2\u00b0F (39\u00b0C), blood pressure is 118/78 mmHg, pulse is 90/min, respirations are 21/min, and pulse oximetry is 99% on room air. The open wound remains present on the thigh with surrounding erythema and edema. MRI is consistent with osteomyelitis. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "B",
-        "answer": "Ampicillin and sulbactam",
-        "options": {
-            "A": "Amoxicillin and clavulanate",
-            "B": "Ampicillin and sulbactam",
-            "C": "Doxycycline",
-            "D": "Flucanozole",
-            "E": "Vancomycin"
-        },
-        "predicted_answer": "A",
-        "difficulty": "basic",
-        "token_usage": {
-            "prompt_tokens": 1048,
-            "completion_tokens": 339
-        },
-        "time_elapsed": 5.2549824714660645
     },
     {
         "idx": 54,
@@ -777,48 +399,6 @@
         "time_elapsed": 87.98981070518494
     },
     {
-        "idx": 60,
-        "realidx": 60,
-        "question": "A 3-year-old boy presents with his parents to a pediatrician for a new patient visit. The child was recently adopted and little is known about his medical or family history. The child seems to be doing well, but the patient is much larger than any of the other 3-year-olds in his preschool class. He eats a varied diet at home and with limited juice and snack foods. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 101/67 mmHg, pulse is 110/min, and respirations are 24/min. On physical exam, the patient is in the 73rd percentile for weight, 99th percentile for height, and 86th percentile for head circumference. He appears mildly developmentally delayed. He has a fair complexion and tall stature with a prominent sternum. The patient also has joint hypermobility and hyperelastic skin. He appears to have poor visual acuity and is referred to an ophthalmologist, who finds downward lens subluxation of the right eye. This child is most likely to develop which of the following complications?",
-        "answer_idx": "D",
-        "answer": "Thromboembolic stroke",
-        "options": {
-            "A": "Aortic dissection",
-            "B": "Medullary thyroid cancer",
-            "C": "Osteoarthritis",
-            "D": "Thromboembolic stroke",
-            "E": "Wilms tumor"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 13232,
-            "completion_tokens": 1360
-        },
-        "time_elapsed": 92.32921576499939
-    },
-    {
-        "idx": 60,
-        "realidx": 60,
-        "question": "A 3-year-old boy presents with his parents to a pediatrician for a new patient visit. The child was recently adopted and little is known about his medical or family history. The child seems to be doing well, but the patient is much larger than any of the other 3-year-olds in his preschool class. He eats a varied diet at home and with limited juice and snack foods. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 101/67 mmHg, pulse is 110/min, and respirations are 24/min. On physical exam, the patient is in the 73rd percentile for weight, 99th percentile for height, and 86th percentile for head circumference. He appears mildly developmentally delayed. He has a fair complexion and tall stature with a prominent sternum. The patient also has joint hypermobility and hyperelastic skin. He appears to have poor visual acuity and is referred to an ophthalmologist, who finds downward lens subluxation of the right eye. This child is most likely to develop which of the following complications?",
-        "answer_idx": "D",
-        "answer": "Thromboembolic stroke",
-        "options": {
-            "A": "Aortic dissection",
-            "B": "Medullary thyroid cancer",
-            "C": "Osteoarthritis",
-            "D": "Thromboembolic stroke",
-            "E": "Wilms tumor"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 13604,
-            "completion_tokens": 1324
-        },
-        "time_elapsed": 102.5329122543335
-    },
-    {
         "idx": 62,
         "realidx": 62,
         "question": "A 43-year-old man presents to the emergency department acutely with altered mental status. He uses intravenous drugs and is unable to offer a history. He was found unconscious in a park. His temperature is 99.0\u00b0F (37.2\u00b0C), blood pressure is 80/40 mmHg, pulse is 156/min, and respirations are 26/min. Physical exam reveals an obtunded man covered in vomit, with track marks on his arm and several skin abscesses. The patient is given 4 liters of Ringer lactate and intravenous antibiotics. As the fourth liter of fluids is finishing, the patient is noted to have jugular venous distension and an oxygen saturation of 92% on nonrebreather. He is subsequently intubated. An ECG is obtained as seen in Figure A. The patient is started on norepinephrine, and his blood pressure is subsequently found to be 85/44 mmHg. Which of the following is the most appropriate next step in management?",
@@ -882,48 +462,6 @@
         "time_elapsed": 100.97714591026306
     },
     {
-        "idx": 76,
-        "realidx": 76,
-        "question": "A 23-year-old woman presents to labor and delivery at 40 weeks gestation with abdominal contractions and leakage of fluid from her vagina. She subsequently undergoes an uncomplicated vaginal delivery. The child is healthy and is heated, suctioned, and stimulated. While holding her newborn, the mother endorses a headache, blurry vision, and abdominal pain. Her temperature is 98.0\u00b0F (36.7\u00b0C), blood pressure is 194/104 mmHg, pulse is 100/min, respirations are 18/min, and oxygen saturation is 98% on room air. Physical exam reveals an uncomfortable woman. There is blood in her vagina and her uterus is contracted. Her cranial nerve exam is unremarkable and she has normal strength and sensation. Laboratory studies and a urinalysis are pending. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "C",
-        "answer": "Magnesium",
-        "options": {
-            "A": "CT head",
-            "B": "Labetalol",
-            "C": "Magnesium",
-            "D": "MRV head",
-            "E": "Ondansetron and morphine"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14571,
-            "completion_tokens": 1366
-        },
-        "time_elapsed": 91.95939493179321
-    },
-    {
-        "idx": 76,
-        "realidx": 76,
-        "question": "A 23-year-old woman presents to labor and delivery at 40 weeks gestation with abdominal contractions and leakage of fluid from her vagina. She subsequently undergoes an uncomplicated vaginal delivery. The child is healthy and is heated, suctioned, and stimulated. While holding her newborn, the mother endorses a headache, blurry vision, and abdominal pain. Her temperature is 98.0\u00b0F (36.7\u00b0C), blood pressure is 194/104 mmHg, pulse is 100/min, respirations are 18/min, and oxygen saturation is 98% on room air. Physical exam reveals an uncomfortable woman. There is blood in her vagina and her uterus is contracted. Her cranial nerve exam is unremarkable and she has normal strength and sensation. Laboratory studies and a urinalysis are pending. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "C",
-        "answer": "Magnesium",
-        "options": {
-            "A": "CT head",
-            "B": "Labetalol",
-            "C": "Magnesium",
-            "D": "MRV head",
-            "E": "Ondansetron and morphine"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 17179,
-            "completion_tokens": 1767
-        },
-        "time_elapsed": 124.10301423072815
-    },
-    {
         "idx": 77,
         "realidx": 77,
         "question": "A 57-year-old man is brought to the emergency department by his wife with confusion. He was seen in the emergency department 2 days ago for profuse epistaxis. His primary care provider was concerned and had advised him to go to the hospital, as the patient is on warfarin for atrial fibrillation. However, his bleeding resolved with pressure and nasal packing. Upon presentation to the ED today, his temperature is 97.6\u00b0F (36.4\u00b0C), blood pressure is 64/33 mmHg, pulse is 160/min, respirations are 32/min, and oxygen saturation is 100% on room air. Physical exam reveals an obtunded man who cannot answer questions. A dark, purpuric rash is noted on his torso and extremities. The patient\u2019s nasal packing is removed with no further bleeding. The patient is given IV fluids and blood cultures are drawn. Which of the following should be administered first?",
@@ -943,27 +481,6 @@
             "completion_tokens": 1415
         },
         "time_elapsed": 110.34821391105652
-    },
-    {
-        "idx": 77,
-        "realidx": 77,
-        "question": "A 57-year-old man is brought to the emergency department by his wife with confusion. He was seen in the emergency department 2 days ago for profuse epistaxis. His primary care provider was concerned and had advised him to go to the hospital, as the patient is on warfarin for atrial fibrillation. However, his bleeding resolved with pressure and nasal packing. Upon presentation to the ED today, his temperature is 97.6\u00b0F (36.4\u00b0C), blood pressure is 64/33 mmHg, pulse is 160/min, respirations are 32/min, and oxygen saturation is 100% on room air. Physical exam reveals an obtunded man who cannot answer questions. A dark, purpuric rash is noted on his torso and extremities. The patient\u2019s nasal packing is removed with no further bleeding. The patient is given IV fluids and blood cultures are drawn. Which of the following should be administered first?",
-        "answer_idx": "A",
-        "answer": "Clindamycin",
-        "options": {
-            "A": "Clindamycin",
-            "B": "Meropenem",
-            "C": "Penicillin",
-            "D": "Piperacillin-tazobactam",
-            "E": "Vancomycin"
-        },
-        "predicted_answer": "A",
-        "difficulty": "basic",
-        "token_usage": {
-            "prompt_tokens": 1107,
-            "completion_tokens": 362
-        },
-        "time_elapsed": 4.956711769104004
     },
     {
         "idx": 79,
@@ -1027,48 +544,6 @@
             "completion_tokens": 1620
         },
         "time_elapsed": 96.9867012500763
-    },
-    {
-        "idx": 86,
-        "realidx": 86,
-        "question": "A 72-year-old man presents to his primary care physician for a general checkup. The patient works as a farmer and has no concerns about his health. He has a medical history of hypertension and obesity. His current medications include lisinopril and metoprolol. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam is notable for a murmur after S2 over the left sternal border. The patient demonstrates a stable gait and 5/5 strength in his upper and lower extremities. Which of the following is another possible finding in this patient?",
-        "answer_idx": "B",
-        "answer": "Femoral artery murmur",
-        "options": {
-            "A": "Audible click heard at the cardiac apex",
-            "B": "Femoral artery murmur",
-            "C": "Murmur that radiates to the carotids during systole",
-            "D": "Rumbling heard at the cardiac apex",
-            "E": "Wedge pressure lower than expected"
-        },
-        "predicted_answer": "A",
-        "difficulty": "basic",
-        "token_usage": {
-            "prompt_tokens": 965,
-            "completion_tokens": 329
-        },
-        "time_elapsed": 5.893412828445435
-    },
-    {
-        "idx": 86,
-        "realidx": 86,
-        "question": "A 72-year-old man presents to his primary care physician for a general checkup. The patient works as a farmer and has no concerns about his health. He has a medical history of hypertension and obesity. His current medications include lisinopril and metoprolol. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam is notable for a murmur after S2 over the left sternal border. The patient demonstrates a stable gait and 5/5 strength in his upper and lower extremities. Which of the following is another possible finding in this patient?",
-        "answer_idx": "B",
-        "answer": "Femoral artery murmur",
-        "options": {
-            "A": "Audible click heard at the cardiac apex",
-            "B": "Femoral artery murmur",
-            "C": "Murmur that radiates to the carotids during systole",
-            "D": "Rumbling heard at the cardiac apex",
-            "E": "Wedge pressure lower than expected"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 250381,
-            "completion_tokens": 8174
-        },
-        "time_elapsed": 142.3404257297516
     },
     {
         "idx": 89,
@@ -1197,48 +672,6 @@
         "time_elapsed": 28.211729764938354
     },
     {
-        "idx": 98,
-        "realidx": 98,
-        "question": "A 9-hour-old newborn girl is found in the newborn nursery with diffuse swelling of the scalp not present at birth. The child was born at 38 weeks of gestation to a 28-year-old G3P3 mother. The mother went into spontaneous labor but the delivery was complicated by a prolonged 2nd stage of labor. A vacuum-assisted vaginal delivery was eventually performed. The child\u2019s Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. The pregnancy was complicated by preeclampsia in the mother which was well-controlled throughout the pregnancy. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 67/43 mmHg, pulse is 135/min, and respirations are 34/min. On physical exam, she appears to be in mild distress and has a 4x5 cm ecchymotic area of swelling over the bilateral parietal bones. Serial assessments of the child\u2019s head circumference over the next 12 hours show no change in the size of the swelling. This patient\u2019s condition most likely affects which of the following spaces or potential spaces?",
-        "answer_idx": "D",
-        "answer": "Between scalp and galea aponeurosis",
-        "options": {
-            "A": "Between dura and arachnoid mater",
-            "B": "Between periosteum and galea aponeurosis",
-            "C": "Between periosteum and skull",
-            "D": "Between scalp and galea aponeurosis",
-            "E": "Into the lateral ventricles"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 196158,
-            "completion_tokens": 5864
-        },
-        "time_elapsed": 120.24720335006714
-    },
-    {
-        "idx": 98,
-        "realidx": 98,
-        "question": "A 9-hour-old newborn girl is found in the newborn nursery with diffuse swelling of the scalp not present at birth. The child was born at 38 weeks of gestation to a 28-year-old G3P3 mother. The mother went into spontaneous labor but the delivery was complicated by a prolonged 2nd stage of labor. A vacuum-assisted vaginal delivery was eventually performed. The child\u2019s Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. The pregnancy was complicated by preeclampsia in the mother which was well-controlled throughout the pregnancy. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 67/43 mmHg, pulse is 135/min, and respirations are 34/min. On physical exam, she appears to be in mild distress and has a 4x5 cm ecchymotic area of swelling over the bilateral parietal bones. Serial assessments of the child\u2019s head circumference over the next 12 hours show no change in the size of the swelling. This patient\u2019s condition most likely affects which of the following spaces or potential spaces?",
-        "answer_idx": "D",
-        "answer": "Between scalp and galea aponeurosis",
-        "options": {
-            "A": "Between dura and arachnoid mater",
-            "B": "Between periosteum and galea aponeurosis",
-            "C": "Between periosteum and skull",
-            "D": "Between scalp and galea aponeurosis",
-            "E": "Into the lateral ventricles"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 15832,
-            "completion_tokens": 1042
-        },
-        "time_elapsed": 32.2755126953125
-    },
-    {
         "idx": 100,
         "realidx": 100,
         "question": "A 55-year-old man presents to the emergency department with worsening dyspnea over the past 48 hours. He recently had a cold that kept him home from work for the past week. He has a past medical history of diabetes, obesity, and hypertension. He had his Achilles tendon repaired 4 weeks ago and he has been less mobile. His temperature is 99.2\u00b0F (37.3\u00b0C), blood pressure is 150/85 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 100% on room air. Physical exam is notable for dyspnea provoked by walking short distances. Jugular venous distension is noted on exam. The patient\u2019s blood pressure is 130/70 mmHg during inspiration. A bedside echocardiogram demonstrates impaired diastolic filling with normal ventricular contractility. An ECG is performed as seen in Figure A. Which of the following is the most likely diagnosis?",
@@ -1302,48 +735,6 @@
         "time_elapsed": 115.11761426925659
     },
     {
-        "idx": 116,
-        "realidx": 116,
-        "question": "A 59-year-old woman comes to the clinic due to a 3-month history of \u201calways feeling the urge to urinate\u201d as well as vaginal pruritis. She states that she has had involuntary loss of urine about 4 times each day over the past 3 months. It is not associated with coughing or sneezing. Menopause occurred at age 52. She has a history of chlamydial infection in her 20's and has had 3 urinary tract infections over the past year. The patient has not been sexually active with her husband due to pain with intercourse. She has no other significant medical history and does not take any medications. Her temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min. On physical examination, the vulvar skin is pale and atrophic with reduced elasticity and multiple areas of petechiae. The vaginal mucosa also has a loss of rugae and several areas of friable irritation. There is minimal clear vaginal discharge. Urinalysis is normal and fecal occult blood test is negative. Pelvic ultrasound reveals a small, retroverted uterus. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "E",
-        "answer": "Vaginal moisturizers",
-        "options": {
-            "A": "Metronidazole",
-            "B": "Nitrofurantoin",
-            "C": "Topical clobetasol",
-            "D": "Topical estrogen",
-            "E": "Vaginal moisturizers"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 67134,
-            "completion_tokens": 3097
-        },
-        "time_elapsed": 76.08830380439758
-    },
-    {
-        "idx": 116,
-        "realidx": 116,
-        "question": "A 59-year-old woman comes to the clinic due to a 3-month history of \u201calways feeling the urge to urinate\u201d as well as vaginal pruritis. She states that she has had involuntary loss of urine about 4 times each day over the past 3 months. It is not associated with coughing or sneezing. Menopause occurred at age 52. She has a history of chlamydial infection in her 20's and has had 3 urinary tract infections over the past year. The patient has not been sexually active with her husband due to pain with intercourse. She has no other significant medical history and does not take any medications. Her temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min. On physical examination, the vulvar skin is pale and atrophic with reduced elasticity and multiple areas of petechiae. The vaginal mucosa also has a loss of rugae and several areas of friable irritation. There is minimal clear vaginal discharge. Urinalysis is normal and fecal occult blood test is negative. Pelvic ultrasound reveals a small, retroverted uterus. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "E",
-        "answer": "Vaginal moisturizers",
-        "options": {
-            "A": "Metronidazole",
-            "B": "Nitrofurantoin",
-            "C": "Topical clobetasol",
-            "D": "Topical estrogen",
-            "E": "Vaginal moisturizers"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 15701,
-            "completion_tokens": 1242
-        },
-        "time_elapsed": 113.0067994594574
-    },
-    {
         "idx": 121,
         "realidx": 121,
         "question": "A 24-year-old woman presents to clinic for a routine annual exam. She has generally been feeling well, but notes feeling intermittent palpitations over the past few months. Her past medical history is unremarkable and she is not currently taking any medications. She denies drinking alcohol, smoking cigarettes, or using recreational drugs. She attributes her palpitations to recently drinking more caffeine, but would like to obtain an electrocardiogram since her symptoms are worrisome and affecting her ability to concentrate on her career as a fitness instructor. Her temperature is 36.9\u00b0C (98.4\u00b0F), blood pressure is 116/76 mmHg, pulse is 55/min, respirations are 12/min, and oxygen saturation is 98% on room air. Her electrocardiogram is shown in Figure A. Which of the following is the most likely diagnosis?",
@@ -1384,48 +775,6 @@
             "completion_tokens": 1781
         },
         "time_elapsed": 100.40058708190918
-    },
-    {
-        "idx": 125,
-        "realidx": 125,
-        "question": "A 59-year-old man presents to his primary care physician for fatigue. In general, he has been in good health; however, he recently has experienced weight loss, abdominal pain, and general fatigue. He has a medical history of anxiety, diabetes, a fracture of his foot sustained when he tripped, and a recent cold that caused him to miss work for 1 week. His current medications include metformin, insulin, buspirone, vitamin D, calcium, and sodium docusate. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 150/100 mmHg, pulse is 90/min, respirations are 18/min, and oxygen saturation is 98% on room air. Physical exam reveals a calm gentleman. A mild systolic murmur is heard in the left upper sternal region. The rest of the physical exam is within normal limits. Laboratory values are ordered as seen below. Hemoglobin: 12 g/dL Hematocrit: 36% Leukocyte count: 66,500/mm^3 with normal differential Platelet count: 177,000/mm^3 Leukocyte alkaline phosphatase: elevated Serum: Na+: 139 mEq/L Cl-: 100 mEq/L K+: 4.3 mEq/L BUN: 20 mg/dL Glucose: 120 mg/dL Creatinine: 1.1 mg/dL Ca2+: 10.9 mEq/L AST: 12 U/L ALT: 10 U/L Which of the following is the most likely diagnosis?",
-        "answer_idx": "D",
-        "answer": "Leukemoid reaction",
-        "options": {
-            "A": "Acute lymphoblastic lymphoma",
-            "B": "Chronic lymphocytic leukemia",
-            "C": "Chronic myeloid leukemia",
-            "D": "Leukemoid reaction",
-            "E": "Multiple myeloma"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 16941,
-            "completion_tokens": 1800
-        },
-        "time_elapsed": 102.69696712493896
-    },
-    {
-        "idx": 125,
-        "realidx": 125,
-        "question": "A 59-year-old man presents to his primary care physician for fatigue. In general, he has been in good health; however, he recently has experienced weight loss, abdominal pain, and general fatigue. He has a medical history of anxiety, diabetes, a fracture of his foot sustained when he tripped, and a recent cold that caused him to miss work for 1 week. His current medications include metformin, insulin, buspirone, vitamin D, calcium, and sodium docusate. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 150/100 mmHg, pulse is 90/min, respirations are 18/min, and oxygen saturation is 98% on room air. Physical exam reveals a calm gentleman. A mild systolic murmur is heard in the left upper sternal region. The rest of the physical exam is within normal limits. Laboratory values are ordered as seen below. Hemoglobin: 12 g/dL Hematocrit: 36% Leukocyte count: 66,500/mm^3 with normal differential Platelet count: 177,000/mm^3 Leukocyte alkaline phosphatase: elevated Serum: Na+: 139 mEq/L Cl-: 100 mEq/L K+: 4.3 mEq/L BUN: 20 mg/dL Glucose: 120 mg/dL Creatinine: 1.1 mg/dL Ca2+: 10.9 mEq/L AST: 12 U/L ALT: 10 U/L Which of the following is the most likely diagnosis?",
-        "answer_idx": "D",
-        "answer": "Leukemoid reaction",
-        "options": {
-            "A": "Acute lymphoblastic lymphoma",
-            "B": "Chronic lymphocytic leukemia",
-            "C": "Chronic myeloid leukemia",
-            "D": "Leukemoid reaction",
-            "E": "Multiple myeloma"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 16930,
-            "completion_tokens": 1707
-        },
-        "time_elapsed": 108.52737092971802
     },
     {
         "idx": 126,
@@ -1470,27 +819,6 @@
         "time_elapsed": 97.00483202934265
     },
     {
-        "idx": 127,
-        "realidx": 127,
-        "question": "A 65-year-old man presents to the emergency department with sudden-onset altered mental status. He was last seen normal 1 hour ago. His wife noticed that he was confused, slurring his speech, and had notable weakness that caused him to drop his cup of coffee. The patient is confused and not able to answer any questions. Facial drooping of the left lower face is noted, and the patient cannot follow any commands. He has a past medical history of diabetes and atrial fibrillation and is currently taking warfarin. His other medications are not known. His temperature is 98.0\u00b0F (36.7\u00b0C), blood pressure is 150/90 mmHg, pulse is 115/min, and respirations are 17/min. The patient is not able to follow any commands for further neurologic evaluation but does not appear to be moving his right upper extremity. In addition to further physical exam, which of the following is the most appropriate next step in management?",
-        "answer_idx": "C",
-        "answer": "Fingerstick blood glucose",
-        "options": {
-            "A": "Alteplase",
-            "B": "CT head",
-            "C": "Fingerstick blood glucose",
-            "D": "Fresh frozen plasma and vitamin K",
-            "E": "MRI brain"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14206,
-            "completion_tokens": 1514
-        },
-        "time_elapsed": 97.85348296165466
-    },
-    {
         "idx": 131,
         "realidx": 131,
         "question": "A 67-year-old man presents to the emergency room with difficulty speaking for the past 1 hour. He was having dinner at home with his wife when he suddenly noticed he had difficulty eating and speaking. He also noticed a new-onset weakness on his left side. His medical history is significant for type 2 diabetes mellitus, hypertension, and hyperlipidemia. His current medications include metformin, atorvastatin, and lisinopril. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 130/80 mmHg, pulse is 70/min, and respirations are 15/min. On examination, strength is 5/5 in the right upper and lower extremities and 3/5 in the left upper and lower extremities. On cranial nerve examination, his tongue deviates to the right side. There is also decreased sensation to light touch and vibration on the left side of his body. Which of the following arteries is most likely involved in this patient\u2019s presentation?",
@@ -1510,48 +838,6 @@
             "completion_tokens": 1264
         },
         "time_elapsed": 91.81675887107849
-    },
-    {
-        "idx": 131,
-        "realidx": 131,
-        "question": "A 67-year-old man presents to the emergency room with difficulty speaking for the past 1 hour. He was having dinner at home with his wife when he suddenly noticed he had difficulty eating and speaking. He also noticed a new-onset weakness on his left side. His medical history is significant for type 2 diabetes mellitus, hypertension, and hyperlipidemia. His current medications include metformin, atorvastatin, and lisinopril. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 130/80 mmHg, pulse is 70/min, and respirations are 15/min. On examination, strength is 5/5 in the right upper and lower extremities and 3/5 in the left upper and lower extremities. On cranial nerve examination, his tongue deviates to the right side. There is also decreased sensation to light touch and vibration on the left side of his body. Which of the following arteries is most likely involved in this patient\u2019s presentation?",
-        "answer_idx": "B",
-        "answer": "Anterior spinal artery",
-        "options": {
-            "A": "Anterior inferior cerebellar artery",
-            "B": "Anterior spinal artery",
-            "C": "Lenticulostriate branches of the middle cerebral artery",
-            "D": "Pontine perforators of the basilar artery",
-            "E": "Posterior inferior cerebellar artery"
-        },
-        "predicted_answer": "C",
-        "difficulty": "basic",
-        "token_usage": {
-            "prompt_tokens": 1159,
-            "completion_tokens": 367
-        },
-        "time_elapsed": 7.225534439086914
-    },
-    {
-        "idx": 131,
-        "realidx": 131,
-        "question": "A 67-year-old man presents to the emergency room with difficulty speaking for the past 1 hour. He was having dinner at home with his wife when he suddenly noticed he had difficulty eating and speaking. He also noticed a new-onset weakness on his left side. His medical history is significant for type 2 diabetes mellitus, hypertension, and hyperlipidemia. His current medications include metformin, atorvastatin, and lisinopril. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 130/80 mmHg, pulse is 70/min, and respirations are 15/min. On examination, strength is 5/5 in the right upper and lower extremities and 3/5 in the left upper and lower extremities. On cranial nerve examination, his tongue deviates to the right side. There is also decreased sensation to light touch and vibration on the left side of his body. Which of the following arteries is most likely involved in this patient\u2019s presentation?",
-        "answer_idx": "B",
-        "answer": "Anterior spinal artery",
-        "options": {
-            "A": "Anterior inferior cerebellar artery",
-            "B": "Anterior spinal artery",
-            "C": "Lenticulostriate branches of the middle cerebral artery",
-            "D": "Pontine perforators of the basilar artery",
-            "E": "Posterior inferior cerebellar artery"
-        },
-        "predicted_answer": "D",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14125,
-            "completion_tokens": 1364
-        },
-        "time_elapsed": 84.89544224739075
     },
     {
         "idx": 134,
@@ -1617,48 +903,6 @@
         "time_elapsed": 103.2596960067749
     },
     {
-        "idx": 145,
-        "realidx": 145,
-        "question": "A 32-year-old man presents to the emergency department for evaluation of headache. His symptoms started last night and have persisted. He occasionally has migraine headaches, but he has not had a headache like this in the past. He reports associated nausea, vomiting, fevers, and neck pain. He has a medical history of asthma. His temperature is 100.4\u00b0F (38.0\u00b0C), blood pressure is 110/60 mmHg, pulse is 95/min, respirations are 17/min, and oxygen saturation is 98% on room air. On physical exam, he appears uncomfortable. Neurologic exam reveals no focal deficits. There is pain with passive neck flexion. No edema or rashes are noted. Lungs are clear to auscultation bilaterally. Lumbar puncture is performed and CSF results are obtained as shown below. Cerebrospinal fluid (CSF): Cell count: 175/mm^3 RBCs: 0/mm^3 Cl-: 119 mEq/L Glucose: 49 mg/dL Pressure: 150 mmH2O Total protein: 55 mg/dL Based on these results, which of the following is the most appropriate treatment regimen for this patient?",
-        "answer_idx": "E",
-        "answer": "Supportive care and monitoring",
-        "options": {
-            "A": "Acyclovir",
-            "B": "Amphotericin and 5-flucytosine",
-            "C": "Ceftriaxone and vancomycin",
-            "D": "Ceftriaxone, vancomycin and steroids",
-            "E": "Supportive care and monitoring"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 13208,
-            "completion_tokens": 1825
-        },
-        "time_elapsed": 81.85901093482971
-    },
-    {
-        "idx": 145,
-        "realidx": 145,
-        "question": "A 32-year-old man presents to the emergency department for evaluation of headache. His symptoms started last night and have persisted. He occasionally has migraine headaches, but he has not had a headache like this in the past. He reports associated nausea, vomiting, fevers, and neck pain. He has a medical history of asthma. His temperature is 100.4\u00b0F (38.0\u00b0C), blood pressure is 110/60 mmHg, pulse is 95/min, respirations are 17/min, and oxygen saturation is 98% on room air. On physical exam, he appears uncomfortable. Neurologic exam reveals no focal deficits. There is pain with passive neck flexion. No edema or rashes are noted. Lungs are clear to auscultation bilaterally. Lumbar puncture is performed and CSF results are obtained as shown below. Cerebrospinal fluid (CSF): Cell count: 175/mm^3 RBCs: 0/mm^3 Cl-: 119 mEq/L Glucose: 49 mg/dL Pressure: 150 mmH2O Total protein: 55 mg/dL Based on these results, which of the following is the most appropriate treatment regimen for this patient?",
-        "answer_idx": "E",
-        "answer": "Supportive care and monitoring",
-        "options": {
-            "A": "Acyclovir",
-            "B": "Amphotericin and 5-flucytosine",
-            "C": "Ceftriaxone and vancomycin",
-            "D": "Ceftriaxone, vancomycin and steroids",
-            "E": "Supportive care and monitoring"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 14926,
-            "completion_tokens": 1541
-        },
-        "time_elapsed": 85.37229537963867
-    },
-    {
         "idx": 147,
         "realidx": 147,
         "question": "A 71-year-old woman arrives to clinic with sudden vision loss. She was in her usual state of health until waking up this morning unable to see out of her right eye. She denies pain, but reports her right eye \u201cfeels funny.\u201d The patient\u2019s medical history is significant for a previous myocardial infarction, hypertension, and osteoporosis. Her current medications include aspirin, metoprolol, rosuvastatin, lisinopril, and alendronate. Her temperature is 98\u00b0F (36.7\u00b0C), blood pressure is 145/86 mmHg, pulse is 62/min, and respirations are 12/min with an oxygen saturation of 98% on room air. The patient's pupils are symmetric in size and equally reactive to light with accommodation. A fundoscopic exam of the right eye is shown in Figure A. The left optic fundus is unremarkable. Which of the following is the most likely diagnosis?",
@@ -1701,27 +945,6 @@
         "time_elapsed": 98.56804251670837
     },
     {
-        "idx": 151,
-        "realidx": 151,
-        "question": "A 23-year-old man presents to the emergency department for altered mental status after a finishing a marathon. He has a medical history of obesity and anxiety and is not currently taking any medications. His temperature is 104\u00b0F (40\u00b0C), blood pressure is 147/88 mmHg, pulse is 200/min, respirations are 33/min, and oxygen saturation is 99% on room air. Physical exam reveals dry mucous membranes, hot flushed skin, and inappropriate responses to the physician's questions. Laboratory values are ordered as seen below. Hemoglobin: 15 g/dL Hematocrit: 44% Leukocyte count: 8,500/mm^3 with normal differential Platelet count: 199,000/mm^3 Serum: Na+: 165 mEq/L Cl-: 110 mEq/L K+: 4.0 mEq/L HCO3-: 20 mEq/L BUN: 30 mg/dL Glucose: 133 mg/dL Creatinine: 1.5 mg/dL Ca2+: 10.2 mg/dL AST: 12 U/L ALT: 10 U/L Which of the following is the most appropriate next step in management?",
-        "answer_idx": "D",
-        "answer": "Lactated ringer",
-        "options": {
-            "A": "50% normal saline 50% dextrose",
-            "B": "Dextrose solution",
-            "C": "Hypotonic saline",
-            "D": "Lactated ringer",
-            "E": "Normal saline"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 16472,
-            "completion_tokens": 1562
-        },
-        "time_elapsed": 115.65902304649353
-    },
-    {
         "idx": 157,
         "realidx": 157,
         "question": "A 59-year-old man presents to the emergency department after a sudden onset of slurred speech and right upper extremity weakness. His symptoms lasted 20 minutes but by the time he arrived at the emergency department he was symptom-free. The patient denies any preceding symptoms. He has a history of diabetes, obesity, and hypertension but does not see a physician for his underlying conditions. His temperature is 99.2\u00b0F (37.3\u00b0C), blood pressure is 140/85 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 100% on room air. Physical exam reveals normal vision, strength, and sensation with a stable gait. Finger-nose testing and tandem gait are unremarkable. A CT scan of the head is performed and is unremarkable. Which of the following is the most appropriate next step in management?",
@@ -1741,27 +964,6 @@
             "completion_tokens": 1304
         },
         "time_elapsed": 89.88260078430176
-    },
-    {
-        "idx": 157,
-        "realidx": 157,
-        "question": "A 59-year-old man presents to the emergency department after a sudden onset of slurred speech and right upper extremity weakness. His symptoms lasted 20 minutes but by the time he arrived at the emergency department he was symptom-free. The patient denies any preceding symptoms. He has a history of diabetes, obesity, and hypertension but does not see a physician for his underlying conditions. His temperature is 99.2\u00b0F (37.3\u00b0C), blood pressure is 140/85 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 100% on room air. Physical exam reveals normal vision, strength, and sensation with a stable gait. Finger-nose testing and tandem gait are unremarkable. A CT scan of the head is performed and is unremarkable. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "A",
-        "answer": "Aspirin",
-        "options": {
-            "A": "Aspirin",
-            "B": "Atorvastatin",
-            "C": "CTA head/neck",
-            "D": "Labetalol",
-            "E": "MRI brain"
-        },
-        "predicted_answer": "A",
-        "difficulty": "basic",
-        "token_usage": {
-            "prompt_tokens": 1083,
-            "completion_tokens": 355
-        },
-        "time_elapsed": 7.799757480621338
     },
     {
         "idx": 159,
@@ -1785,27 +987,6 @@
         "time_elapsed": 91.94712042808533
     },
     {
-        "idx": 159,
-        "realidx": 159,
-        "question": "A 29-year-old woman is recovering on the obstetrics floor after the vaginal delivery of 8-pound twin boys born at 42 weeks gestation. The patient is fatigued but states that she is doing well. Currently, she is complaining that her vagina hurts. The next morning, the patient experiences chills and a light red voluminous discharge from her vagina. She states that she feels pain and cramps in her abdomen. The patient's medical history is notable for diabetes which was managed during her pregnancy with insulin. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 107/68 mmHg, pulse is 97/min, respirations are 16/min, and oxygen saturation is 98% on room air. Laboratory values are obtained and shown below. Hemoglobin: 12 g/dL Hematocrit: 36% Leukocyte count: 9,750/mm^3 with normal differential Platelet count: 197,000/mm^3 Serum: Na+: 139 mEq/L Cl-: 101 mEq/L K+: 4.2 mEq/L HCO3-: 23 mEq/L BUN: 20 mg/dL Glucose: 111 mg/dL Creatinine: 1.1 mg/dL Ca2+: 10.2 mg/dL AST: 12 U/L ALT: 10 U/L Which of the following is the most appropriate next step in treatment for this patient?",
-        "answer_idx": "C",
-        "answer": "Supportive therapy only",
-        "options": {
-            "A": "Cefoxitin and doxycycline",
-            "B": "Clindamycin and gentamicin",
-            "C": "Supportive therapy only",
-            "D": "Vancomycin and clindamycin",
-            "E": "Vancomycin and gentamicin"
-        },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 238191,
-            "completion_tokens": 6277
-        },
-        "time_elapsed": 142.50912952423096
-    },
-    {
         "idx": 161,
         "realidx": 161,
         "question": "A 33-year-old woman presents to the emergency department with foul-smelling vaginal discharge. She states that it started 1 day ago and has not improved with hygiene products. She is sexually active and uses condoms. She does not complain of any abdominal or pelvic pain but states she has some mild burning when urinating. Her temperature is 97.6\u00b0F (36.4\u00b0C), blood pressure is 111/74 mmHg, pulse is 81/min, respirations are 12/min, and oxygen saturation is 98% on room air. Physical exam is notable for thick, white discharge from the cervix. There is no cervical motion or adnexal tenderness or masses. Some whitish discharge is noted from the urethra. A urine pregnancy test is negative. Which of the following is the most appropriate treatment for this patient?",
@@ -1825,27 +1006,6 @@
             "completion_tokens": 342
         },
         "time_elapsed": 7.401642560958862
-    },
-    {
-        "idx": 161,
-        "realidx": 161,
-        "question": "A 33-year-old woman presents to the emergency department with foul-smelling vaginal discharge. She states that it started 1 day ago and has not improved with hygiene products. She is sexually active and uses condoms. She does not complain of any abdominal or pelvic pain but states she has some mild burning when urinating. Her temperature is 97.6\u00b0F (36.4\u00b0C), blood pressure is 111/74 mmHg, pulse is 81/min, respirations are 12/min, and oxygen saturation is 98% on room air. Physical exam is notable for thick, white discharge from the cervix. There is no cervical motion or adnexal tenderness or masses. Some whitish discharge is noted from the urethra. A urine pregnancy test is negative. Which of the following is the most appropriate treatment for this patient?",
-        "answer_idx": "D",
-        "answer": "Ceftriaxone and doxycycline",
-        "options": {
-            "A": "Azithromycin",
-            "B": "Ceftriaxone",
-            "C": "Ceftriaxone and azithromycin",
-            "D": "Ceftriaxone and doxycycline",
-            "E": "Metronidazole"
-        },
-        "predicted_answer": "A",
-        "difficulty": "basic",
-        "token_usage": {
-            "prompt_tokens": 1081,
-            "completion_tokens": 290
-        },
-        "time_elapsed": 6.683656930923462
     },
     {
         "idx": 171,
@@ -1888,27 +1048,6 @@
             "completion_tokens": 1326
         },
         "time_elapsed": 87.70946097373962
-    },
-    {
-        "idx": 173,
-        "realidx": 173,
-        "question": "A 33-year-old man presents to the emergency department with dizziness. He states he has a constant sensation that the room is spinning. He is now having trouble walking and has been vomiting intermittently. He has no past medical history and takes no medications. His temperature is 98.0\u00b0F (36.7\u00b0C), blood pressure is 122/84 mmHg, pulse is 80/min, respirations are 16/min, and oxygen saturation is 98% on room air. Physical exam reveals a young man who is vomiting. His gait is ataxic and he exhibits rightward nystagmus. His dizziness is constant and unchanged with performance of the Dix-Hallpike maneuver. The head impulse test reveals a corrective saccade and there is no skew deviation. Which of the following is the most appropriate next step in management?",
-        "answer_idx": "D",
-        "answer": "Prednisone",
-        "options": {
-            "A": "CT head",
-            "B": "Epley maneuver",
-            "C": "MRI brain",
-            "D": "Prednisone",
-            "E": "Tissue plasminogen activator"
-        },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
-        "token_usage": {
-            "prompt_tokens": 13096,
-            "completion_tokens": 1543
-        },
-        "time_elapsed": 104.42120385169983
     },
     {
         "idx": 175,
@@ -1995,48 +1134,6 @@
         "time_elapsed": 105.72767114639282
     },
     {
-        "idx": 194,
-        "realidx": 194,
-        "question": "A 37-year-old woman presents to her physician for mood changes and recent falls over the course of 3 months. She feels more irritable with her husband and children and does not find pleasure in creating art anymore. Over the last 2 weeks, she has been sleeping approximately 5 hours a night and had a fall while walking in her home with the lights off. She denies any head trauma or loss of consciousness associated with the fall. She has a medical history of generalized anxiety disorder and hypothyroidism for which she takes escitalopram and levothyroxine. She had a Roux-en-Y gastric bypass 5 years ago. She has been in a monogamous relationship with her husband for the last 15 years and uses a copper intrauterine device. Physical examination is notable for a depressed affect. Pupils are equal, round, and reactive to light and accommodation. She has 4/5 strength in the bilateral lower extremities and brisk patellar reflexes. Which of the following is most likely the cause of this patient's symptoms?",
-        "answer_idx": "D",
-        "answer": "Reduced functional parietal cell count",
-        "options": {
-            "A": "Poor iron absorption",
-            "B": "Prior Treponema pallidum exposure",
-            "C": "Reduced central nervous system dopamine and serotonin",
-            "D": "Reduced functional parietal cell count",
-            "E": "Subtherapeutic levothyroxine dose"
-        },
-        "predicted_answer": "To provide a final answer, I would need to see the opinions from the different agents regarding the cause of the patient's symptoms. Please provide those opinions, and I will analyze them to determine the majority vote and make a final decision.",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 10109,
-            "completion_tokens": 605
-        },
-        "time_elapsed": 39.117454290390015
-    },
-    {
-        "idx": 194,
-        "realidx": 194,
-        "question": "A 37-year-old woman presents to her physician for mood changes and recent falls over the course of 3 months. She feels more irritable with her husband and children and does not find pleasure in creating art anymore. Over the last 2 weeks, she has been sleeping approximately 5 hours a night and had a fall while walking in her home with the lights off. She denies any head trauma or loss of consciousness associated with the fall. She has a medical history of generalized anxiety disorder and hypothyroidism for which she takes escitalopram and levothyroxine. She had a Roux-en-Y gastric bypass 5 years ago. She has been in a monogamous relationship with her husband for the last 15 years and uses a copper intrauterine device. Physical examination is notable for a depressed affect. Pupils are equal, round, and reactive to light and accommodation. She has 4/5 strength in the bilateral lower extremities and brisk patellar reflexes. Which of the following is most likely the cause of this patient's symptoms?",
-        "answer_idx": "D",
-        "answer": "Reduced functional parietal cell count",
-        "options": {
-            "A": "Poor iron absorption",
-            "B": "Prior Treponema pallidum exposure",
-            "C": "Reduced central nervous system dopamine and serotonin",
-            "D": "Reduced functional parietal cell count",
-            "E": "Subtherapeutic levothyroxine dose"
-        },
-        "predicted_answer": "To provide a final answer, I would need to review the opinions of the agents regarding the potential causes of the patient's symptoms. Please provide the opinions or answers from the agents, and I will determine the majority vote and make a final decision.",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 8353,
-            "completion_tokens": 639
-        },
-        "time_elapsed": 38.177969217300415
-    },
-    {
         "idx": 197,
         "realidx": 197,
         "question": "A 55-year-old man presents to the emergency department with chest pressure and diaphoresis. His symptoms started at work when he was lifting boxes. He states that he currently feels crushing pressure over his chest. He is given aspirin and an ECG is performed in triage, as seen in Figure A. His past medical history is notable for diabetes and obesity. He has smoked 1 pack of cigarettes per day for the past 30 years. His temperature is 97.9\u00b0F (36.6\u00b0C), blood pressure is 155/99 mmHg, pulse is 110/min, respirations are 22/min, and oxygen saturation is 98% on room air. Physical exam reveals an uncomfortable, diaphoretic man. His heart and breath sounds are unremarkable. A repeat ECG in the emergency department is performed, also seen in Figure A. The patient\u2019s chest pain is worse when the ECG in the emergency department is taken, compared to the one taken in triage. He is given nitroglycerin, with minimal improvement in his symptoms. A troponin level is drawn. Which of the following is the most appropriate next step in management?",
@@ -2077,27 +1174,6 @@
             "completion_tokens": 1942
         },
         "time_elapsed": 103.57309770584106
-    },
-    {
-        "idx": 199,
-        "realidx": 199,
-        "question": "A 60-year-old man presents to his primary care physician with weight gain. He states that ever since his wife died 4 months ago, he has been eating and sleeping more and no longer engages in any activities he once enjoyed such as hiking or fishing. He feels guilty for not spending more time with his wife before she died. He was recently fired for making several major bookkeeping mistakes at work as an accountant as he had trouble focusing. The patient is requesting oxycodone at this appointment as he states he has burning pain in his legs that feels worse now than it has in years past. The patient has a past medical history of obesity, poorly controlled diabetes, hypertension, and peripheral vascular disease. His temperature is 98.7\u00b0F (37.1\u00b0C), blood pressure is 129/82 mmHg, pulse is 83/min, respirations are 15/min, and oxygen saturation is 99% on room air. Physical exam reveals a stable gait and reduced sensation symmetrically over the lower extremities. He complains of electric pain when touching his lower extremities. His affect seems depressed. Which of the following is the most appropriate treatment for this patient?",
-        "answer_idx": "E",
-        "answer": "Venlafaxine",
-        "options": {
-            "A": "Amitriptyline",
-            "B": "Bupropion",
-            "C": "Escitalopram",
-            "D": "Phenelzine",
-            "E": "Venlafaxine"
-        },
-        "predicted_answer": "I'm sorry, but I cannot determine the answer based on the information provided. Please provide the options (A, B, C, D, E) for me to analyze and provide a response.",
-        "difficulty": "intermediate",
-        "token_usage": {
-            "prompt_tokens": 81545,
-            "completion_tokens": 3922
-        },
-        "time_elapsed": 83.03517413139343
     },
     {
         "idx": 204,
