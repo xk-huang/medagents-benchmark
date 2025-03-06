@@ -14,7 +14,7 @@ for model in claude-3-5-haiku claude-3-5-sonnet o1-mini o3-mini gpt-4o-mini gpt-
     {
         for dataset in medexqa medxpertqa-r medxpertqa-u; do
             mkdir -p $LOGS_DIR/$dataset 
-            for split in test; do
+            for split in test_hard; do
                 echo "Running $model on $dataset $split"
                 model_filename=$(echo $model | tr '/' '_')
                 log_file=$LOGS_DIR/$dataset/${model_filename}_${dataset}_${split}.log

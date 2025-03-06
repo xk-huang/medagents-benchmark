@@ -71,18 +71,18 @@ def get_final_answer_prompt_analonly(question, options, question_analyses, optio
         f"Points to note: \n" \
         f"1. The analyses provided should guide you towards the correct response. \n" \
         f"2. Any option containing incorrect information inherently cannot be the correct choice. \n" \
-        f"3. Please respond only with the selected option's letter, like A, B, C, or D, using the following format: '''Option: [Selected Option's Letter]'''. " \
+        f"3. Please respond only with the selected option's letter, like {', '.join(options.keys())}, using the following format: '''Option: [Selected Option's Letter]'''. " \
         f"Remember, it's the letter we need, not the full content of the option."
 
     return prompt
 
-def get_final_answer_prompt_wsyn(syn_report):
+def get_final_answer_prompt_wsyn(syn_report, options):
     prompt = f"Here is a synthesized report: {syn_report} \n" \
         f"Based on the above report, select the optimal choice to answer the question. \n" \
         f"Points to note: \n" \
         f"1. The analyses provided should guide you towards the correct response. \n" \
         f"2. Any option containing incorrect information inherently cannot be the correct choice. \n" \
-        f"3. Please respond only with the selected option's letter, like A, B, C, or D, using the following format: '''Option: [Selected Option's Letter]'''. " \
+        f"3. Please respond only with the selected option's letter, like {', '.join(options.keys())}, using the following format: '''Option: [Selected Option's Letter]'''. " \
         f"Remember, it's the letter we need, not the full content of the option."
     return prompt
 
@@ -90,12 +90,12 @@ def get_final_answer_prompt_wsyn(syn_report):
 def get_direct_prompt(question, options):
     prompt = f"Question: {question} \n" \
         f"Options: {options} \n" \
-        f"Please respond only with the selected option's letter, like A, B, C, or D, using the following format: '''Option: [Selected Option's Letter]'''."
+        f"Please respond only with the selected option's letter, like {', '.join(options.keys())}, using the following format: '''Option: [Selected Option's Letter]'''."
     return prompt
 
 def get_cot_prompt(question, options):
     cot_format = f"Thought: [the step-by-step thoughts] \n" \
-                f"Answer: [Selected Option's Letter (like A, B, C, or D)] \n"
+                f"Answer: [Selected Option's Letter (like {', '.join(options.keys())})] \n"
     prompt = f"Question: {question} \n" \
         f"Options: {options} \n" \
         f"Answer: Let's work this out in a step by step way to be sure we have the right answer. " \

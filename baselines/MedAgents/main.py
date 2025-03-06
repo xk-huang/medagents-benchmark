@@ -13,10 +13,9 @@ load_dotenv()
 
 def process_sample(idx, raw_sample, realqid, handler, args, dataobj):
     question = raw_sample['question'] if raw_sample['question'][-1] in punctuation else raw_sample['question'] + '?'
-    if args.dataset_name.lower() in ['medqa', 'medmcqa', 'pubmedqa', 'afrimedqa', 'medbullets', 'mmlu-pro', 'mmlu'] or 'mmlu' in args.dataset_name.lower():
-        options = raw_sample['options']
-        gold_answer = raw_sample['answer_idx']
-        return fully_decode(idx, realqid, question, options, gold_answer, handler, args, dataobj)
+    options = raw_sample['options']
+    gold_answer = raw_sample['answer_idx']
+    return fully_decode(idx, realqid, question, options, gold_answer, handler, args, dataobj)
 
 def save_results(results, existing_output_file):
     results = sorted(results, key=lambda x: x['id'])
@@ -27,8 +26,8 @@ def save_results(results, existing_output_file):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', default='deepseek-V3')
-    parser.add_argument('--dataset_name', default='medqa')
-    parser.add_argument('--dataset_dir', default='../../data/medqa/')
+    parser.add_argument('--dataset_name', default='medexqa')
+    parser.add_argument('--dataset_dir', default='../../data/medexqa/')
     parser.add_argument('--split', default='test_hard')
     parser.add_argument('--start_pos', type=int, default=0)
     parser.add_argument('--end_pos', type=int, default=-1)
@@ -80,9 +79,9 @@ if __name__ == '__main__':
             futures.append(executor.submit(process_sample, idx, raw_sample, realqid, handler, args, dataobj))
 
         for future in tqdm.tqdm(as_completed(futures), total=len(futures), desc="Collecting results"):
-            try:
+            # try:
                 data_info = future.result()
                 results.append(data_info)  # Store result with its index
                 save_results(results, existing_output_file)
-            except Exception as e:
-                print(f"Error processing sample: {e}")
+            # except Exception as e:
+            #     print(f"Error processing sample: {e}")

@@ -1,0 +1,2050 @@
+[
+    {
+        "realidx": "0_biomedical_engineer",
+        "question": "What is the band of electromagnetic waves used in a thermographic camera?",
+        "options": {
+            "A": "X-ray",
+            "B": "Microwave",
+            "C": "Ultraviolet",
+            "D": "Infrared"
+        },
+        "answer_idx": "D",
+        "answer": "Infrared",
+        "q1": "What is the band of electromagnetic waves",
+        "q2": " used in a thermographic camera?",
+        "generated_text": "that is visible to the human eye",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "102_speech_pathologist",
+        "question": "Which of the following can be assessed with laryngeal stroboscopy?",
+        "options": {
+            "A": "Depth of invasion of vocal fold lesions",
+            "B": "Structure of the cut surface of the vocal folds",
+            "C": "Mucosal wave of the vocal folds",
+            "D": "Glottal closure rate"
+        },
+        "answer_idx": "B",
+        "answer": "Structure of the cut surface of the vocal folds",
+        "q1": "Which of the following can be assessed with",
+        "q2": " laryngeal stroboscopy?",
+        "generated_text": "a single blood pressure measurement?\n\n(Multiple",
+        "levenshtein_distance": 39
+    },
+    {
+        "realidx": "103_speech_pathologist",
+        "question": "Which of the following cerebrovascular pathologies corresponds to ischemia?",
+        "options": {
+            "A": "Aneurysm",
+            "B": "Intraventricular hemorrhage",
+            "C": "Arteriovenous malformation",
+            "D": "Cerebral infarction"
+        },
+        "answer_idx": "C",
+        "answer": "Arteriovenous malformation",
+        "q1": "Which of the following cerebrovascular",
+        "q2": " pathologies corresponds to ischemia?",
+        "generated_text": "accidents is most likely to result in",
+        "levenshtein_distance": 29
+    },
+    {
+        "realidx": "105_occupational_therapist",
+        "question": "What type of contraction occurs in the elbow flexor muscles when carefully placing a glass of water back on the table after drinking?",
+        "options": {
+            "A": "isometric contraction",
+            "B": "eccentric contraction",
+            "C": "concentric contraction",
+            "D": "involuntary contraction"
+        },
+        "answer_idx": "B",
+        "answer": "eccentric contraction",
+        "q1": "What type of contraction occurs in the elbow flexor muscles when",
+        "q2": " carefully placing a glass of water back on the table after drinking?",
+        "generated_text": "lowering your cup from your mouth to a table? A. concentric",
+        "levenshtein_distance": 54
+    },
+    {
+        "realidx": "105_speech_pathologist",
+        "question": "Which of the following descriptions of research design methods is different in nature?",
+        "options": {
+            "A": "Primarily uses questionnaires.",
+            "B": "Used to understand the causality between variables.",
+            "C": "Experiments are conducted to test hypotheses and discover new facts.",
+            "D": "Variables are manipulated under intentionally controlled conditions to observe effects."
+        },
+        "answer_idx": "D",
+        "answer": "Variables are manipulated under intentionally controlled conditions to observe effects.",
+        "q1": "Which of the following descriptions of research",
+        "q2": " design methods is different in nature?",
+        "generated_text": "is most likely to be considered a",
+        "levenshtein_distance": 31
+    },
+    {
+        "realidx": "109_occupational_therapist",
+        "question": "Which test can assess bilateral coordination?",
+        "options": {
+            "A": "Grooved Pegboard Test",
+            "B": "Purdue Pegboard Test",
+            "C": "O\u2019Connor Finger Dexterity Test",
+            "D": "9-hole Pegboard Test"
+        },
+        "answer_idx": "B",
+        "answer": "Purdue Pegboard Test",
+        "q1": "Which test can",
+        "q2": " assess bilateral coordination?",
+        "generated_text": "be used to determine",
+        "levenshtein_distance": 24
+    },
+    {
+        "realidx": "10_clinical_psychologist",
+        "question": "Which model of drug addiction intervention focuses on spiritual growth and utilizes self-help groups?",
+        "options": {
+            "A": "12-Step Model",
+            "B": "Subculture Model",
+            "C": "Public Health Model",
+            "D": "Motivational Enhancement Model"
+        },
+        "answer_idx": "A",
+        "answer": "12-Step Model",
+        "q1": "Which model of drug addiction intervention focuses on",
+        "q2": " spiritual growth and utilizes self-help groups?",
+        "generated_text": "the individual's social environment and support system",
+        "levenshtein_distance": 44
+    },
+    {
+        "realidx": "110_occupational_therapist",
+        "question": "What is the branch of epidemiology that is based on generalized assumptions and uses mathematical analysis to predict the occurrence or outbreak of infectious diseases?",
+        "options": {
+            "A": "Descriptive epidemiology",
+            "B": "Experimental epidemiology",
+            "C": "Theoretical epidemiology",
+            "D": "Analytical epidemiology"
+        },
+        "answer_idx": "C",
+        "answer": "Theoretical epidemiology",
+        "q1": "What is the branch of epidemiology that is based on generalized assumptions",
+        "q2": " and uses mathematical analysis to predict the occurrence or outbreak of infectious diseases?",
+        "generated_text": "about the natural history of disease?\n\nTheoretical epidemiology\n\nWhat is the",
+        "levenshtein_distance": 69
+    },
+    {
+        "realidx": "111_speech_pathologist",
+        "question": "Which of the following is a correct description of intervention for children with language disorders in a bilingual environment?",
+        "options": {
+            "A": "Parents are educated to minimize the use of L1.",
+            "B": "The use of code-mixing within sentences is restricted.",
+            "C": "Consideration of cultural background is minimized.",
+            "D": "Both L1 and L2 development are assessed and reflected in the intervention."
+        },
+        "answer_idx": "C",
+        "answer": "Consideration of cultural background is minimized.",
+        "q1": "Which of the following is a correct description of intervention",
+        "q2": " for children with language disorders in a bilingual environment?",
+        "generated_text": "in the context of the Individuals with Disabilities Education Act",
+        "levenshtein_distance": 52
+    },
+    {
+        "realidx": "114_speech_pathologist",
+        "question": "Which level of structure in speech therapy is the least structured and most naturalistic approach?",
+        "options": {
+            "A": "Therapist-centered approach",
+            "B": "Hybrid approach",
+            "C": "Cyclical approach",
+            "D": "Child-centered approach"
+        },
+        "answer_idx": "D",
+        "answer": "Child-centered approach",
+        "q1": "Which level of structure in speech therapy is",
+        "q2": " the least structured and most naturalistic approach?",
+        "generated_text": "concerned with the rules governing the arrangement of words",
+        "levenshtein_distance": 48
+    },
+    {
+        "realidx": "115_biomedical_engineer",
+        "question": "Which of the following is NOT a common characteristic of biomedical metal materials?",
+        "options": {
+            "A": "They have high strength and are easily deformable.",
+            "B": "They are good conductors of heat and electricity.",
+            "C": "They have a low specific gravity and a metallic luster.",
+            "D": "They are solid at room temperature."
+        },
+        "answer_idx": "C",
+        "answer": "They have a low specific gravity and a metallic luster.",
+        "q1": "Which of the following is NOT a",
+        "q2": " common characteristic of biomedical metal materials?",
+        "generated_text": "characteristic of a healthy diet? A",
+        "levenshtein_distance": 29
+    },
+    {
+        "realidx": "117_speech_pathologist",
+        "question": "Which of the following statements about laryngeal (transverse) diaphragm is correct?",
+        "options": {
+            "A": "It occurs due to nerve damage.",
+            "B": "It occurs due to excessive tension in the intrinsic muscles of the larynx.",
+            "C": "It produces a low pitch.",
+            "D": "It occurs due to bilateral trauma to the vocal cords followed by adhesion."
+        },
+        "answer_idx": "B",
+        "answer": "It occurs due to excessive tension in the intrinsic muscles of the larynx.",
+        "q1": "Which of the following statements about larynge",
+        "q2": "al (transverse) diaphragm is correct?",
+        "generated_text": "als is true? a. Larynge",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "118_occupational_therapist",
+        "question": "What is the intervention that involves presenting a situation that causes anxiety to a patient with obsessive-compulsive disorder and preventing the patient from performing their compulsive behaviors?",
+        "options": {
+            "A": "resistance analysis",
+            "B": "paradoxical intention",
+            "C": "free association",
+            "D": "exposure and response prevention"
+        },
+        "answer_idx": "D",
+        "answer": "exposure and response prevention",
+        "q1": "What is the intervention that involves presenting a situation that causes anxiety to a patient",
+        "q2": " with obsessive-compulsive disorder and preventing the patient from performing their compulsive behaviors?",
+        "generated_text": "and then preventing the patient from using their usual maladaptive way of dealing with it",
+        "levenshtein_distance": 76
+    },
+    {
+        "realidx": "119_clinical_laboratory_scientist",
+        "question": "Which cranial nerve contains both sensory and motor components?",
+        "options": {
+            "A": "XII",
+            "B": "Olfactory nerve (I)",
+            "C": "II",
+            "D": "Trigeminal nerve (V)"
+        },
+        "answer_idx": "D",
+        "answer": "Trigeminal nerve (V)",
+        "q1": "Which cranial nerve contains",
+        "q2": " both sensory and motor components?",
+        "generated_text": "somatic motor and visceral motor fibers",
+        "levenshtein_distance": 29
+    },
+    {
+        "realidx": "119_speech_pathologist",
+        "question": "Which of the following patient types is appropriate for the application of Melodic Intonation Therapy (MIT)?",
+        "options": {
+            "A": "Apraxia of speech \u2013 Broca's aphasia",
+            "B": "Wernicke's aphasia \u2013 Broca's aphasia",
+            "C": "Apraxia of speech \u2013 Visual agnosia",
+            "D": "Wernicke's aphasia \u2013 Global aphasia"
+        },
+        "answer_idx": "D",
+        "answer": "Wernicke's aphasia \u2013 Global aphasia",
+        "q1": "Which of the following patient types is appropriate for the",
+        "q2": " application of Melodic Intonation Therapy (MIT)?",
+        "generated_text": "use of a nasal cannula?\n\nExplanation\n\n\u2022 A",
+        "levenshtein_distance": 41
+    },
+    {
+        "realidx": "120_speech_pathologist",
+        "question": "What is typically observed in a normal child starting to babble?",
+        "options": {
+            "A": "Combining complex symbolic behaviors",
+            "B": "Understanding of numerical concepts",
+            "C": "Reaching out for desired objects",
+            "D": "Following two-step instructions"
+        },
+        "answer_idx": "A",
+        "answer": "Combining complex symbolic behaviors",
+        "q1": "What is typically observed in a",
+        "q2": " normal child starting to babble?",
+        "generated_text": "patient with a left hemisphere stroke?",
+        "levenshtein_distance": 31
+    },
+    {
+        "realidx": "123_biomedical_engineer",
+        "question": "Which of the following gases is NOT used in anesthesia?",
+        "options": {
+            "A": "Air",
+            "B": "Carbon Monoxide",
+            "C": "Nitrogen",
+            "D": "Oxygen"
+        },
+        "answer_idx": "B",
+        "answer": "Carbon Monoxide",
+        "q1": "Which of the following gases",
+        "q2": " is NOT used in anesthesia?",
+        "generated_text": "is used in cigarette lighters",
+        "levenshtein_distance": 19
+    },
+    {
+        "realidx": "123_speech_pathologist",
+        "question": "Which of the following is a correct description of PECS?",
+        "options": {
+            "A": "Phase 3: Teaching sentence construction with 'object + please'",
+            "B": "Phase 4: Teaching how to respond to the question 'What do you want to do?'",
+            "C": "Phase 1: Teaching how to discriminate between picture cards",
+            "D": "Phase 2: Teaching how to request from a distance"
+        },
+        "answer_idx": "D",
+        "answer": "Phase 2: Teaching how to request from a distance",
+        "q1": "Which of the following is a",
+        "q2": " correct description of PECS?",
+        "generated_text": "correct statement about the root of",
+        "levenshtein_distance": 24
+    },
+    {
+        "realidx": "127_clinical_laboratory_scientist",
+        "question": "What is the normal range for the RR interval in an electrocardiogram waveform?",
+        "options": {
+            "A": "0.60~1.0 seconds",
+            "B": "0.02~0.04 seconds",
+            "C": "0.35~0.45 seconds",
+            "D": "0.06~0.10 seconds"
+        },
+        "answer_idx": "A",
+        "answer": "0.60~1.0 seconds",
+        "q1": "What is the normal range for the RR",
+        "q2": " interval in an electrocardiogram waveform?",
+        "generated_text": "interval?\n\n0.6 to 1.",
+        "levenshtein_distance": 31
+    },
+    {
+        "realidx": "128_occupational_therapist",
+        "question": "What is the anatomical structure of the heart that prevents the backflow of blood from the right ventricle to the right atrium?",
+        "options": {
+            "A": "atrial auricle",
+            "B": "sinoatrial node",
+            "C": "pulmonary valve",
+            "D": "tricuspid valve"
+        },
+        "answer_idx": "D",
+        "answer": "tricuspid valve",
+        "q1": "What is the anatomical structure of the heart that prevents the backflow",
+        "q2": " of blood from the right ventricle to the right atrium?",
+        "generated_text": "of blood from the right ventricle into the right atrium?\n\nExplanation\n\nAnswer",
+        "levenshtein_distance": 24
+    },
+    {
+        "realidx": "12_occupational_therapist",
+        "question": "Which cell is important in the nerve regeneration process after peripheral nerve injury?",
+        "options": {
+            "A": "satellite cell",
+            "B": "astrocyte",
+            "C": "ependymal cell",
+            "D": "Schwann cell"
+        },
+        "answer_idx": "D",
+        "answer": "Schwann cell",
+        "q1": "Which cell is important in the nerve",
+        "q2": " regeneration process after peripheral nerve injury?",
+        "generated_text": "impulse transmission?\n\nNeurons are",
+        "levenshtein_distance": 42
+    },
+    {
+        "realidx": "12_speech_pathologist",
+        "question": "Which of the following is an activity related to the accent method?",
+        "options": {
+            "A": "Speaking loudly as if shouting.",
+            "B": "Humming using nasal resonance.",
+            "C": "Producing voiceless fricatives at a slow tempo in 3/4 time.",
+            "D": "Singing while performing a lip trill."
+        },
+        "answer_idx": "B",
+        "answer": "Humming using nasal resonance.",
+        "q1": "Which of the following is an",
+        "q2": " activity related to the accent method?",
+        "generated_text": "example of a chemical change? A",
+        "levenshtein_distance": 33
+    },
+    {
+        "realidx": "132_biomedical_engineer",
+        "question": "Which piece of clinical diagnostic equipment separates solid particles in a liquid by spinning the sample and using the force to separate, purify, and concentrate components with specific weights or densities?",
+        "options": {
+            "A": "Biochemistry analyzer",
+            "B": "Centrifuge",
+            "C": "Automated cell counter",
+            "D": "Blood gas analyzer"
+        },
+        "answer_idx": "B",
+        "answer": "Centrifuge",
+        "q1": "Which piece of clinical diagnostic equipment separates solid particles in a liquid by spinning the sample and",
+        "q2": " using the force to separate, purify, and concentrate components with specific weights or densities?",
+        "generated_text": "separating the particles based on density?\n\nExplanation\n\nAnswer: C - A centrifuge is a",
+        "levenshtein_distance": 78
+    },
+    {
+        "realidx": "135_occupational_therapist",
+        "question": "Which structure is connected to the pituitary and involved in maintaining homeostasis and regulating food intake?",
+        "options": {
+            "A": "midbrain",
+            "B": "epithalamus",
+            "C": "pons",
+            "D": "hypothalamus"
+        },
+        "answer_idx": "D",
+        "answer": "hypothalamus",
+        "q1": "Which structure is connected to the pituitary and",
+        "q2": " involved in maintaining homeostasis and regulating food intake?",
+        "generated_text": "hypothalamus?\n\nThe pituitary gland is connected to the hypothalamus",
+        "levenshtein_distance": 58
+    },
+    {
+        "realidx": "137_clinical_laboratory_scientist",
+        "question": "Which of the following statements about column agglutination is correct?",
+        "options": {
+            "A": "It allows for more objective interpretation compared to the tube method.",
+            "B": "It facilitates the detection of cold agglutinins.",
+            "C": "It uses type AB screening cells.",
+            "D": "Agglutinated red blood cells collect at the bottom of the gel."
+        },
+        "answer_idx": "A",
+        "answer": "It allows for more objective interpretation compared to the tube method.",
+        "q1": "Which of the following statements about column",
+        "q2": " agglutination is correct?",
+        "generated_text": "chromatography is correct? a) The",
+        "levenshtein_distance": 20
+    },
+    {
+        "realidx": "138_occupational_therapist",
+        "question": "Which component is used only in a below-elbow prosthesis compared to a body-powered upper-arm prosthesis?",
+        "options": {
+            "A": "triceps cuff",
+            "B": "cable",
+            "C": "harness",
+            "D": "turntable"
+        },
+        "answer_idx": "A",
+        "answer": "triceps cuff",
+        "q1": "Which component is used only in a below-elbow prost",
+        "q2": "hesis compared to a body-powered upper-arm prosthesis?",
+        "generated_text": "heses?\n\n(Multiple Choice)\n\n4.7/5",
+        "levenshtein_distance": 46
+    },
+    {
+        "realidx": "139_biomedical_engineer",
+        "question": "Which of the following descriptions about microelectrodes is incorrect?",
+        "options": {
+            "A": "It is an electrode used to measure the action potential of cells.",
+            "B": "The length of this electrode is about 0.05 to 10 micrometers.",
+            "C": "A metal microelectrode is said to be one that contains an electrolyte solution inside a glass capillary.",
+            "D": "There are metal microelectrodes, glass micropipette microelectrodes, etc."
+        },
+        "answer_idx": "C",
+        "answer": "A metal microelectrode is said to be one that contains an electrolyte solution inside a glass capillary.",
+        "q1": "Which of the following descriptions about",
+        "q2": " microelectrodes is incorrect?",
+        "generated_text": "the organization of an ecosystem is correct",
+        "levenshtein_distance": 29
+    },
+    {
+        "realidx": "141_occupational_therapist",
+        "question": "Which area has the sphincter of Oddi, where the bile duct and pancreatic duct are connected, and where the small intestine begins?",
+        "options": {
+            "A": "cecum",
+            "B": "rectum",
+            "C": "ileum",
+            "D": "duodenum"
+        },
+        "answer_idx": "D",
+        "answer": "duodenum",
+        "q1": "Which area has the sphincter of Oddi, where the bile",
+        "q2": " duct and pancreatic duct are connected, and where the small intestine begins?",
+        "generated_text": "duct and pancreatic duct empty into the duodenum?\n\nThe major duodenal",
+        "levenshtein_distance": 44
+    },
+    {
+        "realidx": "143_occupational_therapist",
+        "question": "Which theory suggests that diseases occur when the body is exposed to contaminated air, disrupting the balance of the four humors that make up the body?",
+        "options": {
+            "A": "Religious theory",
+            "B": "Astrological theory",
+            "C": "Humorism",
+            "D": "Contact infection theory"
+        },
+        "answer_idx": "C",
+        "answer": "Humorism",
+        "q1": "Which theory suggests that diseases occur when the body is exposed to contaminated air",
+        "q2": ", disrupting the balance of the four humors that make up the body?",
+        "generated_text": "?\n\nMiasma theory\n\nNew cards\n\n2\n\nNew cards\n\nWhat",
+        "levenshtein_distance": 56
+    },
+    {
+        "realidx": "147_occupational_therapist",
+        "question": "What is the appropriate intervention for joint protection in patients with rheumatoid arthritis?",
+        "options": {
+            "A": "Grasping with a bias towards the thumb side",
+            "B": "Continuing activities despite the pain",
+            "C": "Thickening the handles of kitchen utensils",
+            "D": "Performing activities while standing without changing posture"
+        },
+        "answer_idx": "C",
+        "answer": "Thickening the handles of kitchen utensils",
+        "q1": "What is the appropriate intervention for joint",
+        "q2": " protection in patients with rheumatoid arthritis?",
+        "generated_text": "pain in a patient with a history",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "148_occupational_therapist",
+        "question": "What function is the right cerebral hemisphere superior at compared to the left cerebral hemisphere?",
+        "options": {
+            "A": "Mathematical calculations",
+            "B": "Logical analysis",
+            "C": "Understanding and expression of language",
+            "D": "Recognition of faces and spatial relationships"
+        },
+        "answer_idx": "D",
+        "answer": "Recognition of faces and spatial relationships",
+        "q1": "What function is the right cerebral hemisphere superior",
+        "q2": " at compared to the left cerebral hemisphere?",
+        "generated_text": "at?\n\nNonverbal functions\n\nWhat function",
+        "levenshtein_distance": 39
+    },
+    {
+        "realidx": "14_biomedical_engineer",
+        "question": "Which of the following descriptions about the gamma camera is incorrect?",
+        "options": {
+            "A": "The scintillation detectors are arranged in two dimensions to obtain a two-dimensional image.",
+            "B": "The scintillation detectors detect gamma rays emitted from within the body to the outside.",
+            "C": "No mechanical scanning action is required to obtain the image.",
+            "D": "The scintillation crystal converts gamma rays into infrared rays."
+        },
+        "answer_idx": "D",
+        "answer": "The scintillation crystal converts gamma rays into infrared rays.",
+        "q1": "Which of the following descriptions about",
+        "q2": " the gamma camera is incorrect?",
+        "generated_text": "the organization of an ecosystem is",
+        "levenshtein_distance": 25
+    },
+    {
+        "realidx": "14_speech_pathologist",
+        "question": "What is the self-report assessment tool for the voice problem of a counselor with unilateral vocal cord paralysis?",
+        "options": {
+            "A": "Voice Handicap Index",
+            "B": "Glottal Contact Quotient",
+            "C": "Voice Disorder Index",
+            "D": "Reflux Finding Score"
+        },
+        "answer_idx": "A",
+        "answer": "Voice Handicap Index",
+        "q1": "What is the self-report assessment tool for the voice",
+        "q2": " problem of a counselor with unilateral vocal cord paralysis?",
+        "generated_text": "of the child?\n\nThe Voice of the Child Toolkit",
+        "levenshtein_distance": 48
+    },
+    {
+        "realidx": "157_clinical_laboratory_scientist",
+        "question": "What test is performed along with ABO blood typing in organ transplantation?",
+        "options": {
+            "A": "Surface antigen",
+            "B": "Inhaled antigen",
+            "C": "Neoantigen",
+            "D": "HLA"
+        },
+        "answer_idx": "D",
+        "answer": "HLA",
+        "q1": "What test is performed along with",
+        "q2": " ABO blood typing in organ transplantation?",
+        "generated_text": "the glucose tolerance test to determine insulin",
+        "levenshtein_distance": 38
+    },
+    {
+        "realidx": "157_occupational_therapist",
+        "question": "What function is regulated by the diencephalon's pineal gland?",
+        "options": {
+            "A": "Emotion and memory",
+            "B": "Physical balance",
+            "C": "Sleep and wakefulness cycle",
+            "D": "Appetite and defensive action"
+        },
+        "answer_idx": "C",
+        "answer": "Sleep and wakefulness cycle",
+        "q1": "What function is regulated by the d",
+        "q2": "iencephalon's pineal gland?",
+        "generated_text": "ermis?\n\nThe dermis is the layer",
+        "levenshtein_distance": 25
+    },
+    {
+        "realidx": "15_occupational_therapist",
+        "question": "Which laryngeal cartilage, attached to the vocal cords, is involved in the opening of the vocal cords by rotational movement?",
+        "options": {
+            "A": "epiglottic cartilage",
+            "B": "arytenoid cartilage",
+            "C": "cuneiform cartilage",
+            "D": "cricoid cartilage"
+        },
+        "answer_idx": "B",
+        "answer": "arytenoid cartilage",
+        "q1": "Which laryngeal cartilage, attached to the vocal cords,",
+        "q2": " is involved in the opening of the vocal cords by rotational movement?",
+        "generated_text": "is responsible for sound production?\n\nArytenoid cartilage\n\nWhich",
+        "levenshtein_distance": 58
+    },
+    {
+        "realidx": "163_occupational_therapist",
+        "question": "Which layer of skin forms the fingerprints?",
+        "options": {
+            "A": "stratum corneum",
+            "B": "stratum lucidum",
+            "C": "papillary layer",
+            "D": "stratum granulosum"
+        },
+        "answer_idx": "C",
+        "answer": "papillary layer",
+        "q1": "Which layer of skin",
+        "q2": " forms the fingerprints?",
+        "generated_text": "is the most superficial",
+        "levenshtein_distance": 18
+    },
+    {
+        "realidx": "169_clinical_laboratory_scientist",
+        "question": "Which of the following is an immunosuppressant drug in therapeutic drug monitoring?",
+        "options": {
+            "A": "digoxin",
+            "B": "theophylline",
+            "C": "amikacin",
+            "D": "tacrolimus"
+        },
+        "answer_idx": "D",
+        "answer": "tacrolimus",
+        "q1": "Which of the following is an immunos",
+        "q2": "uppressant drug in therapeutic drug monitoring?",
+        "generated_text": "upressant drug?\n\nA\n\nCy",
+        "levenshtein_distance": 33
+    },
+    {
+        "realidx": "18_occupational_therapist",
+        "question": "Which muscle is part of the rotator cuff?",
+        "options": {
+            "A": "deltoid muscle",
+            "B": "trapezius muscle",
+            "C": "supraspinatus muscle",
+            "D": "brachialis muscle"
+        },
+        "answer_idx": "C",
+        "answer": "supraspinatus muscle",
+        "q1": "Which muscle is part of",
+        "q2": " the rotator cuff?",
+        "generated_text": "the rotator cuff?",
+        "levenshtein_distance": 1
+    },
+    {
+        "realidx": "1_speech_pathologist",
+        "question": "What is the appropriate voice hygiene for a patient with vocal nodules accompanied by laryngopharyngeal reflux disease?",
+        "options": {
+            "A": "Speak in a whispering voice.",
+            "B": "Use a high pillow when sleeping.",
+            "C": "Drink carbonated beverages before bed to stay hydrated.",
+            "D": "Take antihistamine medication."
+        },
+        "answer_idx": "D",
+        "answer": "Take antihistamine medication.",
+        "q1": "What is the appropriate voice hygiene for a patient with vocal nod",
+        "q2": "ules accompanied by laryngopharyngeal reflux disease?",
+        "generated_text": "ule?5 answers\n\nVoice hygiene for patients with vocal nodules",
+        "levenshtein_distance": 47
+    },
+    {
+        "realidx": "209_clinical_laboratory_scientist",
+        "question": "Which disease is transmitted orally and presents with symptoms of vomiting, abdominal pain, loss of appetite, and jaundice, and is characterized by the detection of Anti-HAV IgM in the serum?",
+        "options": {
+            "A": "Hepatitis B",
+            "B": "Hepatitis C",
+            "C": "Hepatitis D",
+            "D": "Hepatitis A"
+        },
+        "answer_idx": "D",
+        "answer": "Hepatitis A",
+        "q1": "Which disease is transmitted orally and presents with symptoms of vomiting, abdominal pain, loss of appetite,",
+        "q2": " and jaundice, and is characterized by the detection of Anti-HAV IgM in the serum?",
+        "generated_text": "and jaundice?\n\n- a)Cholera\n- b)Hepatitis A\n- c",
+        "levenshtein_distance": 56
+    },
+    {
+        "realidx": "20_biomedical_engineer",
+        "question": "Which of the following cannot be tested using spectrophotometry?",
+        "options": {
+            "A": "Serum test",
+            "B": "Component test",
+            "C": "Hormone test",
+            "D": "Red/white blood cell test"
+        },
+        "answer_idx": "D",
+        "answer": "Red/white blood cell test",
+        "q1": "Which of the following cannot be",
+        "q2": " tested using spectrophotometry?",
+        "generated_text": "the probability of an event?\n\n(a",
+        "levenshtein_distance": 30
+    },
+    {
+        "realidx": "214_clinical_laboratory_scientist",
+        "question": "What is the method for differentiating AML from ALL?",
+        "options": {
+            "A": "peroxidase stain",
+            "B": "LAP",
+            "C": "prussian blue stain",
+            "D": "supravital stain"
+        },
+        "answer_idx": "A",
+        "answer": "peroxidase stain",
+        "q1": "What is the method for",
+        "q2": " differentiating AML from ALL?",
+        "generated_text": "solving the equation: x =",
+        "levenshtein_distance": 26
+    },
+    {
+        "realidx": "235_clinical_laboratory_scientist",
+        "question": "Which vessel connects to the left atrium of the heart?",
+        "options": {
+            "A": "Inferior vena cava",
+            "B": "Abdominal aorta",
+            "C": "Aorta",
+            "D": "Pulmonary veins"
+        },
+        "answer_idx": "D",
+        "answer": "Pulmonary veins",
+        "q1": "Which vessel connects to the left",
+        "q2": " atrium of the heart?",
+        "generated_text": "atrium?\n\nPulmonary vein",
+        "levenshtein_distance": 17
+    },
+    {
+        "realidx": "242_clinical_laboratory_scientist",
+        "question": "Which exogenous clearance (excretion) test of the liver looks at the 15-minute retention rate?",
+        "options": {
+            "A": "ICG",
+            "B": "eGFR",
+            "C": "PSP",
+            "D": "OGTT"
+        },
+        "answer_idx": "A",
+        "answer": "ICG",
+        "q1": "Which exogenous clearance (excretion) test of",
+        "q2": " the liver looks at the 15-minute retention rate?",
+        "generated_text": "the kidney is the most accurate?\n\nInulin clearance",
+        "levenshtein_distance": 37
+    },
+    {
+        "realidx": "247_clinical_laboratory_scientist",
+        "question": "Which blood product has the longest shelf life?",
+        "options": {
+            "A": "Washed platelets",
+            "B": "Washed red blood cells",
+            "C": "Packed red blood cells",
+            "D": "Frozen red blood cells"
+        },
+        "answer_idx": "D",
+        "answer": "Frozen red blood cells",
+        "q1": "Which blood product has",
+        "q2": " the longest shelf life?",
+        "generated_text": "the longest shelf life?",
+        "levenshtein_distance": 1
+    },
+    {
+        "realidx": "24_occupational_therapist",
+        "question": "For a patient with a complete C6 spinal cord injury, a wrist-driven wrist-hand orthosis was applied to improve daily living activities. What type of grasp is possible?",
+        "options": {
+            "A": "hook grasp",
+            "B": "disc grasp",
+            "C": "ulnar grasp",
+            "D": "three-jaw chuck pinch"
+        },
+        "answer_idx": "D",
+        "answer": "three-jaw chuck pinch",
+        "q1": "For a patient with a complete C6 spinal cord injury, a wrist-driven wrist-hand",
+        "q2": " orthosis was applied to improve daily living activities. What type of grasp is possible?",
+        "generated_text": "orthosis (WDWHO) is a commonly prescribed device to restore grasp. The WD",
+        "levenshtein_distance": 62
+    },
+    {
+        "realidx": "255_clinical_laboratory_scientist",
+        "question": "Which digestive organ is associated with the production of bile and heparin?",
+        "options": {
+            "A": "Stomach",
+            "B": "Large intestine",
+            "C": "Liver",
+            "D": "Pancreas"
+        },
+        "answer_idx": "C",
+        "answer": "Liver",
+        "q1": "Which digestive organ is associated with the",
+        "q2": " production of bile and heparin?",
+        "generated_text": "production of intrinsic factor?\n\nStomach",
+        "levenshtein_distance": 24
+    },
+    {
+        "realidx": "260_clinical_laboratory_scientist",
+        "question": "Which of the following statements about the electrocardiogram QT interval is correct?",
+        "options": {
+            "A": "The normal range is 0.12 to 0.20 seconds.",
+            "B": "It represents atrial repolarization.",
+            "C": "If it is more than twice the RR interval, it is considered normal.",
+            "D": "It is corrected because it is affected by the heart rate."
+        },
+        "answer_idx": "D",
+        "answer": "It is corrected because it is affected by the heart rate.",
+        "q1": "Which of the following statements about the electro",
+        "q2": "cardiogram QT interval is correct?",
+        "generated_text": "scope is not correct? By: Sunday",
+        "levenshtein_distance": 31
+    },
+    {
+        "realidx": "26_clinical_psychologist",
+        "question": "Which of the following descriptions is least related to the scientist-practitioner model of clinical psychology?",
+        "options": {
+            "A": "The model emphasizes that clinical psychologists should primarily be psychologists and then become clinicians.",
+            "B": "The model emphasizes education in general psychology, psychodynamics of behavior, and adjacent disciplines, in addition to diagnosis, treatment, and research.",
+            "C": "Known as the Boulder model, it requires the attainment of a doctoral degree.",
+            "D": "It was succeeded by the Vail model in the 1970s, which features an integration of both science and clinical practice."
+        },
+        "answer_idx": "D",
+        "answer": "It was succeeded by the Vail model in the 1970s, which features an integration of both science and clinical practice.",
+        "q1": "Which of the following descriptions is least related to",
+        "q2": " the scientist-practitioner model of clinical psychology?",
+        "generated_text": "the concept of \"sustainable development\"?\n\n- a",
+        "levenshtein_distance": 45
+    },
+    {
+        "realidx": "272_clinical_laboratory_scientist",
+        "question": "Which staining method is suitable for observing the morphology of mold?",
+        "options": {
+            "A": "Gram",
+            "B": "Albert",
+            "C": "Giemsa",
+            "D": "lactophenol cotton blue (LPCB)"
+        },
+        "answer_idx": "D",
+        "answer": "lactophenol cotton blue (LPCB)",
+        "q1": "Which staining method is suitable for",
+        "q2": " observing the morphology of mold?",
+        "generated_text": "staining spirochetes and",
+        "levenshtein_distance": 26
+    },
+    {
+        "realidx": "27_occupational_therapist",
+        "question": "Which area of the brain is damaged if there is a decline in executive functions such as logical thinking, problem-solving ability, and judgment after brain injury, resulting in impulsive and spontaneous behavior in problem-solving situations?",
+        "options": {
+            "A": "Parietal lobe",
+            "B": "Frontal lobe",
+            "C": "Temporal lobe",
+            "D": "Hippocampus"
+        },
+        "answer_idx": "B",
+        "answer": "Frontal lobe",
+        "q1": "Which area of the brain is damaged if there is a decline in executive functions such as logical thinking, problem",
+        "q2": "-solving ability, and judgment after brain injury, resulting in impulsive and spontaneous behavior in problem-solving situations?",
+        "generated_text": "solving, and planning?\n\nThe area of the brain that is damaged if there is a decline in executive functions",
+        "levenshtein_distance": 89
+    },
+    {
+        "realidx": "28_clinical_psychologist",
+        "question": "From a psychoanalytic perspective, what is the primary defense mechanism that causes dissociative disorders?",
+        "options": {
+            "A": "Intellectualization",
+            "B": "Repression",
+            "C": "Reaction Formation",
+            "D": "Displacement"
+        },
+        "answer_idx": "B",
+        "answer": "Repression",
+        "q1": "From a psychoanalytic perspective, what is the",
+        "q2": " primary defense mechanism that causes dissociative disorders?",
+        "generated_text": "difference between a \"psychotic\" and a \"",
+        "levenshtein_distance": 46
+    },
+    {
+        "realidx": "290_clinical_laboratory_scientist",
+        "question": "Which component acts as the membrane attack complex (MAC) in the classical pathway of complement?",
+        "options": {
+            "A": "C5",
+            "B": "C5bC6C7C8C9",
+            "C": "C4b2a3b",
+            "D": "C3bBb3b"
+        },
+        "answer_idx": "B",
+        "answer": "C5bC6C7C8C9",
+        "q1": "Which component acts as the membrane attack complex (",
+        "q2": "MAC) in the classical pathway of complement?",
+        "generated_text": "MAC) in the complement system?\n\nC5",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "297_clinical_laboratory_scientist",
+        "question": "Which component increases in the blood and urine of a patient with obstructive jaundice?",
+        "options": {
+            "A": "indirect bilirubin",
+            "B": "urobilin",
+            "C": "direct bilirubin",
+            "D": "urobilinogen"
+        },
+        "answer_idx": "C",
+        "answer": "direct bilirubin",
+        "q1": "Which component increases in the blood and urine",
+        "q2": " of a patient with obstructive jaundice?",
+        "generated_text": "of a patient with gout?\n\nExplanation\n\n\u2022",
+        "levenshtein_distance": 20
+    },
+    {
+        "realidx": "298_clinical_laboratory_scientist",
+        "question": "What is the correct concentration of glucose in cerebrospinal fluid (CSF) when the normal plasma glucose concentration is 100 mg/dL?",
+        "options": {
+            "A": "105",
+            "B": "45",
+            "C": "65",
+            "D": "25"
+        },
+        "answer_idx": "C",
+        "answer": "65",
+        "q1": "What is the correct concentration of glucose in cerebrospinal fluid (CS",
+        "q2": "F) when the normal plasma glucose concentration is 100 mg/dL?",
+        "generated_text": "F)?\n\n(Multiple Choice)\n\n4.6/5 (5)\n\nCorrect",
+        "levenshtein_distance": 52
+    },
+    {
+        "realidx": "2_clinical_laboratory_scientist",
+        "question": "Which of the following is an example of primary health care in health care activities?",
+        "options": {
+            "A": "Management of acute diseases",
+            "B": "Vaccinations",
+            "C": "Long-term care",
+            "D": "Emergency medical activities"
+        },
+        "answer_idx": "B",
+        "answer": "Vaccinations",
+        "q1": "Which of the following is an example of",
+        "q2": " primary health care in health care activities?",
+        "generated_text": "a chemical change? A. Cutting a",
+        "levenshtein_distance": 36
+    },
+    {
+        "realidx": "301_clinical_laboratory_scientist",
+        "question": "What is the solution when an error occurs in the results of an automatic blood analyzer test due to rouleau formation?",
+        "options": {
+            "A": "Re-test using manual methods",
+            "B": "Re-collect and test with a different anticoagulant",
+            "C": "Store the blood at 4\u00b0C and then re-test",
+            "D": "Dilute with saline and re-test"
+        },
+        "answer_idx": "D",
+        "answer": "Dilute with saline and re-test",
+        "q1": "What is the solution when an error occurs in the results",
+        "q2": " of an automatic blood analyzer test due to rouleau formation?",
+        "generated_text": "of a query?\n\nWhen an error occurs in the results of",
+        "levenshtein_distance": 46
+    },
+    {
+        "realidx": "306_clinical_laboratory_scientist",
+        "question": "What is the phenomenon where a sample or reagent from a previous step in an automated analyzer is transferred to the next analyte, affecting the test results?",
+        "options": {
+            "A": "delta value",
+            "B": "correlation",
+            "C": "panic value",
+            "D": "carryover"
+        },
+        "answer_idx": "D",
+        "answer": "carryover",
+        "q1": "What is the phenomenon where a sample or reagent from a previous step in an",
+        "q2": " automated analyzer is transferred to the next analyte, affecting the test results?",
+        "generated_text": "experiment is unintentionally carried over to a subsequent step, potentially leading to contamination",
+        "levenshtein_distance": 74
+    },
+    {
+        "realidx": "30_clinical_psychologist",
+        "question": "What is the correct thing for a counselor to be aware of during the initial stages of counseling for a sexual abuse survivor?",
+        "options": {
+            "A": "If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest.",
+            "B": "The counselor should actively intervene to quickly explore and heal the psychological trauma caused by the sexual abuse.",
+            "C": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+            "D": "Even if the client expresses discomfort, it is important for the counselor to lead the interview to collect detailed information about the abuse situation."
+        },
+        "answer_idx": "C",
+        "answer": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+        "q1": "What is the correct thing for a counselor to be aware of",
+        "q2": " during the initial stages of counseling for a sexual abuse survivor?",
+        "generated_text": "regarding the use of humor in counseling?\n\na. Humor",
+        "levenshtein_distance": 44
+    },
+    {
+        "realidx": "316_clinical_laboratory_scientist",
+        "question": "What is the plane that divides the human body into left and right symmetrical halves?",
+        "options": {
+            "A": "transverse plane",
+            "B": "horizontal plane",
+            "C": "median plane",
+            "D": "coronal plane"
+        },
+        "answer_idx": "C",
+        "answer": "median plane",
+        "q1": "What is the plane that divides the human",
+        "q2": " body into left and right symmetrical halves?",
+        "generated_text": "body into left and right halves?\n\nThe",
+        "levenshtein_distance": 17
+    },
+    {
+        "realidx": "31_occupational_therapist",
+        "question": "What is the principle of home environment modification that considers not only the characteristics of the elderly or disabled but also the usability for other family members living together?",
+        "options": {
+            "A": "Convenience",
+            "B": "Universality",
+            "C": "Comfort",
+            "D": "Permanence"
+        },
+        "answer_idx": "B",
+        "answer": "Universality",
+        "q1": "What is the principle of home environment modification that considers not only the characteristics of",
+        "q2": " the elderly or disabled but also the usability for other family members living together?",
+        "generated_text": "the individual but also the characteristics of the environment?\n\n(Multiple Choice)\n\n4",
+        "levenshtein_distance": 60
+    },
+    {
+        "realidx": "325_clinical_laboratory_scientist",
+        "question": "Which organ is characterized by a high number of goblet cells?",
+        "options": {
+            "A": "Large intestine",
+            "B": "Esophagus",
+            "C": "Liver",
+            "D": "Pancreas"
+        },
+        "answer_idx": "A",
+        "answer": "Large intestine",
+        "q1": "Which organ is characterized by a",
+        "q2": " high number of goblet cells?",
+        "generated_text": "high rate of cell division and the",
+        "levenshtein_distance": 25
+    },
+    {
+        "realidx": "328_clinical_laboratory_scientist",
+        "question": "What is the method of collecting cells from a lesion in human tissue or organs using a needle (22~23 G)?",
+        "options": {
+            "A": "Scrape cytology",
+            "B": "Cell block technique",
+            "C": "Colposcopy",
+            "D": "Fine needle aspiration biopsy"
+        },
+        "answer_idx": "D",
+        "answer": "Fine needle aspiration biopsy",
+        "q1": "What is the method of collecting cells from a lesion in human",
+        "q2": " tissue or organs using a needle (22~23 G)?",
+        "generated_text": "body?\n\nA\n\nBiopsy\n\nRight on! Give the",
+        "levenshtein_distance": 38
+    },
+    {
+        "realidx": "32_clinical_psychologist",
+        "question": "Which of the following is the most appropriate assessment method for behaviors that are not self-aware but are capable of communicating with others?",
+        "options": {
+            "A": "Introspection method",
+            "B": "Questionnaire method",
+            "C": "Task performance method",
+            "D": "Observation method"
+        },
+        "answer_idx": "D",
+        "answer": "Observation method",
+        "q1": "Which of the following is the most appropriate assessment method for behaviors",
+        "q2": " that are not self-aware but are capable of communicating with others?",
+        "generated_text": "that are not easily observed or that occur at very low rates?",
+        "levenshtein_distance": 43
+    },
+    {
+        "realidx": "337_clinical_laboratory_scientist",
+        "question": "What are the lead symbols for the 3-channel method of electrode attachment in a 24-hour ECG?",
+        "options": {
+            "A": "V1, V3",
+            "B": "V1, V2, V3",
+            "C": "V1, V5",
+            "D": "V1, V3, V5"
+        },
+        "answer_idx": "D",
+        "answer": "V1, V3, V5",
+        "q1": "What are the lead symbols for the 3-channel",
+        "q2": " method of electrode attachment in a 24-hour ECG?",
+        "generated_text": "ECG?\n\nRA, LA, LL\n\nWhat are the",
+        "levenshtein_distance": 42
+    },
+    {
+        "realidx": "340_clinical_laboratory_scientist",
+        "question": "What is labeled in the labeled streptavidin-biotin complex?",
+        "options": {
+            "A": "DAB (diaminobenzidine)",
+            "B": "Primary antibody",
+            "C": "Antigen",
+            "D": "Secondary antibody"
+        },
+        "answer_idx": "D",
+        "answer": "Secondary antibody",
+        "q1": "What is labeled in the labeled stre",
+        "q2": "ptavidin-biotin complex?",
+        "generated_text": "p test?\n\nThe labeled strep test",
+        "levenshtein_distance": 26
+    },
+    {
+        "realidx": "347_clinical_laboratory_scientist",
+        "question": "Which parasite is characterized by a trophozoite form that exhibits active motility and contains red blood cells, and a cyst form that has a central karyosome and four nuclei?",
+        "options": {
+            "A": "Balantidium coli",
+            "B": "Entamoeba coli",
+            "C": "Giardia lamblia",
+            "D": "Entamoeba histolytica"
+        },
+        "answer_idx": "D",
+        "answer": "Entamoeba histolytica",
+        "q1": "Which parasite is characterized by a trophozoite form that exhibits active motility and contains",
+        "q2": " red blood cells, and a cyst form that has a central karyosome and four nuclei?",
+        "generated_text": "a single nucleus and a large karyosome?\n\nGiardia lamblia\n\nWhich of the following parasites",
+        "levenshtein_distance": 69
+    },
+    {
+        "realidx": "356_clinical_laboratory_scientist",
+        "question": "What is measured with a nephelometer?",
+        "options": {
+            "A": "Specific gravity",
+            "B": "Flame reaction",
+            "C": "Scattered light",
+            "D": "Fluorescence"
+        },
+        "answer_idx": "C",
+        "answer": "Scattered light",
+        "q1": "What is measured with",
+        "q2": " a nephelometer?",
+        "generated_text": "the following pieces of laboratory",
+        "levenshtein_distance": 26
+    },
+    {
+        "realidx": "364_clinical_laboratory_scientist",
+        "question": "What is the difference between a benign tumor and a malignant tumor?",
+        "options": {
+            "A": "apoptosis",
+            "B": "metastasis",
+            "C": "embolism",
+            "D": "metaplasia"
+        },
+        "answer_idx": "B",
+        "answer": "metastasis",
+        "q1": "What is the difference between a",
+        "q2": " benign tumor and a malignant tumor?",
+        "generated_text": "\"shallow\" and a \"",
+        "levenshtein_distance": 29
+    },
+    {
+        "realidx": "367_clinical_laboratory_scientist",
+        "question": "Which substance helps acetylcholine to be secreted into the synaptic cleft?",
+        "options": {
+            "A": "Na+",
+            "B": "Ca++",
+            "C": "Fe++",
+            "D": "Mg++"
+        },
+        "answer_idx": "B",
+        "answer": "Ca++",
+        "q1": "Which substance helps acetylcholine to be",
+        "q2": " secreted into the synaptic cleft?",
+        "generated_text": "released from the presynaptic membrane?\n\nCalcium",
+        "levenshtein_distance": 30
+    },
+    {
+        "realidx": "38_clinical_laboratory_scientist",
+        "question": "What is the mechanism of action of the anticoagulant EDTA?",
+        "options": {
+            "A": "Inhibition of antithrombin-III activity",
+            "B": "Inhibition of coagulation factor X activity",
+            "C": "Inhibition of calcium ion activity",
+            "D": "Inhibition of phospholipid activity"
+        },
+        "answer_idx": "C",
+        "answer": "Inhibition of calcium ion activity",
+        "q1": "What is the mechanism of action of",
+        "q2": " the anticoagulant EDTA?",
+        "generated_text": "the drug?\n\nThe mechanism of action",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "40_occupational_therapist",
+        "question": "When measuring the backrest height of a wheelchair for a patient with a complete T1 spinal cord injury, from the seat to which part should the measurement be taken?",
+        "options": {
+            "A": "Back of the head",
+            "B": "Crown of the head",
+            "C": "Spinous process of the seventh cervical vertebra",
+            "D": "Inferior angle of the scapula"
+        },
+        "answer_idx": "D",
+        "answer": "Inferior angle of the scapula",
+        "q1": "When measuring the backrest height of a wheelchair for a patient with a complete T",
+        "q2": "1 spinal cord injury, from the seat to which part should the measurement be taken?",
+        "generated_text": "10 spinal cord injury, the nurse should consider the following:\n\n1. **Level of",
+        "levenshtein_distance": 51
+    },
+    {
+        "realidx": "41_clinical_laboratory_scientist",
+        "question": "What does the Type & Screen test refer to?",
+        "options": {
+            "A": "Direct antiglobulin test",
+            "B": "Adsorption test",
+            "C": "Crossmatch test",
+            "D": "ABO blood typing and antibody screening"
+        },
+        "answer_idx": "D",
+        "answer": "ABO blood typing and antibody screening",
+        "q1": "What does the Type &",
+        "q2": " Screen test refer to?",
+        "generated_text": "Class of a variable mean",
+        "levenshtein_distance": 22
+    },
+    {
+        "realidx": "42_clinical_psychologist",
+        "question": "A 23-month-old toddler has come in with the main symptoms of being small for their age, still not walking steadily, and being able to say only 'mommy' and 'daddy'. Which test would be appropriate for this toddler?",
+        "options": {
+            "A": "Infant Intelligence Test",
+            "B": "Picture Intelligence Test",
+            "C": "Denver Developmental Screening Test",
+            "D": "Piagetian Intelligence Test"
+        },
+        "answer_idx": "C",
+        "answer": "Denver Developmental Screening Test",
+        "q1": "A 23-month-old toddler has come in with the main symptoms of being small for their age, still not walking steadily",
+        "q2": ", and being able to say only 'mommy' and 'daddy'. Which test would be appropriate for this toddler?",
+        "generated_text": ", and having a protruding abdomen. The child has a history of frequent infections and has been diagnosed with failure to thrive. The",
+        "levenshtein_distance": 96
+    },
+    {
+        "realidx": "45_speech_pathologist",
+        "question": "What is the most commonly used scale for assessing the level of consciousness in patients with traumatic brain injury?",
+        "options": {
+            "A": "Mini-Mental State Examination (MMSE)",
+            "B": "Global Deterioration Scale",
+            "C": "Clinical Dementia Rating",
+            "D": "Glasgow Coma Scale"
+        },
+        "answer_idx": "D",
+        "answer": "Glasgow Coma Scale",
+        "q1": "What is the most commonly used scale for assessing the",
+        "q2": " level of consciousness in patients with traumatic brain injury?",
+        "generated_text": "severity of a patient's pain?\n\nThe most commonly",
+        "levenshtein_distance": 46
+    },
+    {
+        "realidx": "46_clinical_psychologist",
+        "question": "Which ethical principle presented by Kitchener refers to the behavior of a counselor in keeping promises made to clients and providing trust and reliability?",
+        "options": {
+            "A": "fidelity",
+            "B": "autonomy",
+            "C": "justice/fairness",
+            "D": "beneficence"
+        },
+        "answer_idx": "A",
+        "answer": "fidelity",
+        "q1": "Which ethical principle presented by Kitchener refers to the behavior of",
+        "q2": " a counselor in keeping promises made to clients and providing trust and reliability?",
+        "generated_text": "the counselor to not do harm to the client?\n\nNonmaleficence",
+        "levenshtein_distance": 58
+    },
+    {
+        "realidx": "48_clinical_psychologist",
+        "question": "Which of the following is NOT considered a basic need in Glasser's Choice Theory of counseling?",
+        "options": {
+            "A": "The need for self-esteem",
+            "B": "The need for survival",
+            "C": "The need for power",
+            "D": "The need for fun"
+        },
+        "answer_idx": "A",
+        "answer": "The need for self-esteem",
+        "q1": "Which of the following is NOT considered a basic",
+        "q2": " need in Glasser's Choice Theory of counseling?",
+        "generated_text": "principle of ethical behavior in research? Select one:",
+        "levenshtein_distance": 45
+    },
+    {
+        "realidx": "51_biomedical_engineer",
+        "question": "What is the CT number of water?",
+        "options": {
+            "A": "-1000",
+            "B": "0",
+            "C": "2000",
+            "D": "1000"
+        },
+        "answer_idx": "B",
+        "answer": "0",
+        "q1": "What is the CT",
+        "q2": " number of water?",
+        "generated_text": "E of a material",
+        "levenshtein_distance": 13
+    },
+    {
+        "realidx": "53_speech_pathologist",
+        "question": "What is the appropriate voice therapy for a patient with vocal nodules?",
+        "options": {
+            "A": "Whispering",
+            "B": "Speak in a singing tone",
+            "C": "Pushing approach",
+            "D": "Coughing"
+        },
+        "answer_idx": "B",
+        "answer": "Speak in a singing tone",
+        "q1": "What is the appropriate voice therapy for",
+        "q2": " a patient with vocal nodules?",
+        "generated_text": "a patient with a unilateral vocal fold",
+        "levenshtein_distance": 19
+    },
+    {
+        "realidx": "55_clinical_laboratory_scientist",
+        "question": "What is the light source used in Atomic Absorption Spectroscopy (AAS)?",
+        "options": {
+            "A": "hollow cathode lamp",
+            "B": "mercury lamp",
+            "C": "deuterium lamp",
+            "D": "tungsten lamp"
+        },
+        "answer_idx": "A",
+        "answer": "hollow cathode lamp",
+        "q1": "What is the light source used in Atomic",
+        "q2": " Absorption Spectroscopy (AAS)?",
+        "generated_text": "Absorption Spectroscopy? - Chemistry Stack Exchang",
+        "levenshtein_distance": 26
+    },
+    {
+        "realidx": "55_clinical_psychologist",
+        "question": "Which therapeutic approach and stance is different from the one based on cognitive determinism?",
+        "options": {
+            "A": "Cognitive Therapy",
+            "B": "Rational Emotive Therapy",
+            "C": "Self-Instructional Training",
+            "D": "Progressive Relaxation Training"
+        },
+        "answer_idx": "D",
+        "answer": "Progressive Relaxation Training",
+        "q1": "Which therapeutic approach and stance is different from",
+        "q2": " the one based on cognitive determinism?",
+        "generated_text": "the others?\n\na. Psychoanalytic therapy",
+        "levenshtein_distance": 30
+    },
+    {
+        "realidx": "55_speech_pathologist",
+        "question": "Which device can be used to improve signal-to-noise ratio (SNR) in hearing assistance?",
+        "options": {
+            "A": "FM system",
+            "B": "Glasses-type hearing aid",
+            "C": "Artificial middle ear",
+            "D": "Air-conduction hearing aid"
+        },
+        "answer_idx": "B",
+        "answer": "Glasses-type hearing aid",
+        "q1": "Which device can be used to improve signal-to-no",
+        "q2": "ise ratio (SNR) in hearing assistance?",
+        "generated_text": "iseratio in a communication system?\n\n- a)",
+        "levenshtein_distance": 29
+    },
+    {
+        "realidx": "56_speech_pathologist",
+        "question": "What is the assistive device for improving the speech intelligibility of patients with hypokinetic dysarthria?",
+        "options": {
+            "A": "Oral pressure gauge",
+            "B": "Artificial larynx",
+            "C": "Pacing board",
+            "D": "Voice amplifier"
+        },
+        "answer_idx": "A",
+        "answer": "Oral pressure gauge",
+        "q1": "What is the assistive device for improving the speech intellig",
+        "q2": "ibility of patients with hypokinetic dysarthria?",
+        "generated_text": "ibility of a person with dysarthria?\n\nSpeech amplifiers",
+        "levenshtein_distance": 33
+    },
+    {
+        "realidx": "58_biomedical_engineer",
+        "question": "What type of hypersensitivity, a pathological antigen-antibody reaction, is caused by specific memory to implants or biomaterials?",
+        "options": {
+            "A": "Allergy",
+            "B": "Defense response",
+            "C": "Rejection response",
+            "D": "Autoimmunity response"
+        },
+        "answer_idx": "A",
+        "answer": "Allergy",
+        "q1": "What type of hypersensitivity, a pathological antigen-antibody reaction",
+        "q2": ", is caused by specific memory to implants or biomaterials?",
+        "generated_text": ", is involved in the autoimmune disease systemic lupus erythematosus",
+        "levenshtein_distance": 47
+    },
+    {
+        "realidx": "59_occupational_therapist",
+        "question": "Which neurotransmitter is associated with symptoms of resting tremor, akinesia, rigidity, and festinating gait?",
+        "options": {
+            "A": "serotonin",
+            "B": "endorphin",
+            "C": "dopamine",
+            "D": "acetylcholine"
+        },
+        "answer_idx": "C",
+        "answer": "dopamine",
+        "q1": "Which neurotransmitter is associated with symptoms of resting tremor",
+        "q2": ", akinesia, rigidity, and festinating gait?",
+        "generated_text": ", rigidity, and bradykinesia in Parkinson's",
+        "levenshtein_distance": 30
+    },
+    {
+        "realidx": "5_speech_pathologist",
+        "question": "What is the criterion for differentiating between early Alzheimer's disease and primary progressive aphasia?",
+        "options": {
+            "A": "Dominant hand preference",
+            "B": "Presence or absence of cognitive impairment",
+            "C": "Rate of disease progression",
+            "D": "Presence or absence of naming difficulty"
+        },
+        "answer_idx": "B",
+        "answer": "Presence or absence of cognitive impairment",
+        "q1": "What is the criterion for differentiating between",
+        "q2": " early Alzheimer's disease and primary progressive aphasia?",
+        "generated_text": "a good and a bad person? Is it",
+        "levenshtein_distance": 44
+    },
+    {
+        "realidx": "61_clinical_laboratory_scientist",
+        "question": "What is the method that removes obstructions such as mucus for cell reading and disperses cells in a preservative solution to create a monolayer on a glass slide?",
+        "options": {
+            "A": "Liquid-based cytology",
+            "B": "Impression smear",
+            "C": "Aspiration smear",
+            "D": "Compression smear"
+        },
+        "answer_idx": "A",
+        "answer": "Liquid-based cytology",
+        "q1": "What is the method that removes obstructions such as mucus for cell reading and disperses",
+        "q2": " cells in a preservative solution to create a monolayer on a glass slide?",
+        "generated_text": "the sample evenly across the slide?\n\nSmear\n\nWhat is the method that fixes the",
+        "levenshtein_distance": 62
+    },
+    {
+        "realidx": "61_occupational_therapist",
+        "question": "Which type of cerebral palsy is characterized by abnormal fluctuations in muscle tone and involuntary movements, and shows a lack of stability in the proximal parts of the shoulder and hip joints?",
+        "options": {
+            "A": "spastic",
+            "B": "athetoid",
+            "C": "rigid",
+            "D": "flaccid"
+        },
+        "answer_idx": "B",
+        "answer": "athetoid",
+        "q1": "Which type of cerebral palsy is characterized by abnormal fluctuations in muscle tone and involuntary movements",
+        "q2": ", and shows a lack of stability in the proximal parts of the shoulder and hip joints?",
+        "generated_text": "?\n\nExplanation\n\n\u2022 Athetoid cerebral palsy is characterized by abnormal fluctuations in muscle tone and",
+        "levenshtein_distance": 82
+    },
+    {
+        "realidx": "64_biomedical_engineer",
+        "question": "Which of the following radiation therapy devices is not an external beam therapy device?",
+        "options": {
+            "A": "Van de Graaff",
+            "B": "Linac",
+            "C": "Gamma knife units",
+            "D": "Cyclotron"
+        },
+        "answer_idx": "C",
+        "answer": "Gamma knife units",
+        "q1": "Which of the following radiation therapy devices",
+        "q2": " is not an external beam therapy device?",
+        "generated_text": "uses a radioactive source that is kept in",
+        "levenshtein_distance": 33
+    },
+    {
+        "realidx": "64_speech_pathologist",
+        "question": "Which major cerebral vessel can cause Wernicke's aphasia when damaged?",
+        "options": {
+            "A": "MCA",
+            "B": "ECA",
+            "C": "ASA",
+            "D": "PICA"
+        },
+        "answer_idx": "C",
+        "answer": "ASA",
+        "q1": "Which major cerebral vessel can cause W",
+        "q2": "ernicke's aphasia when damaged?",
+        "generated_text": "ernicke's aphasia when oc",
+        "levenshtein_distance": 8
+    },
+    {
+        "realidx": "65_occupational_therapist",
+        "question": "Which long bone includes the anatomical neck and surgical neck?",
+        "options": {
+            "A": "radius",
+            "B": "femur",
+            "C": "ulna",
+            "D": "humerus"
+        },
+        "answer_idx": "D",
+        "answer": "humerus",
+        "q1": "Which long bone includes the",
+        "q2": " anatomical neck and surgical neck?",
+        "generated_text": "femoral condyles, epicond",
+        "levenshtein_distance": 27
+    },
+    {
+        "realidx": "67_biomedical_engineer",
+        "question": "Which respiratory function test assesses the ability of the lungs to distribute air evenly between alveoli?",
+        "options": {
+            "A": "Ventilation capacity",
+            "B": "Distribution capacity",
+            "C": "Exposure capacity",
+            "D": "Diffusion capacity"
+        },
+        "answer_idx": "B",
+        "answer": "Distribution capacity",
+        "q1": "Which respiratory function test assesses the ability of the",
+        "q2": " lungs to distribute air evenly between alveoli?",
+        "generated_text": "lungs to expand and contract?\n\n- a)",
+        "levenshtein_distance": 32
+    },
+    {
+        "realidx": "68_clinical_psychologist",
+        "question": "Among juvenile delinquencies, which one is impulsive and opportunistic, and once it occurs, it can be repeated and become habitual, potentially combining with other delinquent behaviors?",
+        "options": {
+            "A": "Internet addiction",
+            "B": "Violence",
+            "C": "Drug use",
+            "D": "Kleptomania"
+        },
+        "answer_idx": "D",
+        "answer": "Kleptomania",
+        "q1": "Among juvenile delinquencies, which one is impulsive and opportunistic, and once it",
+        "q2": " occurs, it can be repeated and become habitual, potentially combining with other delinquent behaviors?",
+        "generated_text": "is committed, it is not repeated?\n\n- a)Occasional\n- b)Professional",
+        "levenshtein_distance": 78
+    },
+    {
+        "realidx": "68_speech_pathologist",
+        "question": "Which type of memory is effectively improved when treating early-stage dementia patients using a diary with a schedule written in it?",
+        "options": {
+            "A": "procedural memory",
+            "B": "biographical memory",
+            "C": "prospective memory",
+            "D": "episodic memory"
+        },
+        "answer_idx": "D",
+        "answer": "episodic memory",
+        "q1": "Which type of memory is effectively improved when treating early-stage",
+        "q2": " dementia patients using a diary with a schedule written in it?",
+        "generated_text": "Alzheimer's disease patients with acetylcholinesterase inhibitors?\n\nExplanation",
+        "levenshtein_distance": 55
+    },
+    {
+        "realidx": "69_clinical_psychologist",
+        "question": "Which of the following is the least related to the method of sampling a normative group from a population?",
+        "options": {
+            "A": "Simple random sampling",
+            "B": "Ratio sampling",
+            "C": "Cluster sampling",
+            "D": "Stratified sampling"
+        },
+        "answer_idx": "B",
+        "answer": "Ratio sampling",
+        "q1": "Which of the following is the least related to the",
+        "q2": " method of sampling a normative group from a population?",
+        "generated_text": "other items? a. monopoly b. oligopoly",
+        "levenshtein_distance": 43
+    },
+    {
+        "realidx": "6_occupational_therapist",
+        "question": "What is the function of saliva in the mouth?",
+        "options": {
+            "A": "Chewing action",
+            "B": "Enterokinase action",
+            "C": "Stimulation of hydrochloric acid secretion",
+            "D": "Cleansing action"
+        },
+        "answer_idx": "D",
+        "answer": "Cleansing action",
+        "q1": "What is the function of",
+        "q2": " saliva in the mouth?",
+        "generated_text": "the respiratory system?\n\nTo",
+        "levenshtein_distance": 22
+    },
+    {
+        "realidx": "70_occupational_therapist",
+        "question": "What is the starting position when performing a Grade 3 (Fair) test for internal rotation of the shoulder joint in a manual muscle test?",
+        "options": {
+            "A": "Standing position",
+            "B": "Sitting position",
+            "C": "Supine position",
+            "D": "Prone position"
+        },
+        "answer_idx": "D",
+        "answer": "Prone position",
+        "q1": "What is the starting position when performing a Grade 3 (Fair)",
+        "q2": " test for internal rotation of the shoulder joint in a manual muscle test?",
+        "generated_text": "manual muscle test for the gluteus maximus?\n\nExplanation\n\nAnswer",
+        "levenshtein_distance": 60
+    },
+    {
+        "realidx": "71_speech_pathologist",
+        "question": "What is the correct initial interview method for adults with developmental stuttering?",
+        "options": {
+            "A": "Explain the possibility of natural recovery and prognosis.",
+            "B": "Understand the client's emotions and attitudes about speech.",
+            "C": "Examine the client's spoken language characteristics through closed-ended questions.",
+            "D": "Focus the interview on the initial characteristics of stuttering onset."
+        },
+        "answer_idx": "A",
+        "answer": "Explain the possibility of natural recovery and prognosis.",
+        "q1": "What is the correct initial interview method",
+        "q2": " for adults with developmental stuttering?",
+        "generated_text": "for a new patient?\n\nThe initial",
+        "levenshtein_distance": 31
+    },
+    {
+        "realidx": "72_clinical_psychologist",
+        "question": "Which defense mechanism described by Freud involves transforming sexual or aggressive impulses into socially acceptable, admirable directions?",
+        "options": {
+            "A": "Rationalization",
+            "B": "Displacement",
+            "C": "Sublimation",
+            "D": "Consciousness"
+        },
+        "answer_idx": "C",
+        "answer": "Sublimation",
+        "q1": "Which defense mechanism described by Freud involves transforming sexual",
+        "q2": " or aggressive impulses into socially acceptable, admirable directions?",
+        "generated_text": "or aggressive drives into socially acceptable activities?\n\nSubl",
+        "levenshtein_distance": 26
+    },
+    {
+        "realidx": "72_occupational_therapist",
+        "question": "Among the overall mental functions, what is the innate tendency of an individual to respond to situations in a specific way, including mental characteristics that distinguish one from others?",
+        "options": {
+            "A": "Orientation",
+            "B": "Sleep",
+            "C": "Consciousness",
+            "D": "Temperament and Personality"
+        },
+        "answer_idx": "D",
+        "answer": "Temperament and Personality",
+        "q1": "Among the overall mental functions, what is the innate tendency of an individual to respond",
+        "q2": " to situations in a specific way, including mental characteristics that distinguish one from others?",
+        "generated_text": "to stimuli for self-preservation and species preservation?\n\nInstinct\n\nNew cards",
+        "levenshtein_distance": 74
+    },
+    {
+        "realidx": "73_clinical_psychologist",
+        "question": "What is the appropriate number of members for an interactive therapeutic group as suggested by Yalom?",
+        "options": {
+            "A": "4-5 members",
+            "B": "7-8 members",
+            "C": "10-11 members",
+            "D": "12-13 members"
+        },
+        "answer_idx": "B",
+        "answer": "7-8 members",
+        "q1": "What is the appropriate number of members for an",
+        "q2": " interactive therapeutic group as suggested by Yalom?",
+        "generated_text": "effective small group?\n\n5-7\n\nWhat",
+        "levenshtein_distance": 38
+    },
+    {
+        "realidx": "74_biomedical_engineer",
+        "question": "Which medical suture material is used for absorbable surgical sutures?",
+        "options": {
+            "A": "PGA",
+            "B": "PP",
+            "C": "Teflon",
+            "D": "Silicon"
+        },
+        "answer_idx": "A",
+        "answer": "PGA",
+        "q1": "Which medical suture material is used",
+        "q2": " for absorbable surgical sutures?",
+        "generated_text": "for wound closure?\n\nThe most commonly",
+        "levenshtein_distance": 30
+    },
+    {
+        "realidx": "75_biomedical_engineer",
+        "question": "Which statement is not true about spectrophotometers used in clinical laboratories and how they work?",
+        "options": {
+            "A": "Clinical substances selectively absorb or emit light energy.",
+            "B": "Reagents are added to serum, urine, cerebrospinal fluid, etc., for testing.",
+            "C": "The concentration of a specific substance is determined by measuring the degree of energy absorption.",
+            "D": "X-rays are used as the light source."
+        },
+        "answer_idx": "D",
+        "answer": "X-rays are used as the light source.",
+        "q1": "Which statement is not true about spectrophot",
+        "q2": "ometers used in clinical laboratories and how they work?",
+        "generated_text": "ometry? A. The spectrophotometer can measure the",
+        "levenshtein_distance": 41
+    },
+    {
+        "realidx": "75_occupational_therapist",
+        "question": "What is the pear-shaped structure that stores, concentrates, and secretes a yellow-green liquid?",
+        "options": {
+            "A": "stomach",
+            "B": "spleen",
+            "C": "liver",
+            "D": "gallbladder"
+        },
+        "answer_idx": "D",
+        "answer": "gallbladder",
+        "q1": "What is the pear-shaped structure that stores,",
+        "q2": " concentrates, and secretes a yellow-green liquid?",
+        "generated_text": "concentrates, and releases bile?\n\nGallbladder\n\nWhat",
+        "levenshtein_distance": 29
+    },
+    {
+        "realidx": "75_speech_pathologist",
+        "question": "What is the term that represents the pitch of a sound from an auditory perspective?",
+        "options": {
+            "A": "Timbre",
+            "B": "Pitch",
+            "C": "Intensity",
+            "D": "Frequency"
+        },
+        "answer_idx": "A",
+        "answer": "Timbre",
+        "q1": "What is the term that represents the pitch",
+        "q2": " of a sound from an auditory perspective?",
+        "generated_text": "of a sound?\n\nFrequency\n\nWhat is",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "76_speech_pathologist",
+        "question": "What is a characteristic of cluttering that distinguishes it from stuttering?",
+        "options": {
+            "A": "Displays avoidance behavior.",
+            "B": "Shows a negative attitude towards communication.",
+            "C": "Exhibits marked pathological dysfluency.",
+            "D": "Has shorter pauses."
+        },
+        "answer_idx": "B",
+        "answer": "Shows a negative attitude towards communication.",
+        "q1": "What is a characteristic of cluttering",
+        "q2": " that distinguishes it from stuttering?",
+        "generated_text": "?\n\nCluttering is a speech and",
+        "levenshtein_distance": 30
+    },
+    {
+        "realidx": "77_biomedical_engineer",
+        "question": "What is the method called that uses sensors to measure biological tissues separated from the body?",
+        "options": {
+            "A": "External measurement",
+            "B": "Surface measurement",
+            "C": "Invasive measurement",
+            "D": "Sample measurement"
+        },
+        "answer_idx": "D",
+        "answer": "Sample measurement",
+        "q1": "What is the method called that uses sensors",
+        "q2": " to measure biological tissues separated from the body?",
+        "generated_text": "to detect and measure physical properties such as temperature",
+        "levenshtein_distance": 44
+    },
+    {
+        "realidx": "77_clinical_laboratory_scientist",
+        "question": "What is the purpose of using methanol with added hydrogen peroxide (H2O2) in immunohistochemical staining?",
+        "options": {
+            "A": "Antigen retrieval",
+            "B": "Blocking background staining",
+            "C": "Blocking endogenous enzyme activity",
+            "D": "Enhancing the staining reaction"
+        },
+        "answer_idx": "C",
+        "answer": "Blocking endogenous enzyme activity",
+        "q1": "What is the purpose of using methanol with added hydrogen peroxide",
+        "q2": " (H2O2) in immunohistochemical staining?",
+        "generated_text": "in the extraction of DNA from plant cells?\n\nThe purpose of using",
+        "levenshtein_distance": 52
+    },
+    {
+        "realidx": "77_speech_pathologist",
+        "question": "Which of the following is an example of unaided communication?",
+        "options": {
+            "A": "Real object",
+            "B": "Model",
+            "C": "Paper and pencil",
+            "D": "Gesture"
+        },
+        "answer_idx": "D",
+        "answer": "Gesture",
+        "q1": "Which of the following is an",
+        "q2": " example of unaided communication?",
+        "generated_text": "example of a chemical change?",
+        "levenshtein_distance": 18
+    },
+    {
+        "realidx": "7_clinical_laboratory_scientist",
+        "question": "What is a characteristic that appears as granulocytic cells mature?",
+        "options": {
+            "A": "The cytoplasm becomes more basophilic.",
+            "B": "Multiple nucleoli appear.",
+            "C": "Secondary granules disappear.",
+            "D": "The nuclear chromatin becomes coarser."
+        },
+        "answer_idx": "D",
+        "answer": "The nuclear chromatin becomes coarser.",
+        "q1": "What is a characteristic that appears",
+        "q2": " as granulocytic cells mature?",
+        "generated_text": "in recent generation but not in older",
+        "levenshtein_distance": 31
+    },
+    {
+        "realidx": "80_occupational_therapist",
+        "question": "Which item is included in SCIM-III but not in MBI when assessing ADLs of a spinal cord injury patient?",
+        "options": {
+            "A": "Eating",
+            "B": "Dressing and undressing",
+            "C": "Respiration management",
+            "D": "Bathing"
+        },
+        "answer_idx": "C",
+        "answer": "Respiration management",
+        "q1": "Which item is included in SCIM-III but not in",
+        "q2": " MBI when assessing ADLs of a spinal cord injury patient?",
+        "generated_text": "SCIM-II?\n\nExplanation\n\nAnswer: C - The item included",
+        "levenshtein_distance": 48
+    },
+    {
+        "realidx": "81_clinical_psychologist",
+        "question": "Which communication technique is used not only to help the patient articulate their message but also to ensure that the interviewer understands that message?",
+        "options": {
+            "A": "Confrontation",
+            "B": "Summarization",
+            "C": "Clarification",
+            "D": "Elaboration"
+        },
+        "answer_idx": "C",
+        "answer": "Clarification",
+        "q1": "Which communication technique is used not only to help the patient articulate",
+        "q2": " their message but also to ensure that the interviewer understands that message?",
+        "generated_text": "what is being said but also to help the nurse fully understand what",
+        "levenshtein_distance": 45
+    },
+    {
+        "realidx": "82_speech_pathologist",
+        "question": "What type of report is written when there is no further progress in therapy or when the planned treatment goals have been reached?",
+        "options": {
+            "A": "Discharge report",
+            "B": "Short-term and long-term plan",
+            "C": "Diagnostic report",
+            "D": "Evaluation plan"
+        },
+        "answer_idx": "C",
+        "answer": "Diagnostic report",
+        "q1": "What type of report is written when there is no further progress",
+        "q2": " in therapy or when the planned treatment goals have been reached?",
+        "generated_text": "in the investigation of a case?\n\nA\n\nInterim report",
+        "levenshtein_distance": 49
+    },
+    {
+        "realidx": "83_biomedical_engineer",
+        "question": "Which of the following is not a preventive method for physically protecting files to reduce the possibility of data damage?",
+        "options": {
+            "A": "File backup",
+            "B": "Disaster prevention facilities",
+            "C": "Access control to the transcription room",
+            "D": "Data encryption"
+        },
+        "answer_idx": "D",
+        "answer": "Data encryption",
+        "q1": "Which of the following is not a preventive method for",
+        "q2": " physically protecting files to reduce the possibility of data damage?",
+        "generated_text": "rusting?\nGalvanization\nPainting\nElect",
+        "levenshtein_distance": 61
+    },
+    {
+        "realidx": "84_clinical_laboratory_scientist",
+        "question": "What is the composition of a Pappenheimer body?",
+        "options": {
+            "A": "It is a derivative of hemoglobin.",
+            "B": "It is a nuclear remnant.",
+            "C": "It is a spindle fiber remnant.",
+            "D": "It is a granular material containing iron."
+        },
+        "answer_idx": "D",
+        "answer": "It is a granular material containing iron.",
+        "q1": "What is the composition of",
+        "q2": " a Pappenheimer body?",
+        "generated_text": "the Earth's atmosphere?\n\nThe",
+        "levenshtein_distance": 23
+    },
+    {
+        "realidx": "85_biomedical_engineer",
+        "question": "Which of the following is NOT a biometric variable that needs to be measured for the evaluation of respiratory function?",
+        "options": {
+            "A": "Bone density",
+            "B": "Lung volume (capacity)",
+            "C": "Gas pressure",
+            "D": "Gas concentration"
+        },
+        "answer_idx": "A",
+        "answer": "Bone density",
+        "q1": "Which of the following is NOT a biometric variable that",
+        "q2": " needs to be measured for the evaluation of respiratory function?",
+        "generated_text": "can be used to uniquely identify an individual?\n\nA.",
+        "levenshtein_distance": 50
+    },
+    {
+        "realidx": "85_clinical_psychologist",
+        "question": "Which of the following is NOT a typical personality change in old age?",
+        "options": {
+            "A": "Increased fear of change.",
+            "B": "Increased introversion and passivity.",
+            "C": "Decreased confidence in control.",
+            "D": "Increased flexibility and openness of thought."
+        },
+        "answer_idx": "D",
+        "answer": "Increased flexibility and openness of thought.",
+        "q1": "Which of the following is NOT a",
+        "q2": " typical personality change in old age?",
+        "generated_text": "characteristic of a healthy diet? A",
+        "levenshtein_distance": 33
+    },
+    {
+        "realidx": "86_biomedical_engineer",
+        "question": "Which synthetic rubber material has the best elasticity and toughness, is biocompatible and elastic, can undergo surface modifications, and is used as a material for artificial hearts?",
+        "options": {
+            "A": "Silicone",
+            "B": "Polyurethane",
+            "C": "Collagen",
+            "D": "Polyester"
+        },
+        "answer_idx": "B",
+        "answer": "Polyurethane",
+        "q1": "Which synthetic rubber material has the best elasticity and toughness, is biocompatible and",
+        "q2": " elastic, can undergo surface modifications, and is used as a material for artificial hearts?",
+        "generated_text": "can be 3D printed in very small structures? That is what a team of",
+        "levenshtein_distance": 69
+    },
+    {
+        "realidx": "86_clinical_laboratory_scientist",
+        "question": "Which disease does not typically result in long-term immunity after infection?",
+        "options": {
+            "A": "Gonorrhea",
+            "B": "Whooping cough",
+            "C": "Measles",
+            "D": "Chickenpox"
+        },
+        "answer_idx": "A",
+        "answer": "Gonorrhea",
+        "q1": "Which disease does not typically result",
+        "q2": " in long-term immunity after infection?",
+        "generated_text": "in a rash?\n\nA. Meas",
+        "levenshtein_distance": 33
+    },
+    {
+        "realidx": "87_clinical_laboratory_scientist",
+        "question": "What congenital genetic disorder is represented by the karyotype 47,XX,+18?",
+        "options": {
+            "A": "Cri-du-chat syndrome",
+            "B": "Patau syndrome",
+            "C": "Klinefelter syndrome",
+            "D": "Edwards syndrome"
+        },
+        "answer_idx": "D",
+        "answer": "Edwards syndrome",
+        "q1": "What congenital genetic disorder is represented by the k",
+        "q2": "aryotype 47,XX,+18?",
+        "generated_text": "arvotype below? What is the cause of",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "87_clinical_psychologist",
+        "question": "What is the phenomenon where an extinguished response reappears after a period of rest?",
+        "options": {
+            "A": "Discrimination conditioning",
+            "B": "Higher-order conditioning",
+            "C": "Spontaneous recovery",
+            "D": "Stimulus generalization"
+        },
+        "answer_idx": "C",
+        "answer": "Spontaneous recovery",
+        "q1": "What is the phenomenon where an extinguished response",
+        "q2": " reappears after a period of rest?",
+        "generated_text": "reappears after a period of time without reinforcement",
+        "levenshtein_distance": 25
+    },
+    {
+        "realidx": "89_clinical_laboratory_scientist",
+        "question": "Which radioactive isotope is used to measure the glomerular filtration rate (GFR)?",
+        "options": {
+            "A": "32P",
+            "B": "125I",
+            "C": "59Fe",
+            "D": "51Cr"
+        },
+        "answer_idx": "D",
+        "answer": "51Cr",
+        "q1": "Which radioactive isotope is used to measure the",
+        "q2": " glomerular filtration rate (GFR)?",
+        "generated_text": "age of once-living organisms?carbon-14",
+        "levenshtein_distance": 33
+    },
+    {
+        "realidx": "89_clinical_psychologist",
+        "question": "Among the validity scales of MMPI-2, which scale measures symptom validity in assessing atypical responses?",
+        "options": {
+            "A": "F",
+            "B": "FBS",
+            "C": "F(P)",
+            "D": "TRIN"
+        },
+        "answer_idx": "B",
+        "answer": "FBS",
+        "q1": "Among the validity scales of MMPI-2,",
+        "q2": " which scale measures symptom validity in assessing atypical responses?",
+        "generated_text": "the F scale is the most widely used to detect over",
+        "levenshtein_distance": 48
+    },
+    {
+        "realidx": "89_speech_pathologist",
+        "question": "Which of the following is an avoidance behavior in stuttering?",
+        "options": {
+            "A": "Speaking a word that might be stuttered smoothly.",
+            "B": "Blinking eyes when speech is blocked.",
+            "C": "Inhaling while stuttering.",
+            "D": "Letting someone else speak instead."
+        },
+        "answer_idx": "D",
+        "answer": "Letting someone else speak instead.",
+        "q1": "Which of the following is an",
+        "q2": " avoidance behavior in stuttering?",
+        "generated_text": "example of a chemical change?",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "93_clinical_psychologist",
+        "question": "Which of the following statements about sexual violence is correct?",
+        "options": {
+            "A": "Only women can be victims of sexual violence.",
+            "B": "Sexual violence is a violation of sexual self-determination.",
+            "C": "Rape can only be committed by strangers.",
+            "D": "If one resists to the end, rape is impossible."
+        },
+        "answer_idx": "B",
+        "answer": "Sexual violence is a violation of sexual self-determination.",
+        "q1": "Which of the following statements",
+        "q2": " about sexual violence is correct?",
+        "generated_text": "is true about the function f",
+        "levenshtein_distance": 28
+    },
+    {
+        "realidx": "96_biomedical_engineer",
+        "question": "Which of the following is the correct definition of cardiac output?",
+        "options": {
+            "A": "The volume of blood pumped by the heart into the aorta per heartbeat",
+            "B": "The volume of blood pumped by the heart into the aorta per hour",
+            "C": "The volume of blood pumped by the heart into the aorta per minute",
+            "D": "The volume of blood pumped by the heart into the aorta per day"
+        },
+        "answer_idx": "C",
+        "answer": "The volume of blood pumped by the heart into the aorta per minute",
+        "q1": "Which of the following is the",
+        "q2": " correct definition of cardiac output?",
+        "generated_text": "correct order of the steps in",
+        "levenshtein_distance": 25
+    },
+    {
+        "realidx": "96_speech_pathologist",
+        "question": "What should a speech therapist do when they become aware that a child is being habitually abused by their parents?",
+        "options": {
+            "A": "Maintain confidentiality as it pertains to personal information",
+            "B": "Verify the facts with the neighbors",
+            "C": "Report to the local child protection agency",
+            "D": "Notify the kindergarten where the child is enrolled"
+        },
+        "answer_idx": "C",
+        "answer": "Report to the local child protection agency",
+        "q1": "What should a speech therapist do when they become aware that",
+        "q2": " a child is being habitually abused by their parents?",
+        "generated_text": "a child is being abused? What are the legal and",
+        "levenshtein_distance": 27
+    }
+]

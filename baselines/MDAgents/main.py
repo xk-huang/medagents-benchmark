@@ -23,8 +23,8 @@ def save_results(results, results_path):
         json.dump(results, file, indent=4)
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--dataset', type=str, default='medqa')
-parser.add_argument('--dataset_dir', type=str, default='../../data/medqa')
+parser.add_argument('--dataset', type=str, default='medexqa')
+parser.add_argument('--dataset_dir', type=str, default='../../data/medexqa')
 parser.add_argument('--split', type=str, default='test_hard')
 parser.add_argument('--model', type=str, default='deepseek-V3')
 parser.add_argument('--difficulty', type=str, default='adaptive')

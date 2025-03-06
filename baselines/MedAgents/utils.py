@@ -80,7 +80,7 @@ def fully_decode(qid, realqid, question, options, gold_answer, handler, args, da
 
             if args.method == "syn_only":
                 # final answer derivation
-                answer_prompt = get_final_answer_prompt_wsyn(syn_report)
+                answer_prompt = get_final_answer_prompt_wsyn(syn_report, options)
                 output, usage = handler.get_output_multiagent(user_input=answer_prompt, temperature=0, system_role="")
                 total_prompt_tokens += usage.prompt_tokens
                 total_completion_tokens += usage.completion_tokens
@@ -124,7 +124,7 @@ def fully_decode(qid, realqid, question, options, gold_answer, handler, args, da
                     vote_history.append(domain_opinions)
                 
                 # final answer derivation
-                answer_prompt = get_final_answer_prompt_wsyn(syn_report)
+                answer_prompt = get_final_answer_prompt_wsyn(syn_report, options)
                 output, usage = handler.get_output_multiagent(user_input=answer_prompt, temperature=0, system_role="")
                 total_prompt_tokens += usage.prompt_tokens
                 total_completion_tokens += usage.completion_tokens

@@ -7920,6 +7920,30 @@
         "time_elapsed": 57.41101336479187
     },
     {
+        "realidx": "Text-2226",
+        "question": "The parents of a 13-year-old girl bring her to your office after moving to the area two months ago. They are concerned because their daughter has been frequently crying, distressed about the move, and unwilling to explore the new surroundings with them. Which of the following treatments has the strongest evidence of effectiveness for the likely diagnosis?\nAnswer Choices: (A) Art therapy (B) Interpersonal psychotherapy (C) Solution-focused brief therapy (D) Brief psychotherapy with selective serotonin reuptake inhibitor (E) Family systems therapy (F) Cognitive behavioral therapy (G) Group therapy with peers (H) Play therapy (I) Mindfulness-based stress reduction (J) Brief psychotherapy",
+        "options": {
+            "A": "Art therapy",
+            "B": "Interpersonal psychotherapy",
+            "C": "Solution-focused brief therapy",
+            "D": "Brief psychotherapy with selective serotonin reuptake inhibitor",
+            "E": "Family systems therapy",
+            "F": "Cognitive behavioral therapy",
+            "G": "Group therapy with peers",
+            "H": "Play therapy",
+            "I": "Mindfulness-based stress reduction",
+            "J": "Brief psychotherapy"
+        },
+        "answer_idx": "J",
+        "answer": "Brief psychotherapy",
+        "predicted_answer": "F",
+        "token_usage": {
+            "prompt_tokens": 270,
+            "completion_tokens": 740
+        },
+        "time_elapsed": 14.334033489227295
+    },
+    {
         "realidx": "Text-2229",
         "question": "Which injection site is contraindicated for use in first-pass studies?\nAnswer Choices: (A) Radial vein (B) Femoral vein (C) Vein of the antecubital fossa (D) Dorsal venous arch of the hand (E) External jugular vein (F) Peripheral vein in the lower extremity (G) Vein of the cephalic system (H) Central catheter placed in the superior vena cava (I) Medial vein in the basilic system (J) Subclavian vein",
         "options": {
@@ -8302,6 +8326,30 @@
             "completion_tokens": 2747
         },
         "time_elapsed": 48.49928665161133
+    },
+    {
+        "realidx": "Text-2263",
+        "question": "A male patient, aged 70, seeks medical attention for persistent pain in his distal right thigh that has lasted five years. Despite consulting multiple physicians and taking various pain medications, his symptoms persist. He is otherwise healthy with no significant medical history or substance use. Physical examination reveals no abnormalities. Laboratory tests show elevated alkaline phosphatase with normal calcium and phosphate levels. Radiographic imaging of the right femur reveals mixed osteolytic and radiodense areas in the distal portion. A bone biopsy demonstrates lamellar bone with a mosaic pattern under microscopic examination. Which viral infection has been implicated in the development of this patient's condition?\nAnswer Choices: (A) Respiratory syncytial virus (B) Hepatitis C virus (C) Chikungunya virus (D) Measles virus (E) Parvovirus B19 (F) Varicella-zoster virus (G) Cytomegalovirus (H) Human T-lymphotropic virus (I) Human immunodeficiency  (HIV) virus (J) Epstein-Barr virus",
+        "options": {
+            "A": "Respiratory syncytial virus",
+            "B": "Hepatitis C virus",
+            "C": "Chikungunya virus",
+            "D": "Measles virus",
+            "E": "Parvovirus B19",
+            "F": "Varicella-zoster virus",
+            "G": "Cytomegalovirus",
+            "H": "Human T-lymphotropic virus",
+            "I": "Human immunodeficiency  (HIV) virus",
+            "J": "Epstein-Barr virus"
+        },
+        "answer_idx": "D",
+        "answer": "Measles virus",
+        "predicted_answer": "D",
+        "token_usage": {
+            "prompt_tokens": 349,
+            "completion_tokens": 546
+        },
+        "time_elapsed": 11.415300130844116
     },
     {
         "realidx": "Text-2264",
@@ -9310,6 +9358,30 @@
             "completion_tokens": 2763
         },
         "time_elapsed": 50.19410514831543
+    },
+    {
+        "realidx": "Text-2439",
+        "question": "For a patient diagnosed with Dupuytren's contracture, in which of the following scenarios would dermatofasciectomy with full-thickness skin grafting be more advantageous compared to conventional fasciectomy?\nAnswer Choices: (A) 40-year-old female stenographer with middle, ring, and small finger involvement including MCP and PIP joints with 50 and 55 degree contractures of ring and small finger MCP joints, respectively (B) 60-year-old male with Dupuytren\u2019s affecting the ring and small fingers, with 30-degree contractures but no skin involvement (C) 48-year-old female with mild Dupuytren\u2019s affecting the ring finger PIP joint and no significant skin changes (D) 45-year-old musician with early-stage Dupuytren\u2019s affecting only the palmar fascia without significant joint involvement (E) 55-year-old construction worker with Dupuytren\u2019s contracture limited to the small finger MCP joint and minimal functional impairment (F) 65-year-old male farmer with severe contractures of the thumb and index finger MCP joints and significant skin involvement (G) 38-year-old male with Dupuytren\u2019s diathesis, including bilateral disease and knuckle pads, but no fixed contractures (H) 65-year-old female golfer with ring and small finger involvement including MCP and PIP joints (I) 50-year-old male with recurrent Dupuytren\u2019s contracture after previous fasciectomy and extensive scarring (J) None of the above as no difference in outcome has been demonstrated between the two procedures",
+        "options": {
+            "A": "40-year-old female stenographer with middle, ring, and small finger involvement including MCP and PIP joints with 50 and 55 degree contractures of ring and small finger MCP joints, respectively",
+            "B": "60-year-old male with Dupuytren\u2019s affecting the ring and small fingers, with 30-degree contractures but no skin involvement",
+            "C": "48-year-old female with mild Dupuytren\u2019s affecting the ring finger PIP joint and no significant skin changes",
+            "D": "45-year-old musician with early-stage Dupuytren\u2019s affecting only the palmar fascia without significant joint involvement",
+            "E": "55-year-old construction worker with Dupuytren\u2019s contracture limited to the small finger MCP joint and minimal functional impairment",
+            "F": "65-year-old male farmer with severe contractures of the thumb and index finger MCP joints and significant skin involvement",
+            "G": "38-year-old male with Dupuytren\u2019s diathesis, including bilateral disease and knuckle pads, but no fixed contractures",
+            "H": "65-year-old female golfer with ring and small finger involvement including MCP and PIP joints",
+            "I": "50-year-old male with recurrent Dupuytren\u2019s contracture after previous fasciectomy and extensive scarring",
+            "J": "None of the above as no difference in outcome has been demonstrated between the two procedures"
+        },
+        "answer_idx": "J",
+        "answer": "None of the above as no difference in outcome has been demonstrated between the two procedures",
+        "predicted_answer": "I",
+        "token_usage": {
+            "prompt_tokens": 681,
+            "completion_tokens": 1651
+        },
+        "time_elapsed": 27.582509517669678
     },
     {
         "realidx": "Text-2440",
