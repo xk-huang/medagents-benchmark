@@ -1,5 +1,7 @@
 # MedAgents-Benchmark
 
+**Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**
+
 This repository contains the evaluation benchmark for medical question-answering agents.
 
 ## Overview
