@@ -121,3 +121,16 @@ For example:
     "answer_idx": "A",
     "realidx": "0fd14a5dcafa4c3054ea03245a10aa1262fb88bf4906cfcec09f73bee06b163c"
 }
+
+## Cite Us
+
+```
+@inproceedings{tang2025medagentsbench,
+  title={MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning},
+  author = {Tang, Xiangru and Shao, Daniel and Sohn, Jiwoong and Chen, Jiapeng and Zhang, Jiayi and Xiang, Jinyu and Wu, Fang and Zhao, Yilun and Wu, Chenglin and Shi, Wenqi and Cohan, Arman and Gerstein, Mark},
+  journal = {arXiv preprint arXiv:2503.07459},
+  year = {2025},
+} 
+```
+
+
