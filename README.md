@@ -40,15 +40,18 @@ To run the baseline experiments:
 
 The benchmark focuses on challenging medical questions, specifically selecting questions where models achieve less than 50% accuracy. The hard question distribution across tasks is:
 
-| Task       | Number of Hard Questions |
-|------------|-------------------------|
-| medqa      | 100                     |
-| pubmedqa   | 100                     |
-| medmcqa    | 100                     |
-| medbullets | 89                      |
-| mmlu       | 73                      |
-| mmlu-pro   | 100                     |
-| afrimedqa  | 32                      |
+| Task         | Number of Hard Questions |
+|--------------|--------------------------|
+| medqa        | 100                      |
+| pubmedqa     | 100                      |
+| medmcqa      | 100                      |
+| medbullets   | 89                       |
+| mmlu         | 73                       |
+| mmlu-pro     | 100                      |
+| afrimedqa    | 32                       |
+| medexqa      | 100                      |
+| medxpertqa-r | 100                      |
+| medxpertqa-u | 100                      |
 
 All agent evaluations are conducted on this test_hard subset.
 
@@ -102,6 +105,21 @@ This benchmark includes several medical question-answering datasets that have be
 - Includes detailed explanations
 - Multiple choice format
 - Sampled 50 questions from hard set for evaluation
+
+### MedXpertQA-R
+- Medical expert reasoning questions
+- 4 answer options (A-D)
+- Sampled 50 questions for evaluation
+
+### MedXpertQA-U
+- Medical expert understanding questions
+- 4 answer options (A-D)
+- Sampled 50 questions for evaluation
+
+### MedExQA
+- Multiple-choice questions across additional five medical specialties
+- 4 answer options (A-D)
+- Sampled 50 questions for evaluation
 
 All datasets have been standardized to include:
 - Question text `question`
