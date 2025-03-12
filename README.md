@@ -34,6 +34,17 @@ To run the baseline experiments:
 
 3. For analyzing results and calculating error/success metrics, refer to `misc.ipynb`
 
+## Loading the Dataset
+
+You can load the MedAgentsBench dataset directly from Hugging Face by using the following code:
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("super-dainiu/medagents-benchmark", "MedQA")["test_hard"]  # or any other dataset
+```
+
+
 ## Dataset Statistics
 
 ![Dataset Statistics](assets/hardset.png)
