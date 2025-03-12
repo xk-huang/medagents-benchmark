@@ -10,12 +10,13 @@
         },
         "answer_idx": "A",
         "answer": "1",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 110,
-            "completion_tokens": 268
+            "completion_tokens": 331
         },
-        "time_elapsed": 2.2278499603271484
+        "time_elapsed": 2.459049701690674
     },
     {
         "question": "Fingerprinting (FINDER) involves recording prints of 8 fingers. Which finger pair is excluded?",
@@ -28,12 +29,13 @@
         },
         "answer_idx": "C",
         "answer": "Little finger",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 119,
-            "completion_tokens": 396
+            "completion_tokens": 395
         },
-        "time_elapsed": 3.1287524700164795
+        "time_elapsed": 2.8293051719665527
     },
     {
         "question": "Which of the following appliances is not used for slow maxillary expansion?",
@@ -46,12 +48,13 @@
         },
         "answer_idx": "D",
         "answer": "Hyrax appliance",
-        "predicted_answer": "B",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 118,
-            "completion_tokens": 395
+            "completion_tokens": 331
         },
-        "time_elapsed": 5.7470715045928955
+        "time_elapsed": 2.586362838745117
     },
     {
         "question": "In assessing infant deaths, Ploucquet's test involves:",
@@ -64,12 +67,13 @@
         },
         "answer_idx": "C",
         "answer": "Change in paial weight of lungs",
-        "predicted_answer": "B",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 130,
-            "completion_tokens": 778
+            "completion_tokens": 331
         },
-        "time_elapsed": 4.781185865402222
+        "time_elapsed": 4.65900182723999
     },
     {
         "question": "A temporary bridge constructed from a synthetic resin",
@@ -82,12 +86,13 @@
         },
         "answer_idx": "D",
         "answer": "Should restore the occlusion to the same extent as the permanent bridge",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 163,
-            "completion_tokens": 587
+            "completion_tokens": 651
         },
-        "time_elapsed": 3.5328760147094727
+        "time_elapsed": 3.9243125915527344
     },
     {
         "question": "The cells which will proliferate from top to bottom of villi are:",
@@ -100,12 +105,13 @@
         },
         "answer_idx": "C",
         "answer": "Paneth cells",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 119,
-            "completion_tokens": 459
+            "completion_tokens": 588
         },
-        "time_elapsed": 3.0035507678985596
+        "time_elapsed": 3.569350004196167
     },
     {
         "question": "A breast fed child presents with hypernatremia (Serum sodium > 170m Eq/L). His urine sodium is 70 mEq/L. Which of the following is the most likely cause \u2013",
@@ -118,12 +124,13 @@
         },
         "answer_idx": "D",
         "answer": "Excessive intake of sodium",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 147,
-            "completion_tokens": 780
+            "completion_tokens": 715
         },
-        "time_elapsed": 4.563042163848877
+        "time_elapsed": 5.404695272445679
     },
     {
         "question": "After cleaning and pumicing the tooth surface, plaque formation takes place within",
@@ -136,12 +143,13 @@
         },
         "answer_idx": "B",
         "answer": "1/2 to 1 hour",
-        "predicted_answer": "B",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 127,
-            "completion_tokens": 139
+            "completion_tokens": 460
         },
-        "time_elapsed": 1.6802101135253906
+        "time_elapsed": 3.2399702072143555
     },
     {
         "question": "Name the structure marked with arrow",
@@ -154,12 +162,13 @@
         },
         "answer_idx": "C",
         "answer": "Secretory vesicles",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 116,
-            "completion_tokens": 395
+            "completion_tokens": 139
         },
-        "time_elapsed": 2.5108866691589355
+        "time_elapsed": 1.4288585186004639
     },
     {
         "question": "Pulsatile varicose veins in lower limbs is seen in \u2013",
@@ -172,12 +181,13 @@
         },
         "answer_idx": "A",
         "answer": "Klippel trenaunay syndrome",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 125,
-            "completion_tokens": 267
+            "completion_tokens": 395
         },
-        "time_elapsed": 2.213695764541626
+        "time_elapsed": 2.7081809043884277
     },
     {
         "question": "Endocarditis is most commonly seen in:",
@@ -190,12 +200,13 @@
         },
         "answer_idx": "A",
         "answer": "Aortic stenosis.",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 124,
             "completion_tokens": 651
         },
-        "time_elapsed": 3.7620186805725098
+        "time_elapsed": 4.900773048400879
     },
     {
         "question": "Which of the following techniques is based on RNA?",
@@ -208,12 +219,13 @@
         },
         "answer_idx": "A",
         "answer": "PCR",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 112,
-            "completion_tokens": 460
+            "completion_tokens": 332
         },
-        "time_elapsed": 2.970256805419922
+        "time_elapsed": 2.596811532974243
     },
     {
         "question": "To check objective pain response, which is best used method",
@@ -226,12 +238,13 @@
         },
         "answer_idx": "A",
         "answer": "Facial pain scale",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 115,
-            "completion_tokens": 460
+            "completion_tokens": 396
         },
-        "time_elapsed": 3.00366473197937
+        "time_elapsed": 3.2827603816986084
     },
     {
         "question": "Patient with PPF transfusion complaint of breathing difficulty, tachycardic, tachypnia, Had Batwing sign present in X-ray. What will be the possible reason?",
@@ -244,12 +257,13 @@
         },
         "answer_idx": "B",
         "answer": "Due to overload of PPF",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 147,
-            "completion_tokens": 907
+            "completion_tokens": 715
         },
-        "time_elapsed": 6.746081590652466
+        "time_elapsed": 4.727105617523193
     },
     {
         "question": "A young patient is diagnosed to have irreparable tear of the rotator cuff. Treatment of choice will be:",
@@ -262,12 +276,13 @@
         },
         "answer_idx": "A",
         "answer": "Tendon transfer",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 128,
-            "completion_tokens": 331
+            "completion_tokens": 203
         },
-        "time_elapsed": 3.105574131011963
+        "time_elapsed": 2.3166229724884033
     },
     {
         "question": "According to instrument formula given by G.V. Black, primary cutting edge angle should be:",
@@ -280,12 +295,13 @@
         },
         "answer_idx": "A",
         "answer": "More than 50 degree",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 130,
-            "completion_tokens": 267
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.467909097671509
+        "time_elapsed": 2.704061269760132
     },
     {
         "question": "An un-immunized 13 months old child comes to you in OPD, according to the latest immunizations schedule, what vaccines will you advise??",
@@ -298,12 +314,13 @@
         },
         "answer_idx": "D",
         "answer": "OPV 3 doses, 3 IPV 3 DPI : Hep-B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 196,
-            "completion_tokens": 1163
+            "completion_tokens": 459
         },
-        "time_elapsed": 6.547400712966919
+        "time_elapsed": 3.3288700580596924
     },
     {
         "question": "Most common mediastinal tumor:",
@@ -316,12 +333,13 @@
         },
         "answer_idx": "A",
         "answer": "Neurogenic tumor",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 112,
-            "completion_tokens": 523
+            "completion_tokens": 460
         },
-        "time_elapsed": 3.2540645599365234
+        "time_elapsed": 2.9889955520629883
     },
     {
         "question": "The hormone having the maximum effect on granulation wound healing is:",
@@ -334,12 +352,13 @@
         },
         "answer_idx": "B",
         "answer": "Cortisone",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 118,
-            "completion_tokens": 331
+            "completion_tokens": 587
         },
-        "time_elapsed": 2.302258253097534
+        "time_elapsed": 3.6382884979248047
     },
     {
         "question": "Sugar restricted to diet was beneficial in presence of unfavorable hygiene was from which study?",
@@ -352,12 +371,13 @@
         },
         "answer_idx": "A",
         "answer": "Hopewood",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 116,
-            "completion_tokens": 268
+            "completion_tokens": 331
         },
-        "time_elapsed": 2.6869277954101562
+        "time_elapsed": 2.643949031829834
     },
     {
         "question": "Plastic carrier size of 40-90 in carrier base Gutta percha are made from?",
@@ -370,12 +390,13 @@
         },
         "answer_idx": "B",
         "answer": "Poly Sulphone",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 124,
             "completion_tokens": 331
         },
-        "time_elapsed": 2.7553446292877197
+        "time_elapsed": 2.603307008743286
     },
     {
         "question": "The ideal instrument that is used to widen the canal is",
@@ -388,12 +409,13 @@
         },
         "answer_idx": "B",
         "answer": "File",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 112,
-            "completion_tokens": 203
+            "completion_tokens": 331
         },
-        "time_elapsed": 2.524301528930664
+        "time_elapsed": 3.3214566707611084
     },
     {
         "question": "Drug adveisement letter is a necessary component of each drug formulation and contains various information about the drug like drug dosing, frequency and half-life. Which of the following information need not be given in the drug adveisement letter?",
@@ -406,12 +428,13 @@
         },
         "answer_idx": "B",
         "answer": "Date of expiry of the drug",
-        "predicted_answer": "B",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 170,
-            "completion_tokens": 459
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.9487783908843994
+        "time_elapsed": 1.7641451358795166
     },
     {
         "question": "Ashley-Howe model analysis is used to predict:",
@@ -424,12 +447,13 @@
         },
         "answer_idx": "C",
         "answer": "Basal bone-transverse relationship",
-        "predicted_answer": "B",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 121,
             "completion_tokens": 267
         },
-        "time_elapsed": 2.6689553260803223
+        "time_elapsed": 2.10862135887146
     },
     {
         "question": "Optimal location for intra osseous anesthesia for mandibular second molars is",
@@ -442,12 +466,13 @@
         },
         "answer_idx": "B",
         "answer": "Mesial to the molar",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 130,
-            "completion_tokens": 268
+            "completion_tokens": 139
         },
-        "time_elapsed": 2.0632729530334473
+        "time_elapsed": 1.494994878768921
     },
     {
         "question": "A patient believes he is the most impoant person in the world than anyone so his neighbors and family is trying to harm him as they are jealous of him. His wife says otherwise and says he behaves like this recently only before he was working as a school-teacher peacefully and brought to OPD. He is suffering from:",
@@ -460,12 +485,13 @@
         },
         "answer_idx": "D",
         "answer": "Delusion of grandiosity, persecution and reference",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 183,
             "completion_tokens": 267
         },
-        "time_elapsed": 2.5254592895507812
+        "time_elapsed": 2.1013007164001465
     },
     {
         "question": "A patient went into shock immediately after normal delivery, likely cause:",
@@ -478,12 +504,13 @@
         },
         "answer_idx": "C",
         "answer": "Uterine inversion",
-        "predicted_answer": "A",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 121,
-            "completion_tokens": 267
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.1651673316955566
+        "time_elapsed": 1.9027550220489502
     },
     {
         "question": "Major aim of phase 1 clinical trials is:",
@@ -496,12 +523,13 @@
         },
         "answer_idx": "C",
         "answer": "Dose",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 111,
-            "completion_tokens": 396
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.7859110832214355
+        "time_elapsed": 1.695340633392334
     },
     {
         "question": "Initial calcification of crown represents Which Nolla's stage:",
@@ -514,12 +542,13 @@
         },
         "answer_idx": "B",
         "answer": "Stage 2",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 116,
-            "completion_tokens": 1035
+            "completion_tokens": 331
         },
-        "time_elapsed": 5.712660312652588
+        "time_elapsed": 2.402249574661255
     },
     {
         "question": "Patient with increased PT, APTT & TT and normal fibrinogen and platelet counts, diagnosis is?",
@@ -532,12 +561,13 @@
         },
         "answer_idx": "D",
         "answer": "Vitamin K deficiency",
-        "predicted_answer": "A",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 126,
-            "completion_tokens": 715
+            "completion_tokens": 459
         },
-        "time_elapsed": 5.168696403503418
+        "time_elapsed": 3.2628328800201416
     },
     {
         "question": "Which of the following series act as the best space\nmaintainer in a child's mouth?",
@@ -550,12 +580,13 @@
         },
         "answer_idx": "A",
         "answer": "Restored deciduous tooth",
-        "predicted_answer": "C",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 132,
-            "completion_tokens": 523
+            "completion_tokens": 203
         },
-        "time_elapsed": 3.4079718589782715
+        "time_elapsed": 1.7517099380493164
     },
     {
         "question": "Highest concentration of oxygen is delivered through?",
@@ -568,12 +599,13 @@
         },
         "answer_idx": "C",
         "answer": "Bag and mask",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 113,
-            "completion_tokens": 459
+            "completion_tokens": 203
         },
-        "time_elapsed": 3.163555860519409
+        "time_elapsed": 2.3385982513427734
     },
     {
         "question": "Extraction of disto-angular impaction of mandibular 3rd molar can cause:",
@@ -586,12 +618,13 @@
         },
         "answer_idx": "B",
         "answer": "# of ramus of mandible",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 131,
-            "completion_tokens": 459
+            "completion_tokens": 651
         },
-        "time_elapsed": 2.7119264602661133
+        "time_elapsed": 4.33243989944458
     },
     {
         "question": "Median rhomboid glossitis is associated with:",
@@ -604,12 +637,13 @@
         },
         "answer_idx": "D",
         "answer": "Absence of filiform papillae",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 119,
-            "completion_tokens": 268
+            "completion_tokens": 332
         },
-        "time_elapsed": 2.036161422729492
+        "time_elapsed": 2.3355517387390137
     },
     {
         "question": "Which of the following does not require 5'capping?",
@@ -622,12 +656,13 @@
         },
         "answer_idx": "A",
         "answer": "tRNA of alanine",
-        "predicted_answer": "C",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 121,
-            "completion_tokens": 1227
+            "completion_tokens": 459
         },
-        "time_elapsed": 11.271347284317017
+        "time_elapsed": 2.9515576362609863
     },
     {
         "question": "Ceramide is:",
@@ -640,12 +675,13 @@
         },
         "answer_idx": "A",
         "answer": "Simple lipid",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 105,
-            "completion_tokens": 395
+            "completion_tokens": 587
         },
-        "time_elapsed": 10.004455804824829
+        "time_elapsed": 3.8252313137054443
     },
     {
         "question": "A person working in an abattoir presented with a papule on hand, which turned in to an ulcer. Which will best help in diagnosis",
@@ -658,12 +694,13 @@
         },
         "answer_idx": "A",
         "answer": "Polychrome Methylene blue",
-        "predicted_answer": "D",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 141,
-            "completion_tokens": 523
+            "completion_tokens": 1163
         },
-        "time_elapsed": 3.1329190731048584
+        "time_elapsed": 6.3617448806762695
     },
     {
         "question": "Kamlesh, a 2 year old girl, has Down's syndrome. Her karyotype is 21/21 translocation. What is the risk ofrecurrence in subsequent pregnancies if the father is a balanced translocation carrier :",
@@ -676,12 +713,13 @@
         },
         "answer_idx": "A",
         "answer": "100%",
-        "predicted_answer": "A",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 150,
-            "completion_tokens": 907
+            "completion_tokens": 587
         },
-        "time_elapsed": 11.88463568687439
+        "time_elapsed": 4.119448661804199
     },
     {
         "question": "Percentage of carbon in carbon steel hand instruments is",
@@ -694,12 +732,13 @@
         },
         "answer_idx": "A",
         "answer": "1-1.2%",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 129,
-            "completion_tokens": 523
+            "completion_tokens": 267
         },
-        "time_elapsed": 3.682891845703125
+        "time_elapsed": 2.360867977142334
     },
     {
         "question": "Reciprocal arm taper in",
@@ -712,12 +751,13 @@
         },
         "answer_idx": "A",
         "answer": "1 dimension",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 108,
-            "completion_tokens": 268
+            "completion_tokens": 523
         },
-        "time_elapsed": 2.14668607711792
+        "time_elapsed": 3.06960129737854
     },
     {
         "question": "Bone sounding done in modern times is performed by which method?",
@@ -730,12 +770,13 @@
         },
         "answer_idx": "C",
         "answer": "CBCT",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 114,
-            "completion_tokens": 587
+            "completion_tokens": 267
         },
-        "time_elapsed": 3.605766773223877
+        "time_elapsed": 2.4755547046661377
     },
     {
         "question": "Which of the following blade angle is appropriate for scaling and root planing",
@@ -748,12 +789,13 @@
         },
         "answer_idx": "B",
         "answer": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 110,
-            "completion_tokens": 267
+            "completion_tokens": 651
         },
-        "time_elapsed": 2.1190998554229736
+        "time_elapsed": 4.225810766220093
     },
     {
         "question": "Primary Colonization of plaque is dominated by",
@@ -766,12 +808,13 @@
         },
         "answer_idx": "D",
         "answer": "Facultative Anaerobic Gram + ve cocci",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 136,
-            "completion_tokens": 203
+            "completion_tokens": 331
         },
-        "time_elapsed": 1.8491742610931396
+        "time_elapsed": 4.074509620666504
     },
     {
         "question": "In a child with active liver failure, the most important prognosis factor for death is \u2013",
@@ -784,12 +827,13 @@
         },
         "answer_idx": "D",
         "answer": "Gram (\u2013)ve sepsis",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 129,
-            "completion_tokens": 139
+            "completion_tokens": 587
         },
-        "time_elapsed": 1.3844170570373535
+        "time_elapsed": 4.691934585571289
     },
     {
         "question": "Denominator in perinatal moality rate",
@@ -802,12 +846,13 @@
         },
         "answer_idx": "A",
         "answer": "Total bihs",
-        "predicted_answer": "C",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 119,
-            "completion_tokens": 139
+            "completion_tokens": 332
         },
-        "time_elapsed": 1.3116083145141602
+        "time_elapsed": 2.4361934661865234
     },
     {
         "question": "Isolation period of measles:-",
@@ -820,12 +865,13 @@
         },
         "answer_idx": "C",
         "answer": "Onset of prodromal phase until 3rd day of rash",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 148,
-            "completion_tokens": 587
+            "completion_tokens": 523
         },
-        "time_elapsed": 3.8824069499969482
+        "time_elapsed": 3.8692760467529297
     },
     {
         "question": "Production and citation impact of published work of a scientist or scholar",
@@ -838,12 +884,13 @@
         },
         "answer_idx": "B",
         "answer": "Citation",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 111,
-            "completion_tokens": 139
+            "completion_tokens": 76
         },
-        "time_elapsed": 2.662013292312622
+        "time_elapsed": 1.2620558738708496
     },
     {
         "question": "Shelf life of colourless, aqueous solution of suxamethonium is",
@@ -856,12 +903,13 @@
         },
         "answer_idx": "C",
         "answer": "2 yr",
-        "predicted_answer": "A",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 119,
-            "completion_tokens": 203
+            "completion_tokens": 779
         },
-        "time_elapsed": 1.9452178478240967
+        "time_elapsed": 4.3898115158081055
     },
     {
         "question": "Resin teeth:",
@@ -874,12 +922,13 @@
         },
         "answer_idx": "D",
         "answer": "Show a high fracture strength",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 121,
-            "completion_tokens": 203
+            "completion_tokens": 267
         },
-        "time_elapsed": 3.64970326423645
+        "time_elapsed": 1.9580881595611572
     },
     {
         "question": "Action of the muscle marked (with arrow) on mandible is",
@@ -892,12 +941,13 @@
         },
         "answer_idx": "A",
         "answer": "Elevation",
-        "predicted_answer": "A",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 112,
-            "completion_tokens": 779
+            "completion_tokens": 267
         },
-        "time_elapsed": 4.551899433135986
+        "time_elapsed": 2.2878756523132324
     },
     {
         "question": "2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen",
@@ -910,12 +960,13 @@
         },
         "answer_idx": "B",
         "answer": "1, decreases",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 126,
             "completion_tokens": 523
         },
-        "time_elapsed": 3.5864126682281494
+        "time_elapsed": 4.050755500793457
     },
     {
         "question": "Gene commonly indicated in congenital cataract:",
@@ -928,12 +979,13 @@
         },
         "answer_idx": "B",
         "answer": "CRYGS-3",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 117,
-            "completion_tokens": 203
+            "completion_tokens": 204
         },
-        "time_elapsed": 1.8691298961639404
+        "time_elapsed": 1.898057222366333
     },
     {
         "question": "Bartholins duct is the name of :",
@@ -946,12 +998,13 @@
         },
         "answer_idx": "C",
         "answer": "Sublingual duct",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 118,
-            "completion_tokens": 396
+            "completion_tokens": 908
         },
-        "time_elapsed": 2.796549081802368
+        "time_elapsed": 4.932915687561035
     },
     {
         "question": "According to WHO classi\ufb01cation of periapical pathology, sinus to oral cavity comes  under:",
@@ -964,12 +1017,13 @@
         },
         "answer_idx": "D",
         "answer": "4.62",
-        "predicted_answer": "D",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 129,
-            "completion_tokens": 1099
+            "completion_tokens": 587
         },
-        "time_elapsed": 6.0154125690460205
+        "time_elapsed": 38.4722695350647
     },
     {
         "question": "Wave patterns of EEF, ECG and EMG are depicted below. The B pattern belongs to (Figure was not provided in the exam):",
@@ -982,12 +1036,13 @@
         },
         "answer_idx": "C",
         "answer": "Wakefulness",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 130,
-            "completion_tokens": 459
+            "completion_tokens": 395
         },
-        "time_elapsed": 3.1332271099090576
+        "time_elapsed": 2.9185268878936768
     },
     {
         "question": "Fluoride pit and fissure sealants belong to which\ngeneration?",
@@ -1000,12 +1055,13 @@
         },
         "answer_idx": "D",
         "answer": "IV",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 111,
-            "completion_tokens": 395
+            "completion_tokens": 396
         },
-        "time_elapsed": 2.709848403930664
+        "time_elapsed": 3.1838717460632324
     },
     {
         "question": "The current bar clasp design used is:",
@@ -1018,12 +1074,13 @@
         },
         "answer_idx": "A",
         "answer": "Mesio-occlusal rest",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 126,
-            "completion_tokens": 331
+            "completion_tokens": 267
         },
-        "time_elapsed": 2.228011131286621
+        "time_elapsed": 2.4306254386901855
     },
     {
         "question": "In a child, surgery was done for biliary stricture with hepatojejunal anastomosis. Postoperative bilirubin level after 2 weeks was 6 mg/dL from a preoperative level 12mg/dL. The reason for this could be:",
@@ -1036,12 +1093,13 @@
         },
         "answer_idx": "C",
         "answer": "Delta bilirubin",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 167,
-            "completion_tokens": 331
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.503530502319336
+        "time_elapsed": 2.0898962020874023
     },
     {
         "question": "Centric holding cusp is?",
@@ -1054,12 +1112,13 @@
         },
         "answer_idx": "D",
         "answer": "Mesiopalatal cusp of maxillary 1st molar",
-        "predicted_answer": "A",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 148,
-            "completion_tokens": 523
+            "completion_tokens": 584
         },
-        "time_elapsed": 4.400920391082764
+        "time_elapsed": 4.444962978363037
     },
     {
         "question": "An absolute indication for LSCS in case of a Heart disease is:",
@@ -1072,12 +1131,13 @@
         },
         "answer_idx": "A",
         "answer": "Co-arctation of Aorta",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 125,
-            "completion_tokens": 459
+            "completion_tokens": 523
         },
-        "time_elapsed": 3.3919270038604736
+        "time_elapsed": 5.103587627410889
     },
     {
         "question": "Halo effect surrounding the root of tooth on IOPA X-Ray is seen with?",
@@ -1090,12 +1150,13 @@
         },
         "answer_idx": "D",
         "answer": "Periapical-periostitis",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 128,
-            "completion_tokens": 651
+            "completion_tokens": 459
         },
-        "time_elapsed": 8.819293022155762
+        "time_elapsed": 3.334773063659668
     },
     {
         "question": "Concentric teeth bite mark on forearm, what to do next?",
@@ -1108,12 +1169,13 @@
         },
         "answer_idx": "C",
         "answer": "Complete description of injury as seen",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 143,
-            "completion_tokens": 459
+            "completion_tokens": 331
         },
-        "time_elapsed": 3.3882274627685547
+        "time_elapsed": 2.5769166946411133
     },
     {
         "question": "Keyhole-shaped visual field defect is seen in lesion involving which of the following regions?",
@@ -1126,12 +1188,13 @@
         },
         "answer_idx": "C",
         "answer": "Lateral geniculate body",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 128,
-            "completion_tokens": 843
+            "completion_tokens": 395
         },
-        "time_elapsed": 5.491714954376221
+        "time_elapsed": 2.8131303787231445
     },
     {
         "question": "In a patient with competent lips together at rest, the lip\nline is opposite the tips of the upper incisors. The lip line is then described as",
@@ -1144,12 +1207,13 @@
         },
         "answer_idx": "D",
         "answer": "Low",
-        "predicted_answer": "A",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 129,
-            "completion_tokens": 715
+            "completion_tokens": 331
         },
-        "time_elapsed": 4.512884616851807
+        "time_elapsed": 3.0286993980407715
     },
     {
         "question": "Tonsils developed from:",
@@ -1162,12 +1226,13 @@
         },
         "answer_idx": "B",
         "answer": "Ventral part of 2nd pouch.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 134,
-            "completion_tokens": 267
+            "completion_tokens": 395
         },
-        "time_elapsed": 2.4604909420013428
+        "time_elapsed": 2.8049545288085938
     },
     {
         "question": "First nerve fiber present in vicinity of dental papilla in",
@@ -1180,12 +1245,13 @@
         },
         "answer_idx": "A",
         "answer": "Bud stage",
-        "predicted_answer": "D",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 112,
-            "completion_tokens": 395
+            "completion_tokens": 140
         },
-        "time_elapsed": 3.1613922119140625
+        "time_elapsed": 1.7460980415344238
     },
     {
         "question": "Who was associated with second amalgam war?",
@@ -1198,12 +1264,13 @@
         },
         "answer_idx": "D",
         "answer": "Alfred stock",
-        "predicted_answer": "D",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 111,
-            "completion_tokens": 395
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.5340263843536377
+        "time_elapsed": 2.200061559677124
     },
     {
         "question": "Which of these is not a theory of TMJ ankylosis?",
@@ -1216,12 +1283,13 @@
         },
         "answer_idx": "B",
         "answer": "Synovial fluid attracting calcium ions",
-        "predicted_answer": "B",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 142,
-            "completion_tokens": 395
+            "completion_tokens": 523
         },
-        "time_elapsed": 3.8350651264190674
+        "time_elapsed": 3.623828411102295
     },
     {
         "question": "Which one of the following is a muscle splitting incision?",
@@ -1234,12 +1302,13 @@
         },
         "answer_idx": "D",
         "answer": "Lanz incision",
-        "predicted_answer": "B",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 119,
-            "completion_tokens": 587
+            "completion_tokens": 716
         },
-        "time_elapsed": 3.673009157180786
+        "time_elapsed": 4.484363079071045
     },
     {
         "question": "In Mount and Hume classification, what will be the site size of the following lesion?",
@@ -1252,12 +1321,13 @@
         },
         "answer_idx": "C",
         "answer": "3.1",
-        "predicted_answer": "B",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 126,
-            "completion_tokens": 1355
+            "completion_tokens": 459
         },
-        "time_elapsed": 10.964489459991455
+        "time_elapsed": 2.937643527984619
     },
     {
         "question": "A young man was on high protein diet. After 3 days he developed weakness. Blood investigation revealed hypoglycemia. Hypoglycemia is due to inhibition of which of the following enzymes",
@@ -1270,12 +1340,13 @@
         },
         "answer_idx": "D",
         "answer": "PEP carboxylase",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 155,
-            "completion_tokens": 1419
+            "completion_tokens": 395
         },
-        "time_elapsed": 8.572274684906006
+        "time_elapsed": 2.9112746715545654
     },
     {
         "question": "Lenolin is added in ZOE paste to:",
@@ -1288,12 +1359,13 @@
         },
         "answer_idx": "B",
         "answer": "Increase flow",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 118,
-            "completion_tokens": 587
+            "completion_tokens": 140
         },
-        "time_elapsed": 3.9028701782226562
+        "time_elapsed": 1.6917774677276611
     },
     {
         "question": "The source of calcium ions of a calcific bridge in a\ntooth in which calcium hydroxide pulpotomy has been\nperformed is:",
@@ -1306,12 +1378,13 @@
         },
         "answer_idx": "A",
         "answer": "Blood vessel borne",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 135,
-            "completion_tokens": 331
+            "completion_tokens": 651
         },
-        "time_elapsed": 3.9138572216033936
+        "time_elapsed": 3.725140333175659
     },
     {
         "question": "Easiest 3rd molar surgical extraction is:",
@@ -1324,12 +1397,13 @@
         },
         "answer_idx": "A",
         "answer": "Mesioangular",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 112,
-            "completion_tokens": 267
+            "completion_tokens": 204
         },
-        "time_elapsed": 2.2448296546936035
+        "time_elapsed": 2.2476072311401367
     },
     {
         "question": "Which marker shows holocrine gland?",
@@ -1342,12 +1416,13 @@
         },
         "answer_idx": "A",
         "answer": "A",
-        "predicted_answer": "D",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 104,
-            "completion_tokens": 203
+            "completion_tokens": 459
         },
-        "time_elapsed": 2.491288900375366
+        "time_elapsed": 3.3663904666900635
     },
     {
         "question": "Most effective method of assessing breathing is by measuring:",
@@ -1360,12 +1435,13 @@
         },
         "answer_idx": "D",
         "answer": "FEV 1",
-        "predicted_answer": "B",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 116,
             "completion_tokens": 331
         },
-        "time_elapsed": 2.34031343460083
+        "time_elapsed": 2.762641668319702
     },
     {
         "question": "Hammock ligament is present:",
@@ -1378,12 +1454,13 @@
         },
         "answer_idx": "C",
         "answer": "In apical area of a tooth",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 125,
-            "completion_tokens": 1035
+            "completion_tokens": 460
         },
-        "time_elapsed": 5.837352275848389
+        "time_elapsed": 3.4480836391448975
     },
     {
         "question": "When a dentist says that \" I cannot fix your teeth if you do not open your mouth wide:\" He is employing:",
@@ -1396,12 +1473,13 @@
         },
         "answer_idx": "A",
         "answer": "Problem ownership.",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 127,
             "completion_tokens": 331
         },
-        "time_elapsed": 2.5817840099334717
+        "time_elapsed": 2.617363452911377
     },
     {
         "question": "What is the name of the given instrument, used for harvesting the graft from healthy area in split thickness skin graft?",
@@ -1414,12 +1492,13 @@
         },
         "answer_idx": "D",
         "answer": "Humby knife",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 128,
-            "completion_tokens": 139
+            "completion_tokens": 267
         },
-        "time_elapsed": 4.36972188949585
+        "time_elapsed": 2.672342538833618
     },
     {
         "question": "Most common tumor of lacrimal gland:",
@@ -1432,12 +1511,13 @@
         },
         "answer_idx": "D",
         "answer": "Hamate fracture",
-        "predicted_answer": "C",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 120,
-            "completion_tokens": 331
+            "completion_tokens": 395
         },
-        "time_elapsed": 2.266174077987671
+        "time_elapsed": 2.8973307609558105
     },
     {
         "question": "For how long should NiTi files be submerged in NaOCl at 122-degree F to prevent damage to file corrosion",
@@ -1450,12 +1530,13 @@
         },
         "answer_idx": "C",
         "answer": "60 mins",
-        "predicted_answer": "C",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 128,
             "completion_tokens": 331
         },
-        "time_elapsed": 2.414379119873047
+        "time_elapsed": 2.473123550415039
     },
     {
         "question": "Classify the class of recession:",
@@ -1468,12 +1549,13 @@
         },
         "answer_idx": "C",
         "answer": "Class 3",
-        "predicted_answer": "B",
+        "completion": "I'm sorry, but I need more information to classify the class of recession. Could you please provide additional details or context?",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 111,
-            "completion_tokens": 779
+            "completion_tokens": 995
         },
-        "time_elapsed": 4.211254596710205
+        "time_elapsed": 5.49259614944458
     },
     {
         "question": "Term \"Clean Tooth Never Decays\" given by",
@@ -1486,12 +1568,13 @@
         },
         "answer_idx": "B",
         "answer": "Leon J Williams",
-        "predicted_answer": "C",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 113,
-            "completion_tokens": 395
+            "completion_tokens": 267
         },
-        "time_elapsed": 2.700545072555542
+        "time_elapsed": 2.2698700428009033
     },
     {
         "question": "Which primary tooth resemble premolar",
@@ -1504,12 +1587,13 @@
         },
         "answer_idx": "A",
         "answer": "Upper 1st molar",
-        "predicted_answer": "C",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 122,
-            "completion_tokens": 459
+            "completion_tokens": 588
         },
-        "time_elapsed": 3.2016327381134033
+        "time_elapsed": 3.578594207763672
     },
     {
         "question": "Which of the following committees has recommended a 3-year bachelor degree in medical education for rural health service?",
@@ -1522,12 +1606,13 @@
         },
         "answer_idx": "A",
         "answer": "High level expe group of universal health program for india",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 137,
-            "completion_tokens": 204
+            "completion_tokens": 268
         },
-        "time_elapsed": 8.166521072387695
+        "time_elapsed": 2.2506368160247803
     },
     {
         "question": "In full tooth borne dentures occlusal rests transmits _________ percentage of occlusal forces to teeth:",
@@ -1540,12 +1625,13 @@
         },
         "answer_idx": "D",
         "answer": "100%",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 126,
-            "completion_tokens": 332
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.533491849899292
+        "time_elapsed": 4.587869167327881
     },
     {
         "question": "A patient comes after a dog bite with hydrophobia, tearing and altered sensorium. You suspect rabies in this patient. Corneal impression has been taken. What test will you do on it for most accurate diagnosis?",
@@ -1558,12 +1644,13 @@
         },
         "answer_idx": "B",
         "answer": "-PCR for virus",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 163,
-            "completion_tokens": 523
+            "completion_tokens": 651
         },
-        "time_elapsed": 5.56158447265625
+        "time_elapsed": 5.779144763946533
     },
     {
         "question": "plate endings are features of",
@@ -1576,12 +1663,13 @@
         },
         "answer_idx": "B",
         "answer": "Nuclear bag fibres",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 109,
-            "completion_tokens": 267
+            "completion_tokens": 524
         },
-        "time_elapsed": 3.4306886196136475
+        "time_elapsed": 3.8778116703033447
     },
     {
         "question": "Microangiopathic hemolytic anemia",
@@ -1594,12 +1682,13 @@
         },
         "answer_idx": "B",
         "answer": "ITP",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 110,
-            "completion_tokens": 267
+            "completion_tokens": 139
         },
-        "time_elapsed": 2.1849000453948975
+        "time_elapsed": 1.6949982643127441
     },
     {
         "question": "The necrotising pressure areas, undergoing bone resorption and endosteal bone formation",
@@ -1612,12 +1701,13 @@
         },
         "answer_idx": "B",
         "answer": "Occlusal trauma",
-        "predicted_answer": "A",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 127,
             "completion_tokens": 395
         },
-        "time_elapsed": 2.657712697982788
+        "time_elapsed": 2.8822832107543945
     },
     {
         "question": "A 55- year old diabetic patient presents with transient obscuration in vision for 2-3 days followed by sudden loss of vision. Which of the following would be the best test to evaluate the symptoms?",
@@ -1630,12 +1720,13 @@
         },
         "answer_idx": "D",
         "answer": "Serum creatinine levels",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 154,
-            "completion_tokens": 587
+            "completion_tokens": 907
         },
-        "time_elapsed": 3.4570538997650146
+        "time_elapsed": 5.428825855255127
     },
     {
         "question": "Increase in height of mandible with increase in interdental spaces in elderly man",
@@ -1648,12 +1739,13 @@
         },
         "answer_idx": "A",
         "answer": "Hyperpituitarism",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 123,
-            "completion_tokens": 267
+            "completion_tokens": 331
         },
-        "time_elapsed": 2.170163869857788
+        "time_elapsed": 2.737626314163208
     },
     {
         "question": "A patient is administered 200 mg of a drug. 75 mg of the drug is eliminated from the body in 90 minutes. If the drug follows first order kinetics, how much drug will remain after 6 hours?",
@@ -1666,12 +1758,13 @@
         },
         "answer_idx": "C",
         "answer": "30 mg",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 151,
             "completion_tokens": 395
         },
-        "time_elapsed": 2.6120195388793945
+        "time_elapsed": 5.831725358963013
     },
     {
         "question": "Which of the following diseases is diagnosed with the help of the flowcytometry pattern?",
@@ -1684,12 +1777,13 @@
         },
         "answer_idx": "C",
         "answer": "Hyper IgM syndrome",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 127,
             "completion_tokens": 459
         },
-        "time_elapsed": 2.9702484607696533
+        "time_elapsed": 3.119288682937622
     },
     {
         "question": "Thyroglossal fistula is:",
@@ -1702,12 +1796,13 @@
         },
         "answer_idx": "B",
         "answer": "Causes a bulge in neck",
-        "predicted_answer": "A",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 122,
-            "completion_tokens": 395
+            "completion_tokens": 523
         },
-        "time_elapsed": 4.09183406829834
+        "time_elapsed": 3.4437031745910645
     },
     {
         "question": "Which of the following conditions is associated with polyhy dramnios?",
@@ -1720,12 +1815,13 @@
         },
         "answer_idx": "B",
         "answer": "Cleft palate",
-        "predicted_answer": "B",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 127,
-            "completion_tokens": 395
+            "completion_tokens": 651
         },
-        "time_elapsed": 3.424804449081421
+        "time_elapsed": 3.8100457191467285
     },
     {
         "question": "The best finish line for anterior metal ceramic crown is",
@@ -1738,12 +1834,13 @@
         },
         "answer_idx": "D",
         "answer": "Shoulder with bevel",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 113,
-            "completion_tokens": 203
+            "completion_tokens": 75
         },
-        "time_elapsed": 4.708441257476807
+        "time_elapsed": 2.317732572555542
     },
     {
         "question": "Sensitivity in gingival area of class II light cured composite restoration after 2 months is due to:",
@@ -1756,12 +1853,13 @@
         },
         "answer_idx": "A",
         "answer": "Improper cavity preparation at gingival margin",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 145,
-            "completion_tokens": 459
+            "completion_tokens": 651
         },
-        "time_elapsed": 2.8274195194244385
+        "time_elapsed": 4.227740049362183
     },
     {
         "question": "A study was conducted to find average intra-ocular pressure. IOP was measured in 400 people and the mean was found to be 25 mm Hg with a standard detion of 10 mm Hg. What is the range in which 10P of 95% of the population would be lying?",
@@ -1774,12 +1872,13 @@
         },
         "answer_idx": "C",
         "answer": "24-26 mm Hg",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 178,
-            "completion_tokens": 651
+            "completion_tokens": 459
         },
-        "time_elapsed": 3.872840404510498
+        "time_elapsed": 3.0738797187805176
     },
     {
         "question": "For >10 mm setback of mandible, which of these surgeries is most suitable:",
@@ -1792,11 +1891,12 @@
         },
         "answer_idx": "B",
         "answer": "Vertical ramus osteotomy",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 137,
-            "completion_tokens": 523
+            "completion_tokens": 203
         },
-        "time_elapsed": 3.978398084640503
+        "time_elapsed": 3.0226402282714844
     }
 ]

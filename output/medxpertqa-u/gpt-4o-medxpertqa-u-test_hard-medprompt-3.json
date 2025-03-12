@@ -19,9 +19,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1281,
-            "completion_tokens": 40
+            "completion_tokens": 46
         },
-        "time_elapsed": 4.2040650844573975
+        "time_elapsed": 3.889158248901367,
+        "raw_responses": [
+            "(G) Activated cytotoxic T cells",
+            "(G) Activated cytotoxic T cells",
+            "(G) Activated cytotoxic T cells"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "1"
+        ],
+        "final_solution": "(G) Activated cytotoxic T cells"
     },
     {
         "realidx": "Text-113",
@@ -43,9 +54,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1620,
-            "completion_tokens": 59
+            "completion_tokens": 47
         },
-        "time_elapsed": 3.868630886077881
+        "time_elapsed": 4.446878433227539,
+        "raw_responses": [
+            "(F) Decreases carpal tunnel pressure",
+            "The correct answer is: (A) Enlarges the carpal tunnel volume",
+            "The correct answer is: (A) Enlarges the carpal tunnel volume"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "2"
+        ],
+        "final_solution": "The correct answer is: (A) Enlarges the carpal tunnel volume"
     },
     {
         "realidx": "Text-116",
@@ -67,9 +89,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2520,
-            "completion_tokens": 85
+            "completion_tokens": 105
         },
-        "time_elapsed": 4.662725210189819
+        "time_elapsed": 4.5642969608306885,
+        "raw_responses": [
+            "(B) 25-year-old army captain with a complex blast injury to his shin undergoing transfemoral amputation",
+            "(B) 25-year-old army captain with a complex blast injury to his shin undergoing transfemoral amputation",
+            "(B) 25-year-old army captain with a complex blast injury to his shin undergoing transfemoral amputation"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0. All candidate solutions are identical, so any of them would be correct.",
+            "0",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) 25-year-old army captain with a complex blast injury to his shin undergoing transfemoral amputation"
     },
     {
         "realidx": "Text-118",
@@ -91,9 +124,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2742,
-            "completion_tokens": 131
+            "completion_tokens": 84
         },
-        "time_elapsed": 4.700934171676636
+        "time_elapsed": 5.1863579750061035,
+        "raw_responses": [
+            "(A) The earliest radiographic finding is endplate erosion, followed by loss of normal lumbar lordosis and disc space narrowing.",
+            "(A) The earliest radiographic finding is endplate erosion, followed by loss of normal lumbar lordosis and disc space narrowing.",
+            "(A) The earliest radiographic finding is endplate erosion, followed by loss of normal lumbar lordosis and disc space narrowing."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) The earliest radiographic finding is endplate erosion, followed by loss of normal lumbar lordosis and disc space narrowing."
     },
     {
         "realidx": "Text-123",
@@ -115,9 +159,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2142,
-            "completion_tokens": 75
+            "completion_tokens": 108
         },
-        "time_elapsed": 4.690998792648315
+        "time_elapsed": 5.0079505443573,
+        "raw_responses": [
+            "(B) Carboplatin, paclitaxel, and trastuzumab",
+            "(B) Carboplatin, paclitaxel, and trastuzumab",
+            "(B) Carboplatin, paclitaxel, and trastuzumab"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "All the candidate solutions provided are the same, indicating a consensus. Therefore, any of the options can be chosen as the final answer. I will choose option 0.\n\n0",
+            "The best final answer is option number: 0."
+        ],
+        "final_solution": "(B) Carboplatin, paclitaxel, and trastuzumab"
     },
     {
         "realidx": "Text-125",
@@ -139,9 +194,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1167,
-            "completion_tokens": 169
+            "completion_tokens": 118
         },
-        "time_elapsed": 5.291974067687988
+        "time_elapsed": 4.754898309707642,
+        "raw_responses": [
+            "(B) Tirapazamine",
+            "(B) Tirapazamine",
+            "(B) Tirapazamine"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 0.",
+            "The best final answer is option 0.",
+            "The candidate solutions 0, 1, and 2 all suggest the same answer: (B) Tirapazamine. Given that all solutions agree on the same answer, and considering that Tirapazamine is indeed known for its effectiveness in treating head and neck cancer by undergoing redox recycling or decomposing into a toxic product, the best final answer is:\n\n0"
+        ],
+        "final_solution": "(B) Tirapazamine"
     },
     {
         "realidx": "Text-13",
@@ -163,9 +229,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1344,
-            "completion_tokens": 35
+            "completion_tokens": 50
         },
-        "time_elapsed": 5.334252595901489
+        "time_elapsed": 4.5013108253479,
+        "raw_responses": [
+            "(D) Total knee arthroplasty",
+            "(D) Total knee arthroplasty",
+            "(D) Total knee arthroplasty"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 0.",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "(D) Total knee arthroplasty"
     },
     {
         "realidx": "Text-131",
@@ -187,9 +264,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1275,
-            "completion_tokens": 45
+            "completion_tokens": 43
         },
-        "time_elapsed": 3.840881586074829
+        "time_elapsed": 3.968637228012085,
+        "raw_responses": [
+            "(H) Bilateral kidney enlargement",
+            "(H) Bilateral kidney enlargement",
+            "(H) Bilateral kidney enlargement"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(H) Bilateral kidney enlargement"
     },
     {
         "realidx": "Text-134",
@@ -210,10 +298,21 @@
         "answer": "Dependent",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 2052,
-            "completion_tokens": 472
+            "prompt_tokens": 2034,
+            "completion_tokens": 440
         },
-        "time_elapsed": 8.91153860092163
+        "time_elapsed": 7.838076829910278,
+        "raw_responses": [
+            "The patient's symptoms include social isolation, fear of leaving the house alone, discomfort in crowded places, and avoidance of public transportation. These symptoms are consistent with Avoidant Personality Disorder, which is characterized by social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation. Avoidant Personality Disorder has a genetic association.\n\nFinal answer: (G) Avoidant",
+            "The patient's symptoms include social isolation, fear of leaving the house alone, discomfort in crowded places, and avoidance of public transportation. These symptoms are consistent with Avoidant Personality Disorder, which is characterized by social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation. Avoidant Personality Disorder has a known genetic association.\n\nFinal answer: (G) Avoidant",
+            "The patient's symptoms of social isolation, fear of leaving the house alone, discomfort in crowded places, and avoidance of public transportation suggest a pattern of behavior consistent with Avoidant Personality Disorder. This disorder is characterized by social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation. Given the genetic association with this condition, the most likely personality disorder is:\n\n(G) Avoidant"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions correctly identify the patient's symptoms and associate them with Avoidant Personality Disorder, which has a known genetic association. The explanations provided in each solution are clear and accurate. However, solution 2 is slightly more detailed in its explanation and explicitly mentions the genetic association at the end, making it the most comprehensive and clear choice.\n\nTherefore, the best final answer is:\n\n2",
+            "All three candidate solutions correctly identify the patient's symptoms and associate them with Avoidant Personality Disorder, which has a genetic association. The explanations provided in each solution are clear and accurate. However, solution 1 is slightly more concise and directly addresses the genetic association in the final statement.\n\nTherefore, the best final answer is:\n\n1",
+            "All three candidate solutions correctly identify the patient's symptoms and associate them with Avoidant Personality Disorder, which has a known genetic association. The explanations provided in each solution are clear and accurate. Since all solutions are essentially the same in content and correctness, any of them could be chosen. \n\nI will choose option 0 as it is the first correct solution provided.\n\nFinal answer: 0"
+        ],
+        "final_solution": "The patient's symptoms of social isolation, fear of leaving the house alone, discomfort in crowded places, and avoidance of public transportation suggest a pattern of behavior consistent with Avoidant Personality Disorder. This disorder is characterized by social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation. Given the genetic association with this condition, the most likely personality disorder is:\n\n(G) Avoidant"
     },
     {
         "realidx": "Text-141",
@@ -234,10 +333,21 @@
         "answer": "Hemorrhage",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2148,
-            "completion_tokens": 209
+            "prompt_tokens": 2382,
+            "completion_tokens": 321
         },
-        "time_elapsed": 5.242025136947632
+        "time_elapsed": 7.131074666976929,
+        "raw_responses": [
+            "The patient presents with bilateral absence of radii, which is a characteristic feature of Fanconi anemia. Fanconi anemia is associated with several complications, including hematologic abnormalities and congenital malformations. The most significant risk associated with Fanconi anemia is bone marrow failure, leading to chronic anemia.\n\nFinal answer: (C) Chronic anemia",
+            "The patient presents with bilateral absence of radii, which is characteristic of radial ray anomalies. These anomalies are often associated with certain syndromes, one of which is Fanconi anemia. However, given the absence of other symptoms such as pancytopenia or hyperpigmentation, Fanconi anemia is less likely. Another condition to consider is Holt-Oram syndrome, which is characterized by upper limb defects and congenital heart disease. Given the association of radial ray anomalies with cardiac malformations, the most significant risk in this patient is likely to be cardiac malformations.\n\nFinal answer: (D) Cardiac malformations",
+            "(D) Cardiac malformations"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0. \n\nOption 0 provides a detailed analysis of the patient's condition, considering the differential diagnoses and the associated risks. It correctly identifies the association of radial ray anomalies with Holt-Oram syndrome, which is characterized by upper limb defects and congenital heart disease, making cardiac malformations the most significant risk.\n\nOption 1 simply states the answer without any explanation, and option 2 incorrectly identifies the condition as Fanconi anemia, which is less likely given the absence of other symptoms such as pancytopenia or hyperpigmentation.\n\nTherefore, the chosen option is 0.",
+            "2",
+            "2"
+        ],
+        "final_solution": "The patient presents with bilateral absence of radii, which is characteristic of radial ray anomalies. These anomalies are often associated with certain syndromes, one of which is Fanconi anemia. However, given the absence of other symptoms such as pancytopenia or hyperpigmentation, Fanconi anemia is less likely. Another condition to consider is Holt-Oram syndrome, which is characterized by upper limb defects and congenital heart disease. Given the association of radial ray anomalies with cardiac malformations, the most significant risk in this patient is likely to be cardiac malformations.\n\nFinal answer: (D) Cardiac malformations"
     },
     {
         "realidx": "Text-150",
@@ -256,12 +366,23 @@
         },
         "answer_idx": "A",
         "answer": "| **Diameter** | **Degree of Myelination** |\n| --- | --- |\n| 2 \u00b5m | ++++ |",
-        "predicted_answer": "A",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 4620,
-            "completion_tokens": 618
+            "prompt_tokens": 5289,
+            "completion_tokens": 772
         },
-        "time_elapsed": 11.46129822731018
+        "time_elapsed": 11.321833848953247,
+        "raw_responses": [
+            "(E) | **Diameter** | **Degree of Myelination** |  \n| --- | --- |  \n| 1 \u00b5m | ++ |",
+            "The nerve fibers most susceptible to blockade by local anesthetics like xylocaine are those with smaller diameters and less myelination. \n\n- (A) Diameter: 2 \u00b5m, Degree of Myelination: ++++\n- (B) Diameter: 4 \u00b5m, Degree of Myelination: ++\n- (C) Diameter: 10 \u00b5m, Degree of Myelination: ++++\n- (D) Diameter: 15 \u00b5m, Degree of Myelination: ++++\n- (E) Diameter: 1 \u00b5m, Degree of Myelination: ++\n- (F) Diameter: 12 \u00b5m, Degree of Myelination: ++++\n- (G) Diameter: 8 \u00b5m, Degree of Myelination: ++++\n- (H) Diameter: 3 \u00b5m, Degree of Myelination: ++\n- (I) Diameter: 0.5 \u00b5m, Degree of Myelination: -\n- (J) Diameter: 6 \u00b5m, Degree of Myelination: +++\n\nThe most susceptible fibers are those with the smallest diameter and least myelination, which is:\n\n(I) Diameter: 0.5 \u00b5m, Degree of Myelination: -",
+            "The nerve fibers most susceptible to blockade by local anesthetics like xylocaine are those with smaller diameters and less myelination. \n\n- (A) Diameter: 2 \u00b5m, Degree of Myelination: ++++\n- (B) Diameter: 4 \u00b5m, Degree of Myelination: ++\n- (C) Diameter: 10 \u00b5m, Degree of Myelination: ++++\n- (D) Diameter: 15 \u00b5m, Degree of Myelination: ++++\n- (E) Diameter: 1 \u00b5m, Degree of Myelination: ++\n- (F) Diameter: 12 \u00b5m, Degree of Myelination: ++++\n- (G) Diameter: 8 \u00b5m, Degree of Myelination: ++++\n- (H) Diameter: 3 \u00b5m, Degree of Myelination: ++\n- (I) Diameter: 0.5 \u00b5m, Degree of Myelination: -\n- (J) Diameter: 6 \u00b5m, Degree of Myelination: +++\n\nThe most susceptible fibers are those with the smallest diameter and least myelination. Therefore, the correct answer is:\n\n(I) Diameter: 0.5 \u00b5m, Degree of Myelination: -"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2. \n\nOption 2 correctly identifies that the nerve fibers most susceptible to blockade by local anesthetics like xylocaine are those with the smallest diameter and least myelination. Therefore, the correct answer is:\n\n(I) Diameter: 0.5 \u00b5m, Degree of Myelination: -",
+            "The best final answer is option 2. \n\nOption 2 correctly identifies that the nerve fibers most susceptible to blockade by local anesthetics like xylocaine are those with the smallest diameter and least myelination. It then correctly selects (I) Diameter: 0.5 \u00b5m, Degree of Myelination: - as the correct answer.",
+            "The best final answer is option 2. \n\nOption 2 correctly identifies that the nerve fibers most susceptible to blockade by local anesthetics like xylocaine are those with the smallest diameter and least myelination. It then correctly selects (I) Diameter: 0.5 \u00b5m, Degree of Myelination: - as the correct answer."
+        ],
+        "final_solution": "The nerve fibers most susceptible to blockade by local anesthetics like xylocaine are those with smaller diameters and less myelination. \n\n- (A) Diameter: 2 \u00b5m, Degree of Myelination: ++++\n- (B) Diameter: 4 \u00b5m, Degree of Myelination: ++\n- (C) Diameter: 10 \u00b5m, Degree of Myelination: ++++\n- (D) Diameter: 15 \u00b5m, Degree of Myelination: ++++\n- (E) Diameter: 1 \u00b5m, Degree of Myelination: ++\n- (F) Diameter: 12 \u00b5m, Degree of Myelination: ++++\n- (G) Diameter: 8 \u00b5m, Degree of Myelination: ++++\n- (H) Diameter: 3 \u00b5m, Degree of Myelination: ++\n- (I) Diameter: 0.5 \u00b5m, Degree of Myelination: -\n- (J) Diameter: 6 \u00b5m, Degree of Myelination: +++\n\nThe most susceptible fibers are those with the smallest diameter and least myelination, which is:\n\n(I) Diameter: 0.5 \u00b5m, Degree of Myelination: -"
     },
     {
         "realidx": "Text-152",
@@ -282,10 +403,21 @@
         "answer": "*Campylobacter*",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2210,
-            "completion_tokens": 36
+            "prompt_tokens": 2193,
+            "completion_tokens": 30
         },
-        "time_elapsed": 8.623796939849854
+        "time_elapsed": 3.8209989070892334,
+        "raw_responses": [
+            "(I) *Campylobacter*",
+            "(I) *Campylobacter*",
+            "(I) *Campylobacter*"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(I) *Campylobacter*"
     },
     {
         "realidx": "Text-154",
@@ -306,10 +438,21 @@
         "answer": "Pantothenic acid",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 5169,
-            "completion_tokens": 1075
+            "prompt_tokens": 4140,
+            "completion_tokens": 738
         },
-        "time_elapsed": 14.18613076210022
+        "time_elapsed": 11.776729822158813,
+        "raw_responses": [
+            "The patient's symptoms include severe malnutrition, generalized wasting, and severe burning pain in both feet. Given his history of being a primary caregiver and recent bereavement, it is likely that he has not been taking care of his nutritional needs.\n\n1. Riboflavin deficiency typically presents with sore throat, hyperemia, edema of the mucous membranes, and cheilosis, which are not described here.\n2. Vitamin B12 deficiency can cause peripheral neuropathy, but it usually presents with additional symptoms such as anemia, glossitis, and neuropsychiatric symptoms.\n3. Vitamin C deficiency (scurvy) presents with symptoms like bleeding gums, bruising, and poor wound healing, which are not mentioned.\n4. Pantothenic acid deficiency is rare and typically presents with nonspecific symptoms like fatigue, irritability, and numbness.\n5. Vitamin E deficiency can cause peripheral neuropathy, but it is rare and usually associated with fat malabsorption.\n6. Thiamine deficiency (beriberi) can cause peripheral neuropathy and severe pain in the extremities, which matches the patient's symptoms.\n7. Pyridoxine deficiency can cause peripheral neuropathy, but it is less likely given the severe malnutrition and generalized wasting.\n8. Folic acid deficiency typically presents with megaloblastic anemia and does not cause peripheral neuropathy.\n9. Niacin deficiency (pellagra) presents with dermatitis, diarrhea, and dementia, which are not described here.\n10. Biotin deficiency is rare and usually presents with dermatitis, alopecia, and neurological symptoms.\n\nThe most likely cause of the patient's symptoms, considering the severe burning pain in both feet and generalized wasting, is thiamine deficiency.\n\nFinal answer: (F) Thiamine",
+            "The patient's symptoms include severe malnutrition, generalized wasting, and severe burning pain in both feet. Given his history of poor nutritional intake and the specific symptom of burning pain in the feet, we should consider vitamin deficiencies that can cause neuropathy or peripheral nerve pain.\n\n- Riboflavin (B2) deficiency typically causes sore throat, hyperemia, edema of the mucous membranes, and angular stomatitis, but not severe burning pain in the feet.\n- Vitamin B12 deficiency can cause neuropathy, but it usually presents with more systemic symptoms like anemia and cognitive changes.\n- Vitamin C deficiency (scurvy) causes symptoms like bleeding gums, bruising, and joint pain, but not typically burning pain in the feet.\n- Pantothenic acid (B5) deficiency can cause burning feet syndrome, but it is very rare.\n- Vitamin E deficiency can cause neuropathy, but it is also rare and usually associated with fat malabsorption.\n- Thiamine (B1) deficiency can cause beriberi, which includes symptoms of neuropathy and severe burning pain in the feet.\n- Pyridoxine (B6) deficiency can cause neuropathy, but it is less likely to present with severe burning pain in the feet.\n- Folic acid deficiency typically causes megaloblastic anemia and does not present with neuropathy.\n- Niacin (B3) deficiency causes pellagra, which includes dermatitis, diarrhea, and dementia, but not typically burning pain in the feet.\n- Biotin deficiency is rare and usually presents with dermatitis, alopecia, and neurological symptoms, but not specifically burning pain in the feet.\n\nGiven the patient's symptoms and the most likely vitamin deficiency associated with severe burning pain in the feet, the most likely cause is thiamine (B1) deficiency.\n\nFinal answer: (F) Thiamine",
+            "(B) Vitamin B12"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient's symptoms include severe malnutrition, generalized wasting, and severe burning pain in both feet. Given his history of being a primary caregiver and recent bereavement, it is likely that he has not been taking care of his nutritional needs.\n\n1. Riboflavin deficiency typically presents with sore throat, hyperemia, edema of the mucous membranes, and cheilosis, which are not described here.\n2. Vitamin B12 deficiency can cause peripheral neuropathy, but it usually presents with additional symptoms such as anemia, glossitis, and neuropsychiatric symptoms.\n3. Vitamin C deficiency (scurvy) presents with symptoms like bleeding gums, bruising, and poor wound healing, which are not mentioned.\n4. Pantothenic acid deficiency is rare and typically presents with nonspecific symptoms like fatigue, irritability, and numbness.\n5. Vitamin E deficiency can cause peripheral neuropathy, but it is rare and usually associated with fat malabsorption.\n6. Thiamine deficiency (beriberi) can cause peripheral neuropathy and severe pain in the extremities, which matches the patient's symptoms.\n7. Pyridoxine deficiency can cause peripheral neuropathy, but it is less likely given the severe malnutrition and generalized wasting.\n8. Folic acid deficiency typically presents with megaloblastic anemia and does not cause peripheral neuropathy.\n9. Niacin deficiency (pellagra) presents with dermatitis, diarrhea, and dementia, which are not described here.\n10. Biotin deficiency is rare and usually presents with dermatitis, alopecia, and neurological symptoms.\n\nThe most likely cause of the patient's symptoms, considering the severe burning pain in both feet and generalized wasting, is thiamine deficiency.\n\nFinal answer: (F) Thiamine"
     },
     {
         "realidx": "Text-158",
@@ -331,9 +474,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1119,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 4.467663764953613
+        "time_elapsed": 5.915347099304199,
+        "raw_responses": [
+            "(H) Substance P",
+            "(H) Substance P",
+            "(H) Substance P"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(H) Substance P"
     },
     {
         "realidx": "Text-160",
@@ -354,10 +508,21 @@
         "answer": "Sorbitol dehydrogenase",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 2937,
-            "completion_tokens": 419
+            "prompt_tokens": 3105,
+            "completion_tokens": 481
         },
-        "time_elapsed": 7.492194890975952
+        "time_elapsed": 8.90114450454712,
+        "raw_responses": [
+            "The patient's progressive blurring of vision and fundoscopic findings of retinal artery narrowing and microaneurysms are indicative of diabetic retinopathy, a common complication of long-standing diabetes. Diabetic retinopathy is associated with hyperglycemia-induced damage to retinal blood vessels. \n\nIn hyperglycemia, excess glucose is converted to sorbitol by the enzyme aldose reductase. Sorbitol accumulation in tissues, such as the retina, lens, and nerves, leads to osmotic and oxidative stress, contributing to diabetic complications like retinopathy, cataracts, and neuropathy.\n\nTherefore, the enzyme responsible for the patient's clinical manifestations is:\n\n(F) Aldose reductase",
+            "The patient's progressive blurring of vision and fundoscopic findings of retinal artery narrowing and microaneurysms are indicative of diabetic retinopathy. Diabetic retinopathy is a common complication of long-standing diabetes and is related to hyperglycemia-induced damage to retinal blood vessels. \n\nIn the context of diabetes, hyperglycemia leads to increased glucose levels in tissues that do not require insulin for glucose uptake, such as the retina. Excess glucose in these tissues is converted to sorbitol by the enzyme aldose reductase. Accumulation of sorbitol can cause osmotic and oxidative stress, contributing to microvascular damage seen in diabetic retinopathy.\n\nTherefore, the enzyme most likely responsible for the patient's clinical manifestations is:\n\n(F) Aldose reductase",
+            "The patient's clinical manifestations are most likely attributable to tissue-specific variations in the expression of which enzyme?\n\nThe patient's progressive blurring of vision and fundoscopic findings of retinal artery narrowing and microaneurysms are indicative of diabetic retinopathy. Diabetic retinopathy is a common complication of long-standing diabetes and is related to hyperglycemia-induced damage to retinal blood vessels.\n\nIn the context of diabetes, hyperglycemia leads to the accumulation of sorbitol in tissues where aldose reductase is present but sorbitol dehydrogenase is either absent or present in low amounts. This accumulation of sorbitol can cause osmotic and oxidative stress, contributing to the development of diabetic complications such as retinopathy.\n\nTherefore, the enzyme responsible for the conversion of glucose to sorbitol, which is aldose reductase, is implicated in this process.\n\nFinal answer: (F) Aldose reductase"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "The patient's progressive blurring of vision and fundoscopic findings of retinal artery narrowing and microaneurysms are indicative of diabetic retinopathy. Diabetic retinopathy is a common complication of long-standing diabetes and is related to hyperglycemia-induced damage to retinal blood vessels. \n\nIn the context of diabetes, hyperglycemia leads to increased glucose levels in tissues that do not require insulin for glucose uptake, such as the retina. Excess glucose in these tissues is converted to sorbitol by the enzyme aldose reductase. Accumulation of sorbitol can cause osmotic and oxidative stress, contributing to microvascular damage seen in diabetic retinopathy.\n\nTherefore, the enzyme most likely responsible for the patient's clinical manifestations is:\n\n(F) Aldose reductase"
     },
     {
         "realidx": "Text-17",
@@ -379,9 +544,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1968,
-            "completion_tokens": 57
+            "completion_tokens": 63
         },
-        "time_elapsed": 5.1516289710998535
+        "time_elapsed": 4.515281438827515,
+        "raw_responses": [
+            "(D) Disulfide bonds formed during protein folding",
+            "(D) Disulfide bonds formed during protein folding",
+            "(D) Disulfide bonds formed during protein folding"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(D) Disulfide bonds formed during protein folding"
     },
     {
         "realidx": "Text-176",
@@ -403,9 +579,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2064,
-            "completion_tokens": 91
+            "completion_tokens": 48
         },
-        "time_elapsed": 4.28597354888916
+        "time_elapsed": 4.393786668777466,
+        "raw_responses": [
+            "(A) Modified Kessler technique with 4-strand repair",
+            "(A) Modified Kessler technique with 4-strand repair",
+            "(A) Modified Kessler technique with 4-strand repair"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(A) Modified Kessler technique with 4-strand repair"
     },
     {
         "realidx": "Text-19",
@@ -424,12 +611,23 @@
         },
         "answer_idx": "I",
         "answer": "Lateral to the patella with knee in extension",
-        "predicted_answer": "D",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1704,
-            "completion_tokens": 47
+            "completion_tokens": 53
         },
-        "time_elapsed": 3.8438467979431152
+        "time_elapsed": 4.072044610977173,
+        "raw_responses": [
+            "(G) Lateral to patellar tendon with knee flexed",
+            "(D) Medial to patellar tendon with knee flexed",
+            "(G) Lateral to patellar tendon with knee flexed"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(G) Lateral to patellar tendon with knee flexed"
     },
     {
         "realidx": "Text-197",
@@ -451,9 +649,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2370,
-            "completion_tokens": 133
+            "completion_tokens": 187
         },
-        "time_elapsed": 5.719346284866333
+        "time_elapsed": 6.096045970916748,
+        "raw_responses": [
+            "(A) 4.5 cm DCIS s/p mastectomy with a positive margin",
+            "(A) 4.5 cm DCIS s/p mastectomy with a positive margin",
+            "(A) 4.5 cm DCIS s/p mastectomy with a positive margin"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The solutions provided are all the same, indicating that the consensus is on option (A) 4.5 cm DCIS s/p mastectomy with a positive margin. Since all solutions are identical, any of them can be chosen as the final answer.\n\nI choose option number: 0",
+            "The solutions provided are all the same, indicating that the consensus is on option (A) 4.5 cm DCIS s/p mastectomy with a positive margin. Since all solutions are identical, any of them can be chosen as the final answer.\n\nI choose option number: 0"
+        ],
+        "final_solution": "(A) 4.5 cm DCIS s/p mastectomy with a positive margin"
     },
     {
         "realidx": "Text-198",
@@ -474,10 +683,21 @@
         "answer": "Tobacco use",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 1683,
-            "completion_tokens": 246
+            "prompt_tokens": 990,
+            "completion_tokens": 139
         },
-        "time_elapsed": 5.12627100944519
+        "time_elapsed": 4.920106410980225,
+        "raw_responses": [
+            "(F) Diabetes mellitus",
+            "(F) Diabetes mellitus",
+            "(F) Diabetes mellitus"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The solutions provided are all the same, with each one selecting (F) Diabetes mellitus as the most strongly associated risk factor with post-operative wound complications following Achilles tendon repair. Since all solutions are identical, any of them can be chosen as the final answer.\n\nI will choose option number: 0.",
+            "The solutions provided are all the same, with each one selecting (F) Diabetes mellitus as the most strongly associated risk factor with post-operative wound complications following Achilles tendon repair. Since all solutions are identical, any of them can be chosen as the final answer.\n\nI will choose option number: 0."
+        ],
+        "final_solution": "(F) Diabetes mellitus"
     },
     {
         "realidx": "Text-212",
@@ -498,10 +718,21 @@
         "answer": "Hip extension and abduction",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 1272,
-            "completion_tokens": 52
+            "prompt_tokens": 1716,
+            "completion_tokens": 181
         },
-        "time_elapsed": 4.908041715621948
+        "time_elapsed": 6.133731365203857,
+        "raw_responses": [
+            "(F) Hip flexion and adduction",
+            "(F) Hip flexion and adduction",
+            "Athletic pubalgia, also known as sports hernia, is an overuse injury commonly seen in athletes who participate in sports that involve repetitive twisting and turning at high speeds. This condition is often associated with movements that place significant stress on the lower abdominal muscles and the tendons that attach to the pubic bone.\n\n1. The condition is typically seen in sports that require sudden changes in direction, twisting, and turning movements.\n2. Movements that involve the hip flexors and adductors are particularly implicated in the development of athletic pubalgia.\n3. Hip flexion and adduction are movements that engage the muscles and tendons around the pubic symphysis, which are often stressed in athletic pubalgia.\n\nFinal Answer: (F) Hip flexion and adduction"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "2"
+        ],
+        "final_solution": "Athletic pubalgia, also known as sports hernia, is an overuse injury commonly seen in athletes who participate in sports that involve repetitive twisting and turning at high speeds. This condition is often associated with movements that place significant stress on the lower abdominal muscles and the tendons that attach to the pubic bone.\n\n1. The condition is typically seen in sports that require sudden changes in direction, twisting, and turning movements.\n2. Movements that involve the hip flexors and adductors are particularly implicated in the development of athletic pubalgia.\n3. Hip flexion and adduction are movements that engage the muscles and tendons around the pubic symphysis, which are often stressed in athletic pubalgia.\n\nFinal Answer: (F) Hip flexion and adduction"
     },
     {
         "realidx": "Text-215",
@@ -523,9 +754,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1608,
-            "completion_tokens": 39
+            "completion_tokens": 121
         },
-        "time_elapsed": 4.568976879119873
+        "time_elapsed": 5.064568281173706,
+        "raw_responses": [
+            "(D) CN V",
+            "(E) CN VII",
+            "(D) CN V"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1: (D) CN V.",
+            "The best final answer is option number 2. \n\nCheilosis, or inflammation at the corners of the mouth, is often associated with dysfunction of the facial nerve (CN VII), which innervates the muscles responsible for facial expressions, including those around the mouth. Given the patient's symptoms and the involvement of facial muscles, CN VII is the most appropriate choice.",
+            "The best final answer is option 1: (D) CN V."
+        ],
+        "final_solution": "(D) CN V"
     },
     {
         "realidx": "Text-216",
@@ -547,9 +789,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1617,
-            "completion_tokens": 40
+            "completion_tokens": 38
         },
-        "time_elapsed": 4.193731069564819
+        "time_elapsed": 3.753451108932495,
+        "raw_responses": [
+            "(H) Alpha-fetoprotein",
+            "(H) Alpha-fetoprotein",
+            "(H) Alpha-fetoprotein"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "1",
+            "1"
+        ],
+        "final_solution": "(H) Alpha-fetoprotein"
     },
     {
         "realidx": "Text-225",
@@ -571,9 +824,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2727,
-            "completion_tokens": 63
+            "completion_tokens": 77
         },
-        "time_elapsed": 4.550769567489624
+        "time_elapsed": 5.508923292160034,
+        "raw_responses": [
+            "(D) Methadone requires daily administration in a supervised clinical setting.",
+            "(D) Methadone requires daily administration in a supervised clinical setting.",
+            "(D) Methadone requires daily administration in a supervised clinical setting."
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(D) Methadone requires daily administration in a supervised clinical setting."
     },
     {
         "realidx": "Text-229",
@@ -595,9 +859,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3240,
-            "completion_tokens": 254
+            "completion_tokens": 257
         },
-        "time_elapsed": 6.27727198600769
+        "time_elapsed": 5.591810464859009,
+        "raw_responses": [
+            "(E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor.",
+            "(E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor.",
+            "(E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor."
+        ],
+        "ensemble_raw_responses": [
+            "The candidate solutions 0, 1, and 2 all provide the same answer: (E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor. Since all solutions are identical and correct, any of them can be chosen.\n\nI choose option number: 0.",
+            "The candidate solutions 0, 1, and 2 all provide the same answer: (E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor.\n\nGiven that all solutions are identical and correct, any of them can be chosen. Therefore, the best final answer is:\n\n0",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor."
     },
     {
         "realidx": "Text-230",
@@ -619,9 +894,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2037,
-            "completion_tokens": 30
+            "completion_tokens": 54
         },
-        "time_elapsed": 3.8508365154266357
+        "time_elapsed": 4.551577568054199,
+        "raw_responses": [
+            "(D) Stimulation of crypt cell hyperplasia",
+            "(D) Stimulation of crypt cell hyperplasia",
+            "(D) Stimulation of crypt cell hyperplasia"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option number 0.",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(D) Stimulation of crypt cell hyperplasia"
     },
     {
         "realidx": "Text-231",
@@ -642,10 +928,21 @@
         "answer": "Autosomal recessive",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 3780,
-            "completion_tokens": 752
+            "prompt_tokens": 3276,
+            "completion_tokens": 590
         },
-        "time_elapsed": 12.086087226867676
+        "time_elapsed": 9.397997617721558,
+        "raw_responses": [
+            "Step-by-step reasoning:\n\n1. The condition affects a male infant, which suggests that it could be an X-linked condition since males are more likely to express X-linked recessive disorders.\n2. The family history indicates that the condition was present in the great-great-grandmother, suggesting it has been passed through multiple generations.\n3. The condition is not Y-linked because it affects a male and there is no mention of it being passed exclusively through males.\n4. Autosomal dominant inheritance would typically show the condition in every generation, but the parents are healthy.\n5. Autosomal recessive inheritance is possible, but it would require both parents to be carriers, which is not indicated.\n6. X-linked recessive inheritance is consistent with the condition being passed through the maternal line and affecting males.\n\nFinal answer:\n(I) X-linked recessive",
+            "The family history indicates a blood disorder with splenomegaly and joint pain, which suggests a genetic condition. The condition appears to be inherited through the maternal side, and the great-great-grandmother had the condition, indicating it has been passed down through multiple generations.\n\n1. X-linked dominant: This pattern would typically affect both males and females, but males often have more severe symptoms. However, the condition would be passed from an affected mother to both sons and daughters, and from an affected father to all daughters but no sons. This does not fit the pattern described.\n\n2. Multifactorial inheritance: This involves multiple genes and environmental factors, which does not fit the clear inheritance pattern described.\n\n3. Y-linked inheritance: This affects only males and is passed from father to son. This does not fit the pattern described as it is on the maternal side.\n\n4. Autosomal dominant with variable expressivity: This pattern would affect both males and females in each generation, but the severity of symptoms can vary. This could fit the pattern described.\n\n5. Gonosomal inheritance: This is not a standard term used in genetics.\n\n6. Autosomal dominant: This pattern would affect both males and females in each generation. This could fit the pattern described.\n\n7. Autosomal recessive: This pattern would typically skip generations, as two carriers would need to pass on the gene for the condition to appear. This does not fit the pattern described.\n\n8. Codominant inheritance: This involves both alleles being expressed equally, which does not fit the pattern described.\n\n9. X-linked recessive: This pattern would typically affect males more frequently, as they have only one X chromosome. Females would be carriers unless they have two copies of the gene. This does not fit the pattern described.\n\n10. Autosomal dominant with incomplete penetrance: This pattern would affect both males and females, but not all individuals with the gene would show symptoms. This could fit the pattern described.\n\nFinal answer: (F) Autosomal dominant",
+            "(G) Autosomal recessive"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "Step-by-step reasoning:\n\n1. The condition affects a male infant, which suggests that it could be an X-linked condition since males are more likely to express X-linked recessive disorders.\n2. The family history indicates that the condition was present in the great-great-grandmother, suggesting it has been passed through multiple generations.\n3. The condition is not Y-linked because it affects a male and there is no mention of it being passed exclusively through males.\n4. Autosomal dominant inheritance would typically show the condition in every generation, but the parents are healthy.\n5. Autosomal recessive inheritance is possible, but it would require both parents to be carriers, which is not indicated.\n6. X-linked recessive inheritance is consistent with the condition being passed through the maternal line and affecting males.\n\nFinal answer:\n(I) X-linked recessive"
     },
     {
         "realidx": "Text-240",
@@ -666,10 +963,21 @@
         "answer": "Naked, positive-sense, single-stranded RNA virus",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3126,
-            "completion_tokens": 343
+            "prompt_tokens": 3039,
+            "completion_tokens": 246
         },
-        "time_elapsed": 9.40619969367981
+        "time_elapsed": 6.184438705444336,
+        "raw_responses": [
+            "The child has symptoms of diarrhea and vomiting after drinking river water, suggesting a waterborne pathogen. The description of watery diarrhea is consistent with an infection by Giardia lamblia, a protozoan parasite. Giardia lamblia is characterized by its trophozoite form with 4 pairs of flagella.\n\nThe correct answer is:\n(F) Trophozoite with 4 pairs of flagella",
+            "The child has symptoms of diarrhea and vomiting after drinking river water, suggesting a waterborne pathogen. The description of watery diarrhea is consistent with an infection by Giardia lamblia, a protozoan parasite. Giardia lamblia is characterized by its trophozoite form with 4 pairs of flagella.\n\nThe correct answer is:\n(F) Trophozoite with 4 pairs of flagella",
+            "The child has symptoms of diarrhea and vomiting after drinking river water, suggesting a waterborne pathogen. The description of watery diarrhea is consistent with an infection by Giardia lamblia, a protozoan parasite. Giardia lamblia is characterized by its trophozoite form with 4 pairs of flagella.\n\nThe correct answer is:\n(F) Trophozoite with 4 pairs of flagella"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The child has symptoms of diarrhea and vomiting after drinking river water, suggesting a waterborne pathogen. The description of watery diarrhea is consistent with an infection by Giardia lamblia, a protozoan parasite. Giardia lamblia is characterized by its trophozoite form with 4 pairs of flagella.\n\nThe correct answer is:\n(F) Trophozoite with 4 pairs of flagella"
     },
     {
         "realidx": "Text-242",
@@ -690,10 +998,21 @@
         "answer": "5'-CGC-3'",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 2262,
-            "completion_tokens": 312
+            "prompt_tokens": 2025,
+            "completion_tokens": 231
         },
-        "time_elapsed": 6.056853532791138
+        "time_elapsed": 5.716670989990234,
+        "raw_responses": [
+            "The mRNA codon sequence is 5'-GCA-3'. The anticodon sequence on the tRNA that would bind to this codon must be complementary and antiparallel to the mRNA codon. Therefore, the anticodon sequence would be 3'-CGU-5'.\n\nFinal answer: (H) 3'-CGU-5'",
+            "The anticodon sequence that would most likely bind to the mRNA codon sequence 5'-GCA-3' is (D) 3'-UGC-5'.",
+            "The anticodon sequence that would most likely bind to the identified codon 5'-GCA-3' is (D) 3'-UGC-5'."
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "The correct anticodon sequence must be complementary and antiparallel to the mRNA codon sequence 5'-GCA-3'. The complementary bases to G, C, and A are C, G, and U, respectively. Therefore, the anticodon sequence should be 3'-CGU-5'.\n\nThe correct solution is provided in candidate solution 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "The mRNA codon sequence is 5'-GCA-3'. The anticodon sequence on the tRNA that would bind to this codon must be complementary and antiparallel to the mRNA codon. Therefore, the anticodon sequence would be 3'-CGU-5'.\n\nFinal answer: (H) 3'-CGU-5'"
     },
     {
         "realidx": "Text-247",
@@ -714,10 +1033,21 @@
         "answer": "Procarbazine",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 2175,
-            "completion_tokens": 147
+            "prompt_tokens": 2190,
+            "completion_tokens": 158
         },
-        "time_elapsed": 5.25536847114563
+        "time_elapsed": 5.472322940826416,
+        "raw_responses": [
+            "(G) Etoposide",
+            "(G) Etoposide",
+            "The chemotherapy drugs most strongly associated with an increased risk of developing acute myelogenous leukemia (AML) are alkylating agents and topoisomerase II inhibitors. Among the options provided, the drugs that fall into these categories are:\n\n- Alkylating agents: Cyclophosphamide, Procarbazine, Carmustine, Dacarbazine\n- Topoisomerase II inhibitors: Etoposide, Mitoxantrone\n\nGiven the strong association of topoisomerase II inhibitors with secondary AML, the most likely drug associated with an increased risk of developing AML in this patient is Etoposide.\n\nFinal answer: (G) Etoposide"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "0"
+        ],
+        "final_solution": "The chemotherapy drugs most strongly associated with an increased risk of developing acute myelogenous leukemia (AML) are alkylating agents and topoisomerase II inhibitors. Among the options provided, the drugs that fall into these categories are:\n\n- Alkylating agents: Cyclophosphamide, Procarbazine, Carmustine, Dacarbazine\n- Topoisomerase II inhibitors: Etoposide, Mitoxantrone\n\nGiven the strong association of topoisomerase II inhibitors with secondary AML, the most likely drug associated with an increased risk of developing AML in this patient is Etoposide.\n\nFinal answer: (G) Etoposide"
     },
     {
         "realidx": "Text-251",
@@ -736,12 +1066,23 @@
         },
         "answer_idx": "H",
         "answer": "Obturator",
-        "predicted_answer": "H",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1464,
-            "completion_tokens": 81
+            "prompt_tokens": 1407,
+            "completion_tokens": 130
         },
-        "time_elapsed": 4.997209548950195
+        "time_elapsed": 7.583676815032959,
+        "raw_responses": [
+            "(I) External iliac",
+            "(I) External iliac",
+            "(I) External iliac"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are all the same, indicating that the external iliac vessel is the closest to the lateral aspect of the tension-free tape trocar. Since all solutions are identical, any of them can be chosen as the final answer.\n\nThe best final answer is: 0",
+            "The solutions provided are all the same, indicating that the external iliac vessel is the closest to the lateral aspect of the tension-free tape trocar. Since all solutions are identical, any of them can be chosen as the final answer.\n\nThe best final answer is: 0",
+            "0"
+        ],
+        "final_solution": "(I) External iliac"
     },
     {
         "realidx": "Text-258",
@@ -763,9 +1104,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1140,
-            "completion_tokens": 31
+            "completion_tokens": 38
         },
-        "time_elapsed": 5.903583526611328
+        "time_elapsed": 4.132050514221191,
+        "raw_responses": [
+            "(A) Gardner syndrome",
+            "(A) Gardner syndrome",
+            "(A) Gardner syndrome"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option number 0.",
+            "0"
+        ],
+        "final_solution": "(A) Gardner syndrome"
     },
     {
         "realidx": "Text-261",
@@ -787,9 +1139,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2745,
-            "completion_tokens": 80
+            "completion_tokens": 97
         },
-        "time_elapsed": 4.583181619644165
+        "time_elapsed": 4.810073137283325,
+        "raw_responses": [
+            "(H) Delayed separation of the umbilical cord due to defective neutrophil chemotaxis",
+            "(H) Delayed separation of the umbilical cord due to defective neutrophil chemotaxis",
+            "(H) Delayed separation of the umbilical cord due to defective neutrophil chemotaxis"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The best final answer is option number: 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(H) Delayed separation of the umbilical cord due to defective neutrophil chemotaxis"
     },
     {
         "realidx": "Text-267",
@@ -811,9 +1174,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2352,
-            "completion_tokens": 45
+            "completion_tokens": 51
         },
-        "time_elapsed": 4.084003925323486
+        "time_elapsed": 4.320998907089233,
+        "raw_responses": [
+            "(B) 6 strand core suture technique and early passive motion protocol",
+            "(B) 6 strand core suture technique and early passive motion protocol",
+            "(B) 6 strand core suture technique and early passive motion protocol"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) 6 strand core suture technique and early passive motion protocol"
     },
     {
         "realidx": "Text-269",
@@ -834,10 +1208,21 @@
         "answer": "Estrogen",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 2220,
-            "completion_tokens": 45
+            "prompt_tokens": 2589,
+            "completion_tokens": 150
         },
-        "time_elapsed": 5.219875335693359
+        "time_elapsed": 5.41897177696228,
+        "raw_responses": [
+            "The patient presents with abnormal vaginal bleeding, breast tenderness, and a palpable left ovarian mass. The ultrasound shows a thickened endometrial stripe and a left ovarian mass. These findings suggest a possible ovarian tumor, which could be producing hormones leading to the symptoms described.\n\nGiven the symptoms of heavy, irregular periods, breast tenderness, and the presence of an ovarian mass, the most likely diagnosis is a hormone-secreting ovarian tumor. The specific tumor marker associated with ovarian tumors, particularly those that may cause endometrial thickening and hormonal symptoms, is Cancer antigen-125 (CA-125).\n\nFinal answer: (F) Cancer antigen-125",
+            "(F) Cancer antigen-125",
+            "(F) Cancer antigen-125"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient presents with abnormal vaginal bleeding, breast tenderness, and a palpable left ovarian mass. The ultrasound shows a thickened endometrial stripe and a left ovarian mass. These findings suggest a possible ovarian tumor, which could be producing hormones leading to the symptoms described.\n\nGiven the symptoms of heavy, irregular periods, breast tenderness, and the presence of an ovarian mass, the most likely diagnosis is a hormone-secreting ovarian tumor. The specific tumor marker associated with ovarian tumors, particularly those that may cause endometrial thickening and hormonal symptoms, is Cancer antigen-125 (CA-125).\n\nFinal answer: (F) Cancer antigen-125"
     },
     {
         "realidx": "Text-271",
@@ -859,9 +1244,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1020,
-            "completion_tokens": 73
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.732253551483154
+        "time_elapsed": 3.996730089187622,
+        "raw_responses": [
+            "(C) Intermediate-High risk",
+            "(C) Intermediate-High risk",
+            "(C) Intermediate-High risk"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Intermediate-High risk"
     },
     {
         "realidx": "Text-277",
@@ -883,9 +1279,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1164,
-            "completion_tokens": 167
+            "completion_tokens": 161
         },
-        "time_elapsed": 5.379791259765625
+        "time_elapsed": 5.6368889808654785,
+        "raw_responses": [
+            "(A) T12",
+            "(A) T12",
+            "(A) T12"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The problem involves determining which vertebral level among T12 to L4 would require the smallest diameter pedicle screw. The candidate solutions provided are all the same, indicating that T12 is the vertebral level that would require the smallest diameter screw.\n\nGiven that all solutions are identical and correct, I will choose option number 0.\n\nFinal answer: 0",
+            "The problem involves determining which vertebral level among T12 to L4 would require the smallest diameter pedicle screw. The candidate solutions provided are all the same, indicating that T12 is the vertebral level that would require the smallest diameter screw.\n\nGiven that all solutions are identical and correct, I will choose option number 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "(A) T12"
     },
     {
         "realidx": "Text-278",
@@ -907,9 +1314,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1152,
-            "completion_tokens": 69
+            "completion_tokens": 30
         },
-        "time_elapsed": 4.013674974441528
+        "time_elapsed": 3.6865811347961426,
+        "raw_responses": [
+            "(J) 10-20%",
+            "(J) 10-20%",
+            "(J) 10-20%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(J) 10-20%"
     },
     {
         "realidx": "Text-298",
@@ -930,10 +1348,21 @@
         "answer": "Fryette\u2019s third law",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1998,
-            "completion_tokens": 156
+            "prompt_tokens": 2694,
+            "completion_tokens": 394
         },
-        "time_elapsed": 4.835078477859497
+        "time_elapsed": 7.150115966796875,
+        "raw_responses": [
+            "The patient's T5 vertebral segment shows restriction in extension, rotation, and sidebending. Fryette's laws describe the mechanics of spinal motion. \n\n- Fryette's first law applies to neutral mechanics, where sidebending and rotation occur in opposite directions.\n- Fryette's second law applies to non-neutral mechanics (flexion or extension), where sidebending and rotation occur in the same direction.\n- Fryette's third law states that when motion is introduced in one plane, motion in the other planes is reduced.\n\nGiven that the T5 segment shows restriction in extension, rotation, and sidebending, Fryette's third law best explains the findings.\n\nFinal answer: (C) Fryette\u2019s third law",
+            "The patient's T5 vertebral segment shows restriction in extension, rotation, and sidebending. Fryette's laws describe the mechanics of spinal motion. Fryette's second law states that when the spine is in a non-neutral position (flexed or extended), sidebending and rotation occur to the same side. This law applies to individual vertebral segments, which fits the description of the patient's restricted T5 segment.\n\nFinal answer: (I) Fryette\u2019s second law",
+            "The patient's T5 vertebral segment shows restriction in extension, rotation, and sidebending. Fryette's laws describe the mechanics of spinal motion. \n\n- Fryette's first law applies to neutral mechanics, where sidebending and rotation occur in opposite directions.\n- Fryette's second law applies to non-neutral mechanics (flexion or extension), where sidebending and rotation occur in the same direction.\n- Fryette's third law states that when motion is introduced in one plane, motion in the other planes is reduced.\n\nGiven that the T5 segment shows restriction in extension, rotation, and sidebending, Fryette's third law best explains the findings.\n\nFinal answer: (C) Fryette\u2019s third law"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "The patient's T5 vertebral segment shows restriction in extension, rotation, and sidebending. Fryette's laws describe the mechanics of spinal motion. \n\n- Fryette's first law applies to neutral mechanics, where sidebending and rotation occur in opposite directions.\n- Fryette's second law applies to non-neutral mechanics (flexion or extension), where sidebending and rotation occur in the same direction.\n- Fryette's third law states that when motion is introduced in one plane, motion in the other planes is reduced.\n\nGiven that the T5 segment shows restriction in extension, rotation, and sidebending, Fryette's third law best explains the findings.\n\nFinal answer: (C) Fryette\u2019s third law"
     },
     {
         "realidx": "Text-304",
@@ -955,9 +1384,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1122,
-            "completion_tokens": 73
+            "completion_tokens": 180
         },
-        "time_elapsed": 4.430776596069336
+        "time_elapsed": 6.008711099624634,
+        "raw_responses": [
+            "(H) Superior vestibular nerve",
+            "(H) Superior vestibular nerve",
+            "(H) Superior vestibular nerve"
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are the same, indicating that the chosen answer is consistent across all solutions. Therefore, any of the options can be selected as the final answer.\n\nThe best final answer is option number: 0.",
+            "All the candidate solutions provided are identical and correct. The superior vestibular nerve is indeed located superior to the transverse crest and anterior to Bill's Bar within the internal auditory canal. Therefore, any of the solutions can be chosen. I will select option 0.\n\nChosen option number: 0",
+            "All the candidate solutions provided are identical and correct. The superior vestibular nerve is indeed located superior to the transverse crest and anterior to Bill's Bar within the internal auditory canal. Therefore, any of the solutions can be chosen. I will select option 0.\n\n0"
+        ],
+        "final_solution": "(H) Superior vestibular nerve"
     },
     {
         "realidx": "Text-315",
@@ -976,12 +1416,23 @@
         },
         "answer_idx": "F",
         "answer": "Midshaft of the left femur",
-        "predicted_answer": "D",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2022,
-            "completion_tokens": 27
+            "completion_tokens": 49
         },
-        "time_elapsed": 3.4453628063201904
+        "time_elapsed": 4.507422208786011,
+        "raw_responses": [
+            "(G) Proximal left femur",
+            "(G) Proximal left femur",
+            "(G) Proximal left femur"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(G) Proximal left femur"
     },
     {
         "realidx": "Text-317",
@@ -1000,12 +1451,23 @@
         },
         "answer_idx": "C",
         "answer": "Granulomatous mastitis",
-        "predicted_answer": "C",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 2787,
-            "completion_tokens": 221
+            "prompt_tokens": 3810,
+            "completion_tokens": 568
         },
-        "time_elapsed": 6.075214862823486
+        "time_elapsed": 8.651925325393677,
+        "raw_responses": [
+            "The patient's presentation includes right breast inflammation, purulent nipple discharge, erythema, induration, a tender mass, and a draining sinus tract. She has had similar episodes in the past year that improved with antibiotics but did not include nipple discharge. She stopped breastfeeding two years ago and has no recent breast trauma, nipple piercings, or systemic symptoms. \n\nGiven these details, we can rule out some options:\n- (A) Inflammatory breast carcinoma: Typically presents with rapid onset of erythema, edema, and peau d'orange appearance, often without purulent discharge.\n- (B) Galactocele: Usually occurs in lactating women and presents as a painless, cystic mass without signs of infection.\n- (C) Granulomatous mastitis: Rare and typically presents with firm, irregular masses, often without purulent discharge.\n- (E) Mammary ductal ectasia: Typically presents with nipple discharge and periductal inflammation but not with a draining sinus tract.\n- (F) Plasma cell mastitis: Chronic condition with periductal inflammation, often without acute purulent discharge.\n- (H) Fat necrosis of the breast: Usually follows trauma and presents as a firm, irregular mass without signs of infection.\n- (J) Tuberculous mastitis: Rare and usually associated with systemic symptoms and a history of tuberculosis.\n\nThe remaining options are:\n- (D) Subareolar breast abscess: Typically presents with a painful, erythematous mass near the areola, often with purulent discharge.\n- (G) Acute non-puerperal mastitis: Presents with breast inflammation and infection, often in non-lactating women, and can include purulent discharge.\n- (I) Periductal mastitis: Presents with periareolar inflammation, often with purulent discharge and a draining sinus tract.\n\nConsidering the patient's history of recurrent episodes, the presence of a draining sinus tract, and purulent discharge, the most likely diagnosis is:\n(I) Periductal mastitis",
+            "The patient's presentation includes right breast inflammation, purulent nipple discharge, erythema, induration, a tender mass, and a draining sinus tract. Given the history of recurrent episodes and the absence of systemic symptoms, recent breastfeeding, or trauma, the most likely diagnosis is:\n\n(I) Periductal mastitis",
+            "The patient's presentation includes right breast inflammation, purulent nipple discharge, erythema, induration, a tender mass, and a draining sinus tract. She has had similar episodes in the past year that partially improved with antibiotics. Given these symptoms and the absence of systemic symptoms, recent breastfeeding, trauma, or nipple piercings, the most likely diagnosis is:\n\n(I) Periductal mastitis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "2"
+        ],
+        "final_solution": "The patient's presentation includes right breast inflammation, purulent nipple discharge, erythema, induration, a tender mass, and a draining sinus tract. She has had similar episodes in the past year that improved with antibiotics but did not include nipple discharge. She stopped breastfeeding two years ago and has no recent breast trauma, nipple piercings, or systemic symptoms. \n\nGiven these details, we can rule out some options:\n- (A) Inflammatory breast carcinoma: Typically presents with rapid onset of erythema, edema, and peau d'orange appearance, often without purulent discharge.\n- (B) Galactocele: Usually occurs in lactating women and presents as a painless, cystic mass without signs of infection.\n- (C) Granulomatous mastitis: Rare and typically presents with firm, irregular masses, often without purulent discharge.\n- (E) Mammary ductal ectasia: Typically presents with nipple discharge and periductal inflammation but not with a draining sinus tract.\n- (F) Plasma cell mastitis: Chronic condition with periductal inflammation, often without acute purulent discharge.\n- (H) Fat necrosis of the breast: Usually follows trauma and presents as a firm, irregular mass without signs of infection.\n- (J) Tuberculous mastitis: Rare and usually associated with systemic symptoms and a history of tuberculosis.\n\nThe remaining options are:\n- (D) Subareolar breast abscess: Typically presents with a painful, erythematous mass near the areola, often with purulent discharge.\n- (G) Acute non-puerperal mastitis: Presents with breast inflammation and infection, often in non-lactating women, and can include purulent discharge.\n- (I) Periductal mastitis: Presents with periareolar inflammation, often with purulent discharge and a draining sinus tract.\n\nConsidering the patient's history of recurrent episodes, the presence of a draining sinus tract, and purulent discharge, the most likely diagnosis is:\n(I) Periductal mastitis"
     },
     {
         "realidx": "Text-320",
@@ -1026,10 +1488,21 @@
         "answer": "Decreased contractility",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 1338,
+            "prompt_tokens": 1296,
             "completion_tokens": 76
         },
-        "time_elapsed": 4.252386569976807
+        "time_elapsed": 4.419661045074463,
+        "raw_responses": [
+            "(H) Increased heart rate",
+            "The most probable immediate cardiac response to ketamine in this patient is:\n\n(H) Increased heart rate",
+            "The most probable immediate cardiac response to ketamine in this patient is:\n\n(H) Increased heart rate"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1.",
+            "The best final answer is option 2.",
+            "The best final answer is option 1."
+        ],
+        "final_solution": "(H) Increased heart rate"
     },
     {
         "realidx": "Text-325",
@@ -1051,9 +1524,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2058,
-            "completion_tokens": 49
+            "completion_tokens": 54
         },
-        "time_elapsed": 4.037428855895996
+        "time_elapsed": 4.268640041351318,
+        "raw_responses": [
+            "(E) McBurney's point",
+            "(E) McBurney's point",
+            "(E) McBurney's point"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(E) McBurney's point"
     },
     {
         "realidx": "Text-331",
@@ -1075,9 +1559,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2220,
-            "completion_tokens": 155
+            "completion_tokens": 42
         },
-        "time_elapsed": 4.598611831665039
+        "time_elapsed": 4.155879735946655,
+        "raw_responses": [
+            "(J) Prevents depolarization of Na+ channels",
+            "(A) Promotes depolarization of Na+ channels",
+            "(J) Prevents depolarization of Na+ channels"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(J) Prevents depolarization of Na+ channels"
     },
     {
         "realidx": "Text-335",
@@ -1099,9 +1594,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2535,
-            "completion_tokens": 32
+            "completion_tokens": 38
         },
-        "time_elapsed": 3.8443729877471924
+        "time_elapsed": 4.115668535232544,
+        "raw_responses": [
+            "(C) Omega-3 fatty acids",
+            "(C) Omega-3 fatty acids",
+            "(C) Omega-3 fatty acids"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(C) Omega-3 fatty acids"
     },
     {
         "realidx": "Text-337",
@@ -1122,10 +1628,21 @@
         "answer": "Mesoderm",
         "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 1650,
-            "completion_tokens": 135
+            "prompt_tokens": 1452,
+            "completion_tokens": 192
         },
-        "time_elapsed": 4.370483636856079
+        "time_elapsed": 5.311650276184082,
+        "raw_responses": [
+            "The inflamed gastrointestinal lining involved in appendicitis originates from the embryological layer:\n(J) Endoderm",
+            "The inflamed gastrointestinal lining involved in appendicitis originates from the embryological layer:\n\n(J) Endoderm",
+            "The inflamed gastrointestinal lining involved in appendicitis originates from the embryological layer:\n\n(J) Endoderm"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 1.",
+            "All three candidate solutions (0, 1, and 2) provide the same answer, which is (J) Endoderm. Since they are identical and correct, any of them can be chosen. I will select option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same correct answer, which is (J) Endoderm. Since they are identical, any of them can be chosen as the final answer. I will choose option 0.\n\nThe chosen option number is: 0"
+        ],
+        "final_solution": "The inflamed gastrointestinal lining involved in appendicitis originates from the embryological layer:\n(J) Endoderm"
     },
     {
         "realidx": "Text-339",
@@ -1147,9 +1664,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2013,
-            "completion_tokens": 39
+            "completion_tokens": 53
         },
-        "time_elapsed": 3.731191396713257
+        "time_elapsed": 6.2349724769592285,
+        "raw_responses": [
+            "(E) Isoniazid with pyridoxine supplementation",
+            "(E) Isoniazid with pyridoxine supplementation",
+            "(E) Isoniazid with pyridoxine supplementation"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(E) Isoniazid with pyridoxine supplementation"
     },
     {
         "realidx": "Text-344",
@@ -1171,9 +1699,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1089,
-            "completion_tokens": 154
+            "completion_tokens": 18
         },
-        "time_elapsed": 5.405096054077148
+        "time_elapsed": 3.56935715675354,
+        "raw_responses": [
+            "(A) Union",
+            "(A) Union",
+            "(A) Union"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Union"
     },
     {
         "realidx": "Text-350",
@@ -1194,10 +1733,21 @@
         "answer": "Short course RT (25 Gy in 5 Fx without concurrent 5-FU) followed by surgery within 1 week",
         "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 5457,
-            "completion_tokens": 816
+            "prompt_tokens": 5115,
+            "completion_tokens": 708
         },
-        "time_elapsed": 12.2428457736969
+        "time_elapsed": 10.093538999557495,
+        "raw_responses": [
+            "The appropriate treatment regimen for patients diagnosed with resectable non-metastatic rectal adenocarcinoma typically involves a combination of radiation therapy and chemotherapy followed by surgery. The goal is to reduce the tumor size and improve surgical outcomes. Long course chemoradiotherapy (chemoRT) is often preferred for its effectiveness in downstaging the tumor.\n\nStep-by-step reasoning:\n1. Short course RT without chemotherapy (Options A and G) is less commonly used for resectable non-metastatic rectal adenocarcinoma.\n2. Long course RT without chemotherapy (Options C, E, and F) is not the standard of care as concurrent chemotherapy enhances the effectiveness of radiation.\n3. Moderate course chemoRT (Option D) is not a standard regimen.\n4. Short course chemoRT (Options B and I) is less commonly used compared to long course chemoRT.\n5. Long course chemoRT (Options H and J) is a standard approach, but surgery within 1 week (Option H) is not typical as it does not allow sufficient time for tumor downstaging.\n\nFinal answer:\n(J) Long course chemoRT (45 Gy in 25 Fx with concurrent capecitabine) followed by surgery after 6-8 weeks",
+            "The appropriate treatment regimen for patients diagnosed with resectable non-metastatic rectal adenocarcinoma typically involves a combination of radiation therapy and chemotherapy followed by surgery. The goal is to reduce the tumor size and improve surgical outcomes. \n\n- Short course RT (25 Gy in 5 Fx) is often used without concurrent chemotherapy, and surgery is usually performed within 1 week or after 4-8 weeks.\n- Long course chemoRT (45-50.4 Gy in 25-28 Fx) with concurrent chemotherapy (such as 5-FU or capecitabine) is another standard approach, with surgery typically performed after 6-8 weeks to allow for maximum tumor shrinkage and recovery from chemoradiation.\n\nGiven these considerations, the most appropriate treatment regimen from the provided options is:\n\n(J) Long course chemoRT (45 Gy in 25 Fx with concurrent capecitabine) followed by surgery after 6-8 weeks",
+            "The appropriate treatment regimen for patients diagnosed with resectable non-metastatic rectal adenocarcinoma typically involves a combination of radiation therapy and chemotherapy followed by surgery. The goal is to reduce the tumor size and improve surgical outcomes. Long course chemoradiotherapy (chemoRT) is often preferred for its effectiveness in downstaging the tumor.\n\nStep-by-step reasoning:\n1. Short course RT without chemotherapy (Options A and G) is less commonly used for resectable non-metastatic rectal adenocarcinoma.\n2. Long course RT without chemotherapy (Options C, E, and F) is not the standard of care as concurrent chemotherapy enhances the effectiveness of radiation.\n3. Moderate course chemoRT (Option D) is not a standard regimen.\n4. Short course chemoRT (Options B and I) is less commonly used compared to long course chemoRT.\n5. Long course chemoRT (Options H and J) is a standard approach, but surgery within 1 week (Option H) is not typical as it does not allow sufficient time for tumor downstaging.\n\nFinal answer:\n(J) Long course chemoRT (45 Gy in 25 Fx with concurrent capecitabine) followed by surgery after 6-8 weeks"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "The appropriate treatment regimen for patients diagnosed with resectable non-metastatic rectal adenocarcinoma typically involves a combination of radiation therapy and chemotherapy followed by surgery. The goal is to reduce the tumor size and improve surgical outcomes. Long course chemoradiotherapy (chemoRT) is often preferred for its effectiveness in downstaging the tumor.\n\nStep-by-step reasoning:\n1. Short course RT without chemotherapy (Options A and G) is less commonly used for resectable non-metastatic rectal adenocarcinoma.\n2. Long course RT without chemotherapy (Options C, E, and F) is not the standard of care as concurrent chemotherapy enhances the effectiveness of radiation.\n3. Moderate course chemoRT (Option D) is not a standard regimen.\n4. Short course chemoRT (Options B and I) is less commonly used compared to long course chemoRT.\n5. Long course chemoRT (Options H and J) is a standard approach, but surgery within 1 week (Option H) is not typical as it does not allow sufficient time for tumor downstaging.\n\nFinal answer:\n(J) Long course chemoRT (45 Gy in 25 Fx with concurrent capecitabine) followed by surgery after 6-8 weeks"
     },
     {
         "realidx": "Text-353",
@@ -1219,9 +1769,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2247,
-            "completion_tokens": 37
+            "completion_tokens": 51
         },
-        "time_elapsed": 3.6183388233184814
+        "time_elapsed": 4.456082582473755,
+        "raw_responses": [
+            "(C) Bronchiectasis",
+            "(C) Bronchiectasis",
+            "(C) Bronchiectasis"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(C) Bronchiectasis"
     },
     {
         "realidx": "Text-355",
@@ -1243,9 +1804,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1902,
-            "completion_tokens": 242
+            "completion_tokens": 248
         },
-        "time_elapsed": 6.929866313934326
+        "time_elapsed": 5.892905950546265,
+        "raw_responses": [
+            "(B) Chronic pain patients direct most of their anger toward their friends and family members.",
+            "(B) Chronic pain patients direct most of their anger toward their friends and family members.",
+            "(B) Chronic pain patients direct most of their anger toward their friends and family members."
+        ],
+        "ensemble_raw_responses": [
+            "The candidate solutions 0, 1, and 2 all provide the same answer: (B) Chronic pain patients direct most of their anger toward their friends and family members.\n\nSince all the solutions are identical, any of them can be chosen as the final answer. Therefore, the best final answer is:\n\n0",
+            "The candidate solutions 0, 1, and 2 all provide the same answer: (B) Chronic pain patients direct most of their anger toward their friends and family members.\n\nSince all the candidate solutions are identical, any of them can be chosen as the final answer. Therefore, the chosen option number is:\n\n0",
+            "The candidate solutions 0, 1, and 2 all provide the same answer: (B) Chronic pain patients direct most of their anger toward their friends and family members.\n\nSince all the candidate solutions are identical, any of them can be chosen as the final answer. Therefore, the chosen option number is:\n\n0"
+        ],
+        "final_solution": "(B) Chronic pain patients direct most of their anger toward their friends and family members."
     },
     {
         "realidx": "Text-362",
@@ -1266,10 +1838,21 @@
         "answer": "Enteral nutrition can be initiated but should be discontinued if gastrointestinal output is >1500 mL/24 hours.",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3402,
-            "completion_tokens": 239
+            "prompt_tokens": 4026,
+            "completion_tokens": 453
         },
-        "time_elapsed": 6.754515647888184
+        "time_elapsed": 9.640301942825317,
+        "raw_responses": [
+            "(H) Parenteral nutrition is indicated to promote healing of the fistula while meeting nutritional needs.",
+            "The patient has Crohn's disease with an enterocutaneous fistula and significant weight loss, indicating malnutrition. Enteral nutrition is generally preferred over parenteral nutrition due to its benefits in maintaining gut integrity and reducing infection risks. However, in cases where enteral nutrition is not feasible or fails, parenteral nutrition is indicated.\n\n(A) Elemental formula should be initiated immediately at goal rate to maximize nutritional repletion. - Incorrect, starting at goal rate can cause refeeding syndrome.\n(B) A high-protein polymeric formula should be initiated at full strength immediately. - Incorrect, starting at full strength can cause intolerance.\n(C) Enteral nutrition should be initiated only after complete resolution of the fistula. - Incorrect, enteral nutrition can be used even with a fistula.\n(D) Parenteral nutrition should be initiated only if enteral nutrition fails after 4 weeks of therapy. - Incorrect, waiting 4 weeks is too long for a malnourished patient.\n(E) Enteral nutrition can be initiated but should be discontinued if gastrointestinal output is >1500 mL/24 hours. - Correct, high output can indicate intolerance or complications.\n(F) Continuous enteral feeding is contraindicated due to the presence of a fistula. - Incorrect, continuous feeding can be used.\n(G) The patient\u2019s nutritional status should be monitored by serial measurements of pre-albumin and transferrin. - Incorrect, these are not reliable markers in acute inflammation.\n(H) Parenteral nutrition is indicated to promote healing of the fistula while meeting nutritional needs. - Correct, if enteral nutrition is not feasible or fails.\n(I) Bowel rest with parenteral nutrition is mandatory for at least 6 weeks. - Incorrect, not always mandatory.\n(J) Enteral nutrition should be withheld until inflammatory markers normalize. - Incorrect, waiting for normalization is not necessary.\n\nFinal answer: (H) Parenteral nutrition is indicated to promote healing of the fistula while meeting nutritional needs.",
+            "(H) Parenteral nutrition is indicated to promote healing of the fistula while meeting nutritional needs."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "0"
+        ],
+        "final_solution": "The patient has Crohn's disease with an enterocutaneous fistula and significant weight loss, indicating malnutrition. Enteral nutrition is generally preferred over parenteral nutrition due to its benefits in maintaining gut integrity and reducing infection risks. However, in cases where enteral nutrition is not feasible or fails, parenteral nutrition is indicated.\n\n(A) Elemental formula should be initiated immediately at goal rate to maximize nutritional repletion. - Incorrect, starting at goal rate can cause refeeding syndrome.\n(B) A high-protein polymeric formula should be initiated at full strength immediately. - Incorrect, starting at full strength can cause intolerance.\n(C) Enteral nutrition should be initiated only after complete resolution of the fistula. - Incorrect, enteral nutrition can be used even with a fistula.\n(D) Parenteral nutrition should be initiated only if enteral nutrition fails after 4 weeks of therapy. - Incorrect, waiting 4 weeks is too long for a malnourished patient.\n(E) Enteral nutrition can be initiated but should be discontinued if gastrointestinal output is >1500 mL/24 hours. - Correct, high output can indicate intolerance or complications.\n(F) Continuous enteral feeding is contraindicated due to the presence of a fistula. - Incorrect, continuous feeding can be used.\n(G) The patient\u2019s nutritional status should be monitored by serial measurements of pre-albumin and transferrin. - Incorrect, these are not reliable markers in acute inflammation.\n(H) Parenteral nutrition is indicated to promote healing of the fistula while meeting nutritional needs. - Correct, if enteral nutrition is not feasible or fails.\n(I) Bowel rest with parenteral nutrition is mandatory for at least 6 weeks. - Incorrect, not always mandatory.\n(J) Enteral nutrition should be withheld until inflammatory markers normalize. - Incorrect, waiting for normalization is not necessary.\n\nFinal answer: (H) Parenteral nutrition is indicated to promote healing of the fistula while meeting nutritional needs."
     },
     {
         "realidx": "Text-364",
@@ -1291,9 +1874,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1692,
-            "completion_tokens": 197
+            "completion_tokens": 198
         },
-        "time_elapsed": 5.080345869064331
+        "time_elapsed": 5.412429571151733,
+        "raw_responses": [
+            "(B) Type IIIB distal tibia fracture with soft tissue avulsion",
+            "(B) Type IIIB distal tibia fracture with soft tissue avulsion",
+            "(B) Type IIIB distal tibia fracture with soft tissue avulsion"
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are the same, indicating that the consensus is (B) Type IIIB distal tibia fracture with soft tissue avulsion. Since all solutions agree, any of them can be chosen as the final answer.\n\nThe chosen option number is: 0",
+            "All the candidate solutions provided are identical, with the answer being (B) Type IIIB distal tibia fracture with soft tissue avulsion. Since they are all the same, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\n0",
+            "The solutions provided are all the same, indicating a consensus on the answer. Therefore, any of the options can be chosen as the final answer. I will choose option 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "(B) Type IIIB distal tibia fracture with soft tissue avulsion"
     },
     {
         "realidx": "Text-371",
@@ -1314,10 +1908,21 @@
         "answer": "CD2",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 2316,
-            "completion_tokens": 325
+            "prompt_tokens": 2955,
+            "completion_tokens": 544
         },
-        "time_elapsed": 6.537039279937744
+        "time_elapsed": 8.464236736297607,
+        "raw_responses": [
+            "The patient is a 15-year-old boy with fever, malaise, shortness of breath, facial swelling, hepatosplenomegaly, and a significantly elevated white blood cell count. These symptoms and findings are suggestive of leukemia. Given the patient's age and presentation, acute lymphoblastic leukemia (ALL) is a likely diagnosis. \n\nIn ALL, the majority of leukocytes are lymphoblasts, which commonly express the cell surface markers CD10 and CD19.\n\nFinal answer: (H) CD10",
+            "The patient is a 15-year-old boy with fever, malaise, shortness of breath, facial swelling, hepatosplenomegaly, and a significantly elevated white blood cell count. These symptoms and findings are suggestive of a hematologic malignancy, likely leukemia.\n\n1. The elevated white blood cell count (84,000 cells/mL) indicates a proliferative disorder.\n2. Hepatosplenomegaly and facial swelling (which can be due to superior vena cava syndrome) are common in leukemias.\n3. The age of the patient (15 years old) and the presentation are more consistent with acute lymphoblastic leukemia (ALL) rather than acute myeloid leukemia (AML).\n\nIn ALL, the majority of leukocytes are lymphoblasts, which typically express certain cell surface markers.\n\n- CD20 is a marker for mature B cells.\n- CD13/CD33 are markers for myeloid cells.\n- CD3/CD7 are markers for T cells.\n- CD117 is a marker for hematopoietic stem cells and myeloid progenitors.\n- CD14 is a marker for monocytes.\n- CD16 is a marker for natural killer cells and some granulocytes.\n- CD34 is a marker for hematopoietic stem cells.\n- CD10 is a marker for precursor B cells (common in ALL).\n- CD2 is a marker for T cells.\n- CD19 is a marker for B cells.\n\nGiven the presentation and the high likelihood of ALL, the leukocytes are most likely to express markers associated with precursor B cells.\n\nFinal answer: (H) CD10",
+            "The patient is a 15-year-old boy with fever, malaise, shortness of breath, facial swelling, hepatosplenomegaly, and a significantly elevated white blood cell count. These symptoms and findings are suggestive of leukemia. Given the patient's age and presentation, acute lymphoblastic leukemia (ALL) is a likely diagnosis. \n\nIn ALL, the majority of leukocytes are lymphoblasts, which commonly express the cell surface markers CD10 and CD19.\n\nFinal answer: (H) CD10"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "2"
+        ],
+        "final_solution": "The patient is a 15-year-old boy with fever, malaise, shortness of breath, facial swelling, hepatosplenomegaly, and a significantly elevated white blood cell count. These symptoms and findings are suggestive of a hematologic malignancy, likely leukemia.\n\n1. The elevated white blood cell count (84,000 cells/mL) indicates a proliferative disorder.\n2. Hepatosplenomegaly and facial swelling (which can be due to superior vena cava syndrome) are common in leukemias.\n3. The age of the patient (15 years old) and the presentation are more consistent with acute lymphoblastic leukemia (ALL) rather than acute myeloid leukemia (AML).\n\nIn ALL, the majority of leukocytes are lymphoblasts, which typically express certain cell surface markers.\n\n- CD20 is a marker for mature B cells.\n- CD13/CD33 are markers for myeloid cells.\n- CD3/CD7 are markers for T cells.\n- CD117 is a marker for hematopoietic stem cells and myeloid progenitors.\n- CD14 is a marker for monocytes.\n- CD16 is a marker for natural killer cells and some granulocytes.\n- CD34 is a marker for hematopoietic stem cells.\n- CD10 is a marker for precursor B cells (common in ALL).\n- CD2 is a marker for T cells.\n- CD19 is a marker for B cells.\n\nGiven the presentation and the high likelihood of ALL, the leukocytes are most likely to express markers associated with precursor B cells.\n\nFinal answer: (H) CD10"
     },
     {
         "realidx": "Text-38",
@@ -1339,9 +1944,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2889,
-            "completion_tokens": 170
+            "completion_tokens": 175
         },
-        "time_elapsed": 5.660901308059692
+        "time_elapsed": 5.396778583526611,
+        "raw_responses": [
+            "(H) The partial pressure of isoflurane decreases at higher altitude, reducing its clinical effect.",
+            "(H) The partial pressure of isoflurane decreases at higher altitude, reducing its clinical effect.",
+            "(H) The partial pressure of isoflurane decreases at higher altitude, reducing its clinical effect."
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are identical, and they all correctly identify that the partial pressure of isoflurane decreases at higher altitude, reducing its clinical effect. Therefore, any of the solutions can be chosen as the best final answer.\n\nChosen option number: 0",
+            "The solutions provided are all identical, and they all correctly identify that the partial pressure of isoflurane decreases at higher altitude, which reduces its clinical effect. Therefore, any of the solutions can be chosen as the best final answer.\n\nI choose option number: 0.",
+            "0"
+        ],
+        "final_solution": "(H) The partial pressure of isoflurane decreases at higher altitude, reducing its clinical effect."
     },
     {
         "realidx": "Text-383",
@@ -1362,10 +1978,21 @@
         "answer": "Dysfunction of thermoregulation in the body",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 2295,
-            "completion_tokens": 78
+            "prompt_tokens": 2268,
+            "completion_tokens": 75
         },
-        "time_elapsed": 4.539066314697266
+        "time_elapsed": 4.267578363418579,
+        "raw_responses": [
+            "(H) Increased sensitivity of hypothalamic thermoregulatory centers to temperature changes",
+            "The most likely cause of her symptoms is:\n\n(H) Increased sensitivity of hypothalamic thermoregulatory centers to temperature changes",
+            "The most likely cause of her symptoms is:\n\n(H) Increased sensitivity of hypothalamic thermoregulatory centers to temperature changes"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "0"
+        ],
+        "final_solution": "The most likely cause of her symptoms is:\n\n(H) Increased sensitivity of hypothalamic thermoregulatory centers to temperature changes"
     },
     {
         "realidx": "Text-384",
@@ -1384,12 +2011,23 @@
         },
         "answer_idx": "J",
         "answer": "Sodium channels of respiratory epithelial cells",
-        "predicted_answer": "F",
+        "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 1833,
-            "completion_tokens": 298
+            "prompt_tokens": 2082,
+            "completion_tokens": 125
         },
-        "time_elapsed": 5.798847198486328
+        "time_elapsed": 4.693777561187744,
+        "raw_responses": [
+            "(E) Sodium channels of sweat gland epithelial cells",
+            "The genetic defect described is a deletion at codon 508 on chromosome 7, which is characteristic of cystic fibrosis (CF). This mutation affects the CFTR (Cystic Fibrosis Transmembrane Conductance Regulator) protein, which is a chloride channel. In CF, the defective CFTR protein leads to decreased chloride secretion and increased sodium absorption in epithelial cells, particularly in the sweat glands.\n\nThe correct answer is:\n(E) Sodium channels of sweat gland epithelial cells",
+            "(F) Chloride channels of epithelial cells in sweat glands"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "0"
+        ],
+        "final_solution": "The genetic defect described is a deletion at codon 508 on chromosome 7, which is characteristic of cystic fibrosis (CF). This mutation affects the CFTR (Cystic Fibrosis Transmembrane Conductance Regulator) protein, which is a chloride channel. In CF, the defective CFTR protein leads to decreased chloride secretion and increased sodium absorption in epithelial cells, particularly in the sweat glands.\n\nThe correct answer is:\n(E) Sodium channels of sweat gland epithelial cells"
     },
     {
         "realidx": "Text-387",
@@ -1408,12 +2046,23 @@
         },
         "answer_idx": "J",
         "answer": "Granular eosinophilic cells",
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2331,
-            "completion_tokens": 67
+            "completion_tokens": 71
         },
-        "time_elapsed": 4.055986642837524
+        "time_elapsed": 4.384611129760742,
+        "raw_responses": [
+            "(I) Ground-glass hepatocytes with cytoplasmic inclusions",
+            "(I) Ground-glass hepatocytes with cytoplasmic inclusions",
+            "(I) Ground-glass hepatocytes with cytoplasmic inclusions"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is 0."
+        ],
+        "final_solution": "(I) Ground-glass hepatocytes with cytoplasmic inclusions"
     },
     {
         "realidx": "Text-391",
@@ -1435,9 +2084,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1239,
-            "completion_tokens": 201
+            "completion_tokens": 130
         },
-        "time_elapsed": 5.660636901855469
+        "time_elapsed": 4.846702337265015,
+        "raw_responses": [
+            "(A) Subtalar joint function",
+            "(A) Subtalar joint function",
+            "(A) Subtalar joint function"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "All the candidate solutions provided are identical, with each one selecting (A) Subtalar joint function as the answer. Therefore, any of the options 0, 1, or 2 would be correct. I will choose option 0.\n\n0",
+            "All the candidate solutions provided are identical, with each one selecting (A) Subtalar joint function as the answer. Therefore, any of the options 0, 1, or 2 would be correct. I will choose option 0.\n\n0"
+        ],
+        "final_solution": "(A) Subtalar joint function"
     },
     {
         "realidx": "Text-393",
@@ -1459,9 +2119,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1233,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 4.224676609039307
+        "time_elapsed": 3.880126476287842,
+        "raw_responses": [
+            "(A) Ventricular septal defect",
+            "(A) Ventricular septal defect",
+            "(A) Ventricular septal defect"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Ventricular septal defect"
     },
     {
         "realidx": "Text-397",
@@ -1483,9 +2154,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1080,
-            "completion_tokens": 33
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.9227590560913086
+        "time_elapsed": 3.9917476177215576,
+        "raw_responses": [
+            "(A) Decreased venous return",
+            "(A) Decreased venous return",
+            "(A) Decreased venous return"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Decreased venous return"
     },
     {
         "realidx": "Text-400",
@@ -1506,10 +2188,21 @@
         "answer": "HBsAg",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 2445,
-            "completion_tokens": 192
+            "prompt_tokens": 2769,
+            "completion_tokens": 132
         },
-        "time_elapsed": 6.101398229598999
+        "time_elapsed": 4.815049648284912,
+        "raw_responses": [
+            "The patient presents with symptoms and signs suggestive of a systemic vasculitis, including rectal bleeding, abdominal pain, weight loss, fever, hypertension, renal dysfunction, and cutaneous ischemic ulcers. The elevated ESR and C-reactive protein further support an inflammatory process. Given the combination of gastrointestinal, renal, and cutaneous involvement, polyarteritis nodosa (PAN) is a strong consideration. PAN is often associated with hepatitis B virus (HBV) infection.\n\nThe most likely additional laboratory test to yield a positive result is:\n(B) HBsAg",
+            "(B) HBsAg",
+            "(B) HBsAg"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient presents with symptoms and signs suggestive of a systemic vasculitis, including rectal bleeding, abdominal pain, weight loss, fever, hypertension, renal dysfunction, and cutaneous ischemic ulcers. The elevated ESR and C-reactive protein further support an inflammatory process. Given the combination of gastrointestinal, renal, and cutaneous involvement, polyarteritis nodosa (PAN) is a strong consideration. PAN is often associated with hepatitis B virus (HBV) infection.\n\nThe most likely additional laboratory test to yield a positive result is:\n(B) HBsAg"
     },
     {
         "realidx": "Text-402",
@@ -1531,9 +2224,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1959,
-            "completion_tokens": 39
+            "completion_tokens": 45
         },
-        "time_elapsed": 4.259276628494263
+        "time_elapsed": 4.1689207553863525,
+        "raw_responses": [
+            "(A) Emphysematous pyelonephritis",
+            "(A) Emphysematous pyelonephritis",
+            "(A) Emphysematous pyelonephritis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Emphysematous pyelonephritis"
     },
     {
         "realidx": "Text-404",
@@ -1555,9 +2259,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1290,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 6.763389825820923
+        "time_elapsed": 3.772282600402832,
+        "raw_responses": [
+            "(I) 31 - 50%",
+            "(I) 31 - 50%",
+            "(I) 31 - 50%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(I) 31 - 50%"
     },
     {
         "realidx": "Text-405",
@@ -1579,9 +2294,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1050,
-            "completion_tokens": 114
+            "completion_tokens": 177
         },
-        "time_elapsed": 4.272363662719727
+        "time_elapsed": 4.8478617668151855,
+        "raw_responses": [
+            "(A) Zonisamide",
+            "(A) Zonisamide",
+            "(A) Zonisamide"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (A) Zonisamide. Since they all agree on the same answer, any of them can be chosen as the final answer. I will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (A) Zonisamide. Since they all agree on the same answer, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\n0",
+            "All the candidate solutions provided are identical, each selecting (A) Zonisamide as the answer. Therefore, any of the solutions can be chosen as the final answer. I will select option 0.\n\nChosen option number: 0"
+        ],
+        "final_solution": "(A) Zonisamide"
     },
     {
         "realidx": "Text-413",
@@ -1603,9 +2329,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2184,
-            "completion_tokens": 55
+            "completion_tokens": 60
         },
-        "time_elapsed": 3.86824893951416
+        "time_elapsed": 4.383172512054443,
+        "raw_responses": [
+            "(G) Navicular cells with glycogen accumulation",
+            "(G) Navicular cells with glycogen accumulation",
+            "(G) Navicular cells with glycogen accumulation"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(G) Navicular cells with glycogen accumulation"
     },
     {
         "realidx": "Text-42",
@@ -1626,10 +2363,21 @@
         "answer": "Prostate cancer",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 2094,
-            "completion_tokens": 288
+            "prompt_tokens": 1614,
+            "completion_tokens": 106
         },
-        "time_elapsed": 8.322901010513306
+        "time_elapsed": 6.625072002410889,
+        "raw_responses": [
+            "(C) Prostate cancer",
+            "(F) Central precocious puberty",
+            "(C) Prostate cancer"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 1.",
+            "The best final answer is option 2. The medication prescribed intermittently one week before the expected menstrual cycle is likely a GnRH agonist, which can be used to treat central precocious puberty when administered continuously. Therefore, the correct answer is (F) Central precocious puberty.\n\nSo, the chosen option number is:\n2"
+        ],
+        "final_solution": "(C) Prostate cancer"
     },
     {
         "realidx": "Text-423",
@@ -1650,10 +2398,21 @@
         "answer": "Acute angle branching fungus",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 2757,
-            "completion_tokens": 232
+            "prompt_tokens": 2160,
+            "completion_tokens": 61
         },
-        "time_elapsed": 5.297776937484741
+        "time_elapsed": 4.294410943984985,
+        "raw_responses": [
+            "(B) Trematode from undercooked fish",
+            "(B) Trematode from undercooked fish",
+            "(B) Trematode from undercooked fish"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is:\n\n0",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) Trematode from undercooked fish"
     },
     {
         "realidx": "Text-425",
@@ -1675,9 +2434,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1863,
-            "completion_tokens": 41
+            "completion_tokens": 49
         },
-        "time_elapsed": 3.8940482139587402
+        "time_elapsed": 5.061680316925049,
+        "raw_responses": [
+            "(B) Gallstones",
+            "(B) Gallstones",
+            "(B) Gallstones"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option number: 0."
+        ],
+        "final_solution": "(B) Gallstones"
     },
     {
         "realidx": "Text-433",
@@ -1698,10 +2468,21 @@
         "answer": "Indomethacin",
         "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 2100,
-            "completion_tokens": 263
+            "prompt_tokens": 2271,
+            "completion_tokens": 394
         },
-        "time_elapsed": 6.39241886138916
+        "time_elapsed": 7.443979501724243,
+        "raw_responses": [
+            "The patient's presentation is consistent with cluster headaches, characterized by severe unilateral headaches around the eye, associated with redness and watering of the eye, and occurring several times a day for short durations. The drug of choice for acute treatment of cluster headaches is Sumatriptan.\n\nFinal answer: (J) Sumatriptan",
+            "The patient's presentation is consistent with cluster headaches, characterized by severe unilateral headaches around the eye, associated with redness and watering of the eye, and occurring several times a day for short durations. The drug of choice for acute treatment of cluster headaches is Sumatriptan.\n\nFinal answer: (J) Sumatriptan",
+            "The patient's symptoms are indicative of cluster headaches, characterized by severe unilateral headaches around the eye, associated with redness and watering of the eye, and occurring several times a day for short durations. The drug of choice for acute treatment of cluster headaches is Sumatriptan.\n\nFinal answer: (J) Sumatriptan"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) provide the same reasoning and final answer. They all correctly identify the patient's condition as cluster headaches and recommend Sumatriptan as the drug of choice for acute treatment.\n\nSince all solutions are identical and correct, any of them can be chosen. I will choose option 0.\n\nFinal answer: 0",
+            "All three candidate solutions (0, 1, and 2) provide the same reasoning and final answer. Therefore, any of these solutions can be chosen as they all correctly identify the drug of choice for acute treatment of cluster headaches.\n\nChosen option number: 0",
+            "All three solutions (0, 1, and 2) provide the same analysis and conclusion. They all correctly identify the patient's condition as cluster headaches and recommend Sumatriptan as the drug of choice for acute treatment.\n\nSince all solutions are identical and correct, any of them can be chosen. I will choose option 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "The patient's presentation is consistent with cluster headaches, characterized by severe unilateral headaches around the eye, associated with redness and watering of the eye, and occurring several times a day for short durations. The drug of choice for acute treatment of cluster headaches is Sumatriptan.\n\nFinal answer: (J) Sumatriptan"
     },
     {
         "realidx": "Text-440",
@@ -1723,9 +2504,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2061,
-            "completion_tokens": 50
+            "completion_tokens": 48
         },
-        "time_elapsed": 4.315524578094482
+        "time_elapsed": 3.9430043697357178,
+        "raw_responses": [
+            "(C) 35% for daily, 35% for BID",
+            "(C) 35% for daily, 35% for BID",
+            "(C) 35% for daily, 35% for BID"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) 35% for daily, 35% for BID"
     },
     {
         "realidx": "Text-450",
@@ -1747,9 +2539,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1596,
-            "completion_tokens": 21
+            "completion_tokens": 35
         },
-        "time_elapsed": 4.070037126541138
+        "time_elapsed": 3.85490083694458,
+        "raw_responses": [
+            "(D) Cortical spreading depression",
+            "(D) Cortical spreading depression",
+            "(D) Cortical spreading depression"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(D) Cortical spreading depression"
     },
     {
         "realidx": "Text-451",
@@ -1768,12 +2571,23 @@
         },
         "answer_idx": "D",
         "answer": "L2 neutral, sidebent right, rotated left",
-        "predicted_answer": "J",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 2460,
-            "completion_tokens": 458
+            "prompt_tokens": 2781,
+            "completion_tokens": 288
         },
-        "time_elapsed": 8.289668798446655
+        "time_elapsed": 6.386495351791382,
+        "raw_responses": [
+            "The patient has a somatic dysfunction with the transverse processes of L1-L3 more anterior on the left, indicating a left rotation. The restriction in right sidebending suggests that the somatic dysfunction is sidebent left. \n\nIn the Still technique, the initial position is the position of ease, which is the same as the somatic dysfunction. Therefore, the initial position should be L2 flexed, sidebent left, rotated left.\n\nBefore returning to neutral, the patient should be positioned in the position of ease:\n(G) L2 extended, sidebent left, rotated left",
+            "(J) L2 flexed, sidebent left, rotated right",
+            "(J) L2 flexed, sidebent left, rotated right"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "The correct answer is option 0.\n\nThe Still technique involves positioning the patient in the position of ease (the position that replicates the somatic dysfunction) before applying a vector force and then moving the patient through the restriction back to neutral. Given the findings of the transverse processes of L1-L3 being more anterior on the left and restricted in right sidebending, the somatic dysfunction is likely L2 flexed, sidebent left, and rotated right. Therefore, the correct position before returning to neutral should be:\n\n(J) L2 flexed, sidebent left, rotated right\n\nThus, the best final answer is option 0."
+        ],
+        "final_solution": "The patient has a somatic dysfunction with the transverse processes of L1-L3 more anterior on the left, indicating a left rotation. The restriction in right sidebending suggests that the somatic dysfunction is sidebent left. \n\nIn the Still technique, the initial position is the position of ease, which is the same as the somatic dysfunction. Therefore, the initial position should be L2 flexed, sidebent left, rotated left.\n\nBefore returning to neutral, the patient should be positioned in the position of ease:\n(G) L2 extended, sidebent left, rotated left"
     },
     {
         "realidx": "Text-458",
@@ -1794,10 +2608,21 @@
         "answer": "Sargramostim",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2958,
-            "completion_tokens": 147
+            "prompt_tokens": 3327,
+            "completion_tokens": 284
         },
-        "time_elapsed": 7.204617977142334
+        "time_elapsed": 5.664592981338501,
+        "raw_responses": [
+            "The patient has pancytopenia, indicated by low hemoglobin, low erythrocyte count, low leukocyte count, and low platelet count. The goal is to improve her blood cell counts without altering her antiretroviral therapy. The symptoms she developed after receiving the medication (difficulty breathing, severe muscle pain, vomiting, tachycardia, and hypotension) suggest a severe allergic reaction or anaphylaxis.\n\nOprelvekin (D) is known to cause severe allergic reactions, including anaphylaxis, in some patients. Therefore, the medication most likely given to this patient is:\n\n(D) Oprelvekin",
+            "The patient has pancytopenia, indicated by low hemoglobin, low erythrocyte count, low leukocyte count, and low platelet count. The goal is to improve her blood cell counts without altering her antiretroviral therapy. The symptoms she developed after receiving the medication (difficulty breathing, severe muscle pain, vomiting, tachycardia, and hypotension) suggest a severe allergic reaction or anaphylaxis.\n\nOprelvekin (D) is known to cause severe allergic reactions, including anaphylaxis, in some patients. Therefore, the medication most likely given to this patient is:\n\n(D) Oprelvekin",
+            "(D) Oprelvekin"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The best final answer is option 2."
+        ],
+        "final_solution": "The patient has pancytopenia, indicated by low hemoglobin, low erythrocyte count, low leukocyte count, and low platelet count. The goal is to improve her blood cell counts without altering her antiretroviral therapy. The symptoms she developed after receiving the medication (difficulty breathing, severe muscle pain, vomiting, tachycardia, and hypotension) suggest a severe allergic reaction or anaphylaxis.\n\nOprelvekin (D) is known to cause severe allergic reactions, including anaphylaxis, in some patients. Therefore, the medication most likely given to this patient is:\n\n(D) Oprelvekin"
     },
     {
         "realidx": "Text-459",
@@ -1819,9 +2644,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1608,
-            "completion_tokens": 78
+            "completion_tokens": 75
         },
-        "time_elapsed": 4.514901876449585
+        "time_elapsed": 4.227102041244507,
+        "raw_responses": [
+            "(E) Cataracts",
+            "(E) Cataracts",
+            "(E) Cataracts"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The solutions provided are all the same, indicating that the answer is (E) Cataracts. Since all solutions are identical, any of them can be chosen as the final answer. \n\nI will choose option number 0.\n\n0",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(E) Cataracts"
     },
     {
         "realidx": "Text-464",
@@ -1843,9 +2679,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2844,
-            "completion_tokens": 54
+            "completion_tokens": 60
         },
-        "time_elapsed": 8.617920160293579
+        "time_elapsed": 3.85809326171875,
+        "raw_responses": [
+            "(C) Flex to C6, rotate to the left, sidebend to the left",
+            "(C) Flex to C6, rotate to the left, sidebend to the left",
+            "(C) Flex to C6, rotate to the left, sidebend to the left"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(C) Flex to C6, rotate to the left, sidebend to the left"
     },
     {
         "realidx": "Text-467",
@@ -1867,9 +2714,20 @@
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2604,
-            "completion_tokens": 84
+            "completion_tokens": 90
         },
-        "time_elapsed": 7.811874866485596
+        "time_elapsed": 5.484985589981079,
+        "raw_responses": [
+            "(F) They cause fewer gastrointestinal side effects than oral NSAIDs due to minimal systemic absorption",
+            "(F) They cause fewer gastrointestinal side effects than oral NSAIDs due to minimal systemic absorption",
+            "(F) They cause fewer gastrointestinal side effects than oral NSAIDs due to minimal systemic absorption"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The best final answer is option number: 0.",
+            "The best final answer is option number: 0."
+        ],
+        "final_solution": "(F) They cause fewer gastrointestinal side effects than oral NSAIDs due to minimal systemic absorption"
     },
     {
         "realidx": "Text-472",
@@ -1891,9 +2749,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1320,
-            "completion_tokens": 76
+            "completion_tokens": 152
         },
-        "time_elapsed": 6.105741739273071
+        "time_elapsed": 6.434940576553345,
+        "raw_responses": [
+            "(B) Long waits for patient visits",
+            "(B) Long waits for patient visits",
+            "(B) Long waits for patient visits"
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are the same, indicating that the most commonly reported concern by patients under the care of an orthopedic surgeon is (B) Long waits for patient visits. Since all solutions are identical, any of them can be chosen as the final answer. \n\nI will choose option number 0.\n\n0",
+            "0",
+            "All the candidate solutions provided are the same, indicating that the most commonly reported concern by patients under the care of an orthopedic surgeon is (B) Long waits for patient visits. Since all solutions are identical, any of them can be chosen as the final answer. \n\nI will choose option number 0.\n\n0"
+        ],
+        "final_solution": "(B) Long waits for patient visits"
     },
     {
         "realidx": "Text-479",
@@ -1915,9 +2784,20 @@
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 1470,
-            "completion_tokens": 156
+            "completion_tokens": 152
         },
-        "time_elapsed": 4.975124359130859
+        "time_elapsed": 6.058285236358643,
+        "raw_responses": [
+            "(F) At the lateral intermuscular septum",
+            "(F) At the lateral intermuscular septum",
+            "(F) At the lateral intermuscular septum"
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are the same, indicating that the radial nerve transitions from the posterior compartment of the arm to the anterior compartment at the lateral intermuscular septum. Therefore, any of the solutions can be chosen as the final answer.\n\nThe chosen option number is: 0.",
+            "0",
+            "All the candidate solutions provided are the same, indicating that the radial nerve transitions from the posterior compartment of the arm to the anterior compartment at the lateral intermuscular septum. Therefore, any of the solutions can be chosen as the final answer.\n\nI will choose option 0.\n\n0"
+        ],
+        "final_solution": "(F) At the lateral intermuscular septum"
     },
     {
         "realidx": "Text-489",
@@ -1939,9 +2819,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3306,
-            "completion_tokens": 178
+            "completion_tokens": 212
         },
-        "time_elapsed": 5.637459993362427
+        "time_elapsed": 5.8617401123046875,
+        "raw_responses": [
+            "(B) It describes the formation of a lethal lesion caused by the repair failure of a single complex DNA lesion induced by a single charged particle track",
+            "(B) It describes the formation of a lethal lesion caused by the repair failure of a single complex DNA lesion induced by a single charged particle track",
+            "(B) It describes the formation of a lethal lesion caused by the repair failure of a single complex DNA lesion induced by a single charged particle track"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are all identical, with each one selecting option (B). Therefore, any of the solutions can be chosen as the final answer. I will choose option number 0.\n\n0",
+            "The solutions provided are all identical, with each one selecting option (B). Since there is no variation among the solutions, any of them can be chosen as the final answer. Therefore, I will choose option number 0.\n\n0",
+            "The solutions provided are all identical, with each one selecting option (B). Therefore, any of the solutions can be chosen as the final answer. I will select option number 0.\n\n0"
+        ],
+        "final_solution": "(B) It describes the formation of a lethal lesion caused by the repair failure of a single complex DNA lesion induced by a single charged particle track"
     },
     {
         "realidx": "Text-491",
@@ -1963,9 +2854,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1446,
-            "completion_tokens": 189
+            "completion_tokens": 127
         },
-        "time_elapsed": 6.056875467300415
+        "time_elapsed": 6.120961904525757,
+        "raw_responses": [
+            "(B) Surgery followed by adjuvant chemotherapy",
+            "(B) Surgery followed by adjuvant chemotherapy",
+            "(B) Surgery followed by adjuvant chemotherapy"
+        ],
+        "ensemble_raw_responses": [
+            "The candidate solutions 0, 1, and 2 all provide the same answer: (B) Surgery followed by adjuvant chemotherapy. Since they are identical, any of them can be chosen as the best final answer. \n\nI will choose option number 0.\n\n0",
+            "The best final answer is option number 0.",
+            "The solutions provided are all the same, so any of them can be chosen as the final answer. I will choose option 0.\n\n0"
+        ],
+        "final_solution": "(B) Surgery followed by adjuvant chemotherapy"
     },
     {
         "realidx": "Text-505",
@@ -1986,10 +2888,21 @@
         "answer": "Two",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1032,
-            "completion_tokens": 12
+            "prompt_tokens": 1521,
+            "completion_tokens": 181
         },
-        "time_elapsed": 5.438246965408325
+        "time_elapsed": 5.58341383934021,
+        "raw_responses": [
+            "(D) Four",
+            "(D) Four",
+            "To determine the minimum number of screw holes required in the side plate for successful fixation of a 2-part intertrochanteric hip fracture using a sliding hip screw construct, we need to consider the standard practices and biomechanical principles involved in such procedures.\n\n1. The sliding hip screw construct typically involves a lag screw that is inserted into the femoral head and neck, which is then connected to a side plate.\n2. The side plate is fixed to the femoral shaft using screws.\n3. For adequate fixation and stability, a minimum number of screws are required to secure the side plate to the femur.\n\nBased on standard orthopedic practices, the minimum number of screw holes in the side plate for effective fixation is typically four. This ensures sufficient stability and distribution of forces across the fracture site.\n\nFinal Answer: (D) Four"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "To determine the minimum number of screw holes required in the side plate for successful fixation of a 2-part intertrochanteric hip fracture using a sliding hip screw construct, we need to consider the standard practices and biomechanical principles involved in such procedures.\n\n1. The sliding hip screw construct typically involves a lag screw that is inserted into the femoral head and neck, which is then connected to a side plate.\n2. The side plate is fixed to the femoral shaft using screws.\n3. For adequate fixation and stability, a minimum number of screws are required to secure the side plate to the femur.\n\nBased on standard orthopedic practices, the minimum number of screw holes in the side plate for effective fixation is typically four. This ensures sufficient stability and distribution of forces across the fracture site.\n\nFinal Answer: (D) Four"
     },
     {
         "realidx": "Text-513",
@@ -2011,9 +2924,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1323,
-            "completion_tokens": 181
+            "completion_tokens": 194
         },
-        "time_elapsed": 5.61606240272522
+        "time_elapsed": 5.352581024169922,
+        "raw_responses": [
+            "(D) decreased range of motion",
+            "(D) decreased range of motion",
+            "(D) decreased range of motion"
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are identical, with each one selecting option (D) decreased range of motion. Since there is no variation among the solutions, any of them can be chosen as the final answer. Therefore, I will select option number 0.\n\nThe chosen option number is: 0.",
+            "The candidate solutions 0, 1, and 2 all provide the same answer: (D) decreased range of motion. Since they are identical, any of them can be chosen as the final answer.\n\nThe best final answer is: 0",
+            "All the candidate solutions provided are identical, with each one selecting (D) decreased range of motion as the answer. Since there is no variation among the solutions, any of them can be chosen as the final answer. Therefore, I will select option 0.\n\nThe chosen option number is: 0"
+        ],
+        "final_solution": "(D) decreased range of motion"
     },
     {
         "realidx": "Text-52",
@@ -2035,9 +2959,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1689,
-            "completion_tokens": 45
+            "completion_tokens": 104
         },
-        "time_elapsed": 3.6466121673583984
+        "time_elapsed": 5.173312664031982,
+        "raw_responses": [
+            "(I) Thin cement mantles less than 1 millimeter in thickness",
+            "(I) Thin cement mantles less than 1 millimeter in thickness",
+            "(I) Thin cement mantles less than 1 millimeter in thickness"
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are identical, with each selecting option (I) Thin cement mantles less than 1 millimeter in thickness. Since they all agree on the same answer, any of the options can be chosen. \n\nI will choose option 0.\n\n0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(I) Thin cement mantles less than 1 millimeter in thickness"
     },
     {
         "realidx": "Text-522",
@@ -2056,12 +2991,23 @@
         },
         "answer_idx": "J",
         "answer": "Simple ulnar nerve decompression at the cubital tunnel",
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 2319,
-            "completion_tokens": 33
+            "prompt_tokens": 2349,
+            "completion_tokens": 49
         },
-        "time_elapsed": 3.4713330268859863
+        "time_elapsed": 5.345722675323486,
+        "raw_responses": [
+            "(C) Ulnar nerve decompression at the cubital tunnel with anterior submuscular transposition",
+            "(A) Mini-open decompression with in situ release",
+            "(A) Mini-open decompression with in situ release"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(C) Ulnar nerve decompression at the cubital tunnel with anterior submuscular transposition"
     },
     {
         "realidx": "Text-523",
@@ -2082,10 +3028,21 @@
         "answer": "Glycopyrrolate",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2862,
-            "completion_tokens": 416
+            "prompt_tokens": 2565,
+            "completion_tokens": 369
         },
-        "time_elapsed": 8.765405178070068
+        "time_elapsed": 7.14147162437439,
+        "raw_responses": [
+            "The medication prescribed to the patient works by inhibiting a specific receptor on smooth muscle, which is a mechanism shared by anticholinergic drugs. The options that are anticholinergic drugs are Tiotropium, Ipratropium, and Glycopyrrolate. \n\nThe final answer is:\n(A) Tiotropium",
+            "The medication prescribed to the patient works by inhibiting a specific receptor on smooth muscle, which is a mechanism shared by anticholinergic drugs. The options that are anticholinergic drugs are Tiotropium, Ipratropium, and Glycopyrrolate. \n\nThe final answer is:\n(A) Tiotropium",
+            "The medication prescribed to the patient works by inhibiting a specific receptor on smooth muscle, which is a mechanism shared by anticholinergic drugs. The mother recognizes the medication as one her father, a smoker, also uses, suggesting it is likely used for chronic obstructive pulmonary disease (COPD) or asthma. Anticholinergic drugs used in these conditions include tiotropium, ipratropium, and glycopyrrolate, which inhibit muscarinic receptors on smooth muscle.\n\nFinal answer: (A) Tiotropium"
+        ],
+        "ensemble_raw_responses": [
+            "Option 1 is the best final answer. \n\nOption 1 provides a clear and logical explanation that the medication works by inhibiting a specific receptor on smooth muscle, which is characteristic of anticholinergic drugs. It also correctly identifies that the mother recognizes the medication as one used by her father, a smoker, suggesting it is likely used for COPD or asthma. The anticholinergic drugs used in these conditions include tiotropium, ipratropium, and glycopyrrolate, which inhibit muscarinic receptors on smooth muscle. \n\nTherefore, the final answer is:\n1",
+            "2",
+            "1"
+        ],
+        "final_solution": "The medication prescribed to the patient works by inhibiting a specific receptor on smooth muscle, which is a mechanism shared by anticholinergic drugs. The mother recognizes the medication as one her father, a smoker, also uses, suggesting it is likely used for chronic obstructive pulmonary disease (COPD) or asthma. Anticholinergic drugs used in these conditions include tiotropium, ipratropium, and glycopyrrolate, which inhibit muscarinic receptors on smooth muscle.\n\nFinal answer: (A) Tiotropium"
     },
     {
         "realidx": "Text-530",
@@ -2106,10 +3063,21 @@
         "answer": "Eosinophilic casts",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 3525,
-            "completion_tokens": 470
+            "prompt_tokens": 2730,
+            "completion_tokens": 191
         },
-        "time_elapsed": 10.084928035736084
+        "time_elapsed": 6.062347412109375,
+        "raw_responses": [
+            "(I) Neutrophilic infiltrate of the renal interstitium",
+            "The patient's symptoms of fatigue, intermittent fevers, and left costovertebral angle tenderness, along with a history of recurrent kidney stones and type 2 diabetes mellitus, suggest a possible kidney infection or pyelonephritis. Given the recent treatment for a urinary tract infection that did not fully resolve, it is likely that the infection has ascended to the kidneys.\n\nThe physical examination findings and the patient's history point towards an acute or chronic kidney infection. In the context of pyelonephritis, the most likely histologic finding would be an inflammatory infiltrate in the renal interstitium.\n\nAmong the provided options, the most appropriate histologic finding for acute pyelonephritis is:\n(I) Neutrophilic infiltrate of the renal interstitium",
+            "(I) Neutrophilic infiltrate of the renal interstitium"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "2"
+        ],
+        "final_solution": "The patient's symptoms of fatigue, intermittent fevers, and left costovertebral angle tenderness, along with a history of recurrent kidney stones and type 2 diabetes mellitus, suggest a possible kidney infection or pyelonephritis. Given the recent treatment for a urinary tract infection that did not fully resolve, it is likely that the infection has ascended to the kidneys.\n\nThe physical examination findings and the patient's history point towards an acute or chronic kidney infection. In the context of pyelonephritis, the most likely histologic finding would be an inflammatory infiltrate in the renal interstitium.\n\nAmong the provided options, the most appropriate histologic finding for acute pyelonephritis is:\n(I) Neutrophilic infiltrate of the renal interstitium"
     },
     {
         "realidx": "Text-534",
@@ -2128,12 +3096,23 @@
         },
         "answer_idx": "J",
         "answer": "Comminuted fracture at or above the level of the syndesmosis",
-        "predicted_answer": "J",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1812,
-            "completion_tokens": 67
+            "prompt_tokens": 1791,
+            "completion_tokens": 171
         },
-        "time_elapsed": 4.130266189575195
+        "time_elapsed": 5.821803331375122,
+        "raw_responses": [
+            "(J) Comminuted fracture at or above the level of the syndesmosis",
+            "(J) Comminuted fracture at or above the level of the syndesmosis",
+            "(D) Short oblique fracture extending proximally"
+        ],
+        "ensemble_raw_responses": [
+            "The Lauge-Hansen classification system describes the characteristic patterns of ankle fractures based on the mechanism of injury. For a pronation-abduction type ankle injury, the characteristic pattern of fibular fracture is typically a short oblique fracture extending proximally.\n\nTherefore, the best final answer is:\n\n2",
+            "The Lauge-Hansen classification system describes the characteristic patterns of ankle fractures based on the mechanism of injury. For a pronation-abduction type ankle injury, the characteristic pattern of fibular fracture is typically a comminuted fracture at or above the level of the syndesmosis.\n\nTherefore, the best final answer is:\n\n0",
+            "2"
+        ],
+        "final_solution": "(D) Short oblique fracture extending proximally"
     },
     {
         "realidx": "Text-54",
@@ -2154,10 +3133,21 @@
         "answer": "Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 4158,
-            "completion_tokens": 792
+            "prompt_tokens": 4182,
+            "completion_tokens": 806
         },
-        "time_elapsed": 11.756040096282959
+        "time_elapsed": 11.738265037536621,
+        "raw_responses": [
+            "The therapeutic ratio of a radiation treatment is defined as the ratio of tumor control probability to normal tissue complication probability. A clinical intervention that decreases the therapeutic ratio would increase the likelihood of normal tissue complications relative to tumor control.\n\n(A) Addition of a selective EGFR-targeted therapy, such as cetuximab - This is likely to increase the therapeutic ratio by enhancing tumor control without significantly increasing normal tissue toxicity.\n(B) Addition of DNA repair inhibitors during treatment - This can increase the therapeutic ratio by making tumor cells more sensitive to radiation.\n(C) Use of a radioprotector that requires oxygen for conversion from pro-drug to its active form - This would protect normal tissues in well-oxygenated areas, potentially increasing the therapeutic ratio.\n(D) Use of proton beam therapy instead of conventional photon therapy - Proton therapy can increase the therapeutic ratio by delivering more precise radiation to the tumor while sparing normal tissues.\n(E) Administration of hypoxic cell radiosensitizers - This can increase the therapeutic ratio by making hypoxic tumor cells more sensitive to radiation.\n(F) Use of intensity-modulated radiation therapy (IMRT) - IMRT can increase the therapeutic ratio by delivering more precise radiation doses to the tumor while sparing normal tissues.\n(G) Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide - This can decrease the therapeutic ratio by increasing toxicity to normal tissues.\n(H) Use of a radioprotector that accumulates preferentially in highly vascularized tissues - This would protect normal tissues, potentially increasing the therapeutic ratio.\n(I) Concurrent administration of broad-spectrum tyrosine kinase inhibitors - This can increase the therapeutic ratio by enhancing tumor control.\n(J) Implementation of hyperfractionated radiation therapy schedule - This can increase the therapeutic ratio by allowing normal tissues more time to repair between fractions.\n\nFinal answer: (G) Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide",
+            "The therapeutic ratio of a radiation treatment is defined as the ratio of tumor control probability to normal tissue complication probability. A clinical intervention that decreases the therapeutic ratio would increase the likelihood of normal tissue complications relative to tumor control.\n\n(A) Addition of a selective EGFR-targeted therapy, such as cetuximab - This is likely to increase the therapeutic ratio by enhancing tumor control without significantly increasing normal tissue toxicity.\n(B) Addition of DNA repair inhibitors during treatment - This can increase the therapeutic ratio by making tumor cells more sensitive to radiation.\n(C) Use of a radioprotector that requires oxygen for conversion from pro-drug to its active form - This would protect normal tissues in well-oxygenated areas, potentially increasing the therapeutic ratio.\n(D) Use of proton beam therapy instead of conventional photon therapy - Proton therapy can increase the therapeutic ratio by delivering more precise radiation to the tumor while sparing normal tissues.\n(E) Administration of hypoxic cell radiosensitizers - This can increase the therapeutic ratio by sensitizing hypoxic tumor cells to radiation.\n(F) Use of intensity-modulated radiation therapy (IMRT) - IMRT can increase the therapeutic ratio by delivering more precise radiation doses to the tumor while sparing normal tissues.\n(G) Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide - This can decrease the therapeutic ratio by increasing toxicity to normal tissues.\n(H) Use of a radioprotector that accumulates preferentially in highly vascularized tissues - This would protect normal tissues, potentially increasing the therapeutic ratio.\n(I) Concurrent administration of broad-spectrum tyrosine kinase inhibitors - This can increase the therapeutic ratio by targeting tumor cells specifically.\n(J) Implementation of hyperfractionated radiation therapy schedule - This can increase the therapeutic ratio by allowing normal tissues more time to repair between fractions.\n\nFinal answer: (G) Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide",
+            "(G) Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "The therapeutic ratio of a radiation treatment is defined as the ratio of tumor control probability to normal tissue complication probability. A clinical intervention that decreases the therapeutic ratio would increase the likelihood of normal tissue complications relative to tumor control.\n\n(A) Addition of a selective EGFR-targeted therapy, such as cetuximab - This is likely to increase the therapeutic ratio by enhancing tumor control without significantly increasing normal tissue toxicity.\n(B) Addition of DNA repair inhibitors during treatment - This can increase the therapeutic ratio by making tumor cells more sensitive to radiation.\n(C) Use of a radioprotector that requires oxygen for conversion from pro-drug to its active form - This would protect normal tissues in well-oxygenated areas, potentially increasing the therapeutic ratio.\n(D) Use of proton beam therapy instead of conventional photon therapy - Proton therapy can increase the therapeutic ratio by delivering more precise radiation to the tumor while sparing normal tissues.\n(E) Administration of hypoxic cell radiosensitizers - This can increase the therapeutic ratio by making hypoxic tumor cells more sensitive to radiation.\n(F) Use of intensity-modulated radiation therapy (IMRT) - IMRT can increase the therapeutic ratio by delivering more precise radiation doses to the tumor while sparing normal tissues.\n(G) Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide - This can decrease the therapeutic ratio by increasing toxicity to normal tissues.\n(H) Use of a radioprotector that accumulates preferentially in highly vascularized tissues - This would protect normal tissues, potentially increasing the therapeutic ratio.\n(I) Concurrent administration of broad-spectrum tyrosine kinase inhibitors - This can increase the therapeutic ratio by enhancing tumor control.\n(J) Implementation of hyperfractionated radiation therapy schedule - This can increase the therapeutic ratio by allowing normal tissues more time to repair between fractions.\n\nFinal answer: (G) Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide"
     },
     {
         "realidx": "Text-543",
@@ -2179,9 +3169,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2304,
-            "completion_tokens": 423
+            "completion_tokens": 458
         },
-        "time_elapsed": 9.820849657058716
+        "time_elapsed": 8.01297903060913,
+        "raw_responses": [
+            "The chemotherapeutic agent described binds to DNA, inhibits RNA synthesis, and does not affect topoisomerase activity. This description matches the mechanism of action of actinomycin D (dactinomycin). The most common adverse effect associated with actinomycin D is myelosuppression.\n\nFinal answer: (G) Myelosuppression",
+            "The chemotherapeutic agent described binds to DNA, inhibits RNA synthesis, and does not affect topoisomerase activity. This description matches the mechanism of action of actinomycin D (dactinomycin). The most common adverse effect associated with actinomycin D is myelosuppression.\n\nFinal answer: (G) Myelosuppression",
+            "The chemotherapeutic agent described binds to DNA, inhibits RNA synthesis, and does not affect topoisomerase activity. This description matches the mechanism of action of actinomycin D (dactinomycin). The most common adverse effect associated with actinomycin D is myelosuppression.\n\nFinal answer: (G) Myelosuppression"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions are identical in their reasoning and final answer. They correctly identify the chemotherapeutic agent as actinomycin D (dactinomycin) and state that the most common adverse effect is myelosuppression. Since all solutions are the same, any of them can be chosen.\n\nChosen option number: 0",
+            "All three candidate solutions (0, 1, and 2) provide the same reasoning and final answer. They correctly identify the chemotherapeutic agent as actinomycin D (dactinomycin) and state that the most common adverse effect is myelosuppression.\n\nSince all solutions are identical and correct, any of them can be chosen. I will choose option 0.\n\nFinal answer: 0",
+            "All three candidate solutions (0, 1, and 2) provide the same reasoning and final answer. They correctly identify the chemotherapeutic agent as actinomycin D (dactinomycin) and state that the most common adverse effect is myelosuppression.\n\nSince all solutions are identical and correct, any of them can be chosen. I will choose option 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "The chemotherapeutic agent described binds to DNA, inhibits RNA synthesis, and does not affect topoisomerase activity. This description matches the mechanism of action of actinomycin D (dactinomycin). The most common adverse effect associated with actinomycin D is myelosuppression.\n\nFinal answer: (G) Myelosuppression"
     },
     {
         "realidx": "Text-57",
@@ -2202,10 +3203,21 @@
         "answer": "Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2328,
-            "completion_tokens": 105
+            "prompt_tokens": 2280,
+            "completion_tokens": 95
         },
-        "time_elapsed": 4.562490940093994
+        "time_elapsed": 4.694398641586304,
+        "raw_responses": [
+            "The optimal configuration for cannulated screws in the surgical fixation of subcapital femoral neck fractures is:\n\n(I) Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar",
+            "(A) Inverted triangle pattern with all screws placed equidistant from the calcar",
+            "(I) Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The best final answer is option number 2.",
+            "1"
+        ],
+        "final_solution": "The optimal configuration for cannulated screws in the surgical fixation of subcapital femoral neck fractures is:\n\n(I) Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar"
     },
     {
         "realidx": "Text-6",
@@ -2224,12 +3236,23 @@
         },
         "answer_idx": "H",
         "answer": "66 Gy",
-        "predicted_answer": "H",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 2415,
-            "completion_tokens": 474
+            "prompt_tokens": 1047,
+            "completion_tokens": 24
         },
-        "time_elapsed": 8.916676998138428
+        "time_elapsed": 3.9163949489593506,
+        "raw_responses": [
+            "(G) 60 Gy",
+            "(G) 60 Gy",
+            "(G) 60 Gy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(G) 60 Gy"
     },
     {
         "realidx": "Text-61",
@@ -2250,10 +3273,21 @@
         "answer": "Great toe dorsiflexion",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3141,
-            "completion_tokens": 695
+            "prompt_tokens": 3696,
+            "completion_tokens": 886
         },
-        "time_elapsed": 10.469188690185547
+        "time_elapsed": 12.632004976272583,
+        "raw_responses": [
+            "The sacral ala is part of the sacrum, which is located at the base of the spine and forms the back part of the pelvis. The sacral nerves, which emerge from the sacral foramina, innervate various muscles in the lower extremities. If an iliosacral screw penetrates through the sacral ala, it could potentially damage the sacral nerves.\n\nThe sacral nerves (S1-S4) contribute to the lumbosacral plexus, which innervates muscles responsible for movements such as ankle plantar flexion, ankle eversion, great toe dorsiflexion, and others.\n\n- Ankle plantar flexion is primarily controlled by the gastrocnemius and soleus muscles, which are innervated by the tibial nerve (S1-S2).\n- Hip flexion is primarily controlled by the iliopsoas muscle, which is innervated by the femoral nerve (L2-L4).\n- Ankle eversion is controlled by the peroneal muscles, which are innervated by the superficial peroneal nerve (L5-S1).\n- Great toe dorsiflexion is controlled by the extensor hallucis longus muscle, which is innervated by the deep peroneal nerve (L5).\n- Hip external rotation is controlled by the gluteus maximus and other small external rotators, which are innervated by the inferior gluteal nerve (L5-S2) and other nerves.\n- Knee flexion is controlled by the hamstring muscles, which are innervated by the sciatic nerve (L5-S2).\n- Ankle plantarflexion is a repeat of ankle plantar flexion.\n- Knee extension is controlled by the quadriceps muscles, which are innervated by the femoral nerve (L2-L4).\n- Foot pronation involves multiple muscles, including those innervated by the tibial and peroneal nerves.\n- Ankle inversion is controlled by the tibialis posterior muscle, which is innervated by the tibial nerve (L4-L5).\n\nGiven that the sacral nerves (S1-S2) are involved in ankle plantar flexion, this movement would most likely be weakened if an iliosacral screw anteriorly penetrates through the sacral ala.\n\nFinal answer: (A) Ankle plantar flexion",
+            "The sacral ala is part of the sacrum, which is located at the base of the spine and forms the back part of the pelvis. The sacral nerves, which emerge from the sacral foramina, innervate various muscles in the lower extremities. \n\nAnterior penetration of an iliosacral screw through the sacral ala could potentially damage the sacral nerves. The sacral plexus, which includes the sciatic nerve, is responsible for innervating muscles that control movements such as hip flexion, knee extension, ankle movements, and toe movements.\n\nTo determine which movement would most likely be weakened, we need to consider the specific nerves that could be affected by damage to the sacral ala. The sacral plexus includes nerves that contribute to the following movements:\n- Ankle plantar flexion (S1, S2)\n- Hip flexion (L2, L3)\n- Ankle eversion (L5, S1)\n- Great toe dorsiflexion (L5)\n- Hip external rotation (L5, S1)\n- Knee flexion (L5, S1)\n- Ankle plantarflexion (S1, S2)\n- Knee extension (L3, L4)\n- Foot pronation (L5, S1)\n- Ankle inversion (L4, L5)\n\nGiven that the sacral ala is closely associated with the sacral nerves, damage to this area is most likely to affect movements innervated by the sacral nerves, particularly those involving the lower leg and foot.\n\nThe most likely movement to be weakened due to anterior penetration through the sacral ala would be one that is primarily innervated by the sacral nerves. Among the options provided, the movement most directly associated with the sacral nerves is:\n\n(D) Great toe dorsiflexion (L5)\n\nFinal answer: (D) Great toe dorsiflexion",
+            "(D) Great toe dorsiflexion"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "The sacral ala is part of the sacrum, which is located at the base of the spine and forms the back part of the pelvis. The sacral nerves, which emerge from the sacral foramina, innervate various muscles in the lower extremities. If an iliosacral screw penetrates through the sacral ala, it could potentially damage the sacral nerves.\n\nThe sacral nerves (S1-S4) contribute to the lumbosacral plexus, which innervates muscles responsible for movements such as ankle plantar flexion, ankle eversion, great toe dorsiflexion, and others.\n\n- Ankle plantar flexion is primarily controlled by the gastrocnemius and soleus muscles, which are innervated by the tibial nerve (S1-S2).\n- Hip flexion is primarily controlled by the iliopsoas muscle, which is innervated by the femoral nerve (L2-L4).\n- Ankle eversion is controlled by the peroneal muscles, which are innervated by the superficial peroneal nerve (L5-S1).\n- Great toe dorsiflexion is controlled by the extensor hallucis longus muscle, which is innervated by the deep peroneal nerve (L5).\n- Hip external rotation is controlled by the gluteus maximus and other small external rotators, which are innervated by the inferior gluteal nerve (L5-S2) and other nerves.\n- Knee flexion is controlled by the hamstring muscles, which are innervated by the sciatic nerve (L5-S2).\n- Ankle plantarflexion is a repeat of ankle plantar flexion.\n- Knee extension is controlled by the quadriceps muscles, which are innervated by the femoral nerve (L2-L4).\n- Foot pronation involves multiple muscles, including those innervated by the tibial and peroneal nerves.\n- Ankle inversion is controlled by the tibialis posterior muscle, which is innervated by the tibial nerve (L4-L5).\n\nGiven that the sacral nerves (S1-S2) are involved in ankle plantar flexion, this movement would most likely be weakened if an iliosacral screw anteriorly penetrates through the sacral ala.\n\nFinal answer: (A) Ankle plantar flexion"
     },
     {
         "realidx": "Text-76",
@@ -2274,10 +3308,21 @@
         "answer": "Activation of ATM",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1227,
-            "completion_tokens": 191
+            "prompt_tokens": 1224,
+            "completion_tokens": 259
         },
-        "time_elapsed": 5.429065227508545
+        "time_elapsed": 6.470320701599121,
+        "raw_responses": [
+            "(D) Recruitment of MRN complex",
+            "(C) Checkpoint kinase activation",
+            "(C) Checkpoint kinase activation"
+        ],
+        "ensemble_raw_responses": [
+            "The phosphorylation of \u03b3H2AX is a marker for the presence of DNA double-strand breaks and plays a crucial role in the recruitment of DNA repair proteins to the site of damage. Among the given options, the recruitment of the MRN complex (Mre11-Rad50-Nbs1) is directly associated with the phosphorylation of \u03b3H2AX.\n\nTherefore, the best final answer is option number 2.",
+            "The phosphorylation of \u03b3H2AX is a marker for the presence of DNA double-strand breaks and is involved in the recruitment of DNA repair proteins to the site of damage. Among the given options, the most accurate answer is the recruitment of the MRN complex, which is a key player in the detection and repair of double-strand breaks.\n\nTherefore, the best final answer is option number 0.",
+            "The phosphorylation of \u03b3H2AX is a marker for the presence of DNA double-strand breaks and is involved in the recruitment of DNA repair proteins to the site of damage. Among the given options, the most accurate answer is:\n\n0: (D) Recruitment of MRN complex\n\nTherefore, the best final answer is option number 0."
+        ],
+        "final_solution": "(D) Recruitment of MRN complex"
     },
     {
         "realidx": "Text-77",
@@ -2299,9 +3344,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2958,
-            "completion_tokens": 148
+            "completion_tokens": 170
         },
-        "time_elapsed": 5.455997705459595
+        "time_elapsed": 5.353776931762695,
+        "raw_responses": [
+            "(B) Type II deformity with a significantly increased 4-5 intermetatarsal angle and painful callus formation",
+            "(B) Type II deformity with a significantly increased 4-5 intermetatarsal angle and painful callus formation",
+            "(B) Type II deformity with a significantly increased 4-5 intermetatarsal angle and painful callus formation"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The solutions provided are all identical, each selecting option (B) as the answer. Since there is no variation among the solutions, any of the options can be chosen as the final answer.\n\nThe best final answer is: 0",
+            "The solutions provided are all identical, indicating that the same answer was chosen in each case. Therefore, any of the options can be selected as the final answer. \n\nI will choose option number 0.\n\n0"
+        ],
+        "final_solution": "(B) Type II deformity with a significantly increased 4-5 intermetatarsal angle and painful callus formation"
     },
     {
         "realidx": "Text-81",
@@ -2322,10 +3378,21 @@
         "answer": "L1 anterior lumbar tender point",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 2871,
-            "completion_tokens": 291
+            "prompt_tokens": 2811,
+            "completion_tokens": 277
         },
-        "time_elapsed": 6.744986057281494
+        "time_elapsed": 6.604441404342651,
+        "raw_responses": [
+            "The patient's symptoms and physical findings suggest a specific point of tenderness medial to the left ASIS. This location is consistent with the iliacus muscle, which originates from the iliac fossa on the interior side of the ilium and inserts into the lesser trochanter of the femur. The iliacus muscle is involved in hip flexion and can cause pain with hip extension when strained or tender.\n\nFinal answer: (I) Iliacus tender point",
+            "The patient's symptoms and physical findings suggest a specific point of tenderness medial to the left ASIS. This location is consistent with the iliacus muscle, which originates from the iliac fossa on the inner side of the pelvis and inserts into the lesser trochanter of the femur. The iliacus muscle can cause pain that is exacerbated by hip extension, as described by the patient.\n\nFinal answer: (I) Iliacus tender point",
+            "The patient's symptoms and physical findings suggest a specific point of tenderness medial to the left ASIS. This location is consistent with the iliacus muscle, which originates from the iliac fossa on the interior side of the ilium and inserts into the lesser trochanter of the femur. The iliacus muscle is involved in hip flexion and can cause pain with hip extension when strained or tender.\n\nFinal answer: (I) Iliacus tender point"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient's symptoms and physical findings suggest a specific point of tenderness medial to the left ASIS. This location is consistent with the iliacus muscle, which originates from the iliac fossa on the interior side of the ilium and inserts into the lesser trochanter of the femur. The iliacus muscle is involved in hip flexion and can cause pain with hip extension when strained or tender.\n\nFinal answer: (I) Iliacus tender point"
     },
     {
         "realidx": "Text-82",
@@ -2347,9 +3414,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1626,
-            "completion_tokens": 253
+            "completion_tokens": 175
         },
-        "time_elapsed": 6.471104860305786
+        "time_elapsed": 7.608234643936157,
+        "raw_responses": [
+            "(B) 5-FU and mitomycin",
+            "(B) 5-FU and mitomycin",
+            "(B) 5-FU and mitomycin"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (B) 5-FU and mitomycin. Since they all agree and this regimen is a well-known radiosensitizing chemotherapy for muscle-invasive bladder cancer undergoing chemo-radiotherapy, the best final answer is:\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (B) 5-FU and mitomycin. Since they all agree and this regimen is a well-known radiosensitizing chemotherapy for muscle-invasive bladder cancer undergoing chemo-radiotherapy, the best final answer is:\n\n0",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) 5-FU and mitomycin"
     },
     {
         "realidx": "Text-90",
@@ -2371,9 +3449,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2283,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.3452072143554688
+        "time_elapsed": 3.878690004348755,
+        "raw_responses": [
+            "(J) Squamous cell carcinoma",
+            "(J) Squamous cell carcinoma",
+            "(J) Squamous cell carcinoma"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "0"
+        ],
+        "final_solution": "(J) Squamous cell carcinoma"
     },
     {
         "realidx": "Text-94",
@@ -2394,9 +3483,20 @@
         "answer": "Annual echocardiogram",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 3189,
-            "completion_tokens": 479
+            "prompt_tokens": 4017,
+            "completion_tokens": 761
         },
-        "time_elapsed": 9.057200193405151
+        "time_elapsed": 10.44890832901001,
+        "raw_responses": [
+            "The patient is a 13-year-old athlete with a family history of hypertrophic cardiomyopathy (HCM), as indicated by the brother's diagnosis of a \"thickened heart.\" HCM is a genetic condition that can be asymptomatic and may not show abnormalities on a physical exam or electrocardiogram (ECG). Given the family history, it is important to screen for HCM, which can be life-threatening, especially in athletes.\n\nStep-by-step reasoning:\n1. The patient has a family history of HCM, which warrants screening.\n2. A one-time echocardiogram (Option A) may not be sufficient as HCM can develop over time.\n3. Screening only if symptoms develop (Option B) is not appropriate because HCM can be asymptomatic until a serious event occurs.\n4. Genetic testing (Option C) can identify mutations but does not replace the need for regular imaging to monitor for the development of HCM.\n5. Annual electrocardiogram without echocardiogram (Option D) is not sufficient as ECG alone may not detect HCM.\n6. Annual echocardiogram (Option E) is appropriate as it allows for regular monitoring of heart structure and function.\n7. Cardiac MRI (Option F) is useful but not typically done annually due to cost and availability.\n8. Holter monitor evaluation annually (Option G) is not the primary screening tool for HCM.\n9. Referral for electrophysiology study (Option H) is not indicated without arrhythmia symptoms.\n10. Cardiac MRI every 5 years (Option I) is not frequent enough for monitoring in a young athlete.\n11. Exercise stress testing every 2 years (Option J) is not the primary screening tool for HCM.\n\nFinal answer: (E) Annual echocardiogram",
+            "(E) Annual echocardiogram",
+            "The patient is a 13-year-old athlete with a family history of hypertrophic cardiomyopathy (HCM), as indicated by the brother's diagnosis of a \"thickened heart.\" HCM is a genetic condition that can be asymptomatic and may not show abnormalities on a physical exam or electrocardiogram (ECG). Given the family history, it is important to screen for HCM, which can be life-threatening, especially in athletes.\n\nStep-by-step reasoning:\n1. The patient has a family history of HCM, which warrants screening.\n2. A one-time echocardiogram (Option A) may not be sufficient because HCM can develop over time, especially during adolescence.\n3. Screening only if symptoms develop (Option B) is not appropriate because HCM can be asymptomatic until a serious event occurs.\n4. Genetic testing (Option C) can identify mutations but does not replace the need for regular imaging to monitor for the development of HCM.\n5. Annual electrocardiogram without echocardiogram (Option D) is not sufficient because ECG alone may not detect HCM.\n6. Annual echocardiogram (Option E) is appropriate because it allows for regular monitoring of heart structure and function, which can change during growth.\n7. Cardiac MRI (Option F) is useful but not typically done annually due to cost and availability.\n8. Holter monitor evaluation annually (Option G) is not the primary screening tool for HCM.\n9. Referral for electrophysiology study (Option H) is not indicated without evidence of arrhythmias.\n10. Cardiac MRI every 5 years (Option I) is not frequent enough for monitoring during adolescence.\n11. Exercise stress testing every 2 years (Option J) is not the primary screening tool for HCM.\n\nFinal answer: (E) Annual echocardiogram"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient is a 13-year-old athlete with a family history of hypertrophic cardiomyopathy (HCM), as indicated by the brother's diagnosis of a \"thickened heart.\" HCM is a genetic condition that can be asymptomatic and may not show abnormalities on a physical exam or electrocardiogram (ECG). Given the family history, it is important to screen for HCM, which can be life-threatening, especially in athletes.\n\nStep-by-step reasoning:\n1. The patient has a family history of HCM, which warrants screening.\n2. A one-time echocardiogram (Option A) may not be sufficient because HCM can develop over time, especially during adolescence.\n3. Screening only if symptoms develop (Option B) is not appropriate because HCM can be asymptomatic until a serious event occurs.\n4. Genetic testing (Option C) can identify mutations but does not replace the need for regular imaging to monitor for the development of HCM.\n5. Annual electrocardiogram without echocardiogram (Option D) is not sufficient because ECG alone may not detect HCM.\n6. Annual echocardiogram (Option E) is appropriate because it allows for regular monitoring of heart structure and function, which can change during growth.\n7. Cardiac MRI (Option F) is useful but not typically done annually due to cost and availability.\n8. Holter monitor evaluation annually (Option G) is not the primary screening tool for HCM.\n9. Referral for electrophysiology study (Option H) is not indicated without evidence of arrhythmias.\n10. Cardiac MRI every 5 years (Option I) is not frequent enough for monitoring during adolescence.\n11. Exercise stress testing every 2 years (Option J) is not the primary screening tool for HCM.\n\nFinal answer: (E) Annual echocardiogram"
     }
 ]

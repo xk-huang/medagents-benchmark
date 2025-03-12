@@ -211,6 +211,8 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
             end_time = time.time()
             time_elapsed = end_time - start_time
 
+            problem['solutions'] = solutions
+            problem['ensemble_response'] = raw_response
             problem['predicted_answer'] = predicted_answer
             problem['token_usage'] = {
                 "prompt_tokens": prompt_tokens,

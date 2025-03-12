@@ -14,8 +14,9 @@ import re
 load_dotenv()
 
 class AnswerResponse(BaseModel):
-    answer_idx: str
+    answer_idx: Optional[str] = None
     explanation: Optional[str] = None
+    review_result: Optional[bool] = None
 
 # Define Anthropic models mapping used for certain models.
 ANTHROPIC_MODELS = {
@@ -71,28 +72,34 @@ def call_llm(prompt: str, client: Any, model: str) -> tuple:
         raw_response = completion.choices[0].message.content.strip()
     return completion, raw_response
 
-def parse_answer(raw_response: str, options: Dict, client_old: Any, explanation: bool = False) -> str:
+def parse_answer(raw_response: str, options: Dict, client_old: Any, answer_idx: bool = False, explanation: bool = False, review_result: bool = False) -> str:
     """Parse LLM response using GPT-4o-mini"""
     answer_schema = {
         "name": "answer_response",
         "schema": {
             "type": "object",
-            "properties": {
-                "answer_idx": {"type": "string", "enum": list(options.keys())}
-            },
-            "required": ["answer_idx"],
+            "properties": {},
+            "required": [],
             "additionalProperties": False
         },
         "strict": True,
     }
 
+    if answer_idx:
+        answer_schema["schema"]["properties"]["answer_idx"] = {"type": "string", "enum": list(options.keys())}
+        answer_schema["schema"]["required"].append("answer_idx")
+
     if explanation:
         answer_schema["schema"]["properties"]["explanation"] = {"type": "string"}
         answer_schema["schema"]["required"].append("explanation")
 
+    if review_result:
+        answer_schema["schema"]["properties"]["review_result"] = {"type": "boolean"}
+        answer_schema["schema"]["required"].append("review_result")
+
     extraction_prompt = (
         "You are an answer extractor. Extract the answer option from the text below. "
-        "Only return the answer as a JSON object following this format: {\"thinking\": \"<thinking>\", \"answer_idx\": \"<option>\"" + ", \"explanation\": \"<explanation>\"" if explanation else "" + "}, "
+        "Only return the answer as a JSON object following this format: {\"thinking\": \"<thinking>\", \"answer_idx\": \"<option>\"" + ", \"explanation\": \"<explanation>\"" if explanation else "" + ", \"review_result\": \"<review_result>\"" if review_result else "" + "}, "
         "where <thinking> is the thinking process and <option> is one of the following: " + ", ".join(options.keys()) + "."
         "\nText:\n" + raw_response
     )
@@ -105,7 +112,7 @@ def parse_answer(raw_response: str, options: Dict, client_old: Any, explanation:
     )
     extraction_raw_response = extraction_completion.choices[0].message.content.strip()
     result = AnswerResponse.parse_raw(extraction_raw_response)
-    return result.answer_idx, result.explanation if explanation else None
+    return result.answer_idx if answer_idx else None, result.explanation if explanation else None, result.review_result if review_result else None
 
 # Self-refine based problem solver.
 def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, num_rounds: int = 3) -> Dict:
@@ -130,9 +137,17 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
             prompt_tokens += usage.prompt_tokens
             completion_tokens += usage.completion_tokens
         solution = raw_response
+        predicted_answer, _, _ = parse_answer(solution, options, client_old, answer_idx=True)
     except Exception as e:
         print(f"Error during generation LLM call: {e}")
         return None
+
+    problem['refinement_rounds'] = [{
+        'predicted_answer': predicted_answer,
+        'review_response': raw_response,
+        'review_result': None,
+        'revised_response': None,
+    }]
 
     # Iterative self-refinement loop.
     for i in range(num_rounds):
@@ -156,10 +171,17 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
             break
 
         # Parse the review result; look for True/False in response.
-        review_result, review_explanation = parse_answer(review_response, options, client_old, explanation=True)
+        _, review_explanation, review_result = parse_answer(review_response, options, client_old, answer_idx=False, explanation=True, review_result=True)
 
         if review_result:
             # If the review is positive, stop refinement.
+            predicted_answer, _, _ = parse_answer(solution, options, client_old, answer_idx=True)
+            problem['refinement_rounds'].append({
+                'predicted_answer': predicted_answer,
+                'review_response': review_response,
+                'review_result': review_result,
+                'revised_response': solution,
+            })
             break
         else:
             # Revision step.
@@ -182,8 +204,16 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
                 print(f"Error during revision LLM call: {e}")
                 break
 
+        predicted_answer, _, _ = parse_answer(solution, options, client_old, answer_idx=True)
+        problem['refinement_rounds'].append({
+            'predicted_answer': predicted_answer,
+            'review_response': review_response,
+            'revise_response': raw_response,
+            'review_result': review_result,
+        })
+
     # Extract final answer using regex.
-    predicted_answer, _ = parse_answer(solution, options, client_old)
+    predicted_answer, _, _ = parse_answer(solution, options, client_old, answer_idx=True)
     
     end_time = time.time()
     time_elapsed = end_time - start_time

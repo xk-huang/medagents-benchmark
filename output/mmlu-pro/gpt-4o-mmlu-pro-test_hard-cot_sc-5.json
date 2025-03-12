@@ -12,12 +12,20 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "No disease at all",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". Therefore, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 796,
-            "completion_tokens": 1679
+            "completion_tokens": 1617
         },
-        "time_elapsed": 21.8667733669281
+        "time_elapsed": 20.149667978286743
     },
     {
         "realidx": 6003,
@@ -38,12 +46,20 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "The botanist Dmitri Iwanowsky",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks who discovered the first virus, and the options provided include various notable scientists from different fields. The solutions generated all consistently point to the same answer.\n\nThe most frequently appearing answer across all solutions is \"I,\" which corresponds to the botanist Dmitri Iwanowsky. Dmitri Iwanowsky is indeed credited with the discovery of the first virus, the tobacco mosaic virus, in 1892.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1216,
-            "completion_tokens": 1470
+            "completion_tokens": 1507
         },
-        "time_elapsed": 17.93908166885376
+        "time_elapsed": 20.51610040664673
     },
     {
         "realidx": 6012,
@@ -64,12 +80,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "Inspect the nail-bed angle from the side",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"E\". This consistency indicates that \"E\" is the most reliable solution according to the given data.\n\nThe Schamroth's sign (option E) is a clinical test used to assess for clubbing. It involves placing the dorsal surfaces of the distal phalanges of corresponding fingers together. In a normal individual, a small diamond-shaped window is visible between the nail beds. In the presence of clubbing, this window is obliterated.\n\nTherefore, the most reliable way to assess for clubbing, based on the consistent solutions provided, is:\n\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1270,
-            "completion_tokens": 1856
+            "completion_tokens": 2007
         },
-        "time_elapsed": 25.298105239868164
+        "time_elapsed": 25.718519687652588
     },
     {
         "realidx": 6013,
@@ -90,12 +114,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "Expiratory component louder and longer with a gap between inspiration and expiration",
+        "solutions": [
+            "G",
+            "G",
+            "H",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"G\". This answer appears in solutions 1, 2, 4, and 5, making it the most consistent solution.\n\nTherefore, the answer is:\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1654,
-            "completion_tokens": 2355
+            "completion_tokens": 2295
         },
-        "time_elapsed": 27.818174123764038
+        "time_elapsed": 26.54630398750305
     },
     {
         "realidx": 6018,
@@ -116,12 +148,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Typically less successful",
-        "predicted_answer": "A",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: H\nSolution 2: H\nSolution 3: H\nSolution 4: H\nSolution 5: H\n\nAll the solutions consistently indicate the answer as \"H\". Therefore, the most reliable solution based on the consistency of the answers is:\n\nH",
+        "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1144,
-            "completion_tokens": 1840
+            "completion_tokens": 1756
         },
-        "time_elapsed": 21.855733394622803
+        "time_elapsed": 22.08008360862732
     },
     {
         "realidx": 6021,
@@ -142,12 +182,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Hindu",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate the answer as \"B\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"B\".\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1030,
-            "completion_tokens": 2565
+            "completion_tokens": 2382
         },
-        "time_elapsed": 34.36203694343567
+        "time_elapsed": 29.277165412902832
     },
     {
         "realidx": 6029,
@@ -168,12 +216,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "arise from the ascending aorta and fill during diastole.",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"I\". \n\nThe coronary arteries arise from the ascending aorta and fill during diastole. This is because during diastole, the aortic valve is closed, and the pressure in the aorta is higher than in the coronary arteries, allowing blood to flow into them. \n\nTherefore, the correct answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1654,
-            "completion_tokens": 1168
+            "completion_tokens": 1264
         },
-        "time_elapsed": 14.85726284980774
+        "time_elapsed": 15.873285293579102
     },
     {
         "realidx": 6030,
@@ -194,12 +250,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "The ribs and sternum",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided. The solutions generated are as follows:\n\nSolution 1: F\nSolution 2: F\nSolution 3: F\nSolution 4: F\nSolution 5: F\n\nAll the solutions consistently indicate the answer as \"F.\" Therefore, the most reliable solution based on the consistency of the answers is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 1408,
-            "completion_tokens": 2803
+            "completion_tokens": 2849
         },
-        "time_elapsed": 31.474820375442505
+        "time_elapsed": 32.35882019996643
     },
     {
         "realidx": 6032,
@@ -220,12 +284,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "Pupillary constriction and vasodilation of facial vessels",
+        "solutions": [
+            "A",
+            "A",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"G\". \n\nHere is the detailed thought process:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: G\n- Solution 4: G\n- Solution 5: G\n\nThe answer \"G\" appears three times, while the answer \"A\" appears twice. Therefore, the most consistent solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1696,
-            "completion_tokens": 3306
+            "completion_tokens": 3266
         },
-        "time_elapsed": 37.81240797042847
+        "time_elapsed": 34.78262376785278
     },
     {
         "realidx": 6039,
@@ -246,12 +318,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "the neck was treated in simultaneous hyperrotation and extension",
+        "solutions": [
+            "A",
+            "A",
+            "D",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"A\". \n\nThe question describes a scenario where a 78-year-old male patient experienced severe neck pain after doing a lot of painting, and was treated with an articulatory springing technique. Later, he presented with confusion, nausea, and vertigo at the emergency department. The potential liability of the physician is being assessed based on the treatment provided.\n\nThe consistent answer \"A\" suggests that the physician may be found liable if the neck was treated in simultaneous hyperrotation and extension. This is because such a maneuver can be particularly risky in elderly patients, potentially leading to vertebral artery compromise or other serious complications.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2248,
-            "completion_tokens": 2839
+            "completion_tokens": 2966
         },
-        "time_elapsed": 29.68286371231079
+        "time_elapsed": 30.734460830688477
     },
     {
         "realidx": 6042,
@@ -272,12 +352,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Ribosomal assembly",
-        "predicted_answer": "B",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The patient described in the question presents with symptoms indicative of a severe bacterial infection, likely Yersinia pestis, which causes plague. The symptoms include fever, severe muscle pain, painful swelling in the neck, underarms, and groin (buboes), lethargy, and necrotic lesions, which are characteristic of bubonic plague. The most effective antibiotics for treating Yersinia pestis are those that interfere with bacterial cell wall synthesis, such as aminoglycosides (e.g., streptomycin) or tetracyclines (e.g., doxycycline).\n\nGiven the options provided, the most effective antibiotic for this patient's disorder would interfere with cell wall synthesis.\n\nThe most consistent answer across the solutions provided is:\nH",
+        "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2140,
-            "completion_tokens": 2462
+            "completion_tokens": 2392
         },
-        "time_elapsed": 26.710721969604492
+        "time_elapsed": 26.526040077209473
     },
     {
         "realidx": 6045,
@@ -296,12 +384,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Vitamin D deficiency",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"D\".\n\nTo determine the most likely diagnosis, let's analyze the patient's symptoms and history:\n\n1. **Symptoms**: Cramping in hands and feet, numbness and tingling around lips and fingers, weight loss, bulky and foul-smelling stools, and severe abdominal pain in the past.\n2. **Signs**: Cachectic appearance, deep tendon reflexes 4+ bilaterally, positive Chvostek and Trousseau signs, and low serum calcium concentration (6.5 mg/dL).\n3. **History**: Long-term heavy alcohol consumption (8-10 beers daily for 10 years), previous hospitalizations for severe abdominal pain.\n\nThese symptoms and signs are indicative of chronic pancreatitis, which is often associated with long-term alcohol abuse. Chronic pancreatitis can lead to malabsorption and deficiencies in fat-soluble vitamins (including vitamin D), which can cause hypocalcemia. The bulky, foul-smelling stools (steatorrhea) are a result of fat malabsorption due to pancreatic insufficiency.\n\nThe positive Chvostek and Trousseau signs are indicative of hypocalcemia, which is consistent with chronic pancreatitis leading to malabsorption and subsequent vitamin D deficiency.\n\nTherefore, the most likely diagnosis is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2104,
-            "completion_tokens": 2679
+            "completion_tokens": 2862
         },
-        "time_elapsed": 30.685781717300415
+        "time_elapsed": 33.11391639709473
     },
     {
         "realidx": 6049,
@@ -322,12 +418,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "32%",
+        "solutions": [
+            "F",
+            "F",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently among the provided solutions. Here are the solutions:\n\n- Solution 1: F\n- Solution 2: F\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nWe can count the frequency of each answer:\n\n- A appears 3 times.\n- F appears 2 times.\n\nSince the answer \"A\" appears most frequently, it is the most consistent solution.\n\nTherefore, the answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1048,
-            "completion_tokens": 1660
+            "completion_tokens": 1720
         },
-        "time_elapsed": 20.42536497116089
+        "time_elapsed": 20.551655530929565
     },
     {
         "realidx": 6050,
@@ -348,12 +452,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Carboxylation of pyruvate to oxaloacetate",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"I\". \n\nBiotin, also known as vitamin B7, is a coenzyme involved in carboxylation reactions. One of its primary functions is the carboxylation of pyruvate to oxaloacetate, which is a crucial step in gluconeogenesis and the citric acid cycle. This function is specifically highlighted in option (I).\n\nTherefore, the correct answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1456,
-            "completion_tokens": 2360
+            "completion_tokens": 2548
         },
-        "time_elapsed": 26.359010696411133
+        "time_elapsed": 28.753920555114746
     },
     {
         "realidx": 6051,
@@ -374,12 +486,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Carboxylation of pyruvate to oxaloacetate",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks for the function of biotin among the given options. Biotin is a coenzyme involved in carboxylation reactions, which are essential for various metabolic processes.\n\nLet's evaluate the options:\n(A) Oxidation of glucose to carbon dioxide and water - This is primarily a function of enzymes involved in the citric acid cycle and electron transport chain, not biotin.\n(B) Conversion of pyruvate to lactate - This is catalyzed by lactate dehydrogenase, not biotin.\n(C) Synthesis of methionine from homocysteine - This involves vitamin B12 and folate, not biotin.\n(D) Synthesis of purine nucleotides - This involves multiple enzymes and cofactors, but not specifically biotin.\n(E) Decarboxylation of amino acids to form amine neurotransmitters - This involves pyridoxal phosphate (vitamin B6), not biotin.\n(F) Synthesis of fatty acids from acetyl-CoA - This involves acetyl-CoA carboxylase, which requires biotin as a cofactor.\n(G) Conversion of phenylalanine to tyrosine - This involves phenylalanine hydroxylase, not biotin.\n(H) Conversion of glucose to glycogen - This involves glycogen synthase, not biotin.\n(I) Carboxylation of pyruvate to oxaloacetate - This is catalyzed by pyruvate carboxylase, which requires biotin.\n(J) Synthesis of methylene tetrahydrofolate - This involves folate, not biotin.\n\nThe consistent answer across all solutions provided is \"I,\" which corresponds to the carboxylation of pyruvate to oxaloacetate, a known function of biotin.\n\nTherefore, the most reliable solution is:\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1456,
-            "completion_tokens": 2855
+            "completion_tokens": 2789
         },
-        "time_elapsed": 29.767173528671265
+        "time_elapsed": 33.783292293548584
     },
     {
         "realidx": 6052,
@@ -400,12 +520,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate render the amino acid(s) unavailable for digestion.",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks which statement about protein structure is correct. The options provided cover various aspects of protein structure, including cross-links, secondary structure, tertiary structure, and quaternary structure.\n\nTo determine the correct answer, let's analyze the options:\n\n(A) Incorrect. Cross-links formed by reduction of -SH groups of cysteine to form disulphide bridges is not accurate; disulphide bridges are formed by oxidation, not reduction.\n\n(B) Incorrect. Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of aspartate do not render the amino acids unavailable for digestion.\n\n(C) Incorrect. Not all proteins have the same secondary structure; secondary structures can vary (e.g., alpha helices, beta sheets).\n\n(D) Incorrect. The arrangement of amino acids in a protein is its primary structure, not secondary.\n\n(E) Incorrect. The sequence of amino acids in a protein is its primary structure, not quaternary.\n\n(F) Incorrect. Not all proteins have the same tertiary structure; tertiary structures are unique to each protein.\n\n(G) Incorrect. Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of glutamate do not render the amino acids unavailable for digestion.\n\n(H) Incorrect. Not all proteins have the same primary structure; each protein has a unique primary structure.\n\n(I) Correct. Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges can render the amino acid unavailable to digestion.\n\n(J) Incorrect. The sequence of amino acids in a protein is its primary structure, not tertiary.\n\nAfter evaluating the options, the correct statement is (I). This is confirmed by the consistency of the solutions provided, all of which indicate (I) as the correct answer.\n\nTherefore, the most consistent solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1930,
-            "completion_tokens": 3348
+            "completion_tokens": 3299
         },
-        "time_elapsed": 38.26649498939514
+        "time_elapsed": 34.84516716003418
     },
     {
         "realidx": 6054,
@@ -424,12 +552,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "High nutrient requirements for tissue turnover",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which of the following is not a reason for increased risk of vitamin or mineral deficiencies among older people in high-income countries. The options provided include various factors that could potentially affect nutrient absorption or requirements in older adults.\n\nLet's analyze each option:\n- (A) Regular physical activity and outdoor exposure: This is generally beneficial for health and can help maintain adequate vitamin D levels due to sun exposure.\n- (B) High nutrient requirements for tissue turnover: Older adults typically have lower, not higher, nutrient requirements for tissue turnover.\n- (C) Increased intrinsic factor in the stomach: Older adults often have decreased intrinsic factor, which can lead to vitamin B12 deficiency.\n- (D) Low income so decreased ability to purchase nutrient-rich foods: This can be a valid reason for nutrient deficiencies.\n- (E) Decreased intrinsic factor in the stomach: This is a common issue in older adults and can lead to deficiencies.\n- (F) Decreased nutrient requirements due to aging: This is true, but it does not directly cause deficiencies.\n- (G) Decreased mobility and little time spent outdoors in the sunshine: This can lead to vitamin D deficiency.\n- (H) Increased absorption of vitamins and minerals due to medication: Medications often decrease, not increase, nutrient absorption.\n\nGiven the analysis, the correct answer should be a factor that does not contribute to deficiencies. Regular physical activity and outdoor exposure (A) is beneficial and does not contribute to deficiencies.\n\nThe most frequently appearing solution among the provided ones is:\nA\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1264,
-            "completion_tokens": 1888
+            "completion_tokens": 2223
         },
-        "time_elapsed": 20.72699475288391
+        "time_elapsed": 25.08213496208191
     },
     {
         "realidx": 6055,
@@ -447,12 +583,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Hypoglycaemia",
+        "solutions": [
+            "A",
+            "G",
+            "C",
+            "D",
+            "G"
+        ],
+        "ensemble_response": "To determine the most consistent solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: A\n- Solution 2: G\n- Solution 3: C\n- Solution 4: D\n- Solution 5: G\n\nNow, I will count the frequency of each option:\n- A: 1 time\n- G: 2 times\n- C: 1 time\n- D: 1 time\n\nThe option that appears most frequently is G, which appears in Solution 2 and Solution 5.\n\nTherefore, the most consistent solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1006,
-            "completion_tokens": 1926
+            "completion_tokens": 1932
         },
-        "time_elapsed": 19.581298351287842
+        "time_elapsed": 24.841160535812378
     },
     {
         "realidx": 6059,
@@ -473,12 +617,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"E\". \n\nTo determine this, I reviewed each solution and noted that all of them consistently identified \"E\" as the correct answer. This consistency suggests that \"E\" is the most reliable solution.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2080,
-            "completion_tokens": 2649
+            "completion_tokens": 2587
         },
-        "time_elapsed": 36.85874271392822
+        "time_elapsed": 31.076760292053223
     },
     {
         "realidx": 6061,
@@ -499,12 +651,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "High dose \u00df-carotene supplements",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks which factor increases the risk for lung cancer. The options provided are various dietary and lifestyle factors. The solutions generated all consistently point to option (I) as the answer.\n\nTo determine the most reliable solution, I will consider the consistency across the provided solutions. All five solutions indicate that option (I) is the correct answer.\n\nTherefore, the most consistent and reliable solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1048,
-            "completion_tokens": 1669
+            "completion_tokens": 1682
         },
-        "time_elapsed": 19.79989194869995
+        "time_elapsed": 21.348665475845337
     },
     {
         "realidx": 6062,
@@ -525,12 +685,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "High dose \u00df-carotene supplements",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks which factor increases the risk for lung cancer. The options provided are various dietary and lifestyle factors. The solutions generated all consistently point to the same answer.\n\nTo determine the most reliable solution, I will evaluate the consistency across the provided solutions. Each solution indicates the same answer:\n\nSolution 1: I\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nAll solutions consistently identify option (I) as the answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1048,
-            "completion_tokens": 1760
+            "completion_tokens": 1795
         },
-        "time_elapsed": 20.66824507713318
+        "time_elapsed": 20.939152240753174
     },
     {
         "realidx": 6064,
@@ -550,12 +718,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Respiratory diseases",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: E\nSolution 2: E\nSolution 3: E\nSolution 4: E\nSolution 5: E\n\nAll the solutions consistently indicate the answer as \"E\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"E\".\n\nTherefore, the answer is:\n\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 970,
-            "completion_tokens": 2105
+            "completion_tokens": 2014
         },
-        "time_elapsed": 23.314839839935303
+        "time_elapsed": 23.88359761238098
     },
     {
         "realidx": 6067,
@@ -570,12 +746,20 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "Shot gun sequencing",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". Given that all solutions agree on this answer, it is reasonable to conclude that the most reliable solution is indeed \"C\".\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 862,
-            "completion_tokens": 1462
+            "completion_tokens": 1473
         },
-        "time_elapsed": 23.578470468521118
+        "time_elapsed": 19.45353674888611
     },
     {
         "realidx": 6068,
@@ -590,12 +774,20 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "An icosahedral large pleomorphic virus",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate the answer as \"A\". Given this consistency, it is clear that the most reliable solution is \"A\".\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 934,
-            "completion_tokens": 1749
+            "completion_tokens": 1707
         },
-        "time_elapsed": 22.41551184654236
+        "time_elapsed": 20.776821851730347
     },
     {
         "realidx": 6070,
@@ -616,12 +808,20 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "Factor VIII is made synthetically",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"H\". \n\nThe reasoning behind this is that synthetic production of Factor VIII eliminates the risk of HIV contamination, as it does not involve human blood or plasma, which could potentially carry the virus. Synthetic Factor VIII is produced using recombinant DNA technology, ensuring it is free from blood-borne pathogens, including HIV.\n\nTherefore, the answer is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1552,
-            "completion_tokens": 2311
+            "completion_tokens": 2173
         },
-        "time_elapsed": 29.039295196533203
+        "time_elapsed": 25.02199625968933
     },
     {
         "realidx": 6071,
@@ -642,12 +842,20 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "Part of a cycle of mosquitoes biting humans in cities",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is \"I\". \n\nTherefore, the answer is:\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1516,
-            "completion_tokens": 1960
+            "completion_tokens": 2193
         },
-        "time_elapsed": 21.530012845993042
+        "time_elapsed": 25.741198539733887
     },
     {
         "realidx": 6072,
@@ -668,12 +876,20 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "Higher than the pOH",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Here are the solutions given:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate the answer as \"A.\"\n\nTherefore, the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1234,
-            "completion_tokens": 2308
+            "completion_tokens": 2359
         },
-        "time_elapsed": 25.664159059524536
+        "time_elapsed": 27.53081774711609
     },
     {
         "realidx": 6074,
@@ -694,12 +910,20 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
-        "predicted_answer": "D",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "To determine the correct answer, we need to evaluate the original DNA sequence and understand the effects of both a point mutation and a deletion.\n\nThe original DNA sequence is:\n5\u2019 \u2013 GGATCCTCATG \u2013 3\u2019\n\n1. **Point Mutation**: This is a change in a single nucleotide base in the DNA sequence.\n2. **Deletion**: This is the removal of one nucleotide base from the DNA sequence.\n\nLet's analyze each option to see which one fits the criteria of having both a point mutation and a deletion:\n\n- **Option A: 5' - GGATCCTCA - 3'**\n  - This sequence is missing the last three nucleotides (TG), which is more than just a single deletion.\n\n- **Option B: 5\u2019 \u2013 TGATCCCAG \u2013 3\u2019**\n  - This sequence has multiple changes and does not fit the criteria of a single point mutation and a single deletion.\n\n- **Option C: 5\u2019 \u2013 GGATCCATG \u2013 3\u2019**\n  - This sequence has a deletion of the 'T' at position 7 and no point mutation.\n\n- **Option D: 5' - GGATCCTCGT - 3'**\n  - This sequence has a point mutation (G instead of A at position 10) but no deletion.\n\n- **Option E: 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019**\n  - This sequence has a point mutation (G instead of A at position 3) and a deletion of the last nucleotide (G).\n\n- **Option F: 5' - GGATCCGCATG - 3'**\n  - This sequence has an insertion (G at position 7) and no deletion.\n\n- **Option G: 5' - GGATCTCATG - 3'**\n  - This sequence has a deletion of the 'C' at position 6 and no point mutation.\n\n- **Option H: 5' - GGATCCTCAT - 3'**\n  - This sequence has a deletion of the last nucleotide (G) and no point mutation.\n\n- **Option I: 5' - GGATCCTCAG - 3'**\n  - This sequence has a point mutation (G instead of T at position 10) and no deletion.\n\n- **Option J: 5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019**\n  - This sequence has a point mutation (C instead of G at position 2) and no deletion.\n\nFrom the analysis, **Option E** (5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019) fits the criteria of having both a point mutation and a deletion.\n\nGiven the solutions provided:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: E\n- Solution 5: E\n\nThe most frequently occurring answer is **C**. However, based on the detailed analysis, the correct answer should be **E**.\n\nTherefore, the most consistent solution based on the provided solutions is:\n**C**",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1876,
-            "completion_tokens": 3662
+            "completion_tokens": 3632
         },
-        "time_elapsed": 41.354636430740356
+        "time_elapsed": 39.99644494056702
     },
     {
         "realidx": 6079,
@@ -720,12 +944,20 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "A diversified and developed economy.",
+        "solutions": [
+            "J",
+            "I",
+            "I",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Here are the solutions:\n\nSolution 1: J\nSolution 2: I\nSolution 3: I\nSolution 4: C\nSolution 5: C\n\nWe can count the frequency of each answer:\n- J appears once.\n- I appears twice.\n- C appears twice.\n\nBoth I and C appear twice, making them the most frequent answers. Since we need to provide a single letter ID, we can choose either I or C. \n\nGiven that both are equally frequent, we can select one of them. \n\nI will choose the letter ID \"I\" as it correlates with a diversified and developed economy, which is a characteristic often associated with semi-periphery countries in the World Systems Theory.\n\nThus, the most consistent solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1444,
-            "completion_tokens": 2164
+            "completion_tokens": 2187
         },
-        "time_elapsed": 26.04060983657837
+        "time_elapsed": 24.938559532165527
     },
     {
         "realidx": 6087,
@@ -746,12 +978,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "No variation with posture",
+        "solutions": [
+            "F",
+            "F",
+            "G",
+            "D",
+            "F"
+        ],
+        "ensemble_response": "The question asks which feature suggests that a pulsation in the neck is arterial. The options provided are various characteristics that could help differentiate between arterial and venous pulsations.\n\nTo determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Here are the solutions given:\n\n- Solution 1: F\n- Solution 2: F\n- Solution 3: G\n- Solution 4: D\n- Solution 5: F\n\nBy evaluating these solutions, we see that the answer \"F\" appears three times, which is more frequent than any other option.\n\nTherefore, the most consistent solution is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 1318,
-            "completion_tokens": 2142
+            "completion_tokens": 2147
         },
-        "time_elapsed": 27.349790334701538
+        "time_elapsed": 24.10770559310913
     },
     {
         "realidx": 6092,
@@ -772,12 +1012,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Receive more opportunities than older workers",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate the answer as \"A\". Given this consistency, the most reliable solution is clearly \"A\".\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1300,
-            "completion_tokens": 1993
+            "completion_tokens": 2004
         },
-        "time_elapsed": 24.41238760948181
+        "time_elapsed": 23.587262868881226
     },
     {
         "realidx": 6093,
@@ -798,12 +1046,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "On foot",
-        "predicted_answer": "F",
+        "solutions": [
+            "F",
+            "E",
+            "F",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\n- Solution 1: F\n- Solution 2: E\n- Solution 3: F\n- Solution 4: E\n- Solution 5: E\n\nTo determine the most consistent solution, we need to identify the answer that appears most frequently among these solutions.\n\n- Solution F appears in Solution 1 and Solution 3.\n- Solution E appears in Solution 2, Solution 4, and Solution 5.\n\nSince Solution E appears three times, while Solution F appears only twice, the most consistent solution is E.\n\nTherefore, the answer is:\nE",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1102,
-            "completion_tokens": 2087
+            "completion_tokens": 2057
         },
-        "time_elapsed": 25.598867654800415
+        "time_elapsed": 23.76763677597046
     },
     {
         "realidx": 6104,
@@ -824,12 +1080,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Obtain a swallowing evaluation",
-        "predicted_answer": "G",
+        "solutions": [
+            "D",
+            "G",
+            "G",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "I",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3004,
-            "completion_tokens": 3385
+            "completion_tokens": 3476
         },
-        "time_elapsed": 35.81034827232361
+        "time_elapsed": 37.65298247337341
     },
     {
         "realidx": 6105,
@@ -850,12 +1114,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Obtain a swallowing evaluation",
+        "solutions": [
+            "I",
+            "G",
+            "D",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the solutions provided is \"I\". This suggests that obtaining a swallowing evaluation is the most appropriate step prior to discharge for this patient.\n\nGiven the patient's history of Parkinson disease, which can affect swallowing and increase the risk of aspiration pneumonia, a swallowing evaluation is crucial. This evaluation can help determine if the patient has dysphagia and if any modifications to his diet or swallowing techniques are needed to prevent future episodes of pneumonia.\n\nTherefore, the most consistent and appropriate solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3004,
-            "completion_tokens": 3454
+            "completion_tokens": 3427
         },
-        "time_elapsed": 36.76262354850769
+        "time_elapsed": 38.15257215499878
     },
     {
         "realidx": 6108,
@@ -876,12 +1148,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Development of polycythemia",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question involves a 30-year-old pregnant woman who is Rh-negative, and her partner is Rh-positive. The physician recommends administering Rho(D) immune globulin to prevent a specific condition. The options provided include various potential outcomes related to blood and immune responses.\n\nThe key point here is that Rho(D) immune globulin is given to Rh-negative mothers to prevent the formation of antibodies against Rh-positive fetal red blood cells. This is crucial to prevent hemolytic disease of the newborn in future pregnancies.\n\nGiven the solutions provided:\nSolution 1: G\nSolution 2: G\nSolution 3: G\nSolution 4: G\nSolution 5: G\n\nAll solutions consistently indicate \"G\" as the answer. This consistency suggests that the most reliable solution is indeed \"G.\"\n\nTherefore, the answer is:\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1930,
-            "completion_tokens": 2361
+            "completion_tokens": 1902
         },
-        "time_elapsed": 26.928338050842285
+        "time_elapsed": 21.685112714767456
     },
     {
         "realidx": 6109,
@@ -902,12 +1182,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Development of polycythemia",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question involves a 30-year-old pregnant woman who is Rh-negative, and her partner is Rh-positive. The physician recommends administering Rho immune globulin to the patient. This treatment is typically given to prevent the formation of antibodies against Rh-positive blood cells in an Rh-negative mother, which can occur if fetal blood cells cross into the maternal circulation.\n\nThe correct answer to the question is the prevention of the formation of antibodies to RhD, as RhD is the most common antigen involved in Rh incompatibility.\n\nGiven the solutions provided:\nSolution 1: G\nSolution 2: G\nSolution 3: G\nSolution 4: G\nSolution 5: G\n\nAll solutions consistently indicate the answer as \"G.\"\n\nTherefore, the most reliable solution is:\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1930,
-            "completion_tokens": 1764
+            "completion_tokens": 2171
         },
-        "time_elapsed": 20.480615377426147
+        "time_elapsed": 25.66487145423889
     },
     {
         "realidx": 6127,
@@ -923,12 +1211,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "The classic glycogen loading regime",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which nutritional strategy will not improve performance during prolonged endurance type exercise. The options provided are:\n\n(A) Tapering\n(B) The classic glycogen loading regime\n(C) Hydration during exercise\n(D) Exogenous carbohydrate ingestion during exercise\n(E) Carbohydrate loading\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is (A) Tapering. \n\nTapering refers to the practice of reducing exercise volume and intensity before a competition to allow the body to recover and perform optimally. While tapering is a common strategy to enhance performance, it is not a nutritional strategy. The other options (B, C, D, and E) are all related to nutritional strategies that can improve performance during prolonged endurance exercise.\n\nTherefore, the most consistent and reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 910,
-            "completion_tokens": 1348
+            "completion_tokens": 1376
         },
-        "time_elapsed": 17.603535413742065
+        "time_elapsed": 17.440197706222534
     },
     {
         "realidx": 6128,
@@ -949,12 +1245,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "1 unit of BMI",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again for clarity:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll five solutions consistently indicate that the answer is \"A\". Given this consistency, the most reliable solution is indeed \"A\".\n\nTherefore, the answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1270,
-            "completion_tokens": 1050
+            "completion_tokens": 987
         },
-        "time_elapsed": 15.319398164749146
+        "time_elapsed": 13.26564335823059
     },
     {
         "realidx": 6140,
@@ -975,12 +1279,20 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "glucose-1-phosphate.",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is \"I\". \n\nGlycogen breakdown in muscle involves the enzyme glycogen phosphorylase, which catalyzes the release of glucose units from glycogen in the form of glucose-1-phosphate. This is the initial product of glycogenolysis in muscle tissue.\n\nTherefore, the correct answer is:\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1305,
-            "completion_tokens": 864
+            "completion_tokens": 890
         },
-        "time_elapsed": 12.282133102416992
+        "time_elapsed": 13.887659311294556
     },
     {
         "realidx": 6142,
@@ -1001,12 +1313,20 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "Passive",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The question describes a scenario where a patient is given a serum containing rabies antibodies grown inside a horse. This type of immunity involves the direct administration of antibodies to the patient, rather than the patient\u2019s own immune system generating the antibodies.\n\nThe options provided include various types of immunity:\n- Passive immunity involves the transfer of antibodies from another source.\n- Active immunity involves the body\u2019s own immune response to an antigen.\n- Natural immunity occurs without medical intervention.\n- Artificial immunity involves medical intervention.\n\nGiven that the antibodies are grown inside a horse and then administered to the patient, this is a form of passive immunity because the patient is receiving pre-formed antibodies. It is also artificial because it involves medical intervention (the serum).\n\nTherefore, the correct answer is \"Passive artificial immunity.\"\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify the answer as \"F,\" which corresponds to \"Passive artificial.\"\n\nThus, the most reliable solution is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 1366,
-            "completion_tokens": 1878
+            "completion_tokens": 1968
         },
-        "time_elapsed": 24.629722118377686
+        "time_elapsed": 21.591243982315063
     },
     {
         "realidx": 6145,
@@ -1027,12 +1347,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "The nurse, patient, and ward clerk.",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The solutions provided are all consistent and point to the same answer. Each solution indicates that the correct answer is:\n\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1456,
-            "completion_tokens": 1992
+            "completion_tokens": 1627
         },
-        "time_elapsed": 21.665261030197144
+        "time_elapsed": 21.770508527755737
     },
     {
         "realidx": 6146,
@@ -1053,12 +1381,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "Dysphagia is an indication for surgery",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"J\". \n\nAll five solutions consistently identify \"J\" as the correct answer. This consistency suggests that \"J\" is the most reliable solution. \n\nTherefore, the answer is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1564,
-            "completion_tokens": 2317
+            "completion_tokens": 2304
         },
-        "time_elapsed": 26.543628692626953
+        "time_elapsed": 25.643018007278442
     },
     {
         "realidx": 6147,
@@ -1079,12 +1415,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "the highest rate of air expelled from the lungs through an open mouth.",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks what peak flow meters record. The options provided cover various aspects of lung function and respiratory measurements. \n\nPeak flow meters are devices used to measure the highest rate of air expelled from the lungs through an open mouth. This measurement is crucial for monitoring conditions like asthma, where the ability to expel air quickly can be compromised.\n\nGiven the solutions provided:\nSolution 1: I\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nAll solutions consistently indicate that the correct answer is \"I.\"\n\nTherefore, the most reliable solution, based on the consistency across all provided solutions, is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1426,
-            "completion_tokens": 2472
+            "completion_tokens": 2686
         },
-        "time_elapsed": 28.397908449172974
+        "time_elapsed": 30.52452778816223
     },
     {
         "realidx": 6150,
@@ -1105,12 +1449,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Identity",
-        "predicted_answer": "J",
+        "solutions": [
+            "A",
+            "D",
+            "J",
+            "D",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: A\n- Solution 2: D\n- Solution 3: J\n- Solution 4: D\n- Solution 5: A\n\nNow, let's count the frequency of each answer:\n- A: 2 times (Solution 1 and Solution 5)\n- D: 2 times (Solution 2 and Solution 4)\n- J: 1 time (Solution 3)\n\nThe answers A and D both appear twice, which is the highest frequency among the solutions provided. Since both A and D are equally frequent, we need to determine which one is correct based on McAdam's levels of personality.\n\nMcAdam's levels of personality include:\n1. Dispositional traits\n2. Characteristic adaptations\n3. Life stories\n\nGiven the options, \"Generativity\" (D) is a concept related to McAdam's third level of personality, which involves life stories and the narrative identity. Therefore, the correct answer is D.\n\nThus, the most consistent and correct solution is:\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 964,
-            "completion_tokens": 2047
+            "completion_tokens": 1935
         },
-        "time_elapsed": 24.026289224624634
+        "time_elapsed": 25.3701171875
     },
     {
         "realidx": 6154,
@@ -1131,12 +1483,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "An increased vulnerability",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The term \"senescence\" refers to the process of biological aging. This is the gradual deterioration of functional characteristics in living organisms over time. \n\nGiven the solutions provided:\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll solutions consistently identify \"D\" as the correct answer. Therefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1108,
-            "completion_tokens": 1869
+            "completion_tokens": 1802
         },
-        "time_elapsed": 28.662163972854614
+        "time_elapsed": 24.284457206726074
     },
     {
         "realidx": 6157,
@@ -1157,12 +1517,20 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "social epigenetics",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the label given to the research by Moshe Szyf and colleagues on the epigenetic influences of prenatal maternal stress. The options provided are various terms related to epigenetics and prenatal influences.\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently identify option D as the answer. Given this consistency, it is reasonable to conclude that the most reliable solution is indeed option D.\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1234,
-            "completion_tokens": 2305
+            "completion_tokens": 2441
         },
-        "time_elapsed": 27.012899160385132
+        "time_elapsed": 27.267565965652466
     },
     {
         "realidx": 6158,
@@ -1183,12 +1551,20 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "lack of expression or reduced expression of the lac operon genes under all circumstances",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate the answer as \"B\". \n\nGiven this consistency, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1647,
-            "completion_tokens": 2011
+            "completion_tokens": 1840
         },
-        "time_elapsed": 25.926862716674805
+        "time_elapsed": 21.16123127937317
     },
     {
         "realidx": 6159,
@@ -1209,12 +1585,20 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "0.08",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "To determine the likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each with a frequency of 0.2, we can use the Hardy-Weinberg principle. According to this principle, the probability of an individual being homozygous for a specific allele is the square of the allele frequency.\n\nGiven:\n- Frequency of each allele (p) = 0.2\n\nThe probability of an individual being homozygous for this allele (having two copies of the allele) is calculated as:\n\\[ p^2 = (0.2)^2 = 0.04 \\]\n\nNow, let's evaluate the solutions provided:\n- Solution 1: H\n- Solution 2: H\n- Solution 3: H\n- Solution 4: H\n- Solution 5: H\n\nAll solutions consistently indicate option H.\n\nTherefore, the most consistent solution is:\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1228,
-            "completion_tokens": 1286
+            "completion_tokens": 1353
         },
-        "time_elapsed": 16.18055033683777
+        "time_elapsed": 22.00199317932129
     },
     {
         "realidx": 6167,
@@ -1235,12 +1619,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "Pupillary dilatation and a lateral strabismus",
-        "predicted_answer": "G",
+        "solutions": [
+            "A",
+            "G",
+            "A",
+            "G",
+            "A"
+        ],
+        "ensemble_response": "The question involves identifying the signs present in a patient who has suffered damage to the third cranial nerve (oculomotor nerve) due to an orbital injury. The third cranial nerve is responsible for several functions, including controlling most of the eye's movements, constriction of the pupil, and maintaining an open eyelid.\n\nDamage to the third cranial nerve typically results in:\n1. Pupillary dilatation (due to loss of parasympathetic innervation to the pupil, leading to unopposed sympathetic activity).\n2. Downward and outward deviation of the eye (due to unopposed action of the lateral rectus and superior oblique muscles, which are innervated by the sixth and fourth cranial nerves, respectively).\n\nGiven these points, the correct signs would be pupillary dilatation and a downward strabismus.\n\nNow, let's evaluate the solutions provided:\n- Solution 1: A\n- Solution 2: G\n- Solution 3: A\n- Solution 4: G\n- Solution 5: A\n\nThe most frequently occurring answer among the solutions is \"A\".\n\nTherefore, the most consistent solution is:\nA",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1618,
-            "completion_tokens": 2410
+            "completion_tokens": 2253
         },
-        "time_elapsed": 25.961059093475342
+        "time_elapsed": 26.978816509246826
     },
     {
         "realidx": 6169,
@@ -1261,12 +1653,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
-        "predicted_answer": "I",
+        "solutions": [
+            "G",
+            "G",
+            "I",
+            "F",
+            "I"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently among the provided solutions. Here are the solutions listed:\n\n- Solution 1: G\n- Solution 2: G\n- Solution 3: I\n- Solution 4: F\n- Solution 5: I\n\nCounting the frequency of each solution:\n- G appears 2 times.\n- I appears 2 times.\n- F appears 1 time.\n\nBoth G and I appear most frequently, each with 2 occurrences. Since there is a tie, we need to consider the context of the question to determine the most appropriate answer.\n\nThe question involves the displacement of fragments in an unfavorable fracture of the mandible. The lateral pterygoid muscle is known to pull the mandible anteriorly, which aligns with option G.\n\nTherefore, the most consistent and contextually appropriate solution is:\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1966,
-            "completion_tokens": 3363
+            "completion_tokens": 3640
         },
-        "time_elapsed": 41.14378118515015
+        "time_elapsed": 36.44377589225769
     },
     {
         "realidx": 6171,
@@ -1287,12 +1687,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "ligaments and articular discs.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks about the location of proprioceptive nerve endings in synovial joints. The options provided include various combinations of anatomical structures within the joint.\n\nUpon reviewing the solutions provided:\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nAll solutions consistently indicate option B as the answer. This consistency suggests that the most reliable solution is indeed option B.\n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1318,
-            "completion_tokens": 1720
+            "completion_tokens": 1724
         },
-        "time_elapsed": 19.817437171936035
+        "time_elapsed": 21.58091402053833
     },
     {
         "realidx": 6173,
@@ -1313,12 +1721,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "auditory tube opens.",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "B"
+        ],
+        "ensemble_response": "The question asks what happens during swallowing. The options provided include various physiological responses that could occur during this process. \n\nTo determine the most reliable solution, we need to identify the answer that appears most frequently across the given solutions. Here are the solutions provided:\n\nSolution 1: J\nSolution 2: J\nSolution 3: J\nSolution 4: J\nSolution 5: B\n\nFrom these solutions, the answer \"J\" appears four times, while the answer \"B\" appears only once. \n\nTherefore, the most consistent solution is \"J\".\n\nThe correct answer is:\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1126,
-            "completion_tokens": 2228
+            "completion_tokens": 2090
         },
-        "time_elapsed": 24.32666802406311
+        "time_elapsed": 22.93458914756775
     },
     {
         "realidx": 6181,
@@ -1338,12 +1754,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Atlanto-axial instability",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"I.\"\n\nExplanation:\nThe patient has a long history of rheumatoid arthritis and is now experiencing \"drop attacks,\" characterized by episodes of weakness and loss of feeling in her legs, sometimes leading to incontinence. These symptoms suggest a neurological issue rather than a side effect of medication, anxiety, or a cardiac problem. Given her history of rheumatoid arthritis, atlanto-axial instability is a known complication that can lead to spinal cord compression and neurological symptoms, including sudden weakness and loss of sensation in the legs. This condition is consistent with the patient's symptoms and history.\n\nTherefore, the most likely cause of her \"drop attacks\" is atlanto-axial instability.\n\nThe answer is: I",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2452,
-            "completion_tokens": 2866
+            "completion_tokens": 2950
         },
-        "time_elapsed": 28.27995491027832
+        "time_elapsed": 35.157859802246094
     },
     {
         "realidx": 6183,
@@ -1358,12 +1782,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Cervical culture",
+        "solutions": [
+            "D",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a 29-year-old woman with severe lower abdominal pain, nausea, fever, and signs of pelvic inflammatory disease (PID), such as abdominal tenderness, leukorrhea, and uterine tenderness. Given her symptoms and the clinical findings, the most appropriate initial diagnostic study would be to identify the infectious agent causing the PID.\n\nEvaluating the solutions provided:\n- Solution 1: D\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nThe most frequently occurring answer among the solutions is \"A,\" which corresponds to a cervical culture. This test is crucial for diagnosing PID as it helps identify the causative organisms, such as Neisseria gonorrhoeae and Chlamydia trachomatis, which are common pathogens responsible for PID.\n\nTherefore, the most consistent and appropriate answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1540,
-            "completion_tokens": 2595
+            "completion_tokens": 2598
         },
-        "time_elapsed": 28.789168119430542
+        "time_elapsed": 29.53513765335083
     },
     {
         "realidx": 6184,
@@ -1382,12 +1814,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Significant findings can be reported with greater confidence",
-        "predicted_answer": "H",
+        "solutions": [
+            "E",
+            "H",
+            "H",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"E\" and \"H\". However, \"E\" appears three times (Solution 1, Solution 4, Solution 5), while \"H\" appears twice (Solution 2, Solution 3).\n\nTherefore, the most consistent solution is:\n\nE",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1618,
-            "completion_tokens": 3186
+            "completion_tokens": 2861
         },
-        "time_elapsed": 32.371174812316895
+        "time_elapsed": 32.32296085357666
     },
     {
         "realidx": 6190,
@@ -1408,12 +1848,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "70%-75 %",
-        "predicted_answer": "B",
+        "solutions": [
+            "B",
+            "J",
+            "J",
+            "J",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently among the provided solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: J\nSolution 3: J\nSolution 4: J\nSolution 5: B\n\nBy counting the frequency of each answer:\n- B appears 2 times.\n- J appears 3 times.\n\nThe answer that appears most frequently is J. Therefore, the most consistent solution is:\n\nJ",
+        "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1522,
-            "completion_tokens": 1354
+            "completion_tokens": 1300
         },
-        "time_elapsed": 16.91133141517639
+        "time_elapsed": 16.78981590270996
     },
     {
         "realidx": 6196,
@@ -1434,12 +1882,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "40%",
-        "predicted_answer": "D",
+        "solutions": [
+            "D",
+            "I",
+            "C",
+            "I",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: D\n- Solution 2: I\n- Solution 3: C\n- Solution 4: I\n- Solution 5: D\n\nNow, let's count the frequency of each answer:\n- D: 2 times (Solution 1 and Solution 5)\n- I: 2 times (Solution 2 and Solution 4)\n- C: 1 time (Solution 3)\n\nThe answers D and I both appear most frequently, each with a count of 2.\n\nGiven that there is a tie between D and I, I will consider additional context or external knowledge. According to global health data, the prevalence of untreated dental caries is often cited to be around 35-40%, which aligns more closely with option I (40%).\n\nTherefore, the most consistent and contextually accurate solution is:\n\nI",
+        "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1030,
-            "completion_tokens": 1243
+            "completion_tokens": 1264
         },
-        "time_elapsed": 21.780506372451782
+        "time_elapsed": 16.985725164413452
     },
     {
         "realidx": 6197,
@@ -1458,12 +1914,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Depressive symptoms",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks which of the following is not considered a diagnostic feature of Anorexia Nervosa. The options provided are:\n\n(A) Sleep disorders\n(B) Rapid heartbeat\n(C) High blood pressure\n(D) Obsession with physical activity\n(E) Significant Weight Loss\n(F) Depressive symptoms\n(G) Fear of becoming fat\n(H) Body Image Distortion\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently identify option (C) as the answer. \n\nHigh blood pressure is not typically associated with Anorexia Nervosa, as individuals with this condition often experience low blood pressure due to malnutrition and weight loss. Therefore, the most consistent and reliable answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1006,
-            "completion_tokens": 2131
+            "completion_tokens": 2306
         },
-        "time_elapsed": 29.547356843948364
+        "time_elapsed": 25.079821586608887
     },
     {
         "realidx": 6198,
@@ -1484,12 +1948,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Animal growth assays underestimate the quality of dietary proteins for human nutrition",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". \n\nExplanation:\n- Solution 1: D\n- Solution 2: D\n- Solution 3: D\n- Solution 4: D\n- Solution 5: D\n\nAll solutions consistently identify \"D\" as the correct answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2134,
-            "completion_tokens": 3065
+            "completion_tokens": 3093
         },
-        "time_elapsed": 33.09799933433533
+        "time_elapsed": 34.25213599205017
     },
     {
         "realidx": 6199,
@@ -1510,12 +1982,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Chylomicrons and HDL",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the type of lipoproteins into which cholesterol and fatty acids are packaged after being absorbed from the intestinal lumen and then secreted from the enterocytes into the lymph.\n\nThe options provided are:\n(A) Chylomicrons only\n(B) LDL only\n(C) VLDL and LDL\n(D) Chylomicrons and HDL\n(E) VLDL and HDL\n(F) HDL only\n(G) LDL and VLDL\n(H) HDL and LDL\n(I) Chylomicrons and VLDL\n(J) Chylomicrons and LDL\n\nThe solutions provided are:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate option A as the answer. \n\nChylomicrons are the lipoproteins responsible for transporting dietary lipids from the intestines to other locations in the body. They are formed in the enterocytes and then secreted into the lymphatic system.\n\nGiven the consistency across all solutions and the biological basis, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1251,
-            "completion_tokens": 1404
+            "completion_tokens": 1550
         },
-        "time_elapsed": 21.017042875289917
+        "time_elapsed": 19.239787101745605
     },
     {
         "realidx": 6200,
@@ -1536,12 +2016,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "C20 and C22 polyunsaturated fatty acids",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks which membrane fatty acids are precursors for eicosanoids. Eicosanoids are signaling molecules made by the oxidation of 20-carbon fatty acids. The most common precursors for eicosanoids are polyunsaturated fatty acids, specifically arachidonic acid (C20:4), eicosapentaenoic acid (C20:5), and docosahexaenoic acid (C22:6).\n\nGiven the options, the correct answer should include C20 and C22 polyunsaturated fatty acids.\n\nReviewing the solutions provided:\nSolution 1: I\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nAll solutions consistently identify option I as the correct answer.\n\nTherefore, the most reliable solution is:\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1426,
-            "completion_tokens": 2159
+            "completion_tokens": 1956
         },
-        "time_elapsed": 23.529608488082886
+        "time_elapsed": 22.888833045959473
     },
     {
         "realidx": 6201,
@@ -1562,12 +2050,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Glycine",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks which amino acid, generally regarded as dispensable, may be required in greater amounts under conditions of metabolic or other stress. The options provided are various amino acids, and the solutions generated all point to the same answer.\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is \"D.\"\n\nTherefore, the most reliable solution, based on the consistency of the answers, is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1156,
-            "completion_tokens": 2196
+            "completion_tokens": 2141
         },
-        "time_elapsed": 26.247326850891113
+        "time_elapsed": 25.342726230621338
     },
     {
         "realidx": 6203,
@@ -1588,12 +2084,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "0.15 mol retinol /mol \u00df-carotene",
-        "predicted_answer": "I",
+        "solutions": [
+            "I",
+            "G",
+            "G",
+            "I",
+            "G"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions and their corresponding answers:\n\n- Solution 1: I\n- Solution 2: G\n- Solution 3: G\n- Solution 4: I\n- Solution 5: G\n\nNow, let's count the frequency of each answer:\n\n- Answer I: 2 times (Solution 1 and Solution 4)\n- Answer G: 3 times (Solution 2, Solution 3, and Solution 5)\n\nThe answer that appears most frequently is \"G,\" which appears 3 times.\n\nTherefore, the most consistent solution is:\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1708,
-            "completion_tokens": 1786
+            "completion_tokens": 1334
         },
-        "time_elapsed": 22.054584503173828
+        "time_elapsed": 19.085904121398926
     },
     {
         "realidx": 6208,
@@ -1614,12 +2118,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "gain in body mass.",
+        "solutions": [
+            "G",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: G\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nBy examining the solutions, we can see that the answer \"I\" appears most frequently, with four out of five solutions indicating \"I\" as the correct answer.\n\nTherefore, the most consistent solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1072,
-            "completion_tokens": 1515
+            "completion_tokens": 1535
         },
-        "time_elapsed": 21.2189884185791
+        "time_elapsed": 18.48141312599182
     },
     {
         "realidx": 6209,
@@ -1640,12 +2152,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "Dyspnoea, tachycardia, and distended neck veins.",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks for the indicative signs and symptoms of circulatory overload. The options provided are:\n\n(A) Dyspnoea, bradycardia, and constricted neck veins.\n(B) Hypothermia, hypotension, and bradycardia.\n(C) Fever, hypertension, and tachycardia.\n(D) Bradycardia, polyuria, and skin rash.\n(E) Shivering, pyrexia, and thirst.\n(F) Hypothermia, hypertension, and tachycardia.\n(G) Hypertension, diaphoresis, and nausea.\n(H) Tachypnea, cyanosis, and dry mouth.\n(I) Dyspnoea, tachycardia, and distended neck veins.\n(J) Hypotension, oliguria, and urticaria.\n\nCirculatory overload, also known as fluid overload, typically presents with symptoms such as dyspnea (difficulty breathing), tachycardia (rapid heart rate), and distended neck veins due to increased venous pressure.\n\nEvaluating the solutions provided:\nSolution 1: I\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nAll solutions consistently indicate option (I) as the answer.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\n(I) Dyspnoea, tachycardia, and distended neck veins.",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1588,
-            "completion_tokens": 3034
+            "completion_tokens": 2823
         },
-        "time_elapsed": 34.66215515136719
+        "time_elapsed": 30.20731258392334
     },
     {
         "realidx": 6214,
@@ -1666,12 +2186,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Redoing the home",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided across the multiple solutions. Here are the solutions:\n\nSolution 1: H\nSolution 2: H\nSolution 3: H\nSolution 4: H\nSolution 5: H\n\nAll the solutions consistently identify \"H\" as the answer. Given this consistency, it is reasonable to conclude that \"H\" is the most reliable solution.\n\nTherefore, the answer is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1090,
-            "completion_tokens": 1515
+            "completion_tokens": 1445
         },
-        "time_elapsed": 18.35325598716736
+        "time_elapsed": 18.548075914382935
     },
     {
         "realidx": 6215,
@@ -1692,12 +2220,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Smaller outer circles",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". \n\nTherefore, the most reliable solution, based on the consistency across all provided solutions, is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1102,
-            "completion_tokens": 1161
+            "completion_tokens": 1260
         },
-        "time_elapsed": 15.860771656036377
+        "time_elapsed": 16.073060274124146
     },
     {
         "realidx": 6218,
@@ -1718,12 +2254,20 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "Hurler syndrome",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks about the use of recombinant alpha-iduronidase in the treatment of a specific disease or syndrome. The options provided include various lysosomal storage disorders and other metabolic diseases.\n\nRecombinant alpha-iduronidase is an enzyme replacement therapy used specifically for the treatment of Hurler syndrome, also known as mucopolysaccharidosis type I (MPS I). Hurler syndrome is characterized by a deficiency in the enzyme alpha-L-iduronidase, which leads to the accumulation of glycosaminoglycans in various tissues.\n\nGiven the solutions provided:\nSolution 1: I\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nAll solutions consistently identify \"I\" as the correct answer. Therefore, the most reliable solution, based on the consistency across all provided solutions, is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1119,
-            "completion_tokens": 1845
+            "completion_tokens": 2155
         },
-        "time_elapsed": 22.89785099029541
+        "time_elapsed": 25.57201385498047
     },
     {
         "realidx": 6219,
@@ -1744,12 +2288,20 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "incomplete dominance",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question describes a genetic cross between two true breeding lines with different flower colors, resulting in F1 offspring with an intermediate phenotype (light blue flowers). When these F1 progeny are selfed, the F2 generation shows a 1:2:1 ratio of dark blue to light blue to white flowers.\n\nThis 1:2:1 ratio is characteristic of incomplete dominance, where the heterozygous phenotype (light blue) is intermediate between the two homozygous phenotypes (dark blue and white). In incomplete dominance, neither allele is completely dominant over the other, resulting in a blending of traits in the heterozygous condition.\n\nGiven that all the solutions provided (Solution 1 through Solution 5) consistently identify \"I\" as the answer, and this matches the genetic phenomenon described, the most reliable solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1342,
-            "completion_tokens": 1652
+            "completion_tokens": 1523
         },
-        "time_elapsed": 19.33366870880127
+        "time_elapsed": 18.972977876663208
     },
     {
         "realidx": 6222,
@@ -1770,12 +2322,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "The mental symphysis closes at about 1 year postnatally",
+        "solutions": [
+            "D",
+            "D",
+            "C",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: C\nSolution 4: D\nSolution 5: D\n\nThe answer that appears most frequently across these solutions is \"D,\" which is mentioned in four out of the five solutions.\n\nTherefore, the most consistent solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1708,
             "completion_tokens": 2529
         },
-        "time_elapsed": 29.71135950088501
+        "time_elapsed": 29.20844554901123
     },
     {
         "realidx": 6224,
@@ -1796,12 +2356,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "Erect",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks in which position a patient lies face down. The options provided are various medical positions. \n\nTo determine the correct answer, let's briefly review the positions:\n- (A) Supine: Lying on the back, face up.\n- (B) Erect: Standing up.\n- (C) Trendelenburg: Lying on the back with the body tilted so that the head is lower than the feet.\n- (D) Prone: Lying face down.\n- (E) Sims: Lying on the left side with the right knee drawn up and with the left arm drawn behind, parallel to the back.\n- (F) Dorsal: Similar to supine, lying on the back.\n- (G) Jackknife: Lying on the back with the body bent at a sharp angle.\n- (H) Lateral: Lying on the side.\n- (I) Semi-Fowler's: Lying on the back with the head and trunk raised to between 15 and 45 degrees.\n- (J) Lithotomy: Lying on the back with legs raised and feet in stirrups.\n\nGiven the definitions, the correct position where a patient lies face down is (D) Prone.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify (D) as the correct answer.\n\nTherefore, the most reliable solution is:\n(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1000,
-            "completion_tokens": 1494
+            "completion_tokens": 1459
         },
-        "time_elapsed": 18.53333306312561
+        "time_elapsed": 16.9189133644104
     },
     {
         "realidx": 6225,
@@ -1822,12 +2390,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks for the sequence that describes the systemic circulation. Systemic circulation refers to the pathway of blood flow from the heart to the rest of the body and back to the heart. The correct sequence should start from the left ventricle, which pumps oxygenated blood into the aorta, then through the arteries, capillaries, and veins, and finally back to the heart.\n\nLet's evaluate the options:\n\n- (A) Left ventricle \u2192 aorta \u2192 capillaries \u2192 arteries \u2192 veins\n  - Incorrect: Capillaries should come after arteries.\n- (B) Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192 veins\n  - Incorrect: This describes pulmonary circulation, not systemic.\n- (C) Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 veins \u2192 capillaries\n  - Incorrect: This describes pulmonary circulation and the sequence is incorrect.\n- (D) Right ventricle \u2192 pulmonary trunk \u2192 capillaries \u2192 arteries \u2192 veins\n  - Incorrect: This describes pulmonary circulation and the sequence is incorrect.\n- (E) Left atrium \u2192 left ventricle \u2192 aorta \u2192 capillaries \u2192 arteries \u2192 veins\n  - Incorrect: Capillaries should come after arteries.\n- (F) Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192 veins\n  - Incorrect: This describes pulmonary circulation.\n- (G) Left atrium \u2192 left ventricle \u2192 aorta \u2192 veins \u2192 capillaries \u2192 arteries\n  - Incorrect: The sequence is incorrect.\n- (H) Left ventricle \u2192 aorta \u2192 arteries \u2192 veins \u2192 capillaries\n  - Incorrect: Capillaries should come before veins.\n- (I) Left ventricle \u2192 aorta \u2192 arteries \u2192 capillaries \u2192 veins\n  - Correct: This is the correct sequence for systemic circulation.\n- (J) Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 veins \u2192 capillaries \u2192 arteries\n  - Incorrect: This describes pulmonary circulation and the sequence is incorrect.\n\nAll the solutions provided (Solution 1 to Solution 5) consistently identify option (I) as the correct answer. Therefore, the most reliable solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1828,
-            "completion_tokens": 2642
+            "completion_tokens": 3109
         },
-        "time_elapsed": 32.263211727142334
+        "time_elapsed": 34.899518966674805
     },
     {
         "realidx": 6248,
@@ -1848,12 +2424,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "The patient is at no increased risk",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"I\". \n\nTo determine the most reliable solution, I considered the consistency of the answers. All five solutions indicate \"I\" as the answer. This consistency suggests that \"I\" is the most reliable solution.\n\nThe patient has a history of childhood febrile seizures and is interested in using a nicotine patch and bupropion therapy to quit smoking. Bupropion is known to lower the seizure threshold, and combining it with nicotine replacement therapy can further increase the risk of seizures, especially in individuals with a history of seizures.\n\nTherefore, the correct answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1960,
-            "completion_tokens": 2030
+            "completion_tokens": 2348
         },
-        "time_elapsed": 21.543895721435547
+        "time_elapsed": 27.244491815567017
     },
     {
         "realidx": 6249,
@@ -1874,12 +2458,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "The patient is at no increased risk",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"I\". \n\nTo determine the most reliable solution, I evaluated the consistency of the answers given. All five solutions indicate that the patient is at greatest risk for seizures (I) when combining nicotine patch and bupropion therapy. \n\nBupropion is known to lower the seizure threshold, and the patient's history of childhood febrile seizures further increases his risk. Therefore, combining bupropion with a nicotine patch, which can also have stimulating effects, heightens the risk of seizures.\n\nThus, the most consistent and reliable answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1960,
-            "completion_tokens": 2397
+            "completion_tokens": 2680
         },
-        "time_elapsed": 26.229281425476074
+        "time_elapsed": 33.40284442901611
     },
     {
         "realidx": 6250,
@@ -1900,12 +2492,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Prescribe rifampin",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question involves a 16-year-old girl who has been in close contact with a teammate diagnosed with meningococcal meningitis. Given the high risk of transmission of Neisseria meningitidis in close contacts, the most appropriate intervention is to provide prophylactic antibiotics to prevent the development of the disease.\n\nThe Centers for Disease Control and Prevention (CDC) recommends chemoprophylaxis for close contacts of individuals with meningococcal disease. The recommended antibiotics for prophylaxis include rifampin, ciprofloxacin, or ceftriaxone.\n\nAmong the options provided, the correct prophylactic antibiotic for meningococcal meningitis is rifampin.\n\nTherefore, the most appropriate intervention for this patient at this time is to prescribe rifampin.\n\nThe consistent solution across all generated solutions is:\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2122,
-            "completion_tokens": 2066
+            "completion_tokens": 1811
         },
-        "time_elapsed": 25.51537013053894
+        "time_elapsed": 22.11643695831299
     },
     {
         "realidx": 6251,
@@ -1926,12 +2526,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Prescribe rifampin",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question involves a 16-year-old girl who has been in close contact with a teammate diagnosed with meningococcal meningitis. Given the high risk of transmission of Neisseria meningitidis in close-contact settings, prophylactic antibiotics are recommended for individuals who have had close contact with an infected person.\n\nThe most appropriate intervention in this scenario is to prescribe a prophylactic antibiotic to prevent the development of meningococcal disease. Rifampin is one of the recommended antibiotics for prophylaxis in close contacts of patients with meningococcal meningitis.\n\nAll the solutions provided (Solution 1 through Solution 5) consistently suggest prescribing rifampin (Option I) as the most appropriate intervention.\n\nTherefore, the most reliable solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2122,
-            "completion_tokens": 1861
+            "completion_tokens": 1767
         },
-        "time_elapsed": 23.829519987106323
+        "time_elapsed": 20.687219619750977
     },
     {
         "realidx": 6252,
@@ -1952,12 +2560,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Administer intravenous fluids",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is (D) Immerse the patient in an ice water bath.\n\nExplanation:\nThe 15-year-old boy presents with symptoms of heat stroke, which include a high body temperature (39.5\u00b0C or 103.1\u00b0F), altered mental status (not oriented to person, place, or time), and signs of dehydration (diaphoretic, weak, faint, vomiting). Heat stroke is a medical emergency that requires rapid cooling to prevent organ damage and other complications. Immersing the patient in an ice water bath is the most effective method for rapidly lowering the core body temperature in cases of exertional heat stroke. This approach is supported by the consistency of the answers provided, all of which recommend this intervention.\n\nTherefore, the most appropriate next step in management is:\n(D) Immerse the patient in an ice water bath.",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2104,
-            "completion_tokens": 2543
+            "completion_tokens": 2578
         },
-        "time_elapsed": 26.404173612594604
+        "time_elapsed": 27.720525979995728
     },
     {
         "realidx": 6253,
@@ -1978,12 +2594,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Administer intravenous fluids",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is (D) Immerse the patient in an ice water bath.\n\nExplanation:\nThe 15-year-old boy presents with symptoms of heat stroke, which include a high body temperature (39.5\u00b0C or 103.1\u00b0F), altered mental status (not oriented to person, place, or time), and signs of dehydration (diaphoretic, weak, faint, vomiting). Heat stroke is a medical emergency that requires rapid cooling to prevent organ damage and other complications. Immersing the patient in an ice water bath is the most effective method for rapidly lowering the core body temperature in cases of exertional heat stroke. This approach is supported by the consistency of the answers provided in the solutions.\n\nTherefore, the most appropriate next step in management is:\n(D) Immerse the patient in an ice water bath.",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2104,
-            "completion_tokens": 2485
+            "completion_tokens": 2435
         },
-        "time_elapsed": 31.753183841705322
+        "time_elapsed": 30.159316778182983
     },
     {
         "realidx": 6260,
@@ -2004,12 +2628,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "I",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"D\". This is because solutions 1, 2, 3, and 5 all identify \"D\" as the correct answer, while only solution 4 identifies \"I\". Given that \"D\" appears most frequently, it is the most reliable solution.\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2518,
-            "completion_tokens": 3255
+            "completion_tokens": 3239
         },
-        "time_elapsed": 34.16147565841675
+        "time_elapsed": 34.89026880264282
     },
     {
         "realidx": 6268,
@@ -2030,12 +2662,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "> 95%",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks about the concentration of triacylglycerols in fats. The options provided range from very low concentrations (<10%) to very high concentrations (95-100%).\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll five solutions consistently indicate that the correct answer is B. Given this consistency, it is reasonable to conclude that the most reliable solution is indeed B.\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1150,
-            "completion_tokens": 2319
+            "completion_tokens": 2338
         },
-        "time_elapsed": 28.333612203598022
+        "time_elapsed": 27.50902271270752
     },
     {
         "realidx": 6269,
@@ -2056,12 +2696,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Have been unchanged",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: J\nSolution 2: J\nSolution 3: J\nSolution 4: J\nSolution 5: J\n\nAll the solutions consistently indicate the answer as \"J\". Therefore, the most reliable solution based on the consistency of the answers is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1270,
-            "completion_tokens": 1278
+            "completion_tokens": 1315
         },
-        "time_elapsed": 16.869150400161743
+        "time_elapsed": 16.626144886016846
     },
     {
         "realidx": 6270,
@@ -2082,12 +2730,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "40 to 60%",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate the answer as \"B\". Given that all solutions agree on the same answer, it is reasonable to conclude that the most reliable solution is indeed \"B\".\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1198,
-            "completion_tokens": 1336
+            "completion_tokens": 1447
         },
-        "time_elapsed": 15.952217817306519
+        "time_elapsed": 18.601104497909546
     },
     {
         "realidx": 6272,
@@ -2108,12 +2764,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "The elderly need the most protein dense food",
-        "predicted_answer": "A",
+        "solutions": [
+            "G",
+            "A",
+            "G",
+            "A",
+            "G"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the solutions provided and identify the answer that appears most frequently.\n\nThe solutions given are:\n1. Solution 1: G\n2. Solution 2: A\n3. Solution 3: G\n4. Solution 4: A\n5. Solution 5: G\n\nCounting the frequency of each answer:\n- G appears in Solution 1, Solution 3, and Solution 5 (3 times).\n- A appears in Solution 2 and Solution 4 (2 times).\n\nThe answer that appears most frequently is G.\n\nTherefore, the most consistent solution is:\nG",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1426,
-            "completion_tokens": 2205
+            "completion_tokens": 2263
         },
-        "time_elapsed": 24.704720973968506
+        "time_elapsed": 25.04980230331421
     },
     {
         "realidx": 6274,
@@ -2134,12 +2798,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Cohort",
-        "predicted_answer": "I",
+        "solutions": [
+            "B",
+            "I",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again for clarity:\n\nSolution 1: B\nSolution 2: I\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nBy examining these solutions, I can see that the answer \"B\" appears most frequently, with four out of five solutions selecting it. The consistency of the answer \"B\" suggests that it is the most reliable solution.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1114,
-            "completion_tokens": 2585
+            "completion_tokens": 2459
         },
-        "time_elapsed": 30.92765522003174
+        "time_elapsed": 33.196205139160156
     },
     {
         "realidx": 6275,
@@ -2160,12 +2832,20 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Cohort",
+        "solutions": [
+            "I",
+            "B",
+            "I",
+            "B",
+            "F"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: I\n- Solution 2: B\n- Solution 3: I\n- Solution 4: B\n- Solution 5: F\n\nCounting the frequency of each option:\n- I: 2 times (Solution 1 and Solution 3)\n- B: 2 times (Solution 2 and Solution 4)\n- F: 1 time (Solution 5)\n\nThe options I and B both appear twice, making them the most frequent answers. Since both options are equally frequent, I will consider the nature of the question to determine which study design is more appropriate for establishing an association between the amount of sugars and the risk of dental caries.\n\nA cohort study (Option I) is a type of longitudinal study (Option B) that follows a group of people over time to see how their exposures affect their outcomes. Therefore, both options are closely related, but a cohort study is more specific and directly relevant to the question.\n\nGiven this reasoning, the most consistent and appropriate answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1114,
-            "completion_tokens": 2534
+            "completion_tokens": 2657
         },
-        "time_elapsed": 31.714115619659424
+        "time_elapsed": 32.663700342178345
     },
     {
         "realidx": 6277,
@@ -2186,12 +2866,20 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "Pigs",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the origin of most pandemics caused by influenza viruses. The options provided include various animals. The solutions generated all consistently point to one answer.\n\nUpon reviewing the solutions:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nAll solutions indicate that the answer is \"A,\" which corresponds to wild birds. \n\nWild birds, particularly waterfowl, are known to be natural reservoirs for influenza A viruses, which have been responsible for several pandemics in human history.\n\nTherefore, the most consistent and reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 964,
-            "completion_tokens": 1880
+            "completion_tokens": 1865
         },
-        "time_elapsed": 21.68022346496582
+        "time_elapsed": 22.601195335388184
     },
     {
         "realidx": 6278,
@@ -2206,12 +2894,20 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "None are oncogenic per se",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks which HPV viruses are known to cause cervical cancer. The options provided are:\n\n(A) Viruses of all 5 clades\n(B) Types 14, 16, 18, 31, 45\n(C) None are oncogenic per se\n(D) Types 1-180\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll five solutions consistently identify option B as the correct answer. Given this consistency, it is reasonable to conclude that the most reliable solution is option B.\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 958,
             "completion_tokens": 2158
         },
-        "time_elapsed": 23.869603872299194
+        "time_elapsed": 23.853904008865356
     },
     {
         "realidx": 6286,
@@ -2232,12 +2928,20 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "Water.",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The solutions provided are all consistent, with each one indicating the same answer. The answer that appears most frequently across all the solutions is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 1060,
-            "completion_tokens": 1781
+            "completion_tokens": 1703
         },
-        "time_elapsed": 20.902584314346313
+        "time_elapsed": 20.509352922439575
     },
     {
         "realidx": 6288,
@@ -2257,12 +2961,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Immunization",
-        "predicted_answer": "E",
+        "solutions": [
+            "C",
+            "E",
+            "C",
+            "E",
+            "C"
+        ],
+        "ensemble_response": "The given question is about identifying the coping strategy used by Bu when she justifies being late for appointments by saying she had more important things on her mind. The options provided are various psychological coping mechanisms.\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided:\n\n- Solution 1: C\n- Solution 2: E\n- Solution 3: C\n- Solution 4: E\n- Solution 5: C\n\nThe answers provided are:\n- C appears in Solution 1, Solution 3, and Solution 5.\n- E appears in Solution 2 and Solution 4.\n\nSince the answer \"C\" appears three times, while the answer \"E\" appears only twice, the most consistent solution is \"C\".\n\nTherefore, the most reliable solution is:\n\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1024,
-            "completion_tokens": 1864
+            "completion_tokens": 1709
         },
-        "time_elapsed": 25.495449542999268
+        "time_elapsed": 20.557857036590576
     },
     {
         "realidx": 6290,
@@ -2283,12 +2995,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "A white woman",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The question asks which person is likely to live the longest, given several options. The solutions provided all consistently indicate the same answer. \n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided:\n\nSolution 1: J\nSolution 2: J\nSolution 3: J\nSolution 4: J\nSolution 5: J\n\nAll solutions consistently indicate \"J\" as the answer. Therefore, the most reliable solution, based on the consistency of the answers, is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1084,
-            "completion_tokens": 1390
+            "completion_tokens": 1511
         },
-        "time_elapsed": 18.07056951522827
+        "time_elapsed": 21.27475380897522
     },
     {
         "realidx": 6291,
@@ -2309,12 +3029,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "Alcoholism",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate the answer as \"B\". Therefore, the most reliable solution, based on the consistency of the answers, is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1012,
-            "completion_tokens": 2501
+            "completion_tokens": 2621
         },
-        "time_elapsed": 27.8216450214386
+        "time_elapsed": 29.9353666305542
     },
     {
         "realidx": 6293,
@@ -2335,12 +3063,20 @@
         "category": "health",
         "src": "ori_mmlu-human_aging",
         "answer": "There are many more memories to search through to find the one that is sought",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks for a reason why older adults may have difficulty in retrieving memories. The options provided cover various potential reasons, including cognitive decline, memory organization, physical and mental fatigue, and external distractions.\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: I\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nAll five solutions consistently identify option (I) as the answer. This consistency suggests that the most reliable solution is indeed option (I).\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1528,
-            "completion_tokens": 2155
+            "completion_tokens": 2202
         },
-        "time_elapsed": 29.951276540756226
+        "time_elapsed": 23.66975975036621
     },
     {
         "realidx": 6294,
@@ -2361,12 +3097,20 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "Almost 100%",
+        "solutions": [
+            "J",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: J\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nTo determine the most reliable solution, we need to identify the answer that appears most frequently across the solutions. \n\n- Solution 1 suggests J.\n- Solutions 2, 3, 4, and 5 suggest I.\n\nThe answer \"I\" appears four times, while the answer \"J\" appears only once. Therefore, the most consistent solution is \"I\".\n\nThe single letter ID corresponding to the most consistent solution is:\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1084,
-            "completion_tokens": 1379
+            "completion_tokens": 1271
         },
-        "time_elapsed": 16.347219228744507
+        "time_elapsed": 18.761139392852783
     },
     {
         "realidx": 6298,
@@ -2387,12 +3131,20 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "1 in 40",
+        "solutions": [
+            "F",
+            "G",
+            "G",
+            "G",
+            "F"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently among the provided solutions. Here are the solutions:\n\n- Solution 1: F\n- Solution 2: G\n- Solution 3: G\n- Solution 4: G\n- Solution 5: F\n\nCounting the frequency of each answer:\n- F appears 2 times.\n- G appears 3 times.\n\nThe answer that appears most frequently is G. Therefore, the most consistent solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1180,
-            "completion_tokens": 949
+            "completion_tokens": 934
         },
-        "time_elapsed": 15.638453006744385
+        "time_elapsed": 13.156019687652588
     },
     {
         "realidx": 6299,
@@ -2413,12 +3165,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "a recessive maxilla due to failure of elongation of the cranial base.",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "A",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: B\n- Solution 2: A\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nBy counting the occurrences of each answer:\n- A appears 1 time.\n- B appears 4 times.\n\nThe answer that appears most frequently is B. Therefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1582,
-            "completion_tokens": 3007
+            "completion_tokens": 2633
         },
-        "time_elapsed": 39.073753356933594
+        "time_elapsed": 31.7875075340271
     },
     {
         "realidx": 6300,
@@ -2439,12 +3199,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "Proprioceptive information is carried by the masseteric and auriculotemporal nerves.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "G",
+            "A",
+            "G",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently among the provided solutions. Here are the solutions:\n\n- Solution 1: D\n- Solution 2: G\n- Solution 3: A\n- Solution 4: G\n- Solution 5: A\n\nLet's count the frequency of each option:\n\n- A: 2 times (Solution 3 and Solution 5)\n- D: 1 time (Solution 1)\n- G: 2 times (Solution 2 and Solution 4)\n\nOptions A and G both appear twice, while option D appears only once. Since A and G are tied for the most frequent solutions, we need to determine which one is correct based on medical knowledge.\n\nThe temporomandibular joint (TMJ) has articular surfaces covered by fibrocartilage, not hyaline cartilage, and it has an articular disc of fibrocartilage. Proprioceptive information from the TMJ is carried by the masseteric and auriculotemporal nerves.\n\nGiven this information, the correct answer is:\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1666,
-            "completion_tokens": 3097
+            "completion_tokens": 3210
         },
-        "time_elapsed": 33.796273946762085
+        "time_elapsed": 37.5402717590332
     },
     {
         "realidx": 6301,
@@ -2465,12 +3233,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "facial artery crosses the mandible.",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The question asks where a pulse may be felt on a patient's face. The options provided include various arteries crossing different facial landmarks. \n\nTo determine the most reliable solution, we need to identify the answer that appears most frequently across the given solutions. Here are the solutions provided:\n\nSolution 1: J\nSolution 2: J\nSolution 3: J\nSolution 4: J\nSolution 5: J\n\nAll the solutions consistently indicate \"J\" as the answer. \n\nThe facial artery is known to cross the mandible, and it is a common site where a pulse can be palpated on the face. This anatomical knowledge supports the consistency of the solutions provided.\n\nTherefore, the most reliable solution is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1330,
-            "completion_tokens": 2382
+            "completion_tokens": 2228
         },
-        "time_elapsed": 26.61553955078125
+        "time_elapsed": 24.583950757980347
     },
     {
         "realidx": 6305,
@@ -2491,12 +3267,20 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "sensory neuronal processes.",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks about the contents of the dorsal roots of all spinal nerves. The dorsal roots are known to contain sensory neuronal processes. \n\nGiven the solutions provided:\nSolution 1: I\nSolution 2: I\nSolution 3: I\nSolution 4: I\nSolution 5: I\n\nAll solutions consistently indicate that the dorsal roots contain sensory neuronal processes. Therefore, the most reliable and consistent answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1198,
-            "completion_tokens": 1224
+            "completion_tokens": 2014
         },
-        "time_elapsed": 16.691420793533325
+        "time_elapsed": 24.18189263343811
     },
     {
         "realidx": 6307,
@@ -2517,12 +3301,20 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Provide education for well-baby care",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2062,
-            "completion_tokens": 2088
+            "completion_tokens": 2576
         },
-        "time_elapsed": 26.35909366607666
+        "time_elapsed": 30.07478356361389
     },
     {
         "realidx": 6308,
@@ -2543,11 +3335,19 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "The patient's DMD carrier status is uncertain because of random X inactivation",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". \n\nTo determine the most appropriate assessment of the patient's carrier status for Duchenne muscular dystrophy (DMD), we need to consider the following points:\n\n1. **Family History**: The patient's brother and maternal uncle had DMD, which is an X-linked recessive disorder. This suggests that the patient's mother is likely a carrier.\n\n2. **Mother's Creatine Kinase Levels**: The patient's mother has an elevated creatine kinase concentration, which is often seen in carriers of DMD due to subclinical muscle damage.\n\n3. **Patient's Creatine Kinase Levels**: The patient's creatine kinase concentration is within the normal range, but this alone is not sufficient to rule out carrier status because carriers can have normal levels.\n\n4. **Genetic Analysis**: Genetic analysis was not performed on the deceased relatives, making it difficult to definitively determine the patient's carrier status without further genetic testing.\n\nGiven these points, the most appropriate assessment is that the patient's DMD carrier status is uncertain due to the lack of genetic analysis on her deceased relatives. This aligns with option (D).\n\nTherefore, the most consistent and reliable solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2482,
-            "completion_tokens": 1969
+            "completion_tokens": 2008
         },
-        "time_elapsed": 24.131874561309814
+        "time_elapsed": 23.930240154266357
     }
 ]

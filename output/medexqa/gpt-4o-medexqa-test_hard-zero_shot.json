@@ -10,12 +10,13 @@
         },
         "answer_idx": "B",
         "answer": "If the airflow velocity between the vocal folds decreases, the air pressure decreases.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 184,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 0.6562731266021729
+        "time_elapsed": 1.222895622253418
     },
     {
         "realidx": "101_biomedical_engineer",
@@ -28,12 +29,13 @@
         },
         "answer_idx": "B",
         "answer": "Bone",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 102,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.0455594062805176
+        "time_elapsed": 0.8926966190338135
     },
     {
         "realidx": "103_biomedical_engineer",
@@ -46,12 +48,13 @@
         },
         "answer_idx": "A",
         "answer": "Mercury sphygmomanometer",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 123,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.5425355434417725
+        "time_elapsed": 0.7598507404327393
     },
     {
         "realidx": "108_biomedical_engineer",
@@ -64,12 +67,13 @@
         },
         "answer_idx": "D",
         "answer": "Type CF part",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 147,
-            "completion_tokens": 5
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.9186191558837891
+        "time_elapsed": 0.7555646896362305
     },
     {
         "realidx": "115_biomedical_engineer",
@@ -82,12 +86,13 @@
         },
         "answer_idx": "C",
         "answer": "They have a low specific gravity and a metallic luster.",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 141,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.1895911693572998
+        "time_elapsed": 1.0016350746154785
     },
     {
         "realidx": "11_occupational_therapist",
@@ -100,12 +105,13 @@
         },
         "answer_idx": "B",
         "answer": "A point to the left of the spine center",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 141,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.0425128936767578
+        "time_elapsed": 1.3917603492736816
     },
     {
         "realidx": "11_speech_pathologist",
@@ -118,12 +124,13 @@
         },
         "answer_idx": "C",
         "answer": "Secondary behaviors are measured on a 4-point scale.",
-        "predicted_answer": "A",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 144,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 0.6890742778778076
+        "time_elapsed": 0.9906165599822998
     },
     {
         "realidx": "126_occupational_therapist",
@@ -136,12 +143,13 @@
         },
         "answer_idx": "C",
         "answer": "Base of the third metacarpal",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 128,
-            "completion_tokens": 7
+            "completion_tokens": 2
         },
-        "time_elapsed": 1.568211555480957
+        "time_elapsed": 1.0018329620361328
     },
     {
         "realidx": "12_speech_pathologist",
@@ -154,12 +162,13 @@
         },
         "answer_idx": "B",
         "answer": "Humming using nasal resonance.",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 139,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.088672161102295
+        "time_elapsed": 0.6266961097717285
     },
     {
         "realidx": "130_biomedical_engineer",
@@ -172,12 +181,13 @@
         },
         "answer_idx": "C",
         "answer": "The biomaterial should have sufficient mechanical strength to perform its function",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 150,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.0048978328704834
+        "time_elapsed": 0.9902563095092773
     },
     {
         "realidx": "131_clinical_laboratory_scientist",
@@ -190,12 +200,13 @@
         },
         "answer_idx": "A",
         "answer": "It is a non-competitive method.",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 134,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 1.3069400787353516
+        "time_elapsed": 0.7095170021057129
     },
     {
         "realidx": "134_biomedical_engineer",
@@ -208,12 +219,13 @@
         },
         "answer_idx": "C",
         "answer": "Plane joint: The articulating surfaces are flat, and the joint is surrounded by a tight joint capsule and strong ligaments, limiting movement.",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 216,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.460221529006958
+        "time_elapsed": 0.7843952178955078
     },
     {
         "realidx": "136_occupational_therapist",
@@ -226,12 +238,13 @@
         },
         "answer_idx": "D",
         "answer": "Number of deaths at age 50 and above",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 145,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7040820121765137
+        "time_elapsed": 1.2391252517700195
     },
     {
         "realidx": "137_biomedical_engineer",
@@ -244,12 +257,13 @@
         },
         "answer_idx": "D",
         "answer": "Diffusion, Convection",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 133,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.0867421627044678
+        "time_elapsed": 1.0498180389404297
     },
     {
         "realidx": "13_speech_pathologist",
@@ -262,12 +276,13 @@
         },
         "answer_idx": "C",
         "answer": "Rapid speech rate",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 116,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.1523220539093018
+        "time_elapsed": 1.9017431735992432
     },
     {
         "realidx": "158_occupational_therapist",
@@ -280,12 +295,13 @@
         },
         "answer_idx": "D",
         "answer": "Once a month",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 121,
             "completion_tokens": 2
         },
-        "time_elapsed": 4.892546892166138
+        "time_elapsed": 1.0758225917816162
     },
     {
         "realidx": "162_occupational_therapist",
@@ -298,12 +314,13 @@
         },
         "answer_idx": "D",
         "answer": "At the height of the greater trochanter",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 152,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.0803492069244385
+        "time_elapsed": 0.9441266059875488
     },
     {
         "realidx": "166_occupational_therapist",
@@ -316,12 +333,13 @@
         },
         "answer_idx": "D",
         "answer": "Pancreas",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 120,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.135124921798706
+        "time_elapsed": 0.99497389793396
     },
     {
         "realidx": "169_occupational_therapist",
@@ -334,12 +352,13 @@
         },
         "answer_idx": "D",
         "answer": "Lift the non-paralyzed leg.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 136,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5075562000274658
+        "time_elapsed": 1.012723684310913
     },
     {
         "realidx": "172_occupational_therapist",
@@ -352,12 +371,13 @@
         },
         "answer_idx": "A",
         "answer": "P-",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 119,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.804542064666748
+        "time_elapsed": 1.8218679428100586
     },
     {
         "realidx": "177_occupational_therapist",
@@ -370,12 +390,13 @@
         },
         "answer_idx": "D",
         "answer": "Electrical stimulation therapy",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 116,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 0.6471281051635742
+        "time_elapsed": 0.7363400459289551
     },
     {
         "realidx": "17_biomedical_engineer",
@@ -388,12 +409,13 @@
         },
         "answer_idx": "B",
         "answer": "Capillary dilation \u2192 Cell infiltration \u2192 Regeneration \u2192 Epithelialization \u2192 Disintegration",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 176,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.7464466094970703
+        "time_elapsed": 1.7622063159942627
     },
     {
         "realidx": "180_occupational_therapist",
@@ -406,12 +428,13 @@
         },
         "answer_idx": "A",
         "answer": "Optimum Population Theory",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 135,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7870123386383057
+        "time_elapsed": 1.7502009868621826
     },
     {
         "realidx": "18_speech_pathologist",
@@ -424,12 +447,13 @@
         },
         "answer_idx": "B",
         "answer": "Central auditory processing disorder",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 122,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.1529481410980225
+        "time_elapsed": 0.6313877105712891
     },
     {
         "realidx": "195_clinical_laboratory_scientist",
@@ -442,12 +466,13 @@
         },
         "answer_idx": "D",
         "answer": "MI",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 123,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.2271273136138916
+        "time_elapsed": 0.9797954559326172
     },
     {
         "realidx": "196_clinical_laboratory_scientist",
@@ -460,12 +485,13 @@
         },
         "answer_idx": "D",
         "answer": "exodus cell",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 126,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.516061782836914
+        "time_elapsed": 0.6201136112213135
     },
     {
         "realidx": "1_occupational_therapist",
@@ -478,12 +504,13 @@
         },
         "answer_idx": "D",
         "answer": "Star-shaped",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 135,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6782059669494629
+        "time_elapsed": 0.6475918292999268
     },
     {
         "realidx": "1_speech_pathologist",
@@ -496,12 +523,13 @@
         },
         "answer_idx": "D",
         "answer": "Take antihistamine medication.",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 142,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6707050800323486
+        "time_elapsed": 0.7522125244140625
     },
     {
         "realidx": "20_clinical_laboratory_scientist",
@@ -514,12 +542,13 @@
         },
         "answer_idx": "B",
         "answer": "7",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 122,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.1589252948760986
+        "time_elapsed": 0.652472734451294
     },
     {
         "realidx": "20_speech_pathologist",
@@ -532,12 +561,13 @@
         },
         "answer_idx": "B",
         "answer": "Temporal association area",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 116,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6515328884124756
+        "time_elapsed": 0.9988090991973877
     },
     {
         "realidx": "211_clinical_laboratory_scientist",
@@ -550,12 +580,13 @@
         },
         "answer_idx": "D",
         "answer": "Decrease in ketone bodies",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 138,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 1.0777790546417236
+        "time_elapsed": 0.9456350803375244
     },
     {
         "realidx": "21_speech_pathologist",
@@ -568,12 +599,13 @@
         },
         "answer_idx": "A",
         "answer": "Deficits in using grammatical morphemes",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 136,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5736424922943115
+        "time_elapsed": 1.0141406059265137
     },
     {
         "realidx": "22_speech_pathologist",
@@ -586,12 +618,13 @@
         },
         "answer_idx": "C",
         "answer": "Wearing tight clothes",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 112,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5723769664764404
+        "time_elapsed": 0.6718902587890625
     },
     {
         "realidx": "238_clinical_laboratory_scientist",
@@ -604,12 +637,13 @@
         },
         "answer_idx": "C",
         "answer": "polychromatic normoblast",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 127,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.1826012134552002
+        "time_elapsed": 1.8404459953308105
     },
     {
         "realidx": "23_speech_pathologist",
@@ -622,12 +656,13 @@
         },
         "answer_idx": "B",
         "answer": "Include activities that violate the script in the first session.",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 160,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6421277523040771
+        "time_elapsed": 0.6517660617828369
     },
     {
         "realidx": "24_occupational_therapist",
@@ -640,12 +675,13 @@
         },
         "answer_idx": "D",
         "answer": "three-jaw chuck pinch",
-        "predicted_answer": "A",
+        "completion": "(D)",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 136,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7213320732116699
+        "time_elapsed": 1.1996281147003174
     },
     {
         "realidx": "24_speech_pathologist",
@@ -658,12 +694,13 @@
         },
         "answer_idx": "A",
         "answer": "Stuttering after being forced by parents to speak English at home",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 137,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.8093905448913574
+        "time_elapsed": 1.2026798725128174
     },
     {
         "realidx": "252_clinical_laboratory_scientist",
@@ -676,12 +713,13 @@
         },
         "answer_idx": "C",
         "answer": "In response to severe hemorrhage",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 127,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6791777610778809
+        "time_elapsed": 1.265578031539917
     },
     {
         "realidx": "25_speech_pathologist",
@@ -694,12 +732,13 @@
         },
         "answer_idx": "D",
         "answer": "Parallel Teaching",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 131,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.2183585166931152
+        "time_elapsed": 0.6946682929992676
     },
     {
         "realidx": "266_clinical_laboratory_scientist",
@@ -712,12 +751,13 @@
         },
         "answer_idx": "D",
         "answer": "32-fold",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 122,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7197356224060059
+        "time_elapsed": 1.552368402481079
     },
     {
         "realidx": "269_clinical_laboratory_scientist",
@@ -730,12 +770,13 @@
         },
         "answer_idx": "A",
         "answer": "Operative temperature",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 123,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.2760529518127441
+        "time_elapsed": 1.067814826965332
     },
     {
         "realidx": "26_speech_pathologist",
@@ -748,12 +789,13 @@
         },
         "answer_idx": "A",
         "answer": "For esophageal speech, lung breath is used for phonation.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 180,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.7025940418243408
+        "time_elapsed": 1.64369797706604
     },
     {
         "realidx": "275_clinical_laboratory_scientist",
@@ -766,12 +808,13 @@
         },
         "answer_idx": "B",
         "answer": "Ovulatory phase",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 138,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6747071743011475
+        "time_elapsed": 0.7289736270904541
     },
     {
         "realidx": "28_clinical_laboratory_scientist",
@@ -784,12 +827,13 @@
         },
         "answer_idx": "B",
         "answer": "ERV (Expiratory Reserve Volume)",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 128,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6420493125915527
+        "time_elapsed": 0.7936885356903076
     },
     {
         "realidx": "29_biomedical_engineer",
@@ -802,12 +846,13 @@
         },
         "answer_idx": "C",
         "answer": "It uses mnemonic codes.",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 144,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7704720497131348
+        "time_elapsed": 0.6868035793304443
     },
     {
         "realidx": "29_speech_pathologist",
@@ -820,12 +865,13 @@
         },
         "answer_idx": "A",
         "answer": "It occurs more frequently in men than in women.",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 140,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5794436931610107
+        "time_elapsed": 0.9530415534973145
     },
     {
         "realidx": "2_speech_pathologist",
@@ -838,12 +884,13 @@
         },
         "answer_idx": "B",
         "answer": "Engage in high-intensity exercise immediately after eating.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 149,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6225402355194092
+        "time_elapsed": 0.7155728340148926
     },
     {
         "realidx": "30_clinical_psychologist",
@@ -856,12 +903,13 @@
         },
         "answer_idx": "C",
         "answer": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 205,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6676046848297119
+        "time_elapsed": 1.3620498180389404
     },
     {
         "realidx": "30_speech_pathologist",
@@ -874,12 +922,13 @@
         },
         "answer_idx": "D",
         "answer": "supraglottic swallow",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 134,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.1694755554199219
+        "time_elapsed": 1.247145652770996
     },
     {
         "realidx": "31_clinical_psychologist",
@@ -892,12 +941,13 @@
         },
         "answer_idx": "B",
         "answer": "Naive but open attitude",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 136,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.824523687362671
+        "time_elapsed": 1.2428781986236572
     },
     {
         "realidx": "322_clinical_laboratory_scientist",
@@ -910,12 +960,13 @@
         },
         "answer_idx": "C",
         "answer": "Excessive centrifugation",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 128,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.1683766841888428
+        "time_elapsed": 1.12949538230896
     },
     {
         "realidx": "32_clinical_laboratory_scientist",
@@ -928,12 +979,13 @@
         },
         "answer_idx": "C",
         "answer": "Constant Variable",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 119,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.0420093536376953
+        "time_elapsed": 1.26961350440979
     },
     {
         "realidx": "32_speech_pathologist",
@@ -946,12 +998,13 @@
         },
         "answer_idx": "A",
         "answer": "In a spectrogram, speech sounds are represented two-dimensionally.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 147,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5451810359954834
+        "time_elapsed": 1.1752872467041016
     },
     {
         "realidx": "338_clinical_laboratory_scientist",
@@ -964,12 +1017,13 @@
         },
         "answer_idx": "A",
         "answer": "Salting \u2013 Sugaring",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 120,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.9455323219299316
+        "time_elapsed": 1.4889872074127197
     },
     {
         "realidx": "33_speech_pathologist",
@@ -982,12 +1036,13 @@
         },
         "answer_idx": "D",
         "answer": "It corresponds to a convenience facility for local residents.",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 148,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6290171146392822
+        "time_elapsed": 0.7687287330627441
     },
     {
         "realidx": "340_clinical_laboratory_scientist",
@@ -1000,12 +1055,13 @@
         },
         "answer_idx": "D",
         "answer": "Secondary antibody",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 119,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6695361137390137
+        "time_elapsed": 0.7144720554351807
     },
     {
         "realidx": "341_clinical_laboratory_scientist",
@@ -1018,12 +1074,13 @@
         },
         "answer_idx": "B",
         "answer": "Reticular fibers",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 120,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.7333357334136963
+        "time_elapsed": 0.6794121265411377
     },
     {
         "realidx": "35_clinical_laboratory_scientist",
@@ -1036,12 +1093,13 @@
         },
         "answer_idx": "D",
         "answer": "IRMA",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 110,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 1.6746866703033447
+        "time_elapsed": 0.7767074108123779
     },
     {
         "realidx": "35_speech_pathologist",
@@ -1054,12 +1112,13 @@
         },
         "answer_idx": "A",
         "answer": "Imaginative function",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 116,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.1319241523742676
+        "time_elapsed": 0.9871559143066406
     },
     {
         "realidx": "36_speech_pathologist",
@@ -1072,12 +1131,13 @@
         },
         "answer_idx": "D",
         "answer": "Abuse removal",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 131,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5647509098052979
+        "time_elapsed": 1.3911006450653076
     },
     {
         "realidx": "37_speech_pathologist",
@@ -1090,12 +1150,13 @@
         },
         "answer_idx": "B",
         "answer": "CN 9",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 110,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.9896116256713867
+        "time_elapsed": 0.7218735218048096
     },
     {
         "realidx": "38_speech_pathologist",
@@ -1108,12 +1169,13 @@
         },
         "answer_idx": "A",
         "answer": "Accent Method",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 142,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.9631936550140381
+        "time_elapsed": 0.7723448276519775
     },
     {
         "realidx": "39_speech_pathologist",
@@ -1126,12 +1188,13 @@
         },
         "answer_idx": "C",
         "answer": "Screening test \u2013 Establishing a treatment plan for different types of aphasia",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 159,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.1668462753295898
+        "time_elapsed": 0.7669737339019775
     },
     {
         "realidx": "3_speech_pathologist",
@@ -1144,12 +1207,13 @@
         },
         "answer_idx": "D",
         "answer": "Correcting grammatical errors",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 123,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.0446174144744873
+        "time_elapsed": 1.0863499641418457
     },
     {
         "realidx": "40_speech_pathologist",
@@ -1162,12 +1226,13 @@
         },
         "answer_idx": "B",
         "answer": "Induce vocal fold adduction with strong vocal fold contact.",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 145,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5599565505981445
+        "time_elapsed": 0.7499887943267822
     },
     {
         "realidx": "41_speech_pathologist",
@@ -1180,12 +1245,13 @@
         },
         "answer_idx": "D",
         "answer": "symptomatic penetration",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 116,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 0.9890666007995605
+        "time_elapsed": 0.6038892269134521
     },
     {
         "realidx": "42_speech_pathologist",
@@ -1198,12 +1264,13 @@
         },
         "answer_idx": "B",
         "answer": "Conversion aphonia \u2013 Confidential voice",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 134,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 1.1286487579345703
+        "time_elapsed": 1.6896698474884033
     },
     {
         "realidx": "43_clinical_laboratory_scientist",
@@ -1216,12 +1283,13 @@
         },
         "answer_idx": "B",
         "answer": "Cardiac conduction muscle fibers",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 116,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.1392507553100586
+        "time_elapsed": 0.8260982036590576
     },
     {
         "realidx": "47_biomedical_engineer",
@@ -1234,12 +1302,13 @@
         },
         "answer_idx": "A",
         "answer": "Increasing the efficiency of medical records",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 131,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.0861706733703613
+        "time_elapsed": 0.7741184234619141
     },
     {
         "realidx": "47_clinical_laboratory_scientist",
@@ -1252,12 +1321,13 @@
         },
         "answer_idx": "D",
         "answer": "Fibroblasts",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 112,
-            "completion_tokens": 5
+            "completion_tokens": 2
         },
-        "time_elapsed": 1.6863858699798584
+        "time_elapsed": 0.622788667678833
     },
     {
         "realidx": "49_speech_pathologist",
@@ -1270,12 +1340,13 @@
         },
         "answer_idx": "D",
         "answer": "Soft sounds \u2192 Loud sounds",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 146,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6228938102722168
+        "time_elapsed": 0.6850278377532959
     },
     {
         "realidx": "4_speech_pathologist",
@@ -1288,12 +1359,13 @@
         },
         "answer_idx": "D",
         "answer": "The higher the CAPE-V score, the closer to a normal voice.",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 157,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.9593298435211182
+        "time_elapsed": 1.2510452270507812
     },
     {
         "realidx": "50_speech_pathologist",
@@ -1306,12 +1378,13 @@
         },
         "answer_idx": "A",
         "answer": "Voice Handicap Index",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 117,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6692600250244141
+        "time_elapsed": 0.7479197978973389
     },
     {
         "realidx": "51_speech_pathologist",
@@ -1324,12 +1397,13 @@
         },
         "answer_idx": "D",
         "answer": "Copying the picture after seeing it",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 156,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6812846660614014
+        "time_elapsed": 0.7609293460845947
     },
     {
         "realidx": "52_speech_pathologist",
@@ -1342,12 +1416,13 @@
         },
         "answer_idx": "A",
         "answer": "Putting a hat on one's head.",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 139,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6214148998260498
+        "time_elapsed": 0.715064525604248
     },
     {
         "realidx": "53_occupational_therapist",
@@ -1360,12 +1435,13 @@
         },
         "answer_idx": "D",
         "answer": "27",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 119,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.8981802463531494
+        "time_elapsed": 1.7627508640289307
     },
     {
         "realidx": "55_biomedical_engineer",
@@ -1378,12 +1454,13 @@
         },
         "answer_idx": "D",
         "answer": "OCS",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 116,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7717404365539551
+        "time_elapsed": 0.964526891708374
     },
     {
         "realidx": "55_speech_pathologist",
@@ -1396,12 +1473,13 @@
         },
         "answer_idx": "B",
         "answer": "Glasses-type hearing aid",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 124,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5960543155670166
+        "time_elapsed": 0.548424482345581
     },
     {
         "realidx": "56_speech_pathologist",
@@ -1414,12 +1492,13 @@
         },
         "answer_idx": "A",
         "answer": "Oral pressure gauge",
-        "predicted_answer": "C",
+        "completion": "(D)",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 123,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6059713363647461
+        "time_elapsed": 1.7726221084594727
     },
     {
         "realidx": "57_speech_pathologist",
@@ -1432,12 +1511,13 @@
         },
         "answer_idx": "A",
         "answer": "Cepstrum",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 115,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5827524662017822
+        "time_elapsed": 0.7562103271484375
     },
     {
         "realidx": "58_biomedical_engineer",
@@ -1450,12 +1530,13 @@
         },
         "answer_idx": "A",
         "answer": "Allergy",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 123,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.1530094146728516
+        "time_elapsed": 0.7053589820861816
     },
     {
         "realidx": "58_speech_pathologist",
@@ -1468,12 +1549,13 @@
         },
         "answer_idx": "B",
         "answer": "Nasal leakage",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 127,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.6841006278991699
+        "time_elapsed": 1.0084245204925537
     },
     {
         "realidx": "59_speech_pathologist",
@@ -1486,12 +1568,13 @@
         },
         "answer_idx": "C",
         "answer": "Lewy body dementia",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 132,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.0014874935150146
+        "time_elapsed": 0.6954586505889893
     },
     {
         "realidx": "60_speech_pathologist",
@@ -1504,12 +1587,13 @@
         },
         "answer_idx": "B",
         "answer": "In Fry phonation, the glottal closure index is larger than the glottal opening index.",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 197,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.966393232345581
+        "time_elapsed": 0.8743762969970703
     },
     {
         "realidx": "61_biomedical_engineer",
@@ -1522,12 +1606,13 @@
         },
         "answer_idx": "A",
         "answer": "Osmosis",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 119,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5611484050750732
+        "time_elapsed": 0.7133908271789551
     },
     {
         "realidx": "62_clinical_laboratory_scientist",
@@ -1540,12 +1625,13 @@
         },
         "answer_idx": "A",
         "answer": "heparin",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 113,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.0184366703033447
+        "time_elapsed": 0.9073550701141357
     },
     {
         "realidx": "62_speech_pathologist",
@@ -1558,12 +1644,13 @@
         },
         "answer_idx": "D",
         "answer": "Thyroarytenoid muscle",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 132,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.9518687725067139
+        "time_elapsed": 1.4040803909301758
     },
     {
         "realidx": "63_biomedical_engineer",
@@ -1576,12 +1663,13 @@
         },
         "answer_idx": "D",
         "answer": "Orthosis",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 135,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.116852045059204
+        "time_elapsed": 2.780789613723755
     },
     {
         "realidx": "63_speech_pathologist",
@@ -1594,12 +1682,13 @@
         },
         "answer_idx": "A",
         "answer": "Cerebellum",
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 116,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7993752956390381
+        "time_elapsed": 1.4153544902801514
     },
     {
         "realidx": "64_occupational_therapist",
@@ -1612,12 +1701,13 @@
         },
         "answer_idx": "D",
         "answer": "Sweeping indoor floors",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 124,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.0719802379608154
+        "time_elapsed": 1.3830633163452148
     },
     {
         "realidx": "64_speech_pathologist",
@@ -1630,12 +1720,13 @@
         },
         "answer_idx": "C",
         "answer": "ASA",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 110,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.938347339630127
+        "time_elapsed": 0.8450548648834229
     },
     {
         "realidx": "66_speech_pathologist",
@@ -1648,12 +1739,13 @@
         },
         "answer_idx": "A",
         "answer": "Select and intervene with subjects based on the ability-achievement discrepancy model.",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 155,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6325750350952148
+        "time_elapsed": 1.3805086612701416
     },
     {
         "realidx": "6_speech_pathologist",
@@ -1666,12 +1758,13 @@
         },
         "answer_idx": "B",
         "answer": "degree of voice breaks (DVB)",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 139,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5349764823913574
+        "time_elapsed": 1.3167948722839355
     },
     {
         "realidx": "70_occupational_therapist",
@@ -1684,12 +1777,13 @@
         },
         "answer_idx": "D",
         "answer": "Prone position",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 127,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.9875152111053467
+        "time_elapsed": 1.402186632156372
     },
     {
         "realidx": "7_occupational_therapist",
@@ -1702,12 +1796,13 @@
         },
         "answer_idx": "C",
         "answer": "moderate",
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 112,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.687833309173584
+        "time_elapsed": 0.6526074409484863
     },
     {
         "realidx": "7_speech_pathologist",
@@ -1720,12 +1815,13 @@
         },
         "answer_idx": "C",
         "answer": "Does stuttering appear differently depending on the situation?",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 152,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.6445872783660889
+        "time_elapsed": 1.2944457530975342
     },
     {
         "realidx": "84_clinical_psychologist",
@@ -1738,12 +1834,13 @@
         },
         "answer_idx": "B",
         "answer": "Pt scale",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 122,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.4269320964813232
+        "time_elapsed": 1.0987837314605713
     },
     {
         "realidx": "84_occupational_therapist",
@@ -1756,12 +1853,13 @@
         },
         "answer_idx": "D",
         "answer": "6 points",
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 124,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6316666603088379
+        "time_elapsed": 1.4802837371826172
     },
     {
         "realidx": "85_clinical_laboratory_scientist",
@@ -1774,12 +1872,13 @@
         },
         "answer_idx": "D",
         "answer": "Escherichia coli",
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 144,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5472774505615234
+        "time_elapsed": 0.6504554748535156
     },
     {
         "realidx": "9_speech_pathologist",
@@ -1792,11 +1891,12 @@
         },
         "answer_idx": "A",
         "answer": "Descent of the soft palate",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 140,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.0283188819885254
+        "time_elapsed": 0.6902024745941162
     }
 ]

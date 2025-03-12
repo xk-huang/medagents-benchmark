@@ -10,12 +10,20 @@
         },
         "answer_idx": "A",
         "answer": "1",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is \"D\". Given that all solutions agree on this answer, it is reasonable to conclude that the most reliable solution is \"D\".\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 790,
-            "completion_tokens": 1166
+            "completion_tokens": 1120
         },
-        "time_elapsed": 16.413696765899658
+        "time_elapsed": 15.725584745407104
     },
     {
         "question": "Fingerprinting (FINDER) involves recording prints of 8 fingers. Which finger pair is excluded?",
@@ -28,12 +36,20 @@
         },
         "answer_idx": "C",
         "answer": "Little finger",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "B",
+            "C"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: B\n- Solution 5: C\n\nBy evaluating the frequency of each answer:\n- Option C appears 4 times.\n- Option B appears 1 time.\n\nThe most frequently appearing answer is Option C.\n\nTherefore, the most reliable solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1364
+            "completion_tokens": 1193
         },
-        "time_elapsed": 17.86363410949707
+        "time_elapsed": 16.83318066596985
     },
     {
         "question": "Which of the following appliances is not used for slow maxillary expansion?",
@@ -46,12 +62,20 @@
         },
         "answer_idx": "D",
         "answer": "Hyrax appliance",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "A",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again:\n\nSolution 1: D\nSolution 2: A\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nBy counting the frequency of each answer:\n- Solution A appears once.\n- Solution D appears four times.\n\nThe most frequently appearing answer is D. Therefore, the most consistent solution is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 832,
-            "completion_tokens": 1179
+            "completion_tokens": 1266
         },
-        "time_elapsed": 15.636190176010132
+        "time_elapsed": 16.558059215545654
     },
     {
         "question": "In assessing infant deaths, Ploucquet's test involves:",
@@ -64,12 +88,20 @@
         },
         "answer_idx": "C",
         "answer": "Change in paial weight of lungs",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". Given that all solutions agree on this answer, it is reasonable to conclude that the most reliable solution is \"C\".\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 904,
-            "completion_tokens": 1565
+            "completion_tokens": 1635
         },
-        "time_elapsed": 19.76980495452881
+        "time_elapsed": 21.42733883857727
     },
     {
         "question": "A temporary bridge constructed from a synthetic resin",
@@ -82,12 +114,20 @@
         },
         "answer_idx": "D",
         "answer": "Should restore the occlusion to the same extent as the permanent bridge",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C\". Given that all solutions agree on this answer, it is reasonable to conclude that \"C\" is the most reliable solution.\n\nTherefore, the answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1108,
-            "completion_tokens": 1766
+            "completion_tokens": 1701
         },
-        "time_elapsed": 28.452531814575195
+        "time_elapsed": 20.59614372253418
     },
     {
         "question": "The cells which will proliferate from top to bottom of villi are:",
@@ -100,12 +140,20 @@
         },
         "answer_idx": "C",
         "answer": "Paneth cells",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks which cells proliferate from the top to the bottom of the villi. The options provided are:\n\n(A) Chief cells\n(B) Goblet cells\n(C) Paneth cells\n(D) Parietal cells\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the answer is (B) Goblet cells. \n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1732
+            "completion_tokens": 1725
         },
-        "time_elapsed": 19.872339725494385
+        "time_elapsed": 20.15181589126587
     },
     {
         "question": "A breast fed child presents with hypernatremia (Serum sodium > 170m Eq/L). His urine sodium is 70 mEq/L. Which of the following is the most likely cause \u2013",
@@ -118,12 +166,20 @@
         },
         "answer_idx": "D",
         "answer": "Excessive intake of sodium",
-        "predicted_answer": "D",
+        "solutions": [
+            "C",
+            "D",
+            "C",
+            "C",
+            "D"
+        ],
+        "ensemble_response": "To determine the most likely cause of hypernatremia in a breastfed child with a serum sodium level greater than 170 mEq/L and a urine sodium level of 70 mEq/L, we need to evaluate the options provided and the solutions generated.\n\nFirst, let's analyze the options:\n(A) Diabetes insipidus: This condition typically leads to hypernatremia due to excessive water loss, but it is usually associated with low urine sodium levels because the kidneys are unable to concentrate urine.\n(B) Acute necrosis: This is less likely to be directly related to hypernatremia in a breastfed child.\n(C) Severe dehydration: This is a common cause of hypernatremia, especially in infants, as they can lose water rapidly and have difficulty maintaining hydration.\n(D) Excessive intake of sodium: This could also cause hypernatremia, but it is less likely in a breastfed child unless there is an unusual source of sodium intake.\n\nNext, let's evaluate the solutions provided:\n- Solution 1: C\n- Solution 2: D\n- Solution 3: C\n- Solution 4: C\n- Solution 5: D\n\nThe most frequent answer among the solutions is \"C\" (Severe dehydration), which appears three times, while \"D\" (Excessive intake of sodium) appears twice.\n\nGiven the consistency in the answers and the likelihood of severe dehydration being a common cause of hypernatremia in infants, the most reliable solution is:\n\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1006,
-            "completion_tokens": 2135
+            "completion_tokens": 2047
         },
-        "time_elapsed": 25.726396322250366
+        "time_elapsed": 25.810539722442627
     },
     {
         "question": "After cleaning and pumicing the tooth surface, plaque formation takes place within",
@@ -136,12 +192,20 @@
         },
         "answer_idx": "B",
         "answer": "1/2 to 1 hour",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again for clarity:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll five solutions consistently indicate that the answer is \"A\". Given this uniformity, it is reasonable to conclude that the most reliable solution is indeed \"A\".\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 892,
-            "completion_tokens": 1181
+            "completion_tokens": 1271
         },
-        "time_elapsed": 15.07839059829712
+        "time_elapsed": 19.278347492218018
     },
     {
         "question": "Name the structure marked with arrow",
@@ -154,12 +218,20 @@
         },
         "answer_idx": "C",
         "answer": "Secretory vesicles",
+        "solutions": [
+            "D",
+            "D",
+            "B",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions:\n\n- Solution 1: D\n- Solution 2: D\n- Solution 3: B\n- Solution 4: D\n- Solution 5: D\n\nNow, let's count the frequency of each option:\n\n- Option A: 0 times\n- Option B: 1 time\n- Option C: 0 times\n- Option D: 4 times\n\nOption D appears most frequently across the solutions. Therefore, the most consistent solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 826,
-            "completion_tokens": 2379
+            "completion_tokens": 2375
         },
-        "time_elapsed": 27.34812879562378
+        "time_elapsed": 27.7239351272583
     },
     {
         "question": "Pulsatile varicose veins in lower limbs is seen in \u2013",
@@ -172,12 +244,20 @@
         },
         "answer_idx": "A",
         "answer": "Klippel trenaunay syndrome",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate the answer as \"B\". Given this consistency, it is reasonable to conclude that the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 879,
-            "completion_tokens": 1651
+            "completion_tokens": 1593
         },
-        "time_elapsed": 19.818726778030396
+        "time_elapsed": 20.73179292678833
     },
     {
         "question": "Endocarditis is most commonly seen in:",
@@ -190,12 +270,20 @@
         },
         "answer_idx": "A",
         "answer": "Aortic stenosis.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "C",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: C\n- Solution 5: B\n\nBy counting the frequency of each answer:\n- A: 0 times\n- B: 4 times\n- C: 1 time\n- D: 0 times\n\nThe answer that appears most frequently is \"B,\" which appears 4 times.\n\nTherefore, the most consistent solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 862,
-            "completion_tokens": 1640
+            "completion_tokens": 1552
         },
-        "time_elapsed": 21.879117012023926
+        "time_elapsed": 19.521376609802246
     },
     {
         "question": "Which of the following techniques is based on RNA?",
@@ -208,12 +296,20 @@
         },
         "answer_idx": "A",
         "answer": "PCR",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A.\"\n\nNow, let's verify the correctness of this answer:\n\n- PCR (Polymerase Chain Reaction) is a technique used to amplify DNA sequences, not RNA.\n- Sanger's technique is a method for DNA sequencing.\n- Next-generation sequencing (NGS) is a high-throughput method for sequencing DNA and RNA.\n- Western blot is a technique used to detect specific proteins in a sample.\n\nNone of these techniques are specifically based on RNA. However, PCR can be adapted to work with RNA by using a reverse transcription step to convert RNA into complementary DNA (cDNA), which is then amplified. This adapted technique is known as RT-PCR (Reverse Transcription PCR).\n\nGiven the options and the context, the most consistent answer provided is \"A,\" but it is important to note that PCR itself is not directly based on RNA without the reverse transcription step.\n\nTherefore, the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 796,
-            "completion_tokens": 1738
+            "completion_tokens": 1656
         },
-        "time_elapsed": 20.678099632263184
+        "time_elapsed": 21.578998565673828
     },
     {
         "question": "To check objective pain response, which is best used method",
@@ -226,12 +322,20 @@
         },
         "answer_idx": "A",
         "answer": "Facial pain scale",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions.\n\nHere are the solutions:\n- Solution 1: D\n- Solution 2: D\n- Solution 3: D\n- Solution 4: D\n- Solution 5: D\n\nAll the solutions consistently indicate the answer as \"D\".\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 820,
-            "completion_tokens": 1363
+            "completion_tokens": 1492
         },
-        "time_elapsed": 16.462301015853882
+        "time_elapsed": 18.120187759399414
     },
     {
         "question": "Patient with PPF transfusion complaint of breathing difficulty, tachycardic, tachypnia, Had Batwing sign present in X-ray. What will be the possible reason?",
@@ -244,12 +348,20 @@
         },
         "answer_idx": "B",
         "answer": "Due to overload of PPF",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a patient who has received a PPF (plasma protein fraction) transfusion and is now experiencing breathing difficulty, tachycardia, tachypnea, and has a Batwing sign on the X-ray. The Batwing sign is typically associated with pulmonary edema.\n\nGiven the options:\n(A) Transfusion related lung injury\n(B) Due to overload of PPF\n(C) Acute renal tubular acidosis\n(D) Hemoglobinuria\n\nThe most consistent answer across all solutions is (A) Transfusion related lung injury. This condition, also known as TRALI, is characterized by acute respiratory distress following a transfusion, and the Batwing sign on the X-ray is indicative of pulmonary edema, which is a hallmark of TRALI.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1006,
-            "completion_tokens": 2030
+            "completion_tokens": 1973
         },
-        "time_elapsed": 25.841209411621094
+        "time_elapsed": 22.036043405532837
     },
     {
         "question": "A young patient is diagnosed to have irreparable tear of the rotator cuff. Treatment of choice will be:",
@@ -262,12 +374,20 @@
         },
         "answer_idx": "A",
         "answer": "Tendon transfer",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The solutions provided are all consistent and indicate the same answer. Each solution suggests that the treatment of choice for a young patient diagnosed with an irreparable tear of the rotator cuff is:\n\nA\n\nThis consistency across all solutions suggests that the most reliable solution is indeed option A, which is Tendon transfer.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 892,
-            "completion_tokens": 1689
+            "completion_tokens": 1696
         },
-        "time_elapsed": 19.413559913635254
+        "time_elapsed": 25.211536645889282
     },
     {
         "question": "According to instrument formula given by G.V. Black, primary cutting edge angle should be:",
@@ -280,12 +400,20 @@
         },
         "answer_idx": "A",
         "answer": "More than 50 degree",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate the answer as \"D\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"D\".\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 904,
-            "completion_tokens": 1434
+            "completion_tokens": 1653
         },
-        "time_elapsed": 21.437371015548706
+        "time_elapsed": 18.33604407310486
     },
     {
         "question": "An un-immunized 13 months old child comes to you in OPD, according to the latest immunizations schedule, what vaccines will you advise??",
@@ -298,12 +426,20 @@
         },
         "answer_idx": "D",
         "answer": "OPV 3 doses, 3 IPV 3 DPI : Hep-B",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is B. \n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1300,
-            "completion_tokens": 2837
+            "completion_tokens": 2793
         },
-        "time_elapsed": 36.35974073410034
+        "time_elapsed": 29.7021222114563
     },
     {
         "question": "Most common mediastinal tumor:",
@@ -316,12 +452,20 @@
         },
         "answer_idx": "A",
         "answer": "Neurogenic tumor",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks for the most common mediastinal tumor, and the options provided are:\n(A) Neurogenic tumor\n(B) Thymoma\n(C) Lymphoma\n(D) Bronchogenic cyst\n\nUpon reviewing the solutions provided:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the answer is (B) Thymoma. \n\nGiven this consistency, the most reliable solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 796,
-            "completion_tokens": 1262
+            "completion_tokens": 1336
         },
-        "time_elapsed": 17.360745906829834
+        "time_elapsed": 17.542733430862427
     },
     {
         "question": "The hormone having the maximum effect on granulation wound healing is:",
@@ -334,12 +478,20 @@
         },
         "answer_idx": "B",
         "answer": "Cortisone",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the answer is \"B\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"B\".\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 832,
-            "completion_tokens": 1663
+            "completion_tokens": 1635
         },
-        "time_elapsed": 22.00803804397583
+        "time_elapsed": 20.97756004333496
     },
     {
         "question": "Sugar restricted to diet was beneficial in presence of unfavorable hygiene was from which study?",
@@ -352,12 +504,20 @@
         },
         "answer_idx": "A",
         "answer": "Hopewood",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: C\n\nThe answer that appears most frequently across the solutions is \"A,\" as it is mentioned in four out of the five solutions. This consistency suggests that \"A\" is the most reliable solution.\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 820,
-            "completion_tokens": 1547
+            "completion_tokens": 1566
         },
-        "time_elapsed": 20.81778860092163
+        "time_elapsed": 20.558898210525513
     },
     {
         "question": "Plastic carrier size of 40-90 in carrier base Gutta percha are made from?",
@@ -370,12 +530,20 @@
         },
         "answer_idx": "B",
         "answer": "Poly Sulphone",
+        "solutions": [
+            "B",
+            "B",
+            "A",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: A\nSolution 4: B\nSolution 5: B\n\nWe observe that the answer \"B\" appears four times, while the answer \"A\" appears only once. The consistency in the answers indicates that \"B\" is the most reliable solution.\n\nTherefore, the most consistent solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 868,
-            "completion_tokens": 1846
+            "completion_tokens": 1857
         },
-        "time_elapsed": 22.918708562850952
+        "time_elapsed": 23.1796236038208
     },
     {
         "question": "The ideal instrument that is used to widen the canal is",
@@ -388,12 +556,20 @@
         },
         "answer_idx": "B",
         "answer": "File",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is \"D\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"D\".\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 802,
-            "completion_tokens": 1028
+            "completion_tokens": 1078
         },
-        "time_elapsed": 13.47459864616394
+        "time_elapsed": 14.615238904953003
     },
     {
         "question": "Drug adveisement letter is a necessary component of each drug formulation and contains various information about the drug like drug dosing, frequency and half-life. Which of the following information need not be given in the drug adveisement letter?",
@@ -406,12 +582,20 @@
         },
         "answer_idx": "B",
         "answer": "Date of expiry of the drug",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which information need not be given in the drug advisement letter. The options provided are:\n\n(A) Research papers and other articles proving efficacy of the drug\n(B) Date of expiry of the drug\n(C) Rare, but serious life threatening adverse-effects\n(D) Common, not so serious adverse-effects\n\nThe solutions provided are:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is (A) Research papers and other articles proving efficacy of the drug.\n\nThe drug advisement letter typically includes practical information necessary for the safe and effective use of the drug, such as dosing, frequency, half-life, expiry date, and adverse effects. However, it does not usually include research papers and articles proving the drug's efficacy, as these are more relevant to the drug approval process and scientific literature rather than the advisement letter intended for healthcare providers and patients.\n\nTherefore, the most consistent and reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1144,
-            "completion_tokens": 1452
+            "completion_tokens": 1478
         },
-        "time_elapsed": 16.817949771881104
+        "time_elapsed": 20.080801725387573
     },
     {
         "question": "Ashley-Howe model analysis is used to predict:",
@@ -424,12 +608,20 @@
         },
         "answer_idx": "C",
         "answer": "Basal bone-transverse relationship",
-        "predicted_answer": "B",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "B",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: B\n- Solution 5: C\n\nBy counting the occurrences of each option:\n- Option A: 0 occurrences\n- Option B: 1 occurrence\n- Option C: 4 occurrences\n- Option D: 0 occurrences\n\nOption C appears most frequently, with 4 out of 5 solutions indicating it as the answer.\n\nTherefore, the most consistent solution is:\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 850,
-            "completion_tokens": 1447
+            "completion_tokens": 1404
         },
-        "time_elapsed": 17.8085880279541
+        "time_elapsed": 19.66340947151184
     },
     {
         "question": "Optimal location for intra osseous anesthesia for mandibular second molars is",
@@ -442,12 +634,20 @@
         },
         "answer_idx": "B",
         "answer": "Mesial to the molar",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the optimal location for intra osseous anesthesia for mandibular second molars is \"B\".\n\nTherefore, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 910,
-            "completion_tokens": 1870
+            "completion_tokens": 1858
         },
-        "time_elapsed": 21.32018804550171
+        "time_elapsed": 21.6869797706604
     },
     {
         "question": "A patient believes he is the most impoant person in the world than anyone so his neighbors and family is trying to harm him as they are jealous of him. His wife says otherwise and says he behaves like this recently only before he was working as a school-teacher peacefully and brought to OPD. He is suffering from:",
@@ -460,12 +660,20 @@
         },
         "answer_idx": "D",
         "answer": "Delusion of grandiosity, persecution and reference",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question describes a patient who believes he is the most important person in the world and thinks his neighbors and family are trying to harm him out of jealousy. This indicates two types of delusions: grandiosity (believing he is the most important person) and persecution (believing others are trying to harm him).\n\nGiven the options:\n(A) Delusion of grandiosity\n(B) Delusion of persecution\n(C) Delusion of grandiosity and persecution\n(D) Delusion of grandiosity, persecution and reference\n\nThe most appropriate answer is (C) Delusion of grandiosity and persecution, as it encompasses both types of delusions described in the patient's behavior.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify (C) as the correct answer.\n\nTherefore, the most reliable solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1222,
-            "completion_tokens": 1489
+            "completion_tokens": 1383
         },
-        "time_elapsed": 19.765986919403076
+        "time_elapsed": 18.101773023605347
     },
     {
         "question": "A patient went into shock immediately after normal delivery, likely cause:",
@@ -478,12 +686,20 @@
         },
         "answer_idx": "C",
         "answer": "Uterine inversion",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. Here are the solutions again:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\".\n\nGiven this consistency, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 850,
-            "completion_tokens": 1459
+            "completion_tokens": 1369
         },
-        "time_elapsed": 17.47789478302002
+        "time_elapsed": 17.313581705093384
     },
     {
         "question": "Major aim of phase 1 clinical trials is:",
@@ -496,12 +712,20 @@
         },
         "answer_idx": "C",
         "answer": "Dose",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". \n\nThe major aim of phase 1 clinical trials is to assess the safety of a new drug or treatment. This phase involves a small number of participants and focuses on determining the safe dosage range and identifying side effects.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 790,
-            "completion_tokens": 1525
+            "completion_tokens": 1509
         },
-        "time_elapsed": 16.66256284713745
+        "time_elapsed": 19.018101692199707
     },
     {
         "question": "Initial calcification of crown represents Which Nolla's stage:",
@@ -514,12 +738,20 @@
         },
         "answer_idx": "B",
         "answer": "Stage 2",
-        "predicted_answer": "C",
+        "solutions": [
+            "B",
+            "C",
+            "C",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions and their corresponding answers:\n\n- Solution 1: B\n- Solution 2: C\n- Solution 3: C\n- Solution 4: B\n- Solution 5: B\n\nNow, let's count the frequency of each answer:\n- Answer B appears in Solution 1, Solution 4, and Solution 5 (3 times).\n- Answer C appears in Solution 2 and Solution 3 (2 times).\n\nThe answer that appears most frequently is B, with a total of 3 occurrences.\n\nTherefore, the most consistent solution is:\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 820,
-            "completion_tokens": 1129
+            "completion_tokens": 951
         },
-        "time_elapsed": 14.772644281387329
+        "time_elapsed": 13.013705492019653
     },
     {
         "question": "Patient with increased PT, APTT & TT and normal fibrinogen and platelet counts, diagnosis is?",
@@ -532,12 +764,20 @@
         },
         "answer_idx": "D",
         "answer": "Vitamin K deficiency",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C.\"\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 880,
-            "completion_tokens": 1981
+            "completion_tokens": 2025
         },
-        "time_elapsed": 25.049341201782227
+        "time_elapsed": 22.864375829696655
     },
     {
         "question": "Which of the following series act as the best space\nmaintainer in a child's mouth?",
@@ -550,12 +790,20 @@
         },
         "answer_idx": "A",
         "answer": "Restored deciduous tooth",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is \"D\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"D\".\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 910,
-            "completion_tokens": 1360
+            "completion_tokens": 1441
         },
-        "time_elapsed": 15.610132217407227
+        "time_elapsed": 19.316442489624023
     },
     {
         "question": "Highest concentration of oxygen is delivered through?",
@@ -568,12 +816,20 @@
         },
         "answer_idx": "C",
         "answer": "Bag and mask",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks for the method that delivers the highest concentration of oxygen. The options provided are:\n\n(A) Nasal cannula\n(B) Venturi mask\n(C) Bag and mask\n(D) Mask with reservoir\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is (D) Mask with reservoir. \n\nThe mask with a reservoir (also known as a non-rebreather mask) is known to deliver the highest concentration of oxygen, typically up to 90-100%, which is higher than the other options listed.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 802,
-            "completion_tokens": 1401
+            "completion_tokens": 1423
         },
-        "time_elapsed": 20.15174150466919
+        "time_elapsed": 18.149309873580933
     },
     {
         "question": "Extraction of disto-angular impaction of mandibular 3rd molar can cause:",
@@ -586,12 +842,20 @@
         },
         "answer_idx": "B",
         "answer": "# of ramus of mandible",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the potential complications of extracting a disto-angularly impacted mandibular third molar. The options provided are:\n\n(A) Slippage in lingual pouch\n(B) Fracture of the ramus of the mandible\n(C) Excessive hemorrhage\n(D) Dry socket\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate option (D) as the answer. \n\nDry socket, also known as alveolar osteitis, is a common complication following the extraction of mandibular third molars, particularly when they are impacted. This condition occurs when the blood clot at the site of the tooth extraction fails to form properly or is dislodged, leading to exposed bone and nerve endings, which can cause significant pain.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 910,
-            "completion_tokens": 1512
+            "completion_tokens": 1632
         },
-        "time_elapsed": 19.11914563179016
+        "time_elapsed": 21.62884831428528
     },
     {
         "question": "Median rhomboid glossitis is associated with:",
@@ -604,12 +868,20 @@
         },
         "answer_idx": "D",
         "answer": "Absence of filiform papillae",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate option B. Therefore, the most reliable solution based on the consistency of the answers is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1314
+            "completion_tokens": 1244
         },
-        "time_elapsed": 17.08522057533264
+        "time_elapsed": 19.2823224067688
     },
     {
         "question": "Which of the following does not require 5'capping?",
@@ -622,12 +894,20 @@
         },
         "answer_idx": "A",
         "answer": "tRNA of alanine",
+        "solutions": [
+            "A",
+            "A",
+            "C",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: C\nSolution 4: A\nSolution 5: A\n\nWe observe that the answer \"A\" appears four times, while the answer \"C\" appears only once. The most frequent answer is \"A\".\n\nTherefore, the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 850,
-            "completion_tokens": 1894
+            "completion_tokens": 2065
         },
-        "time_elapsed": 22.9621160030365
+        "time_elapsed": 31.44618558883667
     },
     {
         "question": "Ceramide is:",
@@ -640,12 +920,20 @@
         },
         "answer_idx": "A",
         "answer": "Simple lipid",
-        "predicted_answer": "D",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: D\n\nWe observe that the answer \"B\" appears four times, while the answer \"D\" appears only once. The consistency in the answers suggests that \"B\" is the most reliable solution.\n\nTherefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 754,
-            "completion_tokens": 1554
+            "completion_tokens": 1476
         },
-        "time_elapsed": 18.100332021713257
+        "time_elapsed": 20.097861289978027
     },
     {
         "question": "A person working in an abattoir presented with a papule on hand, which turned in to an ulcer. Which will best help in diagnosis",
@@ -658,12 +946,20 @@
         },
         "answer_idx": "A",
         "answer": "Polychrome Methylene blue",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a person working in an abattoir who presented with a papule on the hand that turned into an ulcer. This clinical presentation is suggestive of a cutaneous infection, potentially caused by Bacillus anthracis, the bacterium responsible for anthrax. \n\nTo diagnose anthrax, a common and effective staining method is the Polychrome Methylene Blue stain, which is used to identify Bacillus anthracis by highlighting its characteristic features.\n\nGiven the solutions provided:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll solutions consistently indicate option A as the answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 976,
-            "completion_tokens": 2060
+            "completion_tokens": 2052
         },
-        "time_elapsed": 22.230692625045776
+        "time_elapsed": 25.116018772125244
     },
     {
         "question": "Kamlesh, a 2 year old girl, has Down's syndrome. Her karyotype is 21/21 translocation. What is the risk ofrecurrence in subsequent pregnancies if the father is a balanced translocation carrier :",
@@ -676,12 +972,20 @@
         },
         "answer_idx": "A",
         "answer": "100%",
+        "solutions": [
+            "B",
+            "A",
+            "A",
+            "A",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: B\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: B\n\nNow, I will count the frequency of each answer:\n- A: 3 times (Solution 2, Solution 3, Solution 4)\n- B: 2 times (Solution 1, Solution 5)\n\nThe answer that appears most frequently is \"A,\" which appears 3 times.\n\nTherefore, the most consistent solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1018,
-            "completion_tokens": 1779
+            "completion_tokens": 1746
         },
-        "time_elapsed": 18.663970947265625
+        "time_elapsed": 22.145771265029907
     },
     {
         "question": "Percentage of carbon in carbon steel hand instruments is",
@@ -694,12 +998,20 @@
         },
         "answer_idx": "A",
         "answer": "1-1.2%",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C\". Given this consistency, it is reasonable to conclude that the most reliable solution is indeed \"C\".\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 898,
-            "completion_tokens": 1639
+            "completion_tokens": 1662
         },
-        "time_elapsed": 21.58849835395813
+        "time_elapsed": 19.74262261390686
     },
     {
         "question": "Reciprocal arm taper in",
@@ -712,12 +1024,20 @@
         },
         "answer_idx": "A",
         "answer": "1 dimension",
-        "predicted_answer": "B",
+        "solutions": [
+            "C",
+            "C",
+            "B",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: B\n- Solution 4: C\n- Solution 5: C\n\nNow, I will count the frequency of each answer:\n- A: 0\n- B: 1\n- C: 4\n- D: 0\n\nThe answer that appears most frequently is \"C,\" with a total of 4 occurrences.\n\nTherefore, the most consistent solution is:\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 783,
-            "completion_tokens": 1468
+            "completion_tokens": 1668
         },
-        "time_elapsed": 17.781646966934204
+        "time_elapsed": 21.506377458572388
     },
     {
         "question": "Bone sounding done in modern times is performed by which method?",
@@ -730,12 +1050,20 @@
         },
         "answer_idx": "C",
         "answer": "CBCT",
+        "solutions": [
+            "B",
+            "B",
+            "C",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: C\nSolution 4: B\nSolution 5: B\n\nWe observe that the answer \"B\" appears four times, while the answer \"C\" appears only once. The most frequent answer is \"B\".\n\nTherefore, the most consistent solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 808,
-            "completion_tokens": 1298
+            "completion_tokens": 1515
         },
-        "time_elapsed": 18.814181327819824
+        "time_elapsed": 20.35700273513794
     },
     {
         "question": "Which of the following blade angle is appropriate for scaling and root planing",
@@ -748,12 +1076,20 @@
         },
         "answer_idx": "B",
         "answer": "B",
+        "solutions": [
+            "A",
+            "A",
+            "D",
+            "B",
+            "C"
+        ],
+        "ensemble_response": "To determine the most appropriate blade angle for scaling and root planing, we need to evaluate the consistency of the answers provided in the solutions. Here are the solutions again for clarity:\n\nSolution 1: A\nSolution 2: A\nSolution 3: D\nSolution 4: B\nSolution 5: C\n\nWe will count the frequency of each option:\n\n- Option A appears in Solution 1 and Solution 2 (2 times).\n- Option B appears in Solution 4 (1 time).\n- Option C appears in Solution 5 (1 time).\n- Option D appears in Solution 3 (1 time).\n\nThe most frequently appearing option is A, which appears 2 times.\n\nTherefore, the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 790,
-            "completion_tokens": 1843
+            "completion_tokens": 1871
         },
-        "time_elapsed": 25.056943655014038
+        "time_elapsed": 23.597511053085327
     },
     {
         "question": "Primary Colonization of plaque is dominated by",
@@ -766,12 +1102,20 @@
         },
         "answer_idx": "D",
         "answer": "Facultative Anaerobic Gram + ve cocci",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the primary colonization of dental plaque. Dental plaque is a biofilm that forms on the teeth, and its initial colonizers are typically bacteria that can thrive in the oral environment.\n\nThe options provided are:\n(A) Facultative Aerobic Gram + ve rods\n(B) Facultative Anaerobic Gram - ve rods\n(C) Facultative Aerobic Gram - ve cocci\n(D) Facultative Anaerobic Gram + ve cocci\n\nThe primary colonizers of dental plaque are usually facultative anaerobic Gram-positive cocci, such as Streptococcus species. These bacteria are well-suited to the oral environment and can initiate the formation of plaque by adhering to the tooth surface and creating a foundation for other bacteria to attach.\n\nUpon reviewing the solutions provided:\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll solutions consistently identify option (D) as the correct answer. Given this consistency, it is reasonable to conclude that the most reliable solution is indeed option (D).\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 946,
-            "completion_tokens": 1962
+            "completion_tokens": 1907
         },
-        "time_elapsed": 23.528005361557007
+        "time_elapsed": 23.988206148147583
     },
     {
         "question": "In a child with active liver failure, the most important prognosis factor for death is \u2013",
@@ -784,12 +1128,20 @@
         },
         "answer_idx": "D",
         "answer": "Gram (\u2013)ve sepsis",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C\". \n\nGiven this consistency, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 898,
-            "completion_tokens": 1472
+            "completion_tokens": 1422
         },
-        "time_elapsed": 17.798260927200317
+        "time_elapsed": 17.28899645805359
     },
     {
         "question": "Denominator in perinatal moality rate",
@@ -802,12 +1154,20 @@
         },
         "answer_idx": "A",
         "answer": "Total bihs",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks for the denominator in the perinatal mortality rate. The perinatal mortality rate is typically calculated as the number of perinatal deaths (which includes both stillbirths and early neonatal deaths) per 1,000 total births. The denominator, therefore, includes both live births and stillbirths.\n\nGiven the options:\n(A) Total bihs\n(B) Total live bihs\n(C) Live bihs + Still bih\n(D) Total number of newborns\n\nThe correct denominator should be the sum of live births and stillbirths, which is option (C).\n\nAll the provided solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify option (C) as the correct answer.\n\nTherefore, the most reliable solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 844,
-            "completion_tokens": 1531
+            "completion_tokens": 1597
         },
-        "time_elapsed": 18.159557342529297
+        "time_elapsed": 20.334575414657593
     },
     {
         "question": "Isolation period of measles:-",
@@ -820,12 +1180,20 @@
         },
         "answer_idx": "C",
         "answer": "Onset of prodromal phase until 3rd day of rash",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate the answer as \"A\". \n\nTherefore, the most reliable solution based on the consistency of the answers is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1007,
-            "completion_tokens": 2296
+            "completion_tokens": 2380
         },
-        "time_elapsed": 27.518110752105713
+        "time_elapsed": 28.567994594573975
     },
     {
         "question": "Production and citation impact of published work of a scientist or scholar",
@@ -838,12 +1206,20 @@
         },
         "answer_idx": "B",
         "answer": "Citation",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about a metric that evaluates both the production and citation impact of a scientist's or scholar's published work. The options provided are:\n\n(A) Impact factor\n(B) Citation\n(C) H index\n(D) Z index\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently identify option (C) as the answer. The H index is a metric that measures both the productivity (number of publications) and citation impact (number of citations) of the published work of a scientist or scholar. Therefore, the most consistent and reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 796,
-            "completion_tokens": 1527
+            "completion_tokens": 1475
         },
-        "time_elapsed": 17.38464903831482
+        "time_elapsed": 18.23858380317688
     },
     {
         "question": "Shelf life of colourless, aqueous solution of suxamethonium is",
@@ -856,12 +1232,20 @@
         },
         "answer_idx": "C",
         "answer": "2 yr",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". Given this consistency, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 844,
-            "completion_tokens": 1358
+            "completion_tokens": 1415
         },
-        "time_elapsed": 16.53779625892639
+        "time_elapsed": 17.758741855621338
     },
     {
         "question": "Resin teeth:",
@@ -874,12 +1258,20 @@
         },
         "answer_idx": "D",
         "answer": "Show a high fracture strength",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C\". Given this consistency, it is reasonable to conclude that the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 855,
-            "completion_tokens": 1310
+            "completion_tokens": 1342
         },
-        "time_elapsed": 17.01056742668152
+        "time_elapsed": 18.021278142929077
     },
     {
         "question": "Action of the muscle marked (with arrow) on mandible is",
@@ -892,12 +1284,20 @@
         },
         "answer_idx": "A",
         "answer": "Elevation",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions given:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate the answer as \"A\". Therefore, the most reliable solution based on the consistency of the answers is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 802,
-            "completion_tokens": 1645
+            "completion_tokens": 1581
         },
-        "time_elapsed": 25.737713098526
+        "time_elapsed": 19.270055770874023
     },
     {
         "question": "2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen",
@@ -910,12 +1310,20 @@
         },
         "answer_idx": "B",
         "answer": "1, decreases",
+        "solutions": [
+            "A",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: A\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nBy counting the frequency of each answer:\n- A appears 1 time.\n- B appears 4 times.\n\nThe answer that appears most frequently is B. Therefore, the most consistent and reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 881,
-            "completion_tokens": 1775
+            "completion_tokens": 1984
         },
-        "time_elapsed": 19.521830797195435
+        "time_elapsed": 24.77803111076355
     },
     {
         "question": "Gene commonly indicated in congenital cataract:",
@@ -928,12 +1336,20 @@
         },
         "answer_idx": "B",
         "answer": "CRYGS-3",
+        "solutions": [
+            "B",
+            "D",
+            "D",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: B\n- Solution 2: D\n- Solution 3: D\n- Solution 4: B\n- Solution 5: B\n\nNow, I will count the frequency of each option:\n- Option A: 0 times\n- Option B: 3 times\n- Option C: 0 times\n- Option D: 2 times\n\nThe most frequently occurring answer is Option B, which appears 3 times.\n\nTherefore, the most consistent solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 826,
-            "completion_tokens": 1395
+            "completion_tokens": 1437
         },
-        "time_elapsed": 17.543003797531128
+        "time_elapsed": 18.287545919418335
     },
     {
         "question": "Bartholins duct is the name of :",
@@ -946,12 +1362,20 @@
         },
         "answer_idx": "C",
         "answer": "Sublingual duct",
+        "solutions": [
+            "A",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: A\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nBy counting the frequency of each answer:\n- A appears 1 time.\n- C appears 4 times.\n\nThe answer that appears most frequently is C.\n\nTherefore, the most consistent solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 832,
-            "completion_tokens": 1796
+            "completion_tokens": 1808
         },
-        "time_elapsed": 21.705395221710205
+        "time_elapsed": 22.007482051849365
     },
     {
         "question": "According to WHO classi\ufb01cation of periapical pathology, sinus to oral cavity comes  under:",
@@ -964,12 +1388,20 @@
         },
         "answer_idx": "D",
         "answer": "4.62",
+        "solutions": [
+            "D",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: D\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nBy counting the frequency of each answer:\n- A: 0 times\n- B: 0 times\n- C: 4 times\n- D: 1 time\n\nThe answer that appears most frequently is \"C,\" which appears 4 times.\n\nTherefore, the most consistent solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 898,
-            "completion_tokens": 1456
+            "completion_tokens": 1705
         },
-        "time_elapsed": 24.40697193145752
+        "time_elapsed": 22.289802074432373
     },
     {
         "question": "Wave patterns of EEF, ECG and EMG are depicted below. The B pattern belongs to (Figure was not provided in the exam):",
@@ -982,12 +1414,20 @@
         },
         "answer_idx": "C",
         "answer": "Wakefulness",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again for clarity:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll five solutions consistently identify the answer as \"B\". Given this uniformity, the most reliable solution is clearly \"B\".\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 904,
-            "completion_tokens": 2588
+            "completion_tokens": 2914
         },
-        "time_elapsed": 28.03341770172119
+        "time_elapsed": 31.533435583114624
     },
     {
         "question": "Fluoride pit and fissure sealants belong to which\ngeneration?",
@@ -1000,12 +1440,20 @@
         },
         "answer_idx": "D",
         "answer": "IV",
-        "predicted_answer": "C",
+        "solutions": [
+            "C",
+            "D",
+            "C",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions and their corresponding answers:\n\n- Solution 1: C\n- Solution 2: D\n- Solution 3: C\n- Solution 4: D\n- Solution 5: D\n\nNow, let's count the frequency of each answer:\n\n- Answer C appears in Solution 1 and Solution 3, so it appears 2 times.\n- Answer D appears in Solution 2, Solution 4, and Solution 5, so it appears 3 times.\n\nThe answer that appears most frequently is D, with a total of 3 occurrences.\n\nTherefore, the most consistent solution is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 789,
-            "completion_tokens": 1125
+            "completion_tokens": 1222
         },
-        "time_elapsed": 17.789775848388672
+        "time_elapsed": 17.72222876548767
     },
     {
         "question": "The current bar clasp design used is:",
@@ -1018,12 +1466,20 @@
         },
         "answer_idx": "A",
         "answer": "Mesio-occlusal rest",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". Given that all solutions agree on this answer, it is reasonable to conclude that the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 880,
-            "completion_tokens": 1751
+            "completion_tokens": 1987
         },
-        "time_elapsed": 22.945189952850342
+        "time_elapsed": 25.325116395950317
     },
     {
         "question": "In a child, surgery was done for biliary stricture with hepatojejunal anastomosis. Postoperative bilirubin level after 2 weeks was 6 mg/dL from a preoperative level 12mg/dL. The reason for this could be:",
@@ -1036,12 +1492,20 @@
         },
         "answer_idx": "C",
         "answer": "Delta bilirubin",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: A\n\nThe answers provided are:\n- C appears in Solution 1, Solution 2, Solution 3, and Solution 4.\n- A appears in Solution 5.\n\nSince the answer \"C\" appears four times and \"A\" appears only once, the most consistent solution is \"C\".\n\nTherefore, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1126,
-            "completion_tokens": 2003
+            "completion_tokens": 1964
         },
-        "time_elapsed": 27.54413890838623
+        "time_elapsed": 26.087539672851562
     },
     {
         "question": "Centric holding cusp is?",
@@ -1054,12 +1518,20 @@
         },
         "answer_idx": "D",
         "answer": "Mesiopalatal cusp of maxillary 1st molar",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". \n\nThe centric holding cusp, also known as the supporting cusp, is typically the cusp that occludes with the central fossa or marginal ridge of the opposing tooth in centric occlusion. In the maxillary arch, the centric holding cusps are the palatal cusps, and in the mandibular arch, they are the buccal cusps. Specifically, for the maxillary first molar, the mesiopalatal (mesiolingual) cusp is the centric holding cusp.\n\nTherefore, the correct answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1012,
-            "completion_tokens": 1676
+            "completion_tokens": 1738
         },
-        "time_elapsed": 22.790963649749756
+        "time_elapsed": 20.791152000427246
     },
     {
         "question": "An absolute indication for LSCS in case of a Heart disease is:",
@@ -1072,12 +1544,20 @@
         },
         "answer_idx": "A",
         "answer": "Co-arctation of Aorta",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the answer is \"B\". Given this consistency, it is reasonable to conclude that the most reliable solution is indeed \"B\".\n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 874,
-            "completion_tokens": 1743
+            "completion_tokens": 1650
         },
-        "time_elapsed": 23.0538010597229
+        "time_elapsed": 19.5071017742157
     },
     {
         "question": "Halo effect surrounding the root of tooth on IOPA X-Ray is seen with?",
@@ -1090,12 +1570,20 @@
         },
         "answer_idx": "D",
         "answer": "Periapical-periostitis",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate the answer as \"D\". Therefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 892,
-            "completion_tokens": 1512
+            "completion_tokens": 1492
         },
-        "time_elapsed": 17.661248207092285
+        "time_elapsed": 20.31025767326355
     },
     {
         "question": "Concentric teeth bite mark on forearm, what to do next?",
@@ -1108,12 +1596,20 @@
         },
         "answer_idx": "C",
         "answer": "Complete description of injury as seen",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the answer is \"B\". \n\nGiven this consistency, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 982,
-            "completion_tokens": 1508
+            "completion_tokens": 1427
         },
-        "time_elapsed": 20.482948064804077
+        "time_elapsed": 19.99045705795288
     },
     {
         "question": "Keyhole-shaped visual field defect is seen in lesion involving which of the following regions?",
@@ -1126,12 +1622,20 @@
         },
         "answer_idx": "C",
         "answer": "Lateral geniculate body",
+        "solutions": [
+            "A",
+            "D",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: A\n- Solution 2: D\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nBy counting the frequency of each answer:\n- A appears 4 times.\n- D appears 1 time.\n\nThe answer that appears most frequently is \"A,\" which is associated with the optic disk.\n\nTherefore, the most consistent solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 892,
-            "completion_tokens": 1562
+            "completion_tokens": 1631
         },
-        "time_elapsed": 22.57984709739685
+        "time_elapsed": 19.217830896377563
     },
     {
         "question": "In a patient with competent lips together at rest, the lip\nline is opposite the tips of the upper incisors. The lip line is then described as",
@@ -1144,12 +1648,20 @@
         },
         "answer_idx": "D",
         "answer": "Low",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"A\".\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 898,
-            "completion_tokens": 1487
+            "completion_tokens": 1539
         },
-        "time_elapsed": 20.723892211914062
+        "time_elapsed": 19.381921529769897
     },
     {
         "question": "Tonsils developed from:",
@@ -1162,12 +1674,20 @@
         },
         "answer_idx": "B",
         "answer": "Ventral part of 2nd pouch.",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"C\".\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 927,
-            "completion_tokens": 1170
+            "completion_tokens": 1298
         },
-        "time_elapsed": 14.923066854476929
+        "time_elapsed": 17.410399436950684
     },
     {
         "question": "First nerve fiber present in vicinity of dental papilla in",
@@ -1180,12 +1700,20 @@
         },
         "answer_idx": "A",
         "answer": "Bud stage",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". Given that all solutions agree on this answer, it is reasonable to conclude that the most reliable solution is \"C\".\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 802,
-            "completion_tokens": 1455
+            "completion_tokens": 1529
         },
-        "time_elapsed": 16.795281887054443
+        "time_elapsed": 20.536877393722534
     },
     {
         "question": "Who was associated with second amalgam war?",
@@ -1198,12 +1726,20 @@
         },
         "answer_idx": "D",
         "answer": "Alfred stock",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the individual associated with the second amalgam war. The options provided are:\n\n(A) G V Black\n(B) Charles bell\n(C) Huggins\n(D) Alfred stock\n\nUpon evaluating the solutions provided:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently identify option (C) Huggins as the answer. Given this consistency, it is reasonable to conclude that the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 790,
-            "completion_tokens": 1591
+            "completion_tokens": 1718
         },
-        "time_elapsed": 19.23707127571106
+        "time_elapsed": 22.30745768547058
     },
     {
         "question": "Which of these is not a theory of TMJ ankylosis?",
@@ -1216,12 +1752,20 @@
         },
         "answer_idx": "B",
         "answer": "Synovial fluid attracting calcium ions",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is \"D\". Given this consistency, it is reasonable to conclude that the most reliable solution is indeed \"D\".\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 976,
-            "completion_tokens": 1466
+            "completion_tokens": 1590
         },
-        "time_elapsed": 18.503400087356567
+        "time_elapsed": 19.959612369537354
     },
     {
         "question": "Which one of the following is a muscle splitting incision?",
@@ -1234,12 +1778,20 @@
         },
         "answer_idx": "D",
         "answer": "Lanz incision",
-        "predicted_answer": "B",
+        "solutions": [
+            "D",
+            "B",
+            "B",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: D\n- Solution 2: B\n- Solution 3: B\n- Solution 4: D\n- Solution 5: D\n\nCounting the frequency of each option:\n- Option A: 0 times\n- Option B: 2 times\n- Option C: 0 times\n- Option D: 3 times\n\nThe most frequently occurring answer is Option D, which appears 3 times.\n\nTherefore, the most consistent solution is:\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1599
+            "completion_tokens": 1586
         },
-        "time_elapsed": 22.625086784362793
+        "time_elapsed": 19.27496361732483
     },
     {
         "question": "In Mount and Hume classification, what will be the site size of the following lesion?",
@@ -1252,12 +1804,20 @@
         },
         "answer_idx": "C",
         "answer": "3.1",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "A",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: A\n- Solution 5: C\n\nWe can see that the answer \"B\" appears most frequently, with three occurrences (in Solution 1, Solution 2, and Solution 3). The answers \"A\" and \"C\" each appear only once.\n\nTherefore, the most consistent solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 880,
-            "completion_tokens": 1824
+            "completion_tokens": 1931
         },
-        "time_elapsed": 19.967556953430176
+        "time_elapsed": 22.089537620544434
     },
     {
         "question": "A young man was on high protein diet. After 3 days he developed weakness. Blood investigation revealed hypoglycemia. Hypoglycemia is due to inhibition of which of the following enzymes",
@@ -1270,12 +1830,20 @@
         },
         "answer_idx": "D",
         "answer": "PEP carboxylase",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question involves a young man on a high protein diet who developed hypoglycemia after 3 days. The task is to identify which enzyme's inhibition is responsible for the hypoglycemia.\n\nThe options are:\n(A) Glucose 6 phosphatase\n(B) Glycogen phosphorylase\n(C) Phosphoglucomutase\n(D) PEP carboxylase\n\nHypoglycemia can result from impaired glucose production. Glucose 6 phosphatase is a key enzyme in the final step of gluconeogenesis and glycogenolysis, converting glucose-6-phosphate to free glucose, which is then released into the bloodstream. Inhibition of this enzyme would directly lead to decreased glucose production and release, causing hypoglycemia.\n\nGiven that all the solutions (1 through 5) consistently identify option (A) as the answer, it suggests that the inhibition of Glucose 6 phosphatase is the most likely cause of hypoglycemia in this scenario.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1060,
-            "completion_tokens": 2867
+            "completion_tokens": 2787
         },
-        "time_elapsed": 30.067586183547974
+        "time_elapsed": 29.75244641304016
     },
     {
         "question": "Lenolin is added in ZOE paste to:",
@@ -1288,12 +1856,20 @@
         },
         "answer_idx": "B",
         "answer": "Increase flow",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the purpose of adding Lenolin to ZOE (Zinc Oxide Eugenol) paste. The options provided are:\n\n(A) Decrease flow\n(B) Increase flow\n(C) Accelerate reaction\n(D) Decrease irritation due to eugenol\n\nUpon evaluating the solutions provided:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the correct answer is (D) Decrease irritation due to eugenol. \n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 832,
-            "completion_tokens": 1548
+            "completion_tokens": 1593
         },
-        "time_elapsed": 17.759708404541016
+        "time_elapsed": 21.4507954120636
     },
     {
         "question": "The source of calcium ions of a calcific bridge in a\ntooth in which calcium hydroxide pulpotomy has been\nperformed is:",
@@ -1306,12 +1882,20 @@
         },
         "answer_idx": "A",
         "answer": "Blood vessel borne",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". This consistency suggests that the source of calcium ions in a calcific bridge formed after a calcium hydroxide pulpotomy is from the calcium hydroxide itself.\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 928,
-            "completion_tokens": 1810
+            "completion_tokens": 1728
         },
-        "time_elapsed": 22.755097150802612
+        "time_elapsed": 20.89259648323059
     },
     {
         "question": "Easiest 3rd molar surgical extraction is:",
@@ -1324,12 +1908,20 @@
         },
         "answer_idx": "A",
         "answer": "Mesioangular",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks for the easiest type of 3rd molar surgical extraction. The options provided are:\n\n(A) Mesioangular\n(B) Horizontal\n(C) Vertical\n(D) Distoangular\n\nUpon evaluating the solutions provided:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll solutions consistently indicate that the answer is (C) Vertical. \n\nThe vertical position of a third molar is generally considered the easiest for surgical extraction because it is aligned with the normal path of eruption, making it less complicated to remove compared to other angulations.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 796,
-            "completion_tokens": 1594
+            "completion_tokens": 1624
         },
-        "time_elapsed": 18.13580894470215
+        "time_elapsed": 22.208226203918457
     },
     {
         "question": "Which marker shows holocrine gland?",
@@ -1342,12 +1934,20 @@
         },
         "answer_idx": "A",
         "answer": "A",
+        "solutions": [
+            "C",
+            "C",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will count the frequency of each answer provided in the solutions.\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nCounting the frequency of each answer:\n- A appears 3 times.\n- C appears 2 times.\n\nThe answer that appears most frequently is A. Therefore, the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 748,
-            "completion_tokens": 1249
+            "completion_tokens": 1290
         },
-        "time_elapsed": 16.014159440994263
+        "time_elapsed": 19.199748277664185
     },
     {
         "question": "Most effective method of assessing breathing is by measuring:",
@@ -1360,12 +1960,20 @@
         },
         "answer_idx": "D",
         "answer": "FEV 1",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C\". Therefore, the most reliable solution based on the consistency of the answers is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 820,
-            "completion_tokens": 1431
+            "completion_tokens": 1457
         },
-        "time_elapsed": 18.110695838928223
+        "time_elapsed": 18.08792233467102
     },
     {
         "question": "Hammock ligament is present:",
@@ -1378,12 +1986,20 @@
         },
         "answer_idx": "C",
         "answer": "In apical area of a tooth",
-        "predicted_answer": "C",
+        "solutions": [
+            "B",
+            "D",
+            "B",
+            "D",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: B\n- Solution 2: D\n- Solution 3: B\n- Solution 4: D\n- Solution 5: B\n\nNow, let's count the frequency of each option:\n- Option A: 0 times\n- Option B: 3 times\n- Option C: 0 times\n- Option D: 2 times\n\nThe most frequently occurring answer is Option B, which appears 3 times.\n\nTherefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 879,
-            "completion_tokens": 2288
+            "completion_tokens": 2316
         },
-        "time_elapsed": 26.28899836540222
+        "time_elapsed": 32.48231744766235
     },
     {
         "question": "When a dentist says that \" I cannot fix your teeth if you do not open your mouth wide:\" He is employing:",
@@ -1396,12 +2012,20 @@
         },
         "answer_idx": "A",
         "answer": "Problem ownership.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks what a dentist is employing when they say, \"I cannot fix your teeth if you do not open your mouth wide.\" The options provided are:\n\n(A) Problem ownership\n(B) Voice control\n(C) Tolerance\n(D) Flexibility\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is (A) Problem ownership. \n\nProblem ownership refers to recognizing and taking responsibility for a problem. In this context, the dentist is acknowledging that they cannot perform their work unless the patient cooperates by opening their mouth wide. This statement reflects the dentist's recognition of the dependency on the patient's action to resolve the issue.\n\nTherefore, the most consistent and reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 880,
-            "completion_tokens": 1664
+            "completion_tokens": 1663
         },
-        "time_elapsed": 19.812162399291992
+        "time_elapsed": 21.527814149856567
     },
     {
         "question": "What is the name of the given instrument, used for harvesting the graft from healthy area in split thickness skin graft?",
@@ -1414,12 +2038,20 @@
         },
         "answer_idx": "D",
         "answer": "Humby knife",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate the answer as \"A\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"A\".\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 892,
-            "completion_tokens": 1238
+            "completion_tokens": 1329
         },
-        "time_elapsed": 15.643920660018921
+        "time_elapsed": 17.12107276916504
     },
     {
         "question": "Most common tumor of lacrimal gland:",
@@ -1432,12 +2064,20 @@
         },
         "answer_idx": "D",
         "answer": "Hamate fracture",
+        "solutions": [
+            "A",
+            "D",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks for the most common tumor of the lacrimal gland, but the provided options are all types of fractures, which are unrelated to tumors of the lacrimal gland. This indicates a mismatch between the question and the options provided.\n\nHowever, the task is to identify the most frequently occurring answer among the solutions given. Here are the solutions provided:\n\nSolution 1: A\nSolution 2: D\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nBy evaluating the solutions, we can see that the answer \"A\" appears most frequently (four times).\n\nTherefore, the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 844,
-            "completion_tokens": 1142
+            "completion_tokens": 1302
         },
-        "time_elapsed": 13.812093496322632
+        "time_elapsed": 16.674217462539673
     },
     {
         "question": "For how long should NiTi files be submerged in NaOCl at 122-degree F to prevent damage to file corrosion",
@@ -1450,12 +2090,20 @@
         },
         "answer_idx": "C",
         "answer": "60 mins",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate the same answer, which is option A. Given the consistency across all solutions, the most reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 898,
-            "completion_tokens": 1778
+            "completion_tokens": 1557
         },
-        "time_elapsed": 21.484945058822632
+        "time_elapsed": 21.26878046989441
     },
     {
         "question": "Classify the class of recession:",
@@ -1468,12 +2116,20 @@
         },
         "answer_idx": "C",
         "answer": "Class 3",
-        "predicted_answer": "A",
+        "solutions": [
+            "A",
+            "A",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently among the provided solutions. Here are the solutions:\n\n- Solution 1: A\n- Solution 2: A\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nNow, let's count the frequency of each option:\n\n- Option A appears in Solution 1 and Solution 2, so it appears 2 times.\n- Option C appears in Solution 3, Solution 4, and Solution 5, so it appears 3 times.\n\nOption C appears most frequently across the solutions. Therefore, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 790,
-            "completion_tokens": 1830
+            "completion_tokens": 1775
         },
-        "time_elapsed": 20.08751630783081
+        "time_elapsed": 22.37844944000244
     },
     {
         "question": "Term \"Clean Tooth Never Decays\" given by",
@@ -1486,12 +2142,20 @@
         },
         "answer_idx": "B",
         "answer": "Leon J Williams",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate the answer as \"B\". Given this consistency, it is reasonable to conclude that the most reliable solution is indeed \"B\".\n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 808,
-            "completion_tokens": 1436
+            "completion_tokens": 1308
         },
-        "time_elapsed": 19.945270538330078
+        "time_elapsed": 16.067522525787354
     },
     {
         "question": "Which primary tooth resemble premolar",
@@ -1504,12 +2168,20 @@
         },
         "answer_idx": "A",
         "answer": "Upper 1st molar",
+        "solutions": [
+            "B",
+            "A",
+            "A",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 862,
-            "completion_tokens": 1871
+            "completion_tokens": 1678
         },
-        "time_elapsed": 21.31176471710205
+        "time_elapsed": 20.027652978897095
     },
     {
         "question": "Which of the following committees has recommended a 3-year bachelor degree in medical education for rural health service?",
@@ -1522,12 +2194,20 @@
         },
         "answer_idx": "A",
         "answer": "High level expe group of universal health program for india",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C\". Given this consistency, it is reasonable to conclude that the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 946,
-            "completion_tokens": 1296
+            "completion_tokens": 1151
         },
-        "time_elapsed": 15.56390380859375
+        "time_elapsed": 17.121487617492676
     },
     {
         "question": "In full tooth borne dentures occlusal rests transmits _________ percentage of occlusal forces to teeth:",
@@ -1540,12 +2220,20 @@
         },
         "answer_idx": "D",
         "answer": "100%",
-        "predicted_answer": "C",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll five solutions consistently indicate that the answer is \"D\". Given this consistency, it is reasonable to conclude that the most reliable solution is indeed \"D\".\n\nTherefore, the answer is:\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 874,
-            "completion_tokens": 1797
+            "completion_tokens": 1298
         },
-        "time_elapsed": 21.74590015411377
+        "time_elapsed": 17.818081378936768
     },
     {
         "question": "A patient comes after a dog bite with hydrophobia, tearing and altered sensorium. You suspect rabies in this patient. Corneal impression has been taken. What test will you do on it for most accurate diagnosis?",
@@ -1558,12 +2246,20 @@
         },
         "answer_idx": "B",
         "answer": "-PCR for virus",
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "A",
+            "A",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. Here are the solutions again for clarity:\n\nSolution 1: B\nSolution 2: A\nSolution 3: A\nSolution 4: B\nSolution 5: B\n\nWe can count the frequency of each answer:\n- A appears in Solution 2 and Solution 3 (2 times).\n- B appears in Solution 1, Solution 4, and Solution 5 (3 times).\n\nSince the answer \"B\" appears most frequently across the solutions, it is the most consistent and reliable solution.\n\nTherefore, the most consistent solution is:\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1102,
-            "completion_tokens": 1915
+            "completion_tokens": 1874
         },
-        "time_elapsed": 29.1225266456604
+        "time_elapsed": 24.47940444946289
     },
     {
         "question": "plate endings are features of",
@@ -1576,12 +2272,20 @@
         },
         "answer_idx": "B",
         "answer": "Nuclear bag fibres",
-        "predicted_answer": "D",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "B",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: B\n- Solution 5: A\n\nBy counting the occurrences of each option:\n- Option A appears 4 times.\n- Option B appears 1 time.\n- Option C appears 0 times.\n- Option D appears 0 times.\n\nThe most frequently occurring answer is Option A.\n\nTherefore, the most consistent solution is:\nA",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 784,
-            "completion_tokens": 1437
+            "completion_tokens": 1447
         },
-        "time_elapsed": 20.112319231033325
+        "time_elapsed": 18.094444036483765
     },
     {
         "question": "Microangiopathic hemolytic anemia",
@@ -1594,12 +2298,20 @@
         },
         "answer_idx": "B",
         "answer": "ITP",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question is asking about a condition associated with microangiopathic hemolytic anemia. The options provided are:\n\n(A) TTP (Thrombotic Thrombocytopenic Purpura)\n(B) ITP (Immune Thrombocytopenic Purpura)\n(C) Senile purpura\n(D) CML (Chronic Myeloid Leukemia)\n\nMicroangiopathic hemolytic anemia is characterized by the destruction of red blood cells due to small blood vessel abnormalities. Among the options, TTP (Thrombotic Thrombocytopenic Purpura) is a condition that involves microangiopathic hemolytic anemia, where small blood clots form in the blood vessels, leading to the destruction of red blood cells.\n\nThe solutions provided all consistently indicate option (A) as the answer. Given the consistency across all solutions, the most reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 790,
-            "completion_tokens": 1943
+            "completion_tokens": 2030
         },
-        "time_elapsed": 25.235960006713867
+        "time_elapsed": 25.989954948425293
     },
     {
         "question": "The necrotising pressure areas, undergoing bone resorption and endosteal bone formation",
@@ -1612,12 +2324,20 @@
         },
         "answer_idx": "B",
         "answer": "Occlusal trauma",
-        "predicted_answer": "B",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". Given this consistency, the most reliable solution is:\n\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 892,
-            "completion_tokens": 2231
+            "completion_tokens": 2047
         },
-        "time_elapsed": 27.242159128189087
+        "time_elapsed": 22.64992332458496
     },
     {
         "question": "A 55- year old diabetic patient presents with transient obscuration in vision for 2-3 days followed by sudden loss of vision. Which of the following would be the best test to evaluate the symptoms?",
@@ -1630,12 +2350,20 @@
         },
         "answer_idx": "D",
         "answer": "Serum creatinine levels",
+        "solutions": [
+            "C",
+            "D",
+            "D",
+            "D",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: C\n- Solution 2: D\n- Solution 3: D\n- Solution 4: D\n- Solution 5: C\n\nCounting the frequency of each option:\n- Option A: 0 times\n- Option B: 0 times\n- Option C: 2 times\n- Option D: 3 times\n\nThe most frequently occurring answer is Option D, which appears 3 times.\n\nTherefore, the most consistent solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1048,
-            "completion_tokens": 2002
+            "completion_tokens": 2255
         },
-        "time_elapsed": 23.76184916496277
+        "time_elapsed": 24.97387456893921
     },
     {
         "question": "Increase in height of mandible with increase in interdental spaces in elderly man",
@@ -1648,12 +2376,20 @@
         },
         "answer_idx": "A",
         "answer": "Hyperpituitarism",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question is about an elderly man experiencing an increase in the height of the mandible along with an increase in interdental spaces. This description is characteristic of a condition where there is excessive growth hormone, leading to abnormal growth of bones and tissues.\n\nThe options provided are:\n(A) Hyperpituitarism\n(B) Hyperthyroidism\n(C) Hypopituitarism\n(D) Hyperparathyroidism\n\nLet's analyze each option:\n- Hyperpituitarism (A) refers to the overproduction of hormones by the pituitary gland, often leading to conditions like acromegaly or gigantism. Acromegaly, in particular, is known for causing increased bone growth, including the mandible, and can lead to increased interdental spaces.\n- Hyperthyroidism (B) involves an overactive thyroid gland, which primarily affects metabolism and does not typically cause increased bone growth in the mandible.\n- Hypopituitarism (C) is the underproduction of pituitary hormones, which would not cause increased bone growth.\n- Hyperparathyroidism (D) involves excessive production of parathyroid hormone, affecting calcium levels and bone metabolism, but it does not typically cause the described mandibular changes.\n\nGiven the characteristic symptoms described in the question, hyperpituitarism (A) is the most likely cause. All the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify (A) as the answer.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 868,
-            "completion_tokens": 1644
+            "completion_tokens": 1920
         },
-        "time_elapsed": 20.2532639503479
+        "time_elapsed": 23.787982940673828
     },
     {
         "question": "A patient is administered 200 mg of a drug. 75 mg of the drug is eliminated from the body in 90 minutes. If the drug follows first order kinetics, how much drug will remain after 6 hours?",
@@ -1666,12 +2402,20 @@
         },
         "answer_idx": "C",
         "answer": "30 mg",
+        "solutions": [
+            "C",
+            "C",
+            "B",
+            "C",
+            "B"
+        ],
+        "ensemble_response": "To determine the most consistent solution, we need to evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: C\n- Solution 2: C\n- Solution 3: B\n- Solution 4: C\n- Solution 5: B\n\nCounting the frequency of each answer:\n- A: 0 times\n- B: 2 times\n- C: 3 times\n- D: 0 times\n\nThe answer that appears most frequently is C, which appears 3 times.\n\nTherefore, the most consistent solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1030,
-            "completion_tokens": 3194
+            "completion_tokens": 3163
         },
-        "time_elapsed": 45.76739549636841
+        "time_elapsed": 38.218350648880005
     },
     {
         "question": "Which of the following diseases is diagnosed with the help of the flowcytometry pattern?",
@@ -1684,12 +2428,20 @@
         },
         "answer_idx": "C",
         "answer": "Hyper IgM syndrome",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 886,
-            "completion_tokens": 1754
+            "completion_tokens": 1668
         },
-        "time_elapsed": 19.619324684143066
+        "time_elapsed": 23.67833185195923
     },
     {
         "question": "Thyroglossal fistula is:",
@@ -1702,12 +2454,20 @@
         },
         "answer_idx": "B",
         "answer": "Causes a bulge in neck",
-        "predicted_answer": "B",
+        "solutions": [
+            "A",
+            "A",
+            "B",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions:\n\n- Solution 1: A\n- Solution 2: A\n- Solution 3: B\n- Solution 4: A\n- Solution 5: A\n\nBy counting the occurrences of each option:\n- Option A appears 4 times.\n- Option B appears 1 time.\n- Options C and D do not appear at all.\n\nThe most frequently occurring answer is Option A.\n\nTherefore, the most consistent solution is:\nA",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 861,
-            "completion_tokens": 1775
+            "completion_tokens": 1674
         },
-        "time_elapsed": 21.670206308364868
+        "time_elapsed": 22.56034564971924
     },
     {
         "question": "Which of the following conditions is associated with polyhy dramnios?",
@@ -1720,12 +2480,20 @@
         },
         "answer_idx": "B",
         "answer": "Cleft palate",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C.\"\n\nGiven this consistency, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 886,
-            "completion_tokens": 1426
+            "completion_tokens": 1532
         },
-        "time_elapsed": 19.293134450912476
+        "time_elapsed": 18.359852075576782
     },
     {
         "question": "The best finish line for anterior metal ceramic crown is",
@@ -1738,12 +2506,20 @@
         },
         "answer_idx": "D",
         "answer": "Shoulder with bevel",
-        "predicted_answer": "C",
+        "solutions": [
+            "C",
+            "B",
+            "B",
+            "B",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions and their corresponding answers:\n\n- Solution 1: C\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: D\n\nNow, let's count the frequency of each answer:\n\n- A: 0 times\n- B: 3 times\n- C: 1 time\n- D: 1 time\n\nThe answer that appears most frequently is \"B,\" which appears 3 times.\n\nTherefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 808,
-            "completion_tokens": 1758
+            "completion_tokens": 1809
         },
-        "time_elapsed": 23.547486066818237
+        "time_elapsed": 22.918235778808594
     },
     {
         "question": "Sensitivity in gingival area of class II light cured composite restoration after 2 months is due to:",
@@ -1756,12 +2532,20 @@
         },
         "answer_idx": "A",
         "answer": "Improper cavity preparation at gingival margin",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions provided is \"A\". \n\nThe detailed thought process involves evaluating each solution individually:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nSince all solutions consistently indicate \"A\" as the answer, it is reasonable to conclude that the most reliable solution is \"A\".\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 989,
-            "completion_tokens": 1652
+            "completion_tokens": 1582
         },
-        "time_elapsed": 22.941174030303955
+        "time_elapsed": 19.18903684616089
     },
     {
         "question": "A study was conducted to find average intra-ocular pressure. IOP was measured in 400 people and the mean was found to be 25 mm Hg with a standard detion of 10 mm Hg. What is the range in which 10P of 95% of the population would be lying?",
@@ -1774,12 +2558,20 @@
         },
         "answer_idx": "C",
         "answer": "24-26 mm Hg",
-        "predicted_answer": "B",
+        "solutions": [
+            "A",
+            "D",
+            "A",
+            "A",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently among the provided solutions. Here are the solutions:\n\n- Solution 1: A\n- Solution 2: D\n- Solution 3: A\n- Solution 4: A\n- Solution 5: D\n\nCounting the frequency of each option:\n- Option A appears 3 times.\n- Option D appears 2 times.\n\nSince Option A appears most frequently, it is the most consistent solution.\n\nTherefore, the answer is:\nA",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1192,
-            "completion_tokens": 1993
+            "completion_tokens": 1925
         },
-        "time_elapsed": 26.06768226623535
+        "time_elapsed": 26.985360860824585
     },
     {
         "question": "For >10 mm setback of mandible, which of these surgeries is most suitable:",
@@ -1792,11 +2584,19 @@
         },
         "answer_idx": "B",
         "answer": "Vertical ramus osteotomy",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most suitable surgery for a >10 mm setback of the mandible, we need to evaluate the consistency of the solutions provided. The solutions are as follows:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate option A as the most suitable surgery. \n\nOption A corresponds to \"Sagittal split ramus osteotomy,\" which is a common and effective surgical procedure for significant mandibular setbacks. This procedure allows for precise repositioning of the mandible and is widely used in orthognathic surgery for correcting mandibular prognathism or retrognathism.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 946,
-            "completion_tokens": 1635
+            "completion_tokens": 1616
         },
-        "time_elapsed": 19.206329107284546
+        "time_elapsed": 20.294254302978516
     }
 ]

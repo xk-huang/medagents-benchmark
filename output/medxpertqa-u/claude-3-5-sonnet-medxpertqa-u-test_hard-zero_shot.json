@@ -16,12 +16,13 @@
         },
         "answer_idx": "D",
         "answer": "B cells",
+        "completion": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 302,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.5058708190917969
+        "time_elapsed": 1.1777782440185547
     },
     {
         "realidx": "Text-113",
@@ -40,12 +41,13 @@
         },
         "answer_idx": "B",
         "answer": "Increases carpal tunnel pressure",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 365,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1754074096679688
+        "time_elapsed": 1.7758204936981201
     },
     {
         "realidx": "Text-116",
@@ -64,12 +66,13 @@
         },
         "answer_idx": "C",
         "answer": "45-year-old woman that had a propane tank explode near her thigh undergoing a transfemoral amputation",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 609,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3622872829437256
+        "time_elapsed": 1.5810911655426025
     },
     {
         "realidx": "Text-118",
@@ -88,12 +91,13 @@
         },
         "answer_idx": "C",
         "answer": "The earliest radiographic finding is loss of normal lumbar lordosis, followed by disc space narrowing and endplate erosion.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 631,
             "completion_tokens": 4
         },
-        "time_elapsed": 2.088444948196411
+        "time_elapsed": 1.5271191596984863
     },
     {
         "realidx": "Text-123",
@@ -112,12 +116,13 @@
         },
         "answer_idx": "C",
         "answer": "Carboplatin and paclitaxel",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 522,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1184189319610596
+        "time_elapsed": 1.2741737365722656
     },
     {
         "realidx": "Text-125",
@@ -136,12 +141,13 @@
         },
         "answer_idx": "F",
         "answer": "Nimorazole",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 301,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9194586277008057
+        "time_elapsed": 2.0591602325439453
     },
     {
         "realidx": "Text-13",
@@ -160,12 +166,13 @@
         },
         "answer_idx": "I",
         "answer": "High tibial osteotomy",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 339,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.5763933658599854
+        "time_elapsed": 1.645303726196289
     },
     {
         "realidx": "Text-131",
@@ -184,12 +191,13 @@
         },
         "answer_idx": "I",
         "answer": "Normal kidneys",
-        "predicted_answer": "A",
+        "completion": "I",
+        "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 324,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9948902130126953
+        "time_elapsed": 1.5449864864349365
     },
     {
         "realidx": "Text-134",
@@ -208,12 +216,13 @@
         },
         "answer_idx": "H",
         "answer": "Dependent",
+        "completion": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 333,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2511208057403564
+        "time_elapsed": 1.1859707832336426
     },
     {
         "realidx": "Text-141",
@@ -232,12 +241,13 @@
         },
         "answer_idx": "A",
         "answer": "Hemorrhage",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 418,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3719100952148438
+        "time_elapsed": 1.5650789737701416
     },
     {
         "realidx": "Text-150",
@@ -256,12 +266,13 @@
         },
         "answer_idx": "A",
         "answer": "| **Diameter** | **Degree of Myelination** |\n| --- | --- |\n| 2 \u00b5m | ++++ |",
-        "predicted_answer": "I",
+        "completion": "I",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 933,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.7244925498962402
+        "time_elapsed": 1.678809642791748
     },
     {
         "realidx": "Text-152",
@@ -280,12 +291,13 @@
         },
         "answer_idx": "I",
         "answer": "*Campylobacter*",
+        "completion": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 514,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9887113571166992
+        "time_elapsed": 1.2206695079803467
     },
     {
         "realidx": "Text-154",
@@ -304,12 +316,13 @@
         },
         "answer_idx": "D",
         "answer": "Pantothenic acid",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 442,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2396783828735352
+        "time_elapsed": 1.2130486965179443
     },
     {
         "realidx": "Text-158",
@@ -328,12 +341,13 @@
         },
         "answer_idx": "B",
         "answer": "Neurokinin A",
+        "completion": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 293,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0945067405700684
+        "time_elapsed": 1.1593756675720215
     },
     {
         "realidx": "Text-160",
@@ -352,12 +366,13 @@
         },
         "answer_idx": "I",
         "answer": "Sorbitol dehydrogenase",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 434,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1561379432678223
+        "time_elapsed": 1.5840609073638916
     },
     {
         "realidx": "Text-17",
@@ -376,12 +391,13 @@
         },
         "answer_idx": "B",
         "answer": "Covalent bonds between carboxyl and amino groups",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 460,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.697462558746338
+        "time_elapsed": 1.9399054050445557
     },
     {
         "realidx": "Text-176",
@@ -400,12 +416,13 @@
         },
         "answer_idx": "D",
         "answer": "Trim the frayed tendon edges and begin early range of motion",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 472,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.168017864227295
+        "time_elapsed": 1.1613531112670898
     },
     {
         "realidx": "Text-19",
@@ -424,12 +441,13 @@
         },
         "answer_idx": "I",
         "answer": "Lateral to the patella with knee in extension",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 398,
             "completion_tokens": 4
         },
-        "time_elapsed": 2.0435304641723633
+        "time_elapsed": 1.6045873165130615
     },
     {
         "realidx": "Text-197",
@@ -448,12 +466,13 @@
         },
         "answer_idx": "D",
         "answer": "0.9 cm grade 3 DCIS s/p lumpectomy with negative margin",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 595,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2695019245147705
+        "time_elapsed": 1.352583885192871
     },
     {
         "realidx": "Text-198",
@@ -472,12 +491,13 @@
         },
         "answer_idx": "J",
         "answer": "Tobacco use",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 257,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.5204999446868896
+        "time_elapsed": 1.1605632305145264
     },
     {
         "realidx": "Text-212",
@@ -496,12 +516,13 @@
         },
         "answer_idx": "B",
         "answer": "Hip extension and abduction",
+        "completion": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 285,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.9948136806488037
+        "time_elapsed": 1.1337525844573975
     },
     {
         "realidx": "Text-215",
@@ -520,12 +541,13 @@
         },
         "answer_idx": "G",
         "answer": "CN IX",
+        "completion": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 360,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0410504341125488
+        "time_elapsed": 1.399078130722046
     },
     {
         "realidx": "Text-216",
@@ -544,12 +566,13 @@
         },
         "answer_idx": "D",
         "answer": "Alanine aminotransferase",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 377,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0611720085144043
+        "time_elapsed": 1.3398077487945557
     },
     {
         "realidx": "Text-225",
@@ -568,12 +591,13 @@
         },
         "answer_idx": "F",
         "answer": "For patients with a mild opioid use disorder in whom medication therapy is chosen, naltrexone is considered the first-line treatment.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 659,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.4895744323730469
+        "time_elapsed": 1.3988487720489502
     },
     {
         "realidx": "Text-229",
@@ -592,12 +616,13 @@
         },
         "answer_idx": "D",
         "answer": "At the same dose, vilazodone will always have a submaximal effect.",
+        "completion": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 755,
             "completion_tokens": 4
         },
-        "time_elapsed": 2.1383183002471924
+        "time_elapsed": 1.22672700881958
     },
     {
         "realidx": "Text-230",
@@ -616,12 +641,13 @@
         },
         "answer_idx": "J",
         "answer": "Stimulation of release of insulin-like growth factor",
+        "completion": "I",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 510,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.259411334991455
+        "time_elapsed": 1.3463828563690186
     },
     {
         "realidx": "Text-231",
@@ -640,12 +666,13 @@
         },
         "answer_idx": "G",
         "answer": "Autosomal recessive",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 368,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1320056915283203
+        "time_elapsed": 1.325026512145996
     },
     {
         "realidx": "Text-240",
@@ -664,12 +691,13 @@
         },
         "answer_idx": "H",
         "answer": "Naked, positive-sense, single-stranded RNA virus",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 571,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3118064403533936
+        "time_elapsed": 1.406599521636963
     },
     {
         "realidx": "Text-242",
@@ -688,12 +716,13 @@
         },
         "answer_idx": "G",
         "answer": "5'-CGC-3'",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 379,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3880329132080078
+        "time_elapsed": 1.2551937103271484
     },
     {
         "realidx": "Text-247",
@@ -712,12 +741,13 @@
         },
         "answer_idx": "J",
         "answer": "Procarbazine",
+        "completion": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 416,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0331952571868896
+        "time_elapsed": 1.1191504001617432
     },
     {
         "realidx": "Text-251",
@@ -736,12 +766,13 @@
         },
         "answer_idx": "H",
         "answer": "Obturator",
+        "completion": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 328,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2458646297454834
+        "time_elapsed": 1.1877102851867676
     },
     {
         "realidx": "Text-258",
@@ -760,12 +791,13 @@
         },
         "answer_idx": "I",
         "answer": "Familial adenomatous polyposis",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 293,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.244232177734375
+        "time_elapsed": 1.3564043045043945
     },
     {
         "realidx": "Text-261",
@@ -784,12 +816,13 @@
         },
         "answer_idx": "E",
         "answer": "Absence of an organ that is not needed in adulthood",
+        "completion": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 610,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.5248847007751465
+        "time_elapsed": 1.2758769989013672
     },
     {
         "realidx": "Text-267",
@@ -808,12 +841,13 @@
         },
         "answer_idx": "I",
         "answer": "4 strand core suture technique and cast immobilization for 4 weeks",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 550,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.64298415184021
+        "time_elapsed": 1.7011291980743408
     },
     {
         "realidx": "Text-269",
@@ -832,12 +866,13 @@
         },
         "answer_idx": "C",
         "answer": "Estrogen",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 494,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0745818614959717
+        "time_elapsed": 1.5600240230560303
     },
     {
         "realidx": "Text-271",
@@ -856,12 +891,13 @@
         },
         "answer_idx": "I",
         "answer": "Unfavorable Intermediate",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 249,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.268038034439087
+        "time_elapsed": 0.8510797023773193
     },
     {
         "realidx": "Text-277",
@@ -880,12 +916,13 @@
         },
         "answer_idx": "E",
         "answer": "L1",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 282,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.027000904083252
+        "time_elapsed": 1.1181716918945312
     },
     {
         "realidx": "Text-278",
@@ -904,12 +941,13 @@
         },
         "answer_idx": "J",
         "answer": "10-20%",
+        "completion": "J",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 268,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9814181327819824
+        "time_elapsed": 1.155585765838623
     },
     {
         "realidx": "Text-298",
@@ -928,12 +966,13 @@
         },
         "answer_idx": "C",
         "answer": "Fryette\u2019s third law",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 381,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.969170331954956
+        "time_elapsed": 1.3214399814605713
     },
     {
         "realidx": "Text-304",
@@ -952,12 +991,13 @@
         },
         "answer_idx": "I",
         "answer": "CN VII",
+        "completion": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 279,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.521284818649292
+        "time_elapsed": 1.7306294441223145
     },
     {
         "realidx": "Text-315",
@@ -976,12 +1016,13 @@
         },
         "answer_idx": "F",
         "answer": "Midshaft of the left femur",
+        "completion": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 459,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.6040031909942627
+        "time_elapsed": 1.6649212837219238
     },
     {
         "realidx": "Text-317",
@@ -1000,12 +1041,13 @@
         },
         "answer_idx": "C",
         "answer": "Granulomatous mastitis",
+        "completion": "I",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 486,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.453657865524292
+        "time_elapsed": 1.651625633239746
     },
     {
         "realidx": "Text-320",
@@ -1024,12 +1066,13 @@
         },
         "answer_idx": "F",
         "answer": "Decreased contractility",
+        "completion": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 300,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.4379785060882568
+        "time_elapsed": 1.2329862117767334
     },
     {
         "realidx": "Text-325",
@@ -1048,12 +1091,13 @@
         },
         "answer_idx": "I",
         "answer": "Tip of the right 12th\u00a0rib",
+        "completion": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 468,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0909295082092285
+        "time_elapsed": 1.4943816661834717
     },
     {
         "realidx": "Text-331",
@@ -1072,12 +1116,13 @@
         },
         "answer_idx": "J",
         "answer": "Prevents depolarization of Na+ channels",
-        "predicted_answer": "E",
+        "completion": "I",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 523,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3156144618988037
+        "time_elapsed": 1.2620177268981934
     },
     {
         "realidx": "Text-335",
@@ -1096,12 +1141,13 @@
         },
         "answer_idx": "E",
         "answer": "Vitamin E",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 586,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1670246124267578
+        "time_elapsed": 1.6611847877502441
     },
     {
         "realidx": "Text-337",
@@ -1120,12 +1166,13 @@
         },
         "answer_idx": "A",
         "answer": "Mesoderm",
+        "completion": "J",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 310,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.9953062534332275
+        "time_elapsed": 1.2180707454681396
     },
     {
         "realidx": "Text-339",
@@ -1144,12 +1191,13 @@
         },
         "answer_idx": "J",
         "answer": "Rifampin monotherapy",
+        "completion": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 464,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.054584264755249
+        "time_elapsed": 1.6189026832580566
     },
     {
         "realidx": "Text-344",
@@ -1168,12 +1216,13 @@
         },
         "answer_idx": "A",
         "answer": "Union",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 276,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1009061336517334
+        "time_elapsed": 1.0773255825042725
     },
     {
         "realidx": "Text-350",
@@ -1192,12 +1241,13 @@
         },
         "answer_idx": "A",
         "answer": "Short course RT (25 Gy in 5 Fx without concurrent 5-FU) followed by surgery within 1 week",
+        "completion": "J",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 841,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0051555633544922
+        "time_elapsed": 1.1820108890533447
     },
     {
         "realidx": "Text-353",
@@ -1216,12 +1266,13 @@
         },
         "answer_idx": "G",
         "answer": "Blurry vision",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 510,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.8802571296691895
+        "time_elapsed": 1.3374848365783691
     },
     {
         "realidx": "Text-355",
@@ -1240,12 +1291,13 @@
         },
         "answer_idx": "I",
         "answer": "Women with low anger expression and hostility have less pain.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 434,
             "completion_tokens": 4
         },
-        "time_elapsed": 6.60096001625061
+        "time_elapsed": 1.2098479270935059
     },
     {
         "realidx": "Text-362",
@@ -1264,12 +1316,13 @@
         },
         "answer_idx": "E",
         "answer": "Enteral nutrition can be initiated but should be discontinued if gastrointestinal output is >1500 mL/24 hours.",
+        "completion": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 654,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1817753314971924
+        "time_elapsed": 1.2910010814666748
     },
     {
         "realidx": "Text-364",
@@ -1288,12 +1341,13 @@
         },
         "answer_idx": "F",
         "answer": "Type IIIB intra-articular distal tibia fracture",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 454,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1094026565551758
+        "time_elapsed": 1.1899330615997314
     },
     {
         "realidx": "Text-371",
@@ -1312,12 +1366,13 @@
         },
         "answer_idx": "I",
         "answer": "CD2",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 326,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.02946138381958
+        "time_elapsed": 1.175727367401123
     },
     {
         "realidx": "Text-38",
@@ -1336,12 +1391,13 @@
         },
         "answer_idx": "B",
         "answer": "Isoflurane set at a concentration of 1% has the same clinical effect at sea level and at higher altitude.",
+        "completion": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 653,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0328369140625
+        "time_elapsed": 1.2512357234954834
     },
     {
         "realidx": "Text-383",
@@ -1360,12 +1416,13 @@
         },
         "answer_idx": "I",
         "answer": "Dysfunction of thermoregulation in the body",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 518,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0826544761657715
+        "time_elapsed": 1.2203688621520996
     },
     {
         "realidx": "Text-384",
@@ -1384,12 +1441,13 @@
         },
         "answer_idx": "J",
         "answer": "Sodium channels of respiratory epithelial cells",
-        "predicted_answer": "B",
+        "completion": "F",
+        "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 467,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2449190616607666
+        "time_elapsed": 1.2616000175476074
     },
     {
         "realidx": "Text-387",
@@ -1408,12 +1466,13 @@
         },
         "answer_idx": "J",
         "answer": "Granular eosinophilic cells",
+        "completion": "I",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 558,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3253085613250732
+        "time_elapsed": 1.392836332321167
     },
     {
         "realidx": "Text-391",
@@ -1432,12 +1491,13 @@
         },
         "answer_idx": "F",
         "answer": "Extent of soft-tissue release",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 301,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0724849700927734
+        "time_elapsed": 1.2728235721588135
     },
     {
         "realidx": "Text-393",
@@ -1456,12 +1516,13 @@
         },
         "answer_idx": "I",
         "answer": "Bicuspid aortic valve",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 315,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.7387025356292725
+        "time_elapsed": 1.6569128036499023
     },
     {
         "realidx": "Text-397",
@@ -1480,12 +1541,13 @@
         },
         "answer_idx": "D",
         "answer": "Bradycardia",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 273,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2629830837249756
+        "time_elapsed": 1.661611795425415
     },
     {
         "realidx": "Text-400",
@@ -1504,12 +1566,13 @@
         },
         "answer_idx": "B",
         "answer": "HBsAg",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 580,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.188471794128418
+        "time_elapsed": 1.7942836284637451
     },
     {
         "realidx": "Text-402",
@@ -1528,12 +1591,13 @@
         },
         "answer_idx": "J",
         "answer": "Acute papillary necrosis",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 454,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9990131855010986
+        "time_elapsed": 1.054248332977295
     },
     {
         "realidx": "Text-404",
@@ -1552,12 +1616,13 @@
         },
         "answer_idx": "E",
         "answer": "60 - 90%",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 311,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2307536602020264
+        "time_elapsed": 1.3600006103515625
     },
     {
         "realidx": "Text-405",
@@ -1576,12 +1641,13 @@
         },
         "answer_idx": "B",
         "answer": "Topiramate",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 270,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.9897968769073486
+        "time_elapsed": 1.3287608623504639
     },
     {
         "realidx": "Text-413",
@@ -1600,12 +1666,13 @@
         },
         "answer_idx": "A",
         "answer": "100% intermediate squamous cells",
+        "completion": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 504,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.5576965808868408
+        "time_elapsed": 1.1610097885131836
     },
     {
         "realidx": "Text-42",
@@ -1624,12 +1691,13 @@
         },
         "answer_idx": "C",
         "answer": "Prostate cancer",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 378,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1994812488555908
+        "time_elapsed": 1.2187416553497314
     },
     {
         "realidx": "Text-423",
@@ -1648,12 +1716,13 @@
         },
         "answer_idx": "A",
         "answer": "Acute angle branching fungus",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 500,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0245652198791504
+        "time_elapsed": 1.2572004795074463
     },
     {
         "realidx": "Text-425",
@@ -1672,12 +1741,13 @@
         },
         "answer_idx": "J",
         "answer": "Fat malabsorption",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 441,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2392702102661133
+        "time_elapsed": 1.4514961242675781
     },
     {
         "realidx": "Text-433",
@@ -1696,12 +1766,13 @@
         },
         "answer_idx": "H",
         "answer": "Indomethacin",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 414,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1855018138885498
+        "time_elapsed": 1.919957160949707
     },
     {
         "realidx": "Text-440",
@@ -1720,12 +1791,13 @@
         },
         "answer_idx": "H",
         "answer": "20% for both daily and BID",
-        "predicted_answer": "J",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 472,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.5734446048736572
+        "time_elapsed": 1.272615909576416
     },
     {
         "realidx": "Text-450",
@@ -1744,12 +1816,13 @@
         },
         "answer_idx": "J",
         "answer": "Primary neuronal dysfunction.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 382,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1510891914367676
+        "time_elapsed": 1.3816187381744385
     },
     {
         "realidx": "Text-451",
@@ -1768,12 +1841,13 @@
         },
         "answer_idx": "D",
         "answer": "L2 neutral, sidebent right, rotated left",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 554,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.09657621383667
+        "time_elapsed": 1.4774768352508545
     },
     {
         "realidx": "Text-458",
@@ -1792,12 +1866,13 @@
         },
         "answer_idx": "F",
         "answer": "Sargramostim",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 567,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0248141288757324
+        "time_elapsed": 1.676311731338501
     },
     {
         "realidx": "Text-459",
@@ -1816,12 +1891,13 @@
         },
         "answer_idx": "C",
         "answer": "Ischemic heart disease",
+        "completion": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 391,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3134124279022217
+        "time_elapsed": 1.2489075660705566
     },
     {
         "realidx": "Text-464",
@@ -1840,12 +1916,13 @@
         },
         "answer_idx": "E",
         "answer": "Flex to C6, rotate to the right, sidebend to the right",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 628,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1921017169952393
+        "time_elapsed": 1.8130033016204834
     },
     {
         "realidx": "Text-467",
@@ -1864,12 +1941,13 @@
         },
         "answer_idx": "C",
         "answer": "Long-term use causes symptomatic relief in soft tissue injury mainly by a strong placebo effect",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 610,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0761215686798096
+        "time_elapsed": 1.4456117153167725
     },
     {
         "realidx": "Text-472",
@@ -1888,12 +1966,13 @@
         },
         "answer_idx": "E",
         "answer": "Lack of empathy by provider",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 327,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.694443941116333
+        "time_elapsed": 1.2376577854156494
     },
     {
         "realidx": "Text-479",
@@ -1912,12 +1991,13 @@
         },
         "answer_idx": "A",
         "answer": "10 cm proximal to radiocapitellar joint",
+        "completion": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 355,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0913677215576172
+        "time_elapsed": 1.1282246112823486
     },
     {
         "realidx": "Text-489",
@@ -1936,12 +2016,13 @@
         },
         "answer_idx": "F",
         "answer": "It describes the formation of a lethal lesion that results from the interaction of two proximate  sublesions formed by the same charged particle track",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 740,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.7626848220825195
+        "time_elapsed": 1.0004262924194336
     },
     {
         "realidx": "Text-491",
@@ -1960,12 +2041,13 @@
         },
         "answer_idx": "H",
         "answer": "SBRT followed by chemotherapy",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 374,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1805615425109863
+        "time_elapsed": 1.2605972290039062
     },
     {
         "realidx": "Text-505",
@@ -1984,12 +2066,13 @@
         },
         "answer_idx": "E",
         "answer": "Two",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 246,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9120502471923828
+        "time_elapsed": 1.1034421920776367
     },
     {
         "realidx": "Text-513",
@@ -2008,12 +2091,13 @@
         },
         "answer_idx": "A",
         "answer": "no difference in outcomes",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 325,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.153137445449829
+        "time_elapsed": 1.2911393642425537
     },
     {
         "realidx": "Text-52",
@@ -2032,12 +2116,13 @@
         },
         "answer_idx": "D",
         "answer": "Stems that are precoated with polymethylmethacrylate",
+        "completion": "I",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 400,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1817257404327393
+        "time_elapsed": 1.5071804523468018
     },
     {
         "realidx": "Text-522",
@@ -2056,12 +2141,13 @@
         },
         "answer_idx": "J",
         "answer": "Simple ulnar nerve decompression at the cubital tunnel",
-        "predicted_answer": "A",
+        "completion": "J",
+        "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 539,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3257067203521729
+        "time_elapsed": 1.2437717914581299
     },
     {
         "realidx": "Text-523",
@@ -2080,12 +2166,13 @@
         },
         "answer_idx": "F",
         "answer": "Glycopyrrolate",
-        "predicted_answer": "A",
+        "completion": "E",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 422,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9521830081939697
+        "time_elapsed": 1.6701843738555908
     },
     {
         "realidx": "Text-530",
@@ -2104,12 +2191,13 @@
         },
         "answer_idx": "J",
         "answer": "Eosinophilic casts",
+        "completion": "I",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 545,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.8076412677764893
+        "time_elapsed": 1.1281464099884033
     },
     {
         "realidx": "Text-534",
@@ -2128,12 +2216,13 @@
         },
         "answer_idx": "J",
         "answer": "Comminuted fracture at or above the level of the syndesmosis",
+        "completion": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 428,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2591803073883057
+        "time_elapsed": 1.2789340019226074
     },
     {
         "realidx": "Text-54",
@@ -2152,12 +2241,13 @@
         },
         "answer_idx": "G",
         "answer": "Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 457,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1163959503173828
+        "time_elapsed": 1.1748254299163818
     },
     {
         "realidx": "Text-543",
@@ -2176,12 +2266,13 @@
         },
         "answer_idx": "A",
         "answer": "Elevation of liver enzymes",
+        "completion": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 408,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3003864288330078
+        "time_elapsed": 1.5260391235351562
     },
     {
         "realidx": "Text-57",
@@ -2200,12 +2291,13 @@
         },
         "answer_idx": "I",
         "answer": "Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar",
-        "predicted_answer": "A",
+        "completion": "I",
+        "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 514,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0569396018981934
+        "time_elapsed": 1.6364507675170898
     },
     {
         "realidx": "Text-6",
@@ -2224,12 +2316,13 @@
         },
         "answer_idx": "H",
         "answer": "66 Gy",
+        "completion": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 304,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.4115526676177979
+        "time_elapsed": 1.8332712650299072
     },
     {
         "realidx": "Text-61",
@@ -2248,12 +2341,13 @@
         },
         "answer_idx": "D",
         "answer": "Great toe dorsiflexion",
+        "completion": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 272,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.7710413932800293
+        "time_elapsed": 1.5845398902893066
     },
     {
         "realidx": "Text-76",
@@ -2272,12 +2366,13 @@
         },
         "answer_idx": "F",
         "answer": "Activation of ATM",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 310,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2721970081329346
+        "time_elapsed": 1.4214742183685303
     },
     {
         "realidx": "Text-77",
@@ -2296,12 +2391,13 @@
         },
         "answer_idx": "D",
         "answer": "Patients with a laterally bowed fifth metatarsal, no keratotic lesions, and a normal 4-5 intermetatarsal angle",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 682,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0961034297943115
+        "time_elapsed": 1.2880549430847168
     },
     {
         "realidx": "Text-81",
@@ -2320,12 +2416,13 @@
         },
         "answer_idx": "F",
         "answer": "L1 anterior lumbar tender point",
+        "completion": "I",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 458,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.2613422870635986
+        "time_elapsed": 1.3626916408538818
     },
     {
         "realidx": "Text-82",
@@ -2344,12 +2441,13 @@
         },
         "answer_idx": "B",
         "answer": "5-FU and mitomycin",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 402,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.6543161869049072
+        "time_elapsed": 1.29244065284729
     },
     {
         "realidx": "Text-90",
@@ -2368,12 +2466,13 @@
         },
         "answer_idx": "G",
         "answer": "Basaloid carcinoma",
+        "completion": "J",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 529,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1182591915130615
+        "time_elapsed": 1.2465569972991943
     },
     {
         "realidx": "Text-94",
@@ -2392,11 +2491,12 @@
         },
         "answer_idx": "E",
         "answer": "Annual echocardiogram",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 430,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9011635780334473
+        "time_elapsed": 1.1661593914031982
     }
 ]

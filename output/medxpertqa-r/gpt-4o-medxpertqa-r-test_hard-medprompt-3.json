@@ -19,9 +19,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2916,
-            "completion_tokens": 114
+            "completion_tokens": 117
         },
-        "time_elapsed": 11.983080625534058
+        "time_elapsed": 5.072740316390991,
+        "raw_responses": [
+            "(C) 63-year-old female with glenoid retroversion of 22-degrees and mild posterior wear undergoing shoulder arthroplasty",
+            "(C) 63-year-old female with glenoid retroversion of 22-degrees and mild posterior wear undergoing shoulder arthroplasty",
+            "(C) 63-year-old female with glenoid retroversion of 22-degrees and mild posterior wear undergoing shoulder arthroplasty"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The best final answer is option number: 0.",
+            "The best final answer is 0."
+        ],
+        "final_solution": "(C) 63-year-old female with glenoid retroversion of 22-degrees and mild posterior wear undergoing shoulder arthroplasty"
     },
     {
         "realidx": "Text-1",
@@ -42,10 +53,21 @@
         "answer": "Iliolumbar ligament",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2616,
-            "completion_tokens": 253
+            "prompt_tokens": 2406,
+            "completion_tokens": 122
         },
-        "time_elapsed": 13.793607950210571
+        "time_elapsed": 6.743829011917114,
+        "raw_responses": [
+            "The patient's symptoms and osteopathic findings suggest a sacroiliac joint dysfunction. The right sacral sulcus is shallow, the right inferior lateral angle is posterior, and the seated flexion test is positive on the right, indicating a possible sacral torsion or sacroiliac joint issue. Given these findings, the structure most likely implicated in the patient's condition is the posterior sacroiliac ligament.\n\nFinal answer: (D) Posterior sacroiliac ligament",
+            "(D) Posterior sacroiliac ligament",
+            "(F) Anterior sacroiliac ligament"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient's symptoms and osteopathic findings suggest a sacroiliac joint dysfunction. The right sacral sulcus is shallow, the right inferior lateral angle is posterior, and the seated flexion test is positive on the right, indicating a possible sacral torsion or sacroiliac joint issue. Given these findings, the structure most likely implicated in the patient's condition is the posterior sacroiliac ligament.\n\nFinal answer: (D) Posterior sacroiliac ligament"
     },
     {
         "realidx": "Text-10",
@@ -67,9 +89,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2802,
-            "completion_tokens": 67
+            "completion_tokens": 27
         },
-        "time_elapsed": 5.333509683609009
+        "time_elapsed": 3.778261423110962,
+        "raw_responses": [
+            "(J) Discontinue lithium therapy",
+            "(J) Discontinue lithium therapy",
+            "(J) Discontinue lithium therapy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(J) Discontinue lithium therapy"
     },
     {
         "realidx": "Text-101",
@@ -90,10 +123,21 @@
         "answer": "Inferior vena cava filter",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3867,
-            "completion_tokens": 385
+            "prompt_tokens": 2802,
+            "completion_tokens": 61
         },
-        "time_elapsed": 9.217416524887085
+        "time_elapsed": 4.552050828933716,
+        "raw_responses": [
+            "(C) Unfractionated heparin therapy",
+            "(C) Unfractionated heparin therapy",
+            "(C) Unfractionated heparin therapy"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(C) Unfractionated heparin therapy"
     },
     {
         "realidx": "Text-102",
@@ -115,9 +159,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1971,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 5.8450353145599365
+        "time_elapsed": 4.19805908203125,
+        "raw_responses": [
+            "(D) Topical estrogen",
+            "(D) Topical estrogen",
+            "(D) Topical estrogen"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Topical estrogen"
     },
     {
         "realidx": "Text-103",
@@ -139,9 +194,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 3057,
-            "completion_tokens": 59
+            "completion_tokens": 65
         },
-        "time_elapsed": 6.684057950973511
+        "time_elapsed": 4.806302547454834,
+        "raw_responses": [
+            "(J) Marked right hip flexion with right thigh abduction and external rotation",
+            "(J) Marked right hip flexion with right thigh abduction and external rotation",
+            "(J) Marked right hip flexion with right thigh abduction and external rotation"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(J) Marked right hip flexion with right thigh abduction and external rotation"
     },
     {
         "realidx": "Text-104",
@@ -163,9 +229,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2232,
-            "completion_tokens": 194
+            "completion_tokens": 168
         },
-        "time_elapsed": 7.385941982269287
+        "time_elapsed": 5.257066249847412,
+        "raw_responses": [
+            "(J) Posterior and inferior sternoclavicular somatic dysfunction",
+            "(J) Posterior and inferior sternoclavicular somatic dysfunction",
+            "(G) Anterior sternoclavicular joint dislocation"
+        ],
+        "ensemble_raw_responses": [
+            "Option 0 is the best final answer. The physical examination findings, such as the elevated left lateral clavicle, resistance to anterior motion at the medial end of the left clavicle, and tenderness in the supraclavicular fossa, are consistent with posterior and inferior sternoclavicular somatic dysfunction.",
+            "Option 0 is the best final answer. The physical examination findings, such as the elevated left lateral clavicle, resistance to anterior motion at the medial end of the left clavicle, and tenderness in the supraclavicular fossa, are consistent with posterior and inferior sternoclavicular somatic dysfunction.",
+            "1"
+        ],
+        "final_solution": "(J) Posterior and inferior sternoclavicular somatic dysfunction"
     },
     {
         "realidx": "Text-106",
@@ -187,9 +264,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2724,
-            "completion_tokens": 48
+            "completion_tokens": 54
         },
-        "time_elapsed": 4.458832263946533
+        "time_elapsed": 4.000263452529907,
+        "raw_responses": [
+            "(H) Transvaginal ultrasound",
+            "(H) Transvaginal ultrasound",
+            "(H) Transvaginal ultrasound"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(H) Transvaginal ultrasound"
     },
     {
         "realidx": "Text-107",
@@ -211,9 +299,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3003,
-            "completion_tokens": 243
+            "completion_tokens": 249
         },
-        "time_elapsed": 5.984713315963745
+        "time_elapsed": 5.823361158370972,
+        "raw_responses": [
+            "The symptoms of excessive sleepiness, feeding difficulties, and grunting in a neonate, along with physical findings such as nasal flaring, costosternal retractions, perioral cyanosis, a single S2, a systolic ejection murmur, hepatomegaly, and bounding peripheral pulses, suggest a cardiac etiology with significant left-to-right shunt and heart failure. The chest imaging showing an enlarged cardiac silhouette with increased pulmonary vasculature further supports this.\n\nGiven these findings, the most likely underlying pathology is:\n(B) Patent ductus arteriosus",
+            "The symptoms of excessive sleepiness, feeding difficulties, and grunting in a neonate, along with physical findings such as nasal flaring, costosternal retractions, perioral cyanosis, a single S2, a systolic ejection murmur, hepatomegaly, and bounding peripheral pulses, suggest a cardiac etiology with significant left-to-right shunt and heart failure. The chest imaging showing an enlarged cardiac silhouette with increased pulmonary vasculature further supports this.\n\nGiven these findings, the most likely underlying pathology is:\n(B) Patent ductus arteriosus",
+            "(B) Patent ductus arteriosus"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "The symptoms of excessive sleepiness, feeding difficulties, and grunting in a neonate, along with physical findings such as nasal flaring, costosternal retractions, perioral cyanosis, a single S2, a systolic ejection murmur, hepatomegaly, and bounding peripheral pulses, suggest a cardiac etiology with significant left-to-right shunt and heart failure. The chest imaging showing an enlarged cardiac silhouette with increased pulmonary vasculature further supports this.\n\nGiven these findings, the most likely underlying pathology is:\n(B) Patent ductus arteriosus"
     },
     {
         "realidx": "Text-109",
@@ -235,9 +334,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2220,
-            "completion_tokens": 63
+            "completion_tokens": 69
         },
-        "time_elapsed": 4.386523008346558
+        "time_elapsed": 4.888071060180664,
+        "raw_responses": [
+            "(C) Primary metabolic acidosis with an anion gap",
+            "(C) Primary metabolic acidosis with an anion gap",
+            "(C) Primary metabolic acidosis with an anion gap"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 0.",
+            "The best final answer is option number 0.",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(C) Primary metabolic acidosis with an anion gap"
     },
     {
         "realidx": "Text-11",
@@ -259,9 +369,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2358,
-            "completion_tokens": 53
+            "completion_tokens": 67
         },
-        "time_elapsed": 6.920951843261719
+        "time_elapsed": 4.206248044967651,
+        "raw_responses": [
+            "(B) Esophageal atresia with tracheoesophageal fistula",
+            "(B) Esophageal atresia with tracheoesophageal fistula",
+            "(B) Esophageal atresia with tracheoesophageal fistula"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "1",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) Esophageal atresia with tracheoesophageal fistula"
     },
     {
         "realidx": "Text-110",
@@ -283,9 +404,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2751,
-            "completion_tokens": 202
+            "completion_tokens": 221
         },
-        "time_elapsed": 7.334365129470825
+        "time_elapsed": 6.261147737503052,
+        "raw_responses": [
+            "(D) Ceftriaxone and azithromycin once",
+            "(D) Ceftriaxone and azithromycin once",
+            "(D) Ceftriaxone and azithromycin once"
+        ],
+        "ensemble_raw_responses": [
+            "The candidate solutions 0, 1, and 2 all provide the same answer: (D) Ceftriaxone and azithromycin once. Given that all solutions are identical and correct, any of them can be chosen. Therefore, the best final answer is:\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (D) Ceftriaxone and azithromycin once. Since they all agree and this regimen is appropriate for prophylaxis against common sexually transmitted infections (STIs) such as gonorrhea and chlamydia, the best final answer is:\n\n1",
+            "The candidate solutions 0, 1, and 2 all suggest the same answer: (D) Ceftriaxone and azithromycin once. Given that all solutions are identical and correct, any of them can be chosen. Therefore, the best final answer is:\n\n0"
+        ],
+        "final_solution": "(D) Ceftriaxone and azithromycin once"
     },
     {
         "realidx": "Text-111",
@@ -307,9 +439,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2349,
-            "completion_tokens": 58
+            "completion_tokens": 72
         },
-        "time_elapsed": 4.117177248001099
+        "time_elapsed": 6.19470739364624,
+        "raw_responses": [
+            "(H) a true rib that primarily moves in a bucket handle motion",
+            "(H) a true rib that primarily moves in a bucket handle motion",
+            "(H) a true rib that primarily moves in a bucket handle motion"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(H) a true rib that primarily moves in a bucket handle motion"
     },
     {
         "realidx": "Text-114",
@@ -331,9 +474,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2319,
-            "completion_tokens": 84
+            "completion_tokens": 90
         },
-        "time_elapsed": 5.759942531585693
+        "time_elapsed": 4.076514720916748,
+        "raw_responses": [
+            "The patient's symptoms and clinical findings suggest subacute thyroiditis (de Quervain thyroiditis), which is often preceded by a viral illness and presents with neck pain, tenderness, and hyperthyroid symptoms. The elevated ESR supports an inflammatory process. The most appropriate treatment for subacute thyroiditis is:\n\n(H) Corticosteroid therapy",
+            "(H) Corticosteroid therapy",
+            "(H) Corticosteroid therapy"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "2"
+        ],
+        "final_solution": "The patient's symptoms and clinical findings suggest subacute thyroiditis (de Quervain thyroiditis), which is often preceded by a viral illness and presents with neck pain, tenderness, and hyperthyroid symptoms. The elevated ESR supports an inflammatory process. The most appropriate treatment for subacute thyroiditis is:\n\n(H) Corticosteroid therapy"
     },
     {
         "realidx": "Text-117",
@@ -355,9 +509,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2292,
-            "completion_tokens": 192
+            "completion_tokens": 115
         },
-        "time_elapsed": 5.678510904312134
+        "time_elapsed": 4.4737348556518555,
+        "raw_responses": [
+            "(A) Tetanus/Diphtheria/Pertussis vaccine",
+            "(G) Intramuscular flu vaccine",
+            "(G) Intramuscular flu vaccine"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "The best final answer is option 0. \n\nThe intramuscular flu vaccine (G) is recommended for pregnant women during any trimester to protect both the mother and the baby from influenza. The other vaccines listed either contain live viruses (which are contraindicated during pregnancy) or are not routinely recommended during pregnancy unless there are specific risk factors. Therefore, option 0 is the most appropriate choice."
+        ],
+        "final_solution": "(G) Intramuscular flu vaccine"
     },
     {
         "realidx": "Text-119",
@@ -379,9 +544,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1992,
-            "completion_tokens": 61
+            "completion_tokens": 74
         },
-        "time_elapsed": 4.3919899463653564
+        "time_elapsed": 4.353068828582764,
+        "raw_responses": [
+            "(D) Proceed to end to end vasoepididymostomy",
+            "(D) Proceed to end to end vasoepididymostomy",
+            "(D) Proceed to end to end vasoepididymostomy"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(D) Proceed to end to end vasoepididymostomy"
     },
     {
         "realidx": "Text-12",
@@ -402,10 +578,21 @@
         "answer": "Streptococcus pneumoniae",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2057,
-            "completion_tokens": 272
+            "prompt_tokens": 2382,
+            "completion_tokens": 138
         },
-        "time_elapsed": 7.711276292800903
+        "time_elapsed": 5.721282958984375,
+        "raw_responses": [
+            "(A) Haemophilus influenzae",
+            "The child presents with a sore throat, difficulty breathing, high fever, drooling, and a forward-leaning posture, which are classic signs of epiglottitis. Given that the child is up to date on vaccinations, the most likely cause of epiglottitis in a vaccinated child is not Haemophilus influenzae type b (Hib), which is covered by the Hib vaccine. However, other strains of Haemophilus influenzae can still cause epiglottitis. \n\nFinal answer: (A) Haemophilus influenzae",
+            "(A) Haemophilus influenzae"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "2"
+        ],
+        "final_solution": "The child presents with a sore throat, difficulty breathing, high fever, drooling, and a forward-leaning posture, which are classic signs of epiglottitis. Given that the child is up to date on vaccinations, the most likely cause of epiglottitis in a vaccinated child is not Haemophilus influenzae type b (Hib), which is covered by the Hib vaccine. However, other strains of Haemophilus influenzae can still cause epiglottitis. \n\nFinal answer: (A) Haemophilus influenzae"
     },
     {
         "realidx": "Text-121",
@@ -427,9 +614,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2727,
-            "completion_tokens": 75
+            "completion_tokens": 81
         },
-        "time_elapsed": 4.929731130599976
+        "time_elapsed": 4.767356634140015,
+        "raw_responses": [
+            "(G) Perform endotracheal intubation, and initiate mechanical ventilation",
+            "(G) Perform endotracheal intubation, and initiate mechanical ventilation",
+            "(G) Perform endotracheal intubation, and initiate mechanical ventilation"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 0.",
+            "The best final answer is option number 0.",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(G) Perform endotracheal intubation, and initiate mechanical ventilation"
     },
     {
         "realidx": "Text-122",
@@ -451,9 +649,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2247,
-            "completion_tokens": 45
+            "completion_tokens": 51
         },
-        "time_elapsed": 4.108106851577759
+        "time_elapsed": 4.116020679473877,
+        "raw_responses": [
+            "(A) Bilateral cerumen impaction with greater severity on the right",
+            "(A) Bilateral cerumen impaction with greater severity on the right",
+            "(A) Bilateral cerumen impaction with greater severity on the right"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Bilateral cerumen impaction with greater severity on the right"
     },
     {
         "realidx": "Text-124",
@@ -474,10 +683,21 @@
         "answer": "Chest physiotherapy",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 2838,
-            "completion_tokens": 351
+            "prompt_tokens": 2235,
+            "completion_tokens": 156
         },
-        "time_elapsed": 6.852275609970093
+        "time_elapsed": 5.433281660079956,
+        "raw_responses": [
+            "The patient is a 41-year-old male with cerebral palsy who is nonverbal and bedbound, presenting with dyspnea and hypoxia. Physical examination reveals tracheal deviation to the right and diminished breath sounds over the right lung field. Chest imaging shows complete opacification of the right lung. \n\nGiven the clinical presentation and imaging findings, the most likely diagnosis is a large mucus plug causing complete obstruction of the right mainstem bronchus, leading to lung collapse (atelectasis) and subsequent opacification on imaging.\n\nThe most appropriate next step in management is to relieve the obstruction. \n\nAnswer: (H) Bronchoscopy with lavage",
+            "(H) Bronchoscopy with lavage",
+            "(H) Bronchoscopy with lavage"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "0"
+        ],
+        "final_solution": "The patient is a 41-year-old male with cerebral palsy who is nonverbal and bedbound, presenting with dyspnea and hypoxia. Physical examination reveals tracheal deviation to the right and diminished breath sounds over the right lung field. Chest imaging shows complete opacification of the right lung. \n\nGiven the clinical presentation and imaging findings, the most likely diagnosis is a large mucus plug causing complete obstruction of the right mainstem bronchus, leading to lung collapse (atelectasis) and subsequent opacification on imaging.\n\nThe most appropriate next step in management is to relieve the obstruction. \n\nAnswer: (H) Bronchoscopy with lavage"
     },
     {
         "realidx": "Text-126",
@@ -496,12 +716,23 @@
         },
         "answer_idx": "H",
         "answer": "Hypernatremia",
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3198,
-            "completion_tokens": 442
+            "prompt_tokens": 2730,
+            "completion_tokens": 283
         },
-        "time_elapsed": 10.355636596679688
+        "time_elapsed": 6.21172833442688,
+        "raw_responses": [
+            "The child has a history of persistent vomiting and diarrhea, which can lead to significant fluid and electrolyte losses. The clinical signs of dehydration (reduced tear production, tachycardia, and hypotension) suggest that the child is likely experiencing significant fluid loss. Vomiting typically results in the loss of stomach acid (hydrochloric acid), which can lead to metabolic alkalosis. However, diarrhea often results in the loss of bicarbonate, leading to metabolic acidosis. Given the prolonged nature of the symptoms and the likely mixed losses from both vomiting and diarrhea, the most common electrolyte abnormality in this scenario is hypokalemia due to gastrointestinal losses.\n\nFinal answer: (D) Hypokalemia",
+            "The child has a history of persistent vomiting and diarrhea, which can lead to significant fluid and electrolyte losses. The clinical signs of dehydration (reduced tear production, tachycardia, and hypotension) suggest that the child is likely experiencing significant fluid loss. Vomiting and diarrhea can lead to loss of electrolytes, particularly sodium and potassium. However, the most common electrolyte abnormality in children with dehydration due to gastroenteritis is hyponatremia due to the loss of sodium in the stool and the dilutional effect of free water intake or hypotonic fluid replacement.\n\nFinal answer: (A) Hyponatremia",
+            "(A) Hyponatremia"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "1"
+        ],
+        "final_solution": "The child has a history of persistent vomiting and diarrhea, which can lead to significant fluid and electrolyte losses. The clinical signs of dehydration (reduced tear production, tachycardia, and hypotension) suggest that the child is likely experiencing significant fluid loss. Vomiting and diarrhea can lead to loss of electrolytes, particularly sodium and potassium. However, the most common electrolyte abnormality in children with dehydration due to gastroenteritis is hyponatremia due to the loss of sodium in the stool and the dilutional effect of free water intake or hypotonic fluid replacement.\n\nFinal answer: (A) Hyponatremia"
     },
     {
         "realidx": "Text-127",
@@ -523,9 +754,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2253,
-            "completion_tokens": 34
+            "completion_tokens": 48
         },
-        "time_elapsed": 4.309497356414795
+        "time_elapsed": 4.347673416137695,
+        "raw_responses": [
+            "(C) TSH level",
+            "(C) TSH level",
+            "(C) TSH level"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(C) TSH level"
     },
     {
         "realidx": "Text-128",
@@ -546,10 +788,21 @@
         "answer": "End-stage renal disease",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2616,
-            "completion_tokens": 447
+            "prompt_tokens": 2820,
+            "completion_tokens": 584
         },
-        "time_elapsed": 13.416652202606201
+        "time_elapsed": 9.214609384536743,
+        "raw_responses": [
+            "The patient presents with symptoms and signs suggestive of systemic lupus erythematosus (SLE), including bilateral symmetric joint swelling, night sweats, decreased appetite, and laboratory findings of thrombocytopenia, leukopenia, and proteinuria with red blood cell casts. The leading cause of mortality in patients with SLE is end-stage renal disease.\n\nFinal answer: (I) End-stage renal disease",
+            "The patient presents with symptoms and signs suggestive of a systemic inflammatory condition, likely systemic lupus erythematosus (SLE), given the combination of joint pain, night sweats, decreased appetite, symmetric joint swelling, hematologic abnormalities (thrombocytopenia and leukopenia), and renal involvement (proteinuria and red blood cell casts).\n\nThe leading cause of mortality in patients with SLE is:\n\n(A) Coronary artery disease",
+            "The patient presents with bilateral hand pain, symmetric joint swelling, night sweats, and decreased appetite, along with laboratory findings of anemia, thrombocytopenia, leukopenia, proteinuria, and red blood cell casts. These findings are suggestive of systemic lupus erythematosus (SLE).\n\nThe leading cause of mortality in patients with SLE is:\n\n(A) Coronary artery disease"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1.\n\nOption 1 correctly identifies the condition as systemic lupus erythematosus (SLE) and states that the leading cause of mortality in patients with SLE is coronary artery disease, which is accurate based on current medical knowledge. \n\nOption 0 incorrectly states that the leading cause of mortality in SLE is end-stage renal disease, which is not the most common cause of death in these patients. \n\nOption 2, while also identifying the condition as SLE and correctly stating the leading cause of mortality as coronary artery disease, includes an incorrect mention of anemia in the laboratory findings, which is not present in the given data.\n\nTherefore, option 1 is the most accurate and complete solution.",
+            "Option 0 is the best final answer. \n\nThe patient\u2019s presentation is consistent with systemic lupus erythematosus (SLE), and the leading cause of mortality in patients with SLE is coronary artery disease. \n\nTherefore, the chosen option number is: 0.",
+            "The best final answer is option 2. \n\nOption 2 correctly identifies the condition as systemic lupus erythematosus (SLE) and accurately states that the leading cause of mortality in patients with SLE is coronary artery disease. This aligns with current medical understanding that cardiovascular disease is a significant cause of mortality in SLE patients due to the chronic inflammation and increased risk of atherosclerosis associated with the disease. \n\nOption 0 incorrectly identifies end-stage renal disease as the leading cause of mortality, and option 1 does not provide a clear final answer.\n\nTherefore, the chosen option number is 2."
+        ],
+        "final_solution": "The patient presents with symptoms and signs suggestive of a systemic inflammatory condition, likely systemic lupus erythematosus (SLE), given the combination of joint pain, night sweats, decreased appetite, symmetric joint swelling, hematologic abnormalities (thrombocytopenia and leukopenia), and renal involvement (proteinuria and red blood cell casts).\n\nThe leading cause of mortality in patients with SLE is:\n\n(A) Coronary artery disease"
     },
     {
         "realidx": "Text-129",
@@ -571,9 +824,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2319,
-            "completion_tokens": 58
+            "completion_tokens": 64
         },
-        "time_elapsed": 4.808555841445923
+        "time_elapsed": 3.9885542392730713,
+        "raw_responses": [
+            "(E) Your blood thinner levels may need to be adjusted while on this medication",
+            "(E) Your blood thinner levels may need to be adjusted while on this medication",
+            "(E) Your blood thinner levels may need to be adjusted while on this medication"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "0",
+            "0"
+        ],
+        "final_solution": "(E) Your blood thinner levels may need to be adjusted while on this medication"
     },
     {
         "realidx": "Text-130",
@@ -594,10 +858,21 @@
         "answer": "improved rate of recovery",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 1235,
-            "completion_tokens": 97
+            "prompt_tokens": 1464,
+            "completion_tokens": 37
         },
-        "time_elapsed": 8.886091470718384
+        "time_elapsed": 6.212257385253906,
+        "raw_responses": [
+            "(A) reduced likelihood of damage to the quadriceps tendon",
+            "(A) reduced likelihood of damage to the quadriceps tendon",
+            "(H) improved rate of recovery"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "2"
+        ],
+        "final_solution": "(H) improved rate of recovery"
     },
     {
         "realidx": "Text-137",
@@ -619,9 +894,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2016,
-            "completion_tokens": 36
+            "completion_tokens": 43
         },
-        "time_elapsed": 6.433159589767456
+        "time_elapsed": 4.446322441101074,
+        "raw_responses": [
+            "(J) Anti-D immune globulin administration",
+            "(J) Anti-D immune globulin administration",
+            "(J) Anti-D immune globulin administration"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The best final answer is option number: 0."
+        ],
+        "final_solution": "(J) Anti-D immune globulin administration"
     },
     {
         "realidx": "Text-138",
@@ -640,12 +926,23 @@
         },
         "answer_idx": "G",
         "answer": "Lithium",
-        "predicted_answer": "J",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 2928,
-            "completion_tokens": 680
+            "prompt_tokens": 3207,
+            "completion_tokens": 544
         },
-        "time_elapsed": 13.011969089508057
+        "time_elapsed": 8.570091962814331,
+        "raw_responses": [
+            "The patient presents with symptoms suggestive of a manic episode with psychotic features, including agitation, restlessness, decreased need for sleep, increased talkativeness, irritability, inappropriate behavior, delusions, and suicidal ideation. The most appropriate first-line medication for treating acute mania with psychotic features is an antipsychotic or a mood stabilizer.\n\n(A) Carbamazepine - Mood stabilizer, not first-line for acute mania with psychosis.\n(B) Mirtazapine - Antidepressant, not indicated for mania.\n(C) Quetiapine - Antipsychotic, effective for acute mania with psychosis.\n(D) Haloperidol - Antipsychotic, effective but with higher risk of side effects.\n(E) Buspirone - Anxiolytic, not indicated for mania.\n(F) Phenobarbital - Barbiturate, not indicated for mania.\n(G) Lithium - Mood stabilizer, effective but not first-line for acute psychosis.\n(H) Risperidone - Antipsychotic, effective for acute mania with psychosis.\n(I) Valproic acid - Mood stabilizer, effective but not first-line for acute psychosis.\n(J) Olanzapine - Antipsychotic, effective for acute mania with psychosis.\n\nFinal answer: (H) Risperidone",
+            "The patient presents with symptoms suggestive of a manic episode with psychotic features, including agitation, restlessness, decreased need for sleep, delusions, and inappropriate behavior. The most appropriate first-line medication for treating acute mania with psychotic features is an antipsychotic or a mood stabilizer. \n\n(A) Carbamazepine - Mood stabilizer, not first-line for acute mania with psychosis.\n(B) Mirtazapine - Antidepressant, not indicated for mania.\n(C) Quetiapine - Antipsychotic, effective for acute mania with psychosis.\n(D) Haloperidol - Antipsychotic, effective but with higher risk of side effects.\n(E) Buspirone - Anxiolytic, not indicated for mania.\n(F) Phenobarbital - Barbiturate, not indicated for mania.\n(G) Lithium - Mood stabilizer, effective but not first-line for acute psychosis.\n(H) Risperidone - Antipsychotic, effective for acute mania with psychosis.\n(I) Valproic acid - Mood stabilizer, effective for mania but not first-line for psychosis.\n(J) Olanzapine - Antipsychotic, effective for acute mania with psychosis.\n\nFinal answer: (H) Risperidone",
+            "(G) Lithium"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "2"
+        ],
+        "final_solution": "The patient presents with symptoms suggestive of a manic episode with psychotic features, including agitation, restlessness, decreased need for sleep, delusions, and inappropriate behavior. The most appropriate first-line medication for treating acute mania with psychotic features is an antipsychotic or a mood stabilizer. \n\n(A) Carbamazepine - Mood stabilizer, not first-line for acute mania with psychosis.\n(B) Mirtazapine - Antidepressant, not indicated for mania.\n(C) Quetiapine - Antipsychotic, effective for acute mania with psychosis.\n(D) Haloperidol - Antipsychotic, effective but with higher risk of side effects.\n(E) Buspirone - Anxiolytic, not indicated for mania.\n(F) Phenobarbital - Barbiturate, not indicated for mania.\n(G) Lithium - Mood stabilizer, effective but not first-line for acute psychosis.\n(H) Risperidone - Antipsychotic, effective for acute mania with psychosis.\n(I) Valproic acid - Mood stabilizer, effective for mania but not first-line for psychosis.\n(J) Olanzapine - Antipsychotic, effective for acute mania with psychosis.\n\nFinal answer: (H) Risperidone"
     },
     {
         "realidx": "Text-139",
@@ -667,9 +964,18 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1178,
-            "completion_tokens": 11
+            "completion_tokens": 15
         },
-        "time_elapsed": 8.571909666061401
+        "time_elapsed": 5.622240781784058,
+        "raw_responses": [
+            "(H) MR venogram of the brain"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(H) MR venogram of the brain"
     },
     {
         "realidx": "Text-140",
@@ -691,9 +997,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2436,
-            "completion_tokens": 42
+            "completion_tokens": 72
         },
-        "time_elapsed": 7.641571283340454
+        "time_elapsed": 4.09234094619751,
+        "raw_responses": [
+            "(A) Replace hydrochlorothiazide with dapagliflozin",
+            "(A) Replace hydrochlorothiazide with dapagliflozin",
+            "(A) Replace hydrochlorothiazide with dapagliflozin"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(A) Replace hydrochlorothiazide with dapagliflozin"
     },
     {
         "realidx": "Text-142",
@@ -714,10 +1031,21 @@
         "answer": "Cautery of an arteriovenous malformation",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2661,
-            "completion_tokens": 111
+            "prompt_tokens": 2409,
+            "completion_tokens": 33
         },
-        "time_elapsed": 5.863919973373413
+        "time_elapsed": 4.105846405029297,
+        "raw_responses": [
+            "(D) Colonoscopy with polypectomy",
+            "(D) Colonoscopy with polypectomy",
+            "(D) Colonoscopy with polypectomy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Colonoscopy with polypectomy"
     },
     {
         "realidx": "Text-143",
@@ -738,10 +1066,21 @@
         "answer": "Glucose",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 2427,
-            "completion_tokens": 186
+            "prompt_tokens": 2604,
+            "completion_tokens": 383
         },
-        "time_elapsed": 5.045075416564941
+        "time_elapsed": 8.25934624671936,
+        "raw_responses": [
+            "The newborn presents with feeding difficulties, lethargy, weak cry, midfacial hypoplasia, diaphoresis, tremors, macroglossia, posterior auricular cartilage folds, asymmetrical limb size, umbilical hernia, hepatomegaly, and hypotonia. These findings are suggestive of congenital hypothyroidism. The most appropriate intervention for this patient is:\n\n(H) Thyroxine",
+            "The newborn presents with feeding difficulties, lethargy, weak cry, and several physical abnormalities including macroglossia, midfacial hypoplasia, and an umbilical hernia. These signs are suggestive of congenital hypothyroidism. The most appropriate intervention for this patient is:\n\n(H) Thyroxine",
+            "The newborn presents with feeding difficulties, lethargy, weak cry, midfacial hypoplasia, diaphoresis, tremors, macroglossia, posterior auricular cartilage folds, asymmetrical limb size, umbilical hernia, hepatomegaly, and hypotonia. These findings are suggestive of congenital hypothyroidism. The most appropriate intervention for congenital hypothyroidism is:\n\n(H) Thyroxine"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The best final answer is option 2. \n\nOption 2 provides a comprehensive analysis of the newborn's symptoms and correctly identifies congenital hypothyroidism as the likely diagnosis. It also clearly states that the most appropriate intervention for congenital hypothyroidism is thyroxine. This option is thorough and precise in its explanation.",
+            "Option 0 is the best final answer. \n\nAll three solutions correctly identify congenital hypothyroidism as the likely diagnosis and recommend thyroxine as the appropriate intervention. However, option 0 provides a more comprehensive summary of the patient's symptoms and directly links them to the diagnosis of congenital hypothyroidism, making it the most thorough and complete response. \n\nTherefore, the chosen option number is:\n\n0"
+        ],
+        "final_solution": "The newborn presents with feeding difficulties, lethargy, weak cry, midfacial hypoplasia, diaphoresis, tremors, macroglossia, posterior auricular cartilage folds, asymmetrical limb size, umbilical hernia, hepatomegaly, and hypotonia. These findings are suggestive of congenital hypothyroidism. The most appropriate intervention for this patient is:\n\n(H) Thyroxine"
     },
     {
         "realidx": "Text-144",
@@ -762,10 +1101,21 @@
         "answer": "Hypomagnesemia",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3255,
-            "completion_tokens": 621
+            "prompt_tokens": 3849,
+            "completion_tokens": 733
         },
-        "time_elapsed": 14.151959419250488
+        "time_elapsed": 9.762287855148315,
+        "raw_responses": [
+            "(A) Hyperparathyroidism",
+            "The patient presents with pain and swelling in the right ankle joint, with radiographic imaging showing chondrocalcinosis and joint effusion. Chondrocalcinosis is the deposition of calcium pyrophosphate dihydrate (CPPD) crystals in the cartilage, commonly associated with conditions like pseudogout. Pseudogout can be associated with several metabolic and systemic conditions.\n\nStep-by-step reasoning:\n1. Hyperparathyroidism (A) - Hyperparathyroidism can lead to increased calcium levels and is associated with chondrocalcinosis.\n2. Hemochromatosis (B) - Hemochromatosis, a condition of iron overload, is also associated with chondrocalcinosis.\n3. Wilson disease (C) - Wilson disease involves copper metabolism and is not typically associated with chondrocalcinosis.\n4. Hyperuricemia (D) - Hyperuricemia is associated with gout, not pseudogout.\n5. Hyperphosphatemia (E) - Hyperphosphatemia is not typically associated with chondrocalcinosis.\n6. Hypocalcemia (F) - Hypocalcemia is not typically associated with chondrocalcinosis.\n7. Pseudohypoparathyroidism (G) - Pseudohypoparathyroidism can be associated with chondrocalcinosis.\n8. Vitamin D deficiency (H) - Vitamin D deficiency is not typically associated with chondrocalcinosis.\n9. Hypomagnesemia (I) - Hypomagnesemia is not typically associated with chondrocalcinosis.\n10. Hypoparathyroidism (J) - Hypoparathyroidism is not typically associated with chondrocalcinosis.\n\nFinal answer: (A) Hyperparathyroidism",
+            "The patient presents with pain and swelling in the right ankle joint, with radiographic imaging showing chondrocalcinosis and joint effusion. Chondrocalcinosis is the deposition of calcium pyrophosphate dihydrate (CPPD) crystals in the cartilage, commonly associated with conditions like pseudogout. Pseudogout can be associated with several metabolic and systemic conditions.\n\nStep-by-step reasoning:\n1. Hyperparathyroidism (A) - Hyperparathyroidism can lead to increased calcium levels and is associated with chondrocalcinosis.\n2. Hemochromatosis (B) - Hemochromatosis, a condition of iron overload, is also associated with chondrocalcinosis.\n3. Wilson disease (C) - Wilson disease involves copper metabolism and is not typically associated with chondrocalcinosis.\n4. Hyperuricemia (D) - Hyperuricemia is associated with gout, not pseudogout.\n5. Hyperphosphatemia (E) - Hyperphosphatemia is not typically associated with chondrocalcinosis.\n6. Hypocalcemia (F) - Hypocalcemia is not typically associated with chondrocalcinosis.\n7. Pseudohypoparathyroidism (G) - Pseudohypoparathyroidism can be associated with chondrocalcinosis.\n8. Vitamin D deficiency (H) - Vitamin D deficiency is not typically associated with chondrocalcinosis.\n9. Hypomagnesemia (I) - Hypomagnesemia is not typically associated with chondrocalcinosis.\n10. Hypoparathyroidism (J) - Hypoparathyroidism is not typically associated with chondrocalcinosis.\n\nFinal answer: (A) Hyperparathyroidism"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "The patient presents with pain and swelling in the right ankle joint, with radiographic imaging showing chondrocalcinosis and joint effusion. Chondrocalcinosis is the deposition of calcium pyrophosphate dihydrate (CPPD) crystals in the cartilage, commonly associated with conditions like pseudogout. Pseudogout can be associated with several metabolic and systemic conditions.\n\nStep-by-step reasoning:\n1. Hyperparathyroidism (A) - Hyperparathyroidism can lead to increased calcium levels and is associated with chondrocalcinosis.\n2. Hemochromatosis (B) - Hemochromatosis, a condition of iron overload, is also associated with chondrocalcinosis.\n3. Wilson disease (C) - Wilson disease involves copper metabolism and is not typically associated with chondrocalcinosis.\n4. Hyperuricemia (D) - Hyperuricemia is associated with gout, not pseudogout.\n5. Hyperphosphatemia (E) - Hyperphosphatemia is not typically associated with chondrocalcinosis.\n6. Hypocalcemia (F) - Hypocalcemia is not typically associated with chondrocalcinosis.\n7. Pseudohypoparathyroidism (G) - Pseudohypoparathyroidism can be associated with chondrocalcinosis.\n8. Vitamin D deficiency (H) - Vitamin D deficiency is not typically associated with chondrocalcinosis.\n9. Hypomagnesemia (I) - Hypomagnesemia is not typically associated with chondrocalcinosis.\n10. Hypoparathyroidism (J) - Hypoparathyroidism is not typically associated with chondrocalcinosis.\n\nFinal answer: (A) Hyperparathyroidism"
     },
     {
         "realidx": "Text-146",
@@ -786,10 +1136,21 @@
         "answer": "Needle thoracostomy at the 5th intercostal space, midaxillary line",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3291,
-            "completion_tokens": 233
+            "prompt_tokens": 3726,
+            "completion_tokens": 322
         },
-        "time_elapsed": 7.770606994628906
+        "time_elapsed": 7.1694934368133545,
+        "raw_responses": [
+            "The patient presents with signs and symptoms of a tension pneumothorax, which is a life-threatening condition requiring immediate intervention. The most appropriate immediate intervention for a tension pneumothorax is needle thoracostomy to rapidly decompress the pleural space and relieve the pressure.\n\nThe correct location for needle thoracostomy is the 2nd intercostal space, midclavicular line.\n\nFinal answer: (D) Needle thoracostomy at the 2nd intercostal space, anterior axillary line",
+            "(D) Needle thoracostomy at the 2nd intercostal space, anterior axillary line",
+            "(D) Needle thoracostomy at the 2nd intercostal space, anterior axillary line"
+        ],
+        "ensemble_raw_responses": [
+            "The correct location for needle thoracostomy in the case of a tension pneumothorax is the 2nd intercostal space, midclavicular line, not the anterior axillary line. Therefore, the final answer provided in solution 2 is incorrect despite the correct reasoning.\n\nThe best final answer is option number 1, as it correctly identifies the appropriate intervention and location.\n\nFinal answer: 1",
+            "1",
+            "The correct location for needle thoracostomy in the case of a tension pneumothorax is the 2nd intercostal space, midclavicular line, not the anterior axillary line. Therefore, the final answer provided in solution 2 is incorrect despite the correct reasoning.\n\nThe best final answer is option number 1, as it correctly identifies the appropriate intervention and location.\n\nFinal answer: 1"
+        ],
+        "final_solution": "(D) Needle thoracostomy at the 2nd intercostal space, anterior axillary line"
     },
     {
         "realidx": "Text-147",
@@ -811,9 +1172,20 @@
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2178,
-            "completion_tokens": 27
+            "completion_tokens": 42
         },
-        "time_elapsed": 4.1148388385772705
+        "time_elapsed": 4.418835639953613,
+        "raw_responses": [
+            "(F) Idiopathic central precocious puberty",
+            "(F) Idiopathic central precocious puberty",
+            "(F) Idiopathic central precocious puberty"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(F) Idiopathic central precocious puberty"
     },
     {
         "realidx": "Text-148",
@@ -834,10 +1206,21 @@
         "answer": "Obliterated x descent",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 2052,
-            "completion_tokens": 141
+            "prompt_tokens": 2271,
+            "completion_tokens": 389
         },
-        "time_elapsed": 5.4516966342926025
+        "time_elapsed": 8.141271114349365,
+        "raw_responses": [
+            "The patient's history of intravenous drug use and previous infective endocarditis with tricuspid valve involvement suggests the possibility of tricuspid regurgitation. The physical examination finding of neck vein distention supports this diagnosis. In tricuspid regurgitation, the jugular venous pulse tracing typically shows prominent v waves due to the backflow of blood into the right atrium during systole.\n\nFinal answer: (G) Prominent v waves",
+            "The patient's history of intravenous drug use and previous infective endocarditis with tricuspid valve involvement suggests the possibility of tricuspid regurgitation. Tricuspid regurgitation can lead to increased right atrial pressure and volume overload, which is reflected in the jugular venous pulse tracing.\n\nIn tricuspid regurgitation, the regurgitant flow during systole causes a prominent v wave in the jugular venous pulse tracing due to the increased pressure in the right atrium during ventricular systole.\n\nFinal answer: (G) Prominent v waves",
+            "(G) Prominent v waves"
+        ],
+        "ensemble_raw_responses": [
+            "Option 2 is the best final answer. \n\nIt provides a clear and concise explanation that links the patient's history and physical examination findings to the diagnosis of tricuspid regurgitation. It also explains how tricuspid regurgitation leads to prominent v waves in the jugular venous pulse tracing due to the backflow of blood into the right atrium during systole.\n\nFinal answer: 2",
+            "1",
+            "Option 0 provides a comprehensive explanation of the patient's condition, linking the history, physical examination findings, and the expected jugular venous pulse tracing. It clearly explains why prominent v waves are expected in tricuspid regurgitation.\n\nOption 1 simply states the answer without any explanation.\n\nOption 2 also provides a good explanation, similar to option 0, but is slightly less detailed.\n\nTherefore, the best final answer is option 0."
+        ],
+        "final_solution": "The patient's history of intravenous drug use and previous infective endocarditis with tricuspid valve involvement suggests the possibility of tricuspid regurgitation. The physical examination finding of neck vein distention supports this diagnosis. In tricuspid regurgitation, the jugular venous pulse tracing typically shows prominent v waves due to the backflow of blood into the right atrium during systole.\n\nFinal answer: (G) Prominent v waves"
     },
     {
         "realidx": "Text-15",
@@ -859,9 +1242,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1566,
-            "completion_tokens": 107
+            "completion_tokens": 88
         },
-        "time_elapsed": 4.24866795539856
+        "time_elapsed": 4.681210994720459,
+        "raw_responses": [
+            "(G) Rotation at the atlantoaxial joint",
+            "(G) Rotation at the atlantoaxial joint",
+            "(G) Rotation at the atlantoaxial joint"
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are the same, indicating that the halo vest is most effective in restricting rotation at the atlantoaxial joint. Therefore, any of the solutions can be chosen as the final answer.\n\nI choose option number: 0.",
+            "0",
+            "0"
+        ],
+        "final_solution": "(G) Rotation at the atlantoaxial joint"
     },
     {
         "realidx": "Text-16",
@@ -882,10 +1276,21 @@
         "answer": "Pneumococcal vaccine",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1215,
-            "completion_tokens": 19
+            "prompt_tokens": 1803,
+            "completion_tokens": 34
         },
-        "time_elapsed": 12.361152410507202
+        "time_elapsed": 3.729881763458252,
+        "raw_responses": [
+            "(D) Hepatitis A vaccine",
+            "(D) Hepatitis A vaccine",
+            "(D) Hepatitis A vaccine"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is 0.",
+            "0"
+        ],
+        "final_solution": "(D) Hepatitis A vaccine"
     },
     {
         "realidx": "Text-18",
@@ -906,10 +1311,21 @@
         "answer": "Coagulase-negative *Staphylococcus spp.*",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 1481,
-            "completion_tokens": 28
+            "prompt_tokens": 2163,
+            "completion_tokens": 36
         },
-        "time_elapsed": 15.387442827224731
+        "time_elapsed": 4.280131578445435,
+        "raw_responses": [
+            "(F) *Staphylococcus aureus*",
+            "(F) *Staphylococcus aureus*",
+            "(F) *Staphylococcus aureus*"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(F) *Staphylococcus aureus*"
     },
     {
         "realidx": "Text-2",
@@ -930,10 +1346,21 @@
         "answer": "This is hard to distinguish from pneumonia and sepsis so empirical antibiotics are given for 48 hours after birth until sepsis is ruled out",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 1846,
-            "completion_tokens": 36
+            "prompt_tokens": 2841,
+            "completion_tokens": 78
         },
-        "time_elapsed": 16.57958221435547
+        "time_elapsed": 4.941134691238403,
+        "raw_responses": [
+            "(E) This is most likely transient tachypnea of the newborn and requires no antibiotics",
+            "(E) This is most likely transient tachypnea of the newborn and requires no antibiotics",
+            "(E) This is most likely transient tachypnea of the newborn and requires no antibiotics"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The best final answer is option 0.",
+            "The best final answer is option number: 0."
+        ],
+        "final_solution": "(E) This is most likely transient tachypnea of the newborn and requires no antibiotics"
     },
     {
         "realidx": "Text-20",
@@ -954,10 +1381,21 @@
         "answer": "Bacterial destruction",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 866,
-            "completion_tokens": 15
+            "prompt_tokens": 2718,
+            "completion_tokens": 51
         },
-        "time_elapsed": 17.258166551589966
+        "time_elapsed": 3.8631420135498047,
+        "raw_responses": [
+            "(D) Disseminated intravascular coagulation (DIC)",
+            "(D) Disseminated intravascular coagulation (DIC)",
+            "(D) Disseminated intravascular coagulation (DIC)"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(D) Disseminated intravascular coagulation (DIC)"
     },
     {
         "realidx": "Text-22",
@@ -979,9 +1417,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2499,
-            "completion_tokens": 30
+            "completion_tokens": 61
         },
-        "time_elapsed": 4.523377180099487
+        "time_elapsed": 3.941086769104004,
+        "raw_responses": [
+            "(A) Total anomalous pulmonary venous return",
+            "(A) Total anomalous pulmonary venous return",
+            "(A) Total anomalous pulmonary venous return"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(A) Total anomalous pulmonary venous return"
     },
     {
         "realidx": "Text-24",
@@ -1000,12 +1449,23 @@
         },
         "answer_idx": "G",
         "answer": "Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for 5 years",
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3014,
-            "completion_tokens": 143
+            "prompt_tokens": 3534,
+            "completion_tokens": 356
         },
-        "time_elapsed": 11.590771436691284
+        "time_elapsed": 7.225561618804932,
+        "raw_responses": [
+            "(A) Vaccinate: 2 weeks prior to surgery; Penicillin: 1 week post-surgery for 5 years",
+            "(B) Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course",
+            "(B) Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1. \n\nVaccination against encapsulated organisms (such as Streptococcus pneumoniae, Haemophilus influenzae type b, and Neisseria meningitidis) should ideally be administered at least 2 weeks prior to splenectomy to allow adequate immune response. Penicillin prophylaxis is typically recommended at the time of surgery and continued indefinitely to prevent overwhelming post-splenectomy infection (OPSI). \n\nTherefore, the correct answer is:\n(B) Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course\n\nOption 1 correctly reflects this approach.",
+            "The best final answer is option 1. \n\nThe appropriate timing for vaccination against encapsulated organisms is 2 weeks prior to surgery, and penicillin prophylaxis should be initiated at the time of surgery for an indefinite course. This is to ensure that the patient is protected against infections post-splenectomy, as the spleen plays a crucial role in fighting encapsulated bacteria.",
+            "The best final answer is option 1. \n\nThe appropriate timing for vaccination against encapsulated organisms is 2 weeks prior to surgery, and penicillin prophylaxis should be initiated at the time of surgery for an indefinite course. This is to ensure that the patient is protected against infections post-splenectomy, as the spleen plays a crucial role in fighting encapsulated bacteria."
+        ],
+        "final_solution": "(B) Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course"
     },
     {
         "realidx": "Text-26",
@@ -1026,10 +1486,21 @@
         "answer": "Age of menopause",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 1354,
-            "completion_tokens": 10
+            "prompt_tokens": 2178,
+            "completion_tokens": 46
         },
-        "time_elapsed": 8.983042240142822
+        "time_elapsed": 4.146630764007568,
+        "raw_responses": [
+            "(E) The patient\u2019s family history",
+            "(E) The patient\u2019s family history",
+            "(E) The patient\u2019s family history"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "1",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(E) The patient\u2019s family history"
     },
     {
         "realidx": "Text-27",
@@ -1051,9 +1522,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1098,
-            "completion_tokens": 137
+            "completion_tokens": 86
         },
-        "time_elapsed": 8.522103309631348
+        "time_elapsed": 4.361703872680664,
+        "raw_responses": [
+            "(A) Lytic Paget disease",
+            "(A) Lytic Paget disease",
+            "(A) Lytic Paget disease"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (A) Lytic Paget disease. Since they all agree on the same answer, any of them can be chosen as the best final answer. I will choose option 0.\n\n0"
+        ],
+        "final_solution": "(A) Lytic Paget disease"
     },
     {
         "realidx": "Text-28",
@@ -1074,10 +1556,21 @@
         "answer": "Decreased serum haptoglobin concentration",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2390,
-            "completion_tokens": 23
+            "prompt_tokens": 2946,
+            "completion_tokens": 65
         },
-        "time_elapsed": 7.375380516052246
+        "time_elapsed": 4.248831510543823,
+        "raw_responses": [
+            "(A) Elevated anti-RNA polymerase III antibodies",
+            "(A) Elevated anti-RNA polymerase III antibodies",
+            "(A) Elevated anti-RNA polymerase III antibodies"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option number 0.",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(A) Elevated anti-RNA polymerase III antibodies"
     },
     {
         "realidx": "Text-29",
@@ -1099,9 +1592,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1293,
-            "completion_tokens": 45
+            "completion_tokens": 51
         },
-        "time_elapsed": 8.906465291976929
+        "time_elapsed": 4.549915790557861,
+        "raw_responses": [
+            "(H) Randomized control trial",
+            "(H) Randomized control trial",
+            "(H) Randomized control trial"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2.",
+            "The best final answer is option 2.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(H) Randomized control trial"
     },
     {
         "realidx": "Text-3",
@@ -1125,7 +1629,18 @@
             "prompt_tokens": 3081,
             "completion_tokens": 66
         },
-        "time_elapsed": 9.414620161056519
+        "time_elapsed": 5.0737690925598145,
+        "raw_responses": [
+            "(I) Begin cabergoline 0.25 mg twice weekly",
+            "(I) Begin cabergoline 0.25 mg twice weekly",
+            "(I) Begin cabergoline 0.25 mg twice weekly"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "(I) Begin cabergoline 0.25 mg twice weekly"
     },
     {
         "realidx": "Text-30",
@@ -1146,10 +1661,21 @@
         "answer": "Referral to craniofacial specialists",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1323,
-            "completion_tokens": 15
+            "prompt_tokens": 2229,
+            "completion_tokens": 45
         },
-        "time_elapsed": 11.26460075378418
+        "time_elapsed": 3.974116563796997,
+        "raw_responses": [
+            "(D) Cranial ultrasound to assess for hydrocephalus",
+            "(D) Cranial ultrasound to assess for hydrocephalus",
+            "(D) Cranial ultrasound to assess for hydrocephalus"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "1"
+        ],
+        "final_solution": "(D) Cranial ultrasound to assess for hydrocephalus"
     },
     {
         "realidx": "Text-31",
@@ -1168,12 +1694,23 @@
         },
         "answer_idx": "D",
         "answer": "Superior vertical strain",
-        "predicted_answer": "G",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1458,
-            "completion_tokens": 33
+            "prompt_tokens": 1791,
+            "completion_tokens": 52
         },
-        "time_elapsed": 9.104465007781982
+        "time_elapsed": 4.230385065078735,
+        "raw_responses": [
+            "(D) Superior vertical strain",
+            "The most likely diagnosis for this patient is:\n(G) Inferior vertical strain",
+            "The most likely diagnosis for this patient is:\n(G) Inferior vertical strain"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "The best final answer is option 1."
+        ],
+        "final_solution": "(D) Superior vertical strain"
     },
     {
         "realidx": "Text-32",
@@ -1195,9 +1732,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2751,
-            "completion_tokens": 26
+            "completion_tokens": 31
         },
-        "time_elapsed": 9.775118112564087
+        "time_elapsed": 3.9250452518463135,
+        "raw_responses": [
+            "(H) Oral iron supplementation",
+            "(H) Oral iron supplementation",
+            "(H) Oral iron supplementation"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is 0.",
+            "0"
+        ],
+        "final_solution": "(H) Oral iron supplementation"
     },
     {
         "realidx": "Text-33",
@@ -1219,9 +1767,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1824,
-            "completion_tokens": 45
+            "completion_tokens": 55
         },
-        "time_elapsed": 8.706726551055908
+        "time_elapsed": 5.016485929489136,
+        "raw_responses": [
+            "(B) L5-S1",
+            "(B) L5-S1",
+            "(B) L5-S1"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option number: 0."
+        ],
+        "final_solution": "(B) L5-S1"
     },
     {
         "realidx": "Text-34",
@@ -1242,10 +1801,21 @@
         "answer": "Synovitis of the metacarpophalangeal joints and subcutaneous nodules",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 3105,
-            "completion_tokens": 160
+            "prompt_tokens": 2850,
+            "completion_tokens": 46
         },
-        "time_elapsed": 5.331721544265747
+        "time_elapsed": 4.636894702911377,
+        "raw_responses": [
+            "(F) Clubbing of the digits",
+            "(F) Clubbing of the digits",
+            "(F) Clubbing of the digits"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(F) Clubbing of the digits"
     },
     {
         "realidx": "Text-35",
@@ -1266,10 +1836,21 @@
         "answer": "Diphtheria and tetanus toxoids, acellular pertussis (DTaP) vaccine at 2 months of chronological age",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 2667,
-            "completion_tokens": 51
+            "prompt_tokens": 2700,
+            "completion_tokens": 52
         },
-        "time_elapsed": 5.819434881210327
+        "time_elapsed": 4.023462295532227,
+        "raw_responses": [
+            "The most appropriate immunization recommendation for this newborn is:\n(F) Hepatitis B vaccine now",
+            "(F) Hepatitis B vaccine now",
+            "The most appropriate immunization recommendation for this newborn is:\n(F) Hepatitis B vaccine now"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(F) Hepatitis B vaccine now"
     },
     {
         "realidx": "Text-36",
@@ -1291,9 +1872,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2403,
-            "completion_tokens": 158
+            "completion_tokens": 94
         },
-        "time_elapsed": 8.912410020828247
+        "time_elapsed": 5.234376668930054,
+        "raw_responses": [
+            "(B) Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth",
+            "(B) Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth",
+            "(B) Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option number: 0"
+        ],
+        "final_solution": "(B) Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth"
     },
     {
         "realidx": "Text-37",
@@ -1312,12 +1904,23 @@
         },
         "answer_idx": "G",
         "answer": "Repeat thoracentesis with cytopathologic study",
-        "predicted_answer": "I",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 5001,
-            "completion_tokens": 157
+            "prompt_tokens": 4674,
+            "completion_tokens": 61
         },
-        "time_elapsed": 6.797183990478516
+        "time_elapsed": 4.313537120819092,
+        "raw_responses": [
+            "(I) Video-assisted thoracoscopic surgery (VATS)",
+            "(I) Video-assisted thoracoscopic surgery (VATS)",
+            "(I) Video-assisted thoracoscopic surgery (VATS)"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "(I) Video-assisted thoracoscopic surgery (VATS)"
     },
     {
         "realidx": "Text-39",
@@ -1338,10 +1941,21 @@
         "answer": "480 mL",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 4635,
-            "completion_tokens": 944
+            "prompt_tokens": 3939,
+            "completion_tokens": 999
         },
-        "time_elapsed": 13.261811017990112
+        "time_elapsed": 14.11751413345337,
+        "raw_responses": [
+            "The total volume of gas in the patient\u2019s airways and lungs that does not participate in gas exchange is the sum of the anatomical dead space and the alveolar dead space.\n\nAnatomical dead space includes:\n- Upper airway volume: 100 mL\n- Conducting airway volume: 125 mL\n\nAlveolar dead space can be calculated using the Bohr equation:\n\\[ V_d = V_t \\times \\frac{(PaCO2 - PeCO2)}{PaCO2} \\]\n\nHowever, the tidal volume (V_t) is not provided directly. Instead, we can use the given data to estimate the dead space.\n\nGiven:\n- PaCO2 = 50 mmHg\n- PeCO2 = 20 mmHg\n\n\\[ V_d = V_t \\times \\frac{(50 - 20)}{50} \\]\n\\[ V_d = V_t \\times \\frac{30}{50} \\]\n\\[ V_d = V_t \\times 0.6 \\]\n\nSince the tidal volume (V_t) is not provided, we cannot calculate the exact alveolar dead space. However, we can assume that the anatomical dead space is the primary contributor to the non-participating gas volume.\n\nThus, the total volume of gas that does not participate in gas exchange is primarily the anatomical dead space:\n\\[ 100 \\text{ mL} + 125 \\text{ mL} = 225 \\text{ mL} \\]\n\nTherefore, the total volume of gas in this patient\u2019s airways and lungs that does not participate in gas exchange is:\n(G) 225 mL",
+            "To determine the total volume of gas in the patient's airways and lungs that does not participate in gas exchange, we need to sum the volumes of the upper airway, conducting airway, and the residual volume (RV).\n\nUpper airway volume: 100 mL\nConducting airway volume: 125 mL\nResidual volume (RV): 1,000 mL\n\nTotal volume = Upper airway volume + Conducting airway volume + Residual volume\nTotal volume = 100 mL + 125 mL + 1,000 mL\nTotal volume = 1,225 mL\n\nThe correct answer is not listed among the provided options.",
+            "The total volume of gas in the patient\u2019s airways and lungs that does not participate in gas exchange is the sum of the upper airway volume, conducting airway volume, and the residual volume (RV).\n\nUpper airway volume: 100 mL\nConducting airway volume: 125 mL\nResidual volume (RV): 1,000 mL\n\nTotal volume = 100 mL + 125 mL + 1,000 mL = 1,225 mL\n\nThe correct answer is not listed among the provided options."
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1. \n\nOption 1 correctly identifies the anatomical dead space as the sum of the upper airway volume and the conducting airway volume, which are the primary contributors to the non-participating gas volume. The calculation is as follows:\n\nUpper airway volume: 100 mL\nConducting airway volume: 125 mL\n\nTotal volume = 100 mL + 125 mL = 225 mL\n\nTherefore, the total volume of gas in this patient\u2019s airways and lungs that does not participate in gas exchange is 225 mL, which matches the provided answer choice (G) 225 mL.",
+            "The best final answer is option 0.\n\nOption 0 correctly identifies the anatomical dead space as the primary contributor to the non-participating gas volume, which includes the upper airway volume (100 mL) and the conducting airway volume (125 mL). The total volume of gas that does not participate in gas exchange is therefore 225 mL, which matches one of the provided answer choices (G) 225 mL.\n\nOptions 1 and 2 incorrectly include the residual volume (RV) in their calculations, which is not appropriate for determining the volume of gas that does not participate in gas exchange. The residual volume is the amount of air remaining in the lungs after a maximal exhalation and is not considered part of the dead space.\n\nTherefore, the correct choice is option 0.",
+            "The best final answer is option 0.\n\nOption 0 correctly identifies the anatomical dead space as the primary contributor to the non-participating gas volume, which includes the upper airway volume (100 mL) and the conducting airway volume (125 mL). The total volume of gas that does not participate in gas exchange is therefore 225 mL, which matches one of the provided answer choices (G) 225 mL.\n\nOptions 1 and 2 incorrectly include the residual volume (RV) in their calculations, leading to a total volume of 1,225 mL, which is not listed among the provided answer choices."
+        ],
+        "final_solution": "The total volume of gas in the patient\u2019s airways and lungs that does not participate in gas exchange is the sum of the anatomical dead space and the alveolar dead space.\n\nAnatomical dead space includes:\n- Upper airway volume: 100 mL\n- Conducting airway volume: 125 mL\n\nAlveolar dead space can be calculated using the Bohr equation:\n\\[ V_d = V_t \\times \\frac{(PaCO2 - PeCO2)}{PaCO2} \\]\n\nHowever, the tidal volume (V_t) is not provided directly. Instead, we can use the given data to estimate the dead space.\n\nGiven:\n- PaCO2 = 50 mmHg\n- PeCO2 = 20 mmHg\n\n\\[ V_d = V_t \\times \\frac{(50 - 20)}{50} \\]\n\\[ V_d = V_t \\times \\frac{30}{50} \\]\n\\[ V_d = V_t \\times 0.6 \\]\n\nSince the tidal volume (V_t) is not provided, we cannot calculate the exact alveolar dead space. However, we can assume that the anatomical dead space is the primary contributor to the non-participating gas volume.\n\nThus, the total volume of gas that does not participate in gas exchange is primarily the anatomical dead space:\n\\[ 100 \\text{ mL} + 125 \\text{ mL} = 225 \\text{ mL} \\]\n\nTherefore, the total volume of gas in this patient\u2019s airways and lungs that does not participate in gas exchange is:\n(G) 225 mL"
     },
     {
         "realidx": "Text-4",
@@ -1362,10 +1976,21 @@
         "answer": "A 9-month-old boy with a 4-mm muscular defect with\u00a0pulmonary hypertension",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3337,
-            "completion_tokens": 1132
+            "prompt_tokens": 4740,
+            "completion_tokens": 586
         },
-        "time_elapsed": 29.58644437789917
+        "time_elapsed": 8.818575382232666,
+        "raw_responses": [
+            "(B) An 18-month-old boy with a 6-mm defect and moderate pulmonary hypertension responsive to vasodilators",
+            "(B) An 18-month-old boy with a 6-mm defect and moderate pulmonary hypertension responsive to vasodilators",
+            "To determine which patient required surgical repair of the defect, we need to consider the indications for surgical intervention in congenital heart defects, particularly ventricular septal defects (VSDs). Surgical repair is typically recommended for:\n\n1. Large defects causing significant left-to-right shunting and leading to left ventricular volume overload.\n2. Defects causing significant pulmonary hypertension that is not responsive to medical management.\n3. Defects causing symptoms of heart failure or failure to thrive despite medical management.\n4. Defects with evidence of progressive aortic regurgitation or other complications.\n\nLet's evaluate each patient based on these criteria:\n\n(A) A 5-year-old boy with a 3-mm muscular defect and mild left-to-right shunt - Small defect, mild shunt, no indication for surgery.\n(B) An 18-month-old boy with a 6-mm defect and moderate pulmonary hypertension responsive to vasodilators - Moderate defect, responsive to medical management, no immediate indication for surgery.\n(C) A 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease that is unresponsive to pulmonary vasodilators - Large defect, severe unresponsive pulmonary hypertension, indication for surgery.\n(D) A 6-year-old boy with a 7-mm defect and bidirectional shunting - Bidirectional shunting indicates significant hemodynamic impact, potential indication for surgery.\n(E) A 3-year-old girl with a 2-mm perimembranous defect and normal pulmonary pressures - Small defect, normal pressures, no indication for surgery.\n(F) A 15-month-old girl with a 4.5-mm defect showing decreasing size on follow-up imaging - Decreasing size, likely to close spontaneously, no immediate indication for surgery.\n(G) A 5-year-old girl with a 2-mm membranous defect and a left-to-right shunt without associated left ventricular dilation - Small defect, no left ventricular dilation, no indication for surgery.\n(H) An 8-month-old girl with a 3-mm defect and normal pulmonary artery pressures - Small defect, normal pressures, no indication for surgery.\n(I) A 4-year-old girl with multiple small muscular defects (<3mm each) and normal right ventricular pressure - Small defects, normal pressures, no indication for surgery.\n(J) A 9-month-old boy with a 4-mm muscular defect with pulmonary hypertension - Moderate defect with pulmonary hypertension, potential indication for surgery.\n\nBased on the criteria, the patient who required surgical repair of the defect is:\n\n(C) A 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease that is unresponsive to pulmonary vasodilators."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "To determine which patient required surgical repair of the defect, we need to consider the indications for surgical intervention in congenital heart defects, particularly ventricular septal defects (VSDs). Surgical repair is typically recommended for:\n\n1. Large defects causing significant left-to-right shunting and leading to left ventricular volume overload.\n2. Defects causing significant pulmonary hypertension that is not responsive to medical management.\n3. Defects causing symptoms of heart failure or failure to thrive despite medical management.\n4. Defects with evidence of progressive aortic regurgitation or other complications.\n\nLet's evaluate each patient based on these criteria:\n\n(A) A 5-year-old boy with a 3-mm muscular defect and mild left-to-right shunt - Small defect, mild shunt, no indication for surgery.\n(B) An 18-month-old boy with a 6-mm defect and moderate pulmonary hypertension responsive to vasodilators - Moderate defect, responsive to medical management, no immediate indication for surgery.\n(C) A 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease that is unresponsive to pulmonary vasodilators - Large defect, severe unresponsive pulmonary hypertension, indication for surgery.\n(D) A 6-year-old boy with a 7-mm defect and bidirectional shunting - Bidirectional shunting indicates significant hemodynamic impact, potential indication for surgery.\n(E) A 3-year-old girl with a 2-mm perimembranous defect and normal pulmonary pressures - Small defect, normal pressures, no indication for surgery.\n(F) A 15-month-old girl with a 4.5-mm defect showing decreasing size on follow-up imaging - Decreasing size, likely to close spontaneously, no immediate indication for surgery.\n(G) A 5-year-old girl with a 2-mm membranous defect and a left-to-right shunt without associated left ventricular dilation - Small defect, no left ventricular dilation, no indication for surgery.\n(H) An 8-month-old girl with a 3-mm defect and normal pulmonary artery pressures - Small defect, normal pressures, no indication for surgery.\n(I) A 4-year-old girl with multiple small muscular defects (<3mm each) and normal right ventricular pressure - Small defects, normal pressures, no indication for surgery.\n(J) A 9-month-old boy with a 4-mm muscular defect with pulmonary hypertension - Moderate defect with pulmonary hypertension, potential indication for surgery.\n\nBased on the criteria, the patient who required surgical repair of the defect is:\n\n(C) A 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease that is unresponsive to pulmonary vasodilators."
     },
     {
         "realidx": "Text-40",
@@ -1387,9 +2012,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3087,
-            "completion_tokens": 117
+            "completion_tokens": 113
         },
-        "time_elapsed": 6.58272123336792
+        "time_elapsed": 4.590917587280273,
+        "raw_responses": [
+            "(B) Prospective cohort study of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis",
+            "(B) Prospective cohort study of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis",
+            "(B) Prospective cohort study of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "0",
+            "The best final answer is option number: 0."
+        ],
+        "final_solution": "(B) Prospective cohort study of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis"
     },
     {
         "realidx": "Text-41",
@@ -1411,9 +2047,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2169,
-            "completion_tokens": 50
+            "completion_tokens": 56
         },
-        "time_elapsed": 4.2269062995910645
+        "time_elapsed": 5.618513107299805,
+        "raw_responses": [
+            "(J) Convert it to a full-thickness tear and repair it with suture anchors",
+            "(J) Convert it to a full-thickness tear and repair it with suture anchors",
+            "(I) Arthroscopic repair of the bursal-sided tear without conversion"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(I) Arthroscopic repair of the bursal-sided tear without conversion"
     },
     {
         "realidx": "Text-44",
@@ -1435,9 +2082,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2649,
-            "completion_tokens": 64
+            "completion_tokens": 70
         },
-        "time_elapsed": 3.8504467010498047
+        "time_elapsed": 4.412684440612793,
+        "raw_responses": [
+            "(B) A subcostal echocardiographic image demonstrating a mean gradient of 3 mmHg through the Fontan conduit",
+            "(E) A CT angiogram showing patent Fontan pathway",
+            "(B) A subcostal echocardiographic image demonstrating a mean gradient of 3 mmHg through the Fontan conduit"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(E) A CT angiogram showing patent Fontan pathway"
     },
     {
         "realidx": "Text-46",
@@ -1459,9 +2117,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2757,
-            "completion_tokens": 43
+            "completion_tokens": 39
         },
-        "time_elapsed": 4.653729200363159
+        "time_elapsed": 4.35429048538208,
+        "raw_responses": [
+            "(G) Place an anterior and a posterior nasal pack",
+            "(G) Place an anterior and a posterior nasal pack",
+            "(G) Place an anterior and a posterior nasal pack"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "1"
+        ],
+        "final_solution": "(G) Place an anterior and a posterior nasal pack"
     },
     {
         "realidx": "Text-47",
@@ -1483,9 +2152,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3273,
-            "completion_tokens": 316
+            "completion_tokens": 187
         },
-        "time_elapsed": 6.756577968597412
+        "time_elapsed": 6.788316011428833,
+        "raw_responses": [
+            "(B) Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture",
+            "(B) Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture",
+            "(B) Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The correct sequence of steps for initial evaluation and treatment of this patient with suspected bacterial meningitis is to first obtain blood cultures, then administer antibiotics and dexamethasone, and finally perform a lumbar puncture. This approach ensures that antibiotics are given promptly to treat the infection while also obtaining necessary diagnostic information.\n\nAll three candidate solutions (0, 1, and 2) correctly identify this sequence. Therefore, any of these solutions can be chosen as the best final answer.\n\nI choose option number: 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture"
     },
     {
         "realidx": "Text-49",
@@ -1507,9 +2187,20 @@
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2124,
-            "completion_tokens": 51
+            "completion_tokens": 49
         },
-        "time_elapsed": 4.184359550476074
+        "time_elapsed": 4.177712678909302,
+        "raw_responses": [
+            "(F) Lipoprotein lipase deficiency",
+            "(F) Lipoprotein lipase deficiency",
+            "(F) Lipoprotein lipase deficiency"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(F) Lipoprotein lipase deficiency"
     },
     {
         "realidx": "Text-5",
@@ -1530,10 +2221,21 @@
         "answer": "Three weeks elapse after the onset of symptoms",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 1864,
-            "completion_tokens": 61
+            "prompt_tokens": 2325,
+            "completion_tokens": 81
         },
-        "time_elapsed": 9.799578189849854
+        "time_elapsed": 5.664247035980225,
+        "raw_responses": [
+            "(G) An abdominal ultrasound confirms the absence of splenomegaly",
+            "(G) An abdominal ultrasound confirms the absence of splenomegaly",
+            "(G) An abdominal ultrasound confirms the absence of splenomegaly"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The best final answer is option number: 0.",
+            "The best final answer is option number: 0."
+        ],
+        "final_solution": "(G) An abdominal ultrasound confirms the absence of splenomegaly"
     },
     {
         "realidx": "Text-50",
@@ -1555,9 +2257,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1848,
-            "completion_tokens": 45
+            "completion_tokens": 51
         },
-        "time_elapsed": 4.093221187591553
+        "time_elapsed": 4.388918399810791,
+        "raw_responses": [
+            "(D) Dermal lymphatics",
+            "(D) Dermal lymphatics",
+            "(D) Dermal lymphatics"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(D) Dermal lymphatics"
     },
     {
         "realidx": "Text-51",
@@ -1578,10 +2291,21 @@
         "answer": "Mood dysregulation, inattentiveness, and hyperactivity",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 2703,
-            "completion_tokens": 160
+            "prompt_tokens": 3258,
+            "completion_tokens": 351
         },
-        "time_elapsed": 5.021333456039429
+        "time_elapsed": 6.621387958526611,
+        "raw_responses": [
+            "Phenylketonuria (PKU) is a metabolic disorder where the body cannot break down the amino acid phenylalanine, leading to its accumulation. The treatment involves a strict diet low in phenylalanine, typically including a phenylalanine-free formula to ensure adequate nutrition. An unrestricted vegetarian diet, even though it excludes animal protein, can still contain significant amounts of phenylalanine from plant-based sources like legumes, nuts, and soy products. Without proper dietary management, phenylalanine levels can rise, leading to neurotoxic effects.\n\nGiven the patient's history and the potential for elevated phenylalanine levels due to an unrestricted diet, the expected effects would include cognitive and neurological symptoms. The most appropriate answer is:\n\n(F) Mood dysregulation, inattentiveness, and hyperactivity",
+            "(F) Mood dysregulation, inattentiveness, and hyperactivity",
+            "Phenylketonuria (PKU) is a metabolic disorder where the body cannot break down the amino acid phenylalanine, leading to its accumulation. The treatment involves a strict diet low in phenylalanine, typically including a phenylalanine-free formula to ensure adequate nutrition. An unrestricted vegetarian diet, even though it excludes animal protein, can still contain significant amounts of phenylalanine from plant-based sources like legumes, nuts, and soy products. Without proper dietary management, phenylalanine levels can rise, leading to neurotoxic effects.\n\nGiven the patient's history and the potential for elevated phenylalanine levels due to an unrestricted diet, the expected effects would include cognitive and neurological symptoms. The most appropriate answer is:\n\n(F) Mood dysregulation, inattentiveness, and hyperactivity"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "1"
+        ],
+        "final_solution": "Phenylketonuria (PKU) is a metabolic disorder where the body cannot break down the amino acid phenylalanine, leading to its accumulation. The treatment involves a strict diet low in phenylalanine, typically including a phenylalanine-free formula to ensure adequate nutrition. An unrestricted vegetarian diet, even though it excludes animal protein, can still contain significant amounts of phenylalanine from plant-based sources like legumes, nuts, and soy products. Without proper dietary management, phenylalanine levels can rise, leading to neurotoxic effects.\n\nGiven the patient's history and the potential for elevated phenylalanine levels due to an unrestricted diet, the expected effects would include cognitive and neurological symptoms. The most appropriate answer is:\n\n(F) Mood dysregulation, inattentiveness, and hyperactivity"
     },
     {
         "realidx": "Text-53",
@@ -1603,9 +2327,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2343,
-            "completion_tokens": 54
+            "completion_tokens": 68
         },
-        "time_elapsed": 3.938131093978882
+        "time_elapsed": 4.540695428848267,
+        "raw_responses": [
+            "(B) Computerized tomography (CT) of the head",
+            "(B) Computerized tomography (CT) of the head",
+            "(B) Computerized tomography (CT) of the head"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) Computerized tomography (CT) of the head"
     },
     {
         "realidx": "Text-55",
@@ -1624,12 +2359,23 @@
         },
         "answer_idx": "J",
         "answer": "Fenoldopam",
-        "predicted_answer": "C",
+        "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 2886,
-            "completion_tokens": 421
+            "prompt_tokens": 2757,
+            "completion_tokens": 449
         },
-        "time_elapsed": 7.358035564422607
+        "time_elapsed": 8.96050763130188,
+        "raw_responses": [
+            "(C) Nicardipine",
+            "(C) Nicardipine",
+            "The patient presents with hypertensive emergency, evidenced by severe hypertension (BP 200/120 mm Hg) and symptoms of end-organ damage (headache and visual disturbances). The goal is to lower blood pressure promptly but safely.\n\n1. Enalapril (A) - Not ideal for acute management due to delayed onset of action.\n2. Metoprolol (B) - Not typically used as a first-line agent in hypertensive emergencies.\n3. Nicardipine (C) - A calcium channel blocker with rapid onset, effective in hypertensive emergencies.\n4. Nitroprusside (D) - Effective but requires careful monitoring due to risk of cyanide toxicity, especially in renal impairment.\n5. Clevidipine (E) - A calcium channel blocker with rapid onset, effective in hypertensive emergencies.\n6. Labetalol (F) - A combined alpha and beta-blocker, effective in hypertensive emergencies.\n7. Hydralazine (G) - Not typically used as a first-line agent in hypertensive emergencies.\n8. Amlodipine (H) - Not ideal for acute management due to delayed onset of action.\n9. Nitroglycerin (I) - Primarily used for angina, not first-line for hypertensive emergencies.\n10. Fenoldopam (J) - Effective in hypertensive emergencies, especially with renal impairment.\n\nGiven the patient's chronic kidney disease and the need for rapid blood pressure control, the most appropriate choices are Nicardipine (C), Clevidipine (E), Labetalol (F), or Fenoldopam (J). Considering the patient's renal impairment, Fenoldopam (J) is particularly beneficial as it improves renal perfusion.\n\nFinal answer: (J) Fenoldopam"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "Option 0 provides a comprehensive analysis of the patient's condition and the suitability of each medication. It considers the patient's chronic kidney disease and the need for rapid blood pressure control, ultimately recommending Fenoldopam due to its benefits in renal perfusion. This detailed reasoning makes Option 0 the best final answer.\n\nFinal answer: 0"
+        ],
+        "final_solution": "The patient presents with hypertensive emergency, evidenced by severe hypertension (BP 200/120 mm Hg) and symptoms of end-organ damage (headache and visual disturbances). The goal is to lower blood pressure promptly but safely.\n\n1. Enalapril (A) - Not ideal for acute management due to delayed onset of action.\n2. Metoprolol (B) - Not typically used as a first-line agent in hypertensive emergencies.\n3. Nicardipine (C) - A calcium channel blocker with rapid onset, effective in hypertensive emergencies.\n4. Nitroprusside (D) - Effective but requires careful monitoring due to risk of cyanide toxicity, especially in renal impairment.\n5. Clevidipine (E) - A calcium channel blocker with rapid onset, effective in hypertensive emergencies.\n6. Labetalol (F) - A combined alpha and beta-blocker, effective in hypertensive emergencies.\n7. Hydralazine (G) - Not typically used as a first-line agent in hypertensive emergencies.\n8. Amlodipine (H) - Not ideal for acute management due to delayed onset of action.\n9. Nitroglycerin (I) - Primarily used for angina, not first-line for hypertensive emergencies.\n10. Fenoldopam (J) - Effective in hypertensive emergencies, especially with renal impairment.\n\nGiven the patient's chronic kidney disease and the need for rapid blood pressure control, the most appropriate choices are Nicardipine (C), Clevidipine (E), Labetalol (F), or Fenoldopam (J). Considering the patient's renal impairment, Fenoldopam (J) is particularly beneficial as it improves renal perfusion.\n\nFinal answer: (J) Fenoldopam"
     },
     {
         "realidx": "Text-58",
@@ -1648,12 +2394,23 @@
         },
         "answer_idx": "A",
         "answer": "Elevated levels of IL-6",
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2271,
-            "completion_tokens": 240
+            "completion_tokens": 247
         },
-        "time_elapsed": 6.332001447677612
+        "time_elapsed": 5.634282112121582,
+        "raw_responses": [
+            "(I) Altered kappa to lambda ratio",
+            "(I) Altered kappa to lambda ratio",
+            "(I) Altered kappa to lambda ratio"
+        ],
+        "ensemble_raw_responses": [
+            "The patient's presentation of leg swelling, proteinuria, and the characteristic finding on renal biopsy under polarized light suggests a diagnosis of amyloidosis. Amyloidosis is associated with an altered kappa to lambda ratio due to the deposition of abnormal light chains.\n\nAll candidate solutions (0, 1, and 2) suggest the same answer: (I) Altered kappa to lambda ratio. Since they all provide the correct answer, any of them can be chosen.\n\nI will choose option 0.\n\n0",
+            "The best final answer is option number 0.",
+            "The patient's presentation of leg swelling, proteinuria, and the characteristic finding on renal biopsy under polarized light suggests a diagnosis of amyloidosis. Amyloidosis is associated with an altered kappa to lambda ratio due to the deposition of abnormal light chains.\n\nAll candidate solutions (0, 1, and 2) suggest the same answer: (I) Altered kappa to lambda ratio. Since they all provide the correct answer, any of them can be chosen.\n\nI will choose option 0.\n\n0"
+        ],
+        "final_solution": "(I) Altered kappa to lambda ratio"
     },
     {
         "realidx": "Text-59",
@@ -1672,12 +2429,23 @@
         },
         "answer_idx": "G",
         "answer": "Fibrosing mediastinitis",
-        "predicted_answer": "C",
+        "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 1383,
+            "prompt_tokens": 1389,
             "completion_tokens": 32
         },
-        "time_elapsed": 4.679364919662476
+        "time_elapsed": 4.416864633560181,
+        "raw_responses": [
+            "(H) Unilateral pulmonary artery hypoplasia",
+            "(C) Large pleural effusion",
+            "(C) Large pleural effusion"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "2"
+        ],
+        "final_solution": "(H) Unilateral pulmonary artery hypoplasia"
     },
     {
         "realidx": "Text-60",
@@ -1698,10 +2466,21 @@
         "answer": "Cidofovir",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 2430,
-            "completion_tokens": 322
+            "prompt_tokens": 2472,
+            "completion_tokens": 333
         },
-        "time_elapsed": 6.159178256988525
+        "time_elapsed": 7.580006837844849,
+        "raw_responses": [
+            "The patient is HIV-positive and presents with severe oral ulcers. The genetic testing of the pathogen reveals a mutation in the gene encoding viral phosphotransferases, which suggests resistance to drugs that require activation by viral kinases, such as ganciclovir and valganciclovir. \n\nGiven the mutation, the most appropriate treatment would be a drug that does not require activation by viral kinases. Foscarnet is a pyrophosphate analog that directly inhibits viral DNA polymerase and does not require activation by viral kinases.\n\nFinal answer: (E) Foscarnet",
+            "(E) Foscarnet",
+            "The patient is HIV-positive and presents with severe oral ulcers. The genetic testing of the pathogen reveals a mutation in the gene encoding viral phosphotransferases, which suggests resistance to drugs that require activation by viral kinases, such as ganciclovir and valganciclovir. \n\nGiven the mutation, the most appropriate treatment would be a drug that does not require activation by viral kinases. Foscarnet is a pyrophosphate analog that directly inhibits viral DNA polymerase and does not require activation by viral kinases.\n\nFinal answer: (E) Foscarnet"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "Option 0 and Option 1 provide a detailed explanation for why Foscarnet is the most appropriate treatment, while Option 2 simply states the answer without any explanation. Since Option 0 and Option 1 are identical and both provide a clear rationale, either of these would be acceptable. However, since they are identical, choosing either one would be equally valid.\n\nTherefore, the best final answer is:\n\n0",
+            "0"
+        ],
+        "final_solution": "The patient is HIV-positive and presents with severe oral ulcers. The genetic testing of the pathogen reveals a mutation in the gene encoding viral phosphotransferases, which suggests resistance to drugs that require activation by viral kinases, such as ganciclovir and valganciclovir. \n\nGiven the mutation, the most appropriate treatment would be a drug that does not require activation by viral kinases. Foscarnet is a pyrophosphate analog that directly inhibits viral DNA polymerase and does not require activation by viral kinases.\n\nFinal answer: (E) Foscarnet"
     },
     {
         "realidx": "Text-62",
@@ -1722,10 +2501,21 @@
         "answer": "Ischemic segmental resorption",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 2139,
-            "completion_tokens": 60
+            "prompt_tokens": 2067,
+            "completion_tokens": 48
         },
-        "time_elapsed": 6.1183249950408936
+        "time_elapsed": 4.009620189666748,
+        "raw_responses": [
+            "(H) Defective intestinal rotation",
+            "(B) Failed luminal recanalization",
+            "The most likely underlying pathogenic mechanism for this condition is:\n(B) Failed luminal recanalization"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is:\n0",
+            "0"
+        ],
+        "final_solution": "(B) Failed luminal recanalization"
     },
     {
         "realidx": "Text-63",
@@ -1746,10 +2536,21 @@
         "answer": "Malrotation of the gut",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 1190,
-            "completion_tokens": 41
+            "prompt_tokens": 1827,
+            "completion_tokens": 60
         },
-        "time_elapsed": 9.010085821151733
+        "time_elapsed": 4.997231960296631,
+        "raw_responses": [
+            "The most probable underlying etiology of her clinical presentation is:\n(E) Volvulus",
+            "The most probable underlying etiology of her clinical presentation is:\n(E) Volvulus",
+            "The most probable underlying etiology of her clinical presentation is:\n(E) Volvulus"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The most probable underlying etiology of her clinical presentation is:\n(E) Volvulus"
     },
     {
         "realidx": "Text-64",
@@ -1770,10 +2571,21 @@
         "answer": "Cystathionine synthase deficiency",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1485,
-            "completion_tokens": 213
+            "prompt_tokens": 2175,
+            "completion_tokens": 44
         },
-        "time_elapsed": 11.19170594215393
+        "time_elapsed": 4.16515588760376,
+        "raw_responses": [
+            "(A) Fibrillin 1 deficiency",
+            "(A) Fibrillin 1 deficiency",
+            "(J) Cystathionine synthase deficiency"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "The best final answer is option number 1."
+        ],
+        "final_solution": "(A) Fibrillin 1 deficiency"
     },
     {
         "realidx": "Text-65",
@@ -1792,12 +2604,23 @@
         },
         "answer_idx": "C",
         "answer": "Levofloxacin",
-        "predicted_answer": "I",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2087,
-            "completion_tokens": 266
+            "prompt_tokens": 2007,
+            "completion_tokens": 60
         },
-        "time_elapsed": 14.789221286773682
+        "time_elapsed": 3.972418785095215,
+        "raw_responses": [
+            "The most likely medication contributing to her decreased bowel movement frequency is:\n\n(I) Hydrocodone-acetaminophen",
+            "(A) Ferrous sulfate",
+            "The most likely medication contributing to her decreased bowel movement frequency is:\n\n(I) Hydrocodone-acetaminophen"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "The most likely medication contributing to her decreased bowel movement frequency is:\n\n(I) Hydrocodone-acetaminophen"
     },
     {
         "realidx": "Text-66",
@@ -1818,10 +2641,21 @@
         "answer": "58\u00ba",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1346,
-            "completion_tokens": 59
+            "prompt_tokens": 2484,
+            "completion_tokens": 217
         },
-        "time_elapsed": 13.093044996261597
+        "time_elapsed": 5.742510557174683,
+        "raw_responses": [
+            "The patient presents with chronic back pain, asymmetric hip movement, and shoulder elevation, which are indicative of scoliosis. The Cobb angle is used to measure the degree of spinal curvature in scoliosis. Given the physical findings of significant asymmetry and the need for an orthopedic surgical consultation, the Cobb angle is likely to be in the range that typically warrants surgical consideration, which is generally above 40\u00ba.\n\nThe most likely Cobb angle measurement in this patient is:\n(A) 50\u00ba",
+            "The patient presents with chronic back pain, asymmetric hip movement, and shoulder elevation, which are indicative of scoliosis. Given the severity of the physical findings, the Cobb angle is likely to be significant. The most likely Cobb angle measurement in this patient is:\n\n(A) 50\u00ba",
+            "The patient presents with chronic back pain, asymmetric hip movement, and shoulder elevation, which are indicative of scoliosis. Given the severity of the physical findings, the Cobb angle is likely to be significant. The most likely Cobb angle measurement in this patient is:\n\n(A) 50\u00ba"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient presents with chronic back pain, asymmetric hip movement, and shoulder elevation, which are indicative of scoliosis. The Cobb angle is used to measure the degree of spinal curvature in scoliosis. Given the physical findings of significant asymmetry and the need for an orthopedic surgical consultation, the Cobb angle is likely to be in the range that typically warrants surgical consideration, which is generally above 40\u00ba.\n\nThe most likely Cobb angle measurement in this patient is:\n(A) 50\u00ba"
     },
     {
         "realidx": "Text-67",
@@ -1842,10 +2676,21 @@
         "answer": "Repeating the urine dipstick test",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1494,
-            "completion_tokens": 21
+            "prompt_tokens": 1863,
+            "completion_tokens": 60
         },
-        "time_elapsed": 9.42969560623169
+        "time_elapsed": 4.970439434051514,
+        "raw_responses": [
+            "(I) Measuring serum albumin and creatinine",
+            "(I) Measuring serum albumin and creatinine",
+            "(I) Measuring serum albumin and creatinine"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(I) Measuring serum albumin and creatinine"
     },
     {
         "realidx": "Text-68",
@@ -1867,9 +2712,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2670,
-            "completion_tokens": 173
+            "completion_tokens": 128
         },
-        "time_elapsed": 9.873577356338501
+        "time_elapsed": 5.296612977981567,
+        "raw_responses": [
+            "(A) Transverse axis",
+            "(A) Transverse axis",
+            "(A) Transverse axis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The correct answer is (A) Transverse axis, and all the candidate solutions (0, 1, and 2) have provided the same answer. Therefore, any of these solutions can be chosen as the final answer.\n\nI choose option number: 0",
+            "The correct answer is (A) Transverse axis, and all the candidate solutions (0, 1, and 2) have provided the same answer. Therefore, any of these solutions can be chosen as the final answer.\n\nI choose option number: 0"
+        ],
+        "final_solution": "(A) Transverse axis"
     },
     {
         "realidx": "Text-69",
@@ -1888,12 +2744,23 @@
         },
         "answer_idx": "H",
         "answer": "Perform liver function testing",
-        "predicted_answer": "A",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 1992,
-            "completion_tokens": 163
+            "prompt_tokens": 4518,
+            "completion_tokens": 750
         },
-        "time_elapsed": 8.23606562614441
+        "time_elapsed": 11.004401922225952,
+        "raw_responses": [
+            "The patient has type II diabetes mellitus, hypertension, and a significant family history of myocardial infarction. His LDL level is elevated at 190 mg/dL, which places him at high risk for cardiovascular events. The most appropriate next step in management is to address his elevated LDL level to reduce his cardiovascular risk.\n\n(A) Counseling on smoking cessation is important but not sufficient alone given his high LDL level.\n(B) Reducing lisinopril dose is not indicated as his blood pressure is well-controlled.\n(C) Coronary artery calcium scoring is not necessary at this point given the clear indication for statin therapy.\n(D) Scheduling a follow-up in 12 months without addressing the high LDL is not appropriate.\n(E) Fenofibrate is used primarily for high triglycerides, which is not the main issue here.\n(F) Ezetimibe can be considered if statin therapy is insufficient or not tolerated, but statins are first-line.\n(G) Vitamin E supplements are not indicated for managing high LDL.\n(H) Liver function testing is not immediately necessary before initiating statin therapy.\n(J) Replacing metformin with glimepiride is not indicated as his diabetes is well-controlled.\n\nThe most appropriate next step is to initiate atorvastatin therapy to lower his LDL and reduce cardiovascular risk.\n\nFinal answer: (I) Initiate atorvastatin therapy",
+            "The patient has type II diabetes mellitus, hypertension, and a significant family history of myocardial infarction. His LDL level is elevated at 190 mg/dL, which places him at high risk for cardiovascular events. The most appropriate next step in management is to address his elevated LDL cholesterol to reduce his cardiovascular risk.\n\n(A) Counseling on smoking cessation is important but does not directly address the immediate need to lower LDL cholesterol.\n(B) Reducing lisinopril dose is not indicated as his blood pressure is well-controlled.\n(C) Coronary artery calcium scoring is not necessary at this point given the clear indication for statin therapy based on his LDL level and risk factors.\n(D) Scheduling a follow-up in 12 months without addressing the elevated LDL is not appropriate.\n(E) Fenofibrate is used primarily for high triglycerides, which is not the main issue here.\n(F) Ezetimibe can be used to lower LDL, but statins are first-line therapy.\n(G) Vitamin E supplements are not indicated for lowering LDL cholesterol.\n(H) Liver function testing is not immediately necessary unless starting a statin, which is the next step.\n(J) Replacing metformin with glimepiride is not indicated as his diabetes is well-controlled.\n\nThe most appropriate next step is to initiate atorvastatin therapy to lower his LDL cholesterol.\n\nFinal answer: (I) Initiate atorvastatin therapy",
+            "The patient has type II diabetes mellitus, hypertension, and a significant family history of cardiovascular disease. His LDL level is elevated at 190 mg/dL, which places him at high risk for cardiovascular events. The most appropriate next step in management is to initiate statin therapy to lower his LDL cholesterol and reduce his cardiovascular risk.\n\nFinal answer: (I) Initiate atorvastatin therapy"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1. \n\nOption 1 succinctly identifies the patient's high cardiovascular risk due to his elevated LDL level and other risk factors, and correctly concludes that initiating statin therapy is the most appropriate next step. It provides a clear and direct answer without unnecessary elaboration, making it the most efficient and accurate response.",
+            "Option 0 provides the most comprehensive and detailed reasoning for the decision to initiate atorvastatin therapy. It thoroughly addresses each of the other potential options and explains why they are not appropriate in this scenario. Therefore, the best final answer is:\n\n0",
+            "1"
+        ],
+        "final_solution": "The patient has type II diabetes mellitus, hypertension, and a significant family history of cardiovascular disease. His LDL level is elevated at 190 mg/dL, which places him at high risk for cardiovascular events. The most appropriate next step in management is to initiate statin therapy to lower his LDL cholesterol and reduce his cardiovascular risk.\n\nFinal answer: (I) Initiate atorvastatin therapy"
     },
     {
         "realidx": "Text-7",
@@ -1915,9 +2782,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1407,
-            "completion_tokens": 103
+            "completion_tokens": 108
         },
-        "time_elapsed": 9.434869766235352
+        "time_elapsed": 5.099715709686279,
+        "raw_responses": [
+            "(E) Extension of the middle finger MCP joint",
+            "(E) Extension of the middle finger MCP joint",
+            "(E) Extension of the middle finger MCP joint"
+        ],
+        "ensemble_raw_responses": [
+            "The correct answer is (E) Extension of the middle finger MCP joint. All candidate solutions (0, 1, and 2) have identified this as the correct answer. Therefore, any of these solutions would be appropriate. \n\nI will choose option number 0.",
+            "The best final answer is option number: 0",
+            "The best final answer is option number 0."
+        ],
+        "final_solution": "(E) Extension of the middle finger MCP joint"
     },
     {
         "realidx": "Text-70",
@@ -1939,9 +2817,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2133,
-            "completion_tokens": 36
+            "completion_tokens": 50
         },
-        "time_elapsed": 6.782837629318237
+        "time_elapsed": 4.200215101242065,
+        "raw_responses": [
+            "(G) Between L5 and S1",
+            "(G) Between L5 and S1",
+            "(G) Between L5 and S1"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option number 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(G) Between L5 and S1"
     },
     {
         "realidx": "Text-71",
@@ -1963,9 +2852,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2217,
-            "completion_tokens": 34
+            "completion_tokens": 32
         },
-        "time_elapsed": 5.66953706741333
+        "time_elapsed": 4.235466003417969,
+        "raw_responses": [
+            "(A) Letrazole",
+            "(A) Letrazole",
+            "(A) Letrazole"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The best final answer is option 0.",
+            "1"
+        ],
+        "final_solution": "(A) Letrazole"
     },
     {
         "realidx": "Text-72",
@@ -1987,9 +2887,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2136,
-            "completion_tokens": 30
+            "completion_tokens": 44
         },
-        "time_elapsed": 7.578717231750488
+        "time_elapsed": 3.9918365478515625,
+        "raw_responses": [
+            "(D) Add tiotropium to current regimen",
+            "(D) Add tiotropium to current regimen",
+            "(D) Add tiotropium to current regimen"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "(D) Add tiotropium to current regimen"
     },
     {
         "realidx": "Text-73",
@@ -2011,9 +2922,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1902,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 4.975873708724976
+        "time_elapsed": 3.7512431144714355,
+        "raw_responses": [
+            "(B) Exertional heat stroke",
+            "(B) Exertional heat stroke",
+            "(B) Exertional heat stroke"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Exertional heat stroke"
     },
     {
         "realidx": "Text-75",
@@ -2035,9 +2957,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1173,
-            "completion_tokens": 77
+            "completion_tokens": 79
         },
-        "time_elapsed": 8.453048944473267
+        "time_elapsed": 3.939678907394409,
+        "raw_responses": [
+            "(A) Wrist/hand tendon transfer surgery",
+            "(A) Wrist/hand tendon transfer surgery",
+            "(A) Wrist/hand tendon transfer surgery"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The given solutions are all the same, with each one selecting (A) Wrist/hand tendon transfer surgery. Since all solutions are identical, any of them can be chosen as the final answer.\n\nThe best final answer is: 0"
+        ],
+        "final_solution": "(A) Wrist/hand tendon transfer surgery"
     },
     {
         "realidx": "Text-78",
@@ -2056,12 +2989,23 @@
         },
         "answer_idx": "H",
         "answer": "Mesenteric angiography",
-        "predicted_answer": "C",
+        "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 2160,
-            "completion_tokens": 15
+            "prompt_tokens": 2196,
+            "completion_tokens": 33
         },
-        "time_elapsed": 7.6547651290893555
+        "time_elapsed": 4.064431428909302,
+        "raw_responses": [
+            "(G) CT angiography of the abdomen and pelvis",
+            "(C) Colonoscopy",
+            "(G) CT angiography of the abdomen and pelvis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(G) CT angiography of the abdomen and pelvis"
     },
     {
         "realidx": "Text-79",
@@ -2083,9 +3027,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2277,
-            "completion_tokens": 89
+            "completion_tokens": 87
         },
-        "time_elapsed": 11.218459129333496
+        "time_elapsed": 4.618880748748779,
+        "raw_responses": [
+            "(A) Premedicate with diphenhydramine and prednisone, and then perform the imaging study using a nonionic contrast medium",
+            "(A) Premedicate with diphenhydramine and prednisone, and then perform the imaging study using a nonionic contrast medium",
+            "(A) Premedicate with diphenhydramine and prednisone, and then perform the imaging study using a nonionic contrast medium"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Premedicate with diphenhydramine and prednisone, and then perform the imaging study using a nonionic contrast medium"
     },
     {
         "realidx": "Text-8",
@@ -2106,10 +3061,21 @@
         "answer": "Repeat blood cultures now",
         "predicted_answer": "G",
         "token_usage": {
-            "prompt_tokens": 1656,
-            "completion_tokens": 24
+            "prompt_tokens": 2538,
+            "completion_tokens": 42
         },
-        "time_elapsed": 7.134567975997925
+        "time_elapsed": 4.644496440887451,
+        "raw_responses": [
+            "(G) Perform transesophageal echocardiography immediately",
+            "(G) Perform transesophageal echocardiography immediately",
+            "(G) Perform transesophageal echocardiography immediately"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "2"
+        ],
+        "final_solution": "(G) Perform transesophageal echocardiography immediately"
     },
     {
         "realidx": "Text-80",
@@ -2131,9 +3097,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2052,
-            "completion_tokens": 26
+            "completion_tokens": 24
         },
-        "time_elapsed": 5.456980466842651
+        "time_elapsed": 3.80787992477417,
+        "raw_responses": [
+            "(E) Physical therapy referral",
+            "(E) Physical therapy referral",
+            "(E) Physical therapy referral"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(E) Physical therapy referral"
     },
     {
         "realidx": "Text-83",
@@ -2152,12 +3129,23 @@
         },
         "answer_idx": "I",
         "answer": "T5 FRRSR",
-        "predicted_answer": "D",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 2091,
-            "completion_tokens": 91
+            "prompt_tokens": 2118,
+            "completion_tokens": 137
         },
-        "time_elapsed": 7.904275894165039
+        "time_elapsed": 5.341354608535767,
+        "raw_responses": [
+            "The prominent transverse process on the right side that exhibits sharp tenderness during anterior motion testing suggests a rotated vertebra. The increased posterior movement of the left transverse process during forward flexion indicates that the vertebra is rotated to the right and flexed. Therefore, the most likely diagnosis is:\n\n(I) T5 FRRSR",
+            "The most likely diagnosis for this patient is:\n(I) T5 FRRSR",
+            "The most likely diagnosis for this patient is (I) T5 FRRSR."
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "Option 2 is the best final answer. It is concise and directly provides the most likely diagnosis without unnecessary explanation. Therefore, the chosen option number is:\n\n2"
+        ],
+        "final_solution": "The most likely diagnosis for this patient is (I) T5 FRRSR."
     },
     {
         "realidx": "Text-84",
@@ -2179,9 +3167,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1806,
-            "completion_tokens": 58
+            "completion_tokens": 48
         },
-        "time_elapsed": 4.112676620483398
+        "time_elapsed": 4.353611469268799,
+        "raw_responses": [
+            "(C) Arachnodactyly (long, slender fingers)",
+            "(C) Arachnodactyly (long, slender fingers)",
+            "(C) Arachnodactyly (long, slender fingers)"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Arachnodactyly (long, slender fingers)"
     },
     {
         "realidx": "Text-85",
@@ -2203,9 +3202,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1905,
-            "completion_tokens": 45
+            "completion_tokens": 51
         },
-        "time_elapsed": 9.467188119888306
+        "time_elapsed": 4.38825249671936,
+        "raw_responses": [
+            "(A) Acetazolamide",
+            "(A) Acetazolamide",
+            "(A) Acetazolamide"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(A) Acetazolamide"
     },
     {
         "realidx": "Text-87",
@@ -2227,9 +3237,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1704,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 6.011103630065918
+        "time_elapsed": 3.760219097137451,
+        "raw_responses": [
+            "(C) Batson's vertebral venous plexus",
+            "(C) Batson's vertebral venous plexus",
+            "(C) Batson's vertebral venous plexus"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Batson's vertebral venous plexus"
     },
     {
         "realidx": "Text-88",
@@ -2251,9 +3272,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2190,
-            "completion_tokens": 51
+            "completion_tokens": 57
         },
-        "time_elapsed": 4.598075866699219
+        "time_elapsed": 4.437888145446777,
+        "raw_responses": [
+            "(B) Create a flowchart to illustrate the sequence of key events in this case",
+            "(B) Create a flowchart to illustrate the sequence of key events in this case",
+            "(B) Create a flowchart to illustrate the sequence of key events in this case"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Create a flowchart to illustrate the sequence of key events in this case"
     },
     {
         "realidx": "Text-89",
@@ -2274,10 +3306,21 @@
         "answer": "Hydroxyurea and measurement of ristocetin cofactor activity",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 3447,
-            "completion_tokens": 475
+            "prompt_tokens": 2121,
+            "completion_tokens": 47
         },
-        "time_elapsed": 8.614559650421143
+        "time_elapsed": 4.077541351318359,
+        "raw_responses": [
+            "(H) Combination of hydroxyurea and aspirin",
+            "(H) Combination of hydroxyurea and aspirin",
+            "(H) Combination of hydroxyurea and aspirin"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "(H) Combination of hydroxyurea and aspirin"
     },
     {
         "realidx": "Text-9",
@@ -2298,10 +3341,21 @@
         "answer": "Reassure the patient and schedule a follow-up appointment",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 2733,
-            "completion_tokens": 117
+            "prompt_tokens": 2730,
+            "completion_tokens": 62
         },
-        "time_elapsed": 5.901010751724243
+        "time_elapsed": 4.531174898147583,
+        "raw_responses": [
+            "(E) Order urine dipstick and ambulatory blood pressure monitoring",
+            "(D) Order coagulation studies and liver chemistries",
+            "(E) Order urine dipstick and ambulatory blood pressure monitoring"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 0.",
+            "The best final answer is option number 0.",
+            "0"
+        ],
+        "final_solution": "(E) Order urine dipstick and ambulatory blood pressure monitoring"
     },
     {
         "realidx": "Text-92",
@@ -2323,9 +3377,20 @@
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2454,
-            "completion_tokens": 32
+            "completion_tokens": 38
         },
-        "time_elapsed": 3.7790768146514893
+        "time_elapsed": 5.951451063156128,
+        "raw_responses": [
+            "(H) Previous anaphylactic reactions",
+            "(H) Previous anaphylactic reactions",
+            "(H) Previous anaphylactic reactions"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "(H) Previous anaphylactic reactions"
     },
     {
         "realidx": "Text-93",
@@ -2347,9 +3412,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2160,
-            "completion_tokens": 24
+            "completion_tokens": 38
         },
-        "time_elapsed": 3.095390558242798
+        "time_elapsed": 3.654435634613037,
+        "raw_responses": [
+            "(B) Blood acetaminophen levels",
+            "(B) Blood acetaminophen levels",
+            "(B) Blood acetaminophen levels"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "1",
+            "1"
+        ],
+        "final_solution": "(B) Blood acetaminophen levels"
     },
     {
         "realidx": "Text-96",
@@ -2371,9 +3447,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2586,
-            "completion_tokens": 49
+            "completion_tokens": 63
         },
-        "time_elapsed": 5.523269176483154
+        "time_elapsed": 4.1975226402282715,
+        "raw_responses": [
+            "(B) Parainfluenza virus type 1",
+            "(B) Parainfluenza virus type 1",
+            "(B) Parainfluenza virus type 1"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) Parainfluenza virus type 1"
     },
     {
         "realidx": "Text-99",
@@ -2395,8 +3482,19 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2274,
-            "completion_tokens": 49
+            "completion_tokens": 30
         },
-        "time_elapsed": 6.109205961227417
+        "time_elapsed": 3.897242546081543,
+        "raw_responses": [
+            "(E) Order CT of the head",
+            "(E) Order CT of the head",
+            "(E) Order CT of the head"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "1"
+        ],
+        "final_solution": "(E) Order CT of the head"
     }
 ]

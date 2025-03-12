@@ -132,6 +132,7 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", few_shot_examples: L
             end_time = time.time()
             time_elapsed = end_time - start_time
 
+            problem['raw_response'] = raw_response
             problem['predicted_answer'] = predicted_answer
             problem['token_usage'] = {
                 "prompt_tokens": prompt_tokens,

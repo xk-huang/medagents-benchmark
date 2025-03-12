@@ -10,12 +10,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 513,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9467291831970215
+        "time_elapsed": 0.8757178783416748
     },
     {
         "realidx": "10223070",
@@ -28,12 +29,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 416,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.2393224239349365
+        "time_elapsed": 1.0093462467193604
     },
     {
         "realidx": "11146778",
@@ -46,12 +48,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 469,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.2218599319458008
+        "time_elapsed": 1.7830533981323242
     },
     {
         "realidx": "11411430",
@@ -64,12 +67,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 482,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.899224042892456
+        "time_elapsed": 1.6578984260559082
     },
     {
         "realidx": "11458136",
@@ -82,12 +86,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 365,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9694092273712158
+        "time_elapsed": 1.0806612968444824
     },
     {
         "realidx": "11570976",
@@ -100,12 +105,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 264,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9765913486480713
+        "time_elapsed": 1.119469404220581
     },
     {
         "realidx": "11926574",
@@ -118,12 +124,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 543,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.5155022144317627
+        "time_elapsed": 1.1383147239685059
     },
     {
         "realidx": "12094116",
@@ -136,12 +143,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 354,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.377866268157959
+        "time_elapsed": 1.2232394218444824
     },
     {
         "realidx": "12407608",
@@ -154,12 +162,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A\n\nstudy shows that ultrasound imaging before puncture facilitates internal jugular vein cannulation, particularly in patients where respiratory jugular venodilation cannot be identified. In these patients,,,ound guidance significantly improved the access rate (86.2% vs 30.4%) and success rate (100% vs 78.3%), and eliminated arterial puncture complications compared to the landmark group.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 487,
-            "completion_tokens": 5
+            "completion_tokens": 88
         },
-        "time_elapsed": 0.8451051712036133
+        "time_elapsed": 2.6986546516418457
     },
     {
         "realidx": "12630042",
@@ -172,12 +181,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 403,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.981701135635376
+        "time_elapsed": 0.8654980659484863
     },
     {
         "realidx": "12790890",
@@ -190,12 +200,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 446,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.564786434173584
+        "time_elapsed": 1.099217176437378
     },
     {
         "realidx": "12970636",
@@ -208,12 +219,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 477,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9517176151275635
+        "time_elapsed": 0.9821186065673828
     },
     {
         "realidx": "14599616",
@@ -226,12 +238,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 313,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9911425113677979
+        "time_elapsed": 9.414052963256836
     },
     {
         "realidx": "14627582",
@@ -244,12 +257,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 529,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.1949851512908936
+        "time_elapsed": 1.338658094406128
     },
     {
         "realidx": "16392897",
@@ -262,12 +276,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 402,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.000331163406372
+        "time_elapsed": 0.9274449348449707
     },
     {
         "realidx": "16538201",
@@ -280,12 +295,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 499,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.8889734745025635
+        "time_elapsed": 1.7940199375152588
     },
     {
         "realidx": "16816043",
@@ -298,12 +314,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 471,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.0199832916259766
+        "time_elapsed": 0.9464082717895508
     },
     {
         "realidx": "16962519",
@@ -316,12 +333,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 462,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.0024425983428955
+        "time_elapsed": 1.1043169498443604
     },
     {
         "realidx": "16968876",
@@ -334,12 +352,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 486,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0105693340301514
+        "time_elapsed": 1.076040506362915
     },
     {
         "realidx": "17076091",
@@ -352,12 +371,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 314,
-            "completion_tokens": 6
+            "completion_tokens": 5
         },
-        "time_elapsed": 1.0464527606964111
+        "time_elapsed": 0.812389612197876
     },
     {
         "realidx": "17208539",
@@ -370,12 +390,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 484,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.8119494915008545
+        "time_elapsed": 1.3377711772918701
     },
     {
         "realidx": "17445978",
@@ -388,12 +409,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 507,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.018982172012329
+        "time_elapsed": 1.0623092651367188
     },
     {
         "realidx": "17565137",
@@ -406,12 +428,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 514,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.914262056350708
+        "time_elapsed": 1.1042306423187256
     },
     {
         "realidx": "17621202",
@@ -424,12 +447,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 349,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.4271690845489502
+        "time_elapsed": 0.8862400054931641
     },
     {
         "realidx": "17691856",
@@ -442,12 +466,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 564,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 1.0073785781860352
+        "time_elapsed": 0.9397368431091309
     },
     {
         "realidx": "17894828",
@@ -460,12 +485,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 518,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.4062676429748535
+        "time_elapsed": 1.0309216976165771
     },
     {
         "realidx": "17940352",
@@ -478,12 +504,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 501,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.072800874710083
+        "time_elapsed": 1.1580216884613037
     },
     {
         "realidx": "18235194",
@@ -496,12 +523,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 247,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9678835868835449
+        "time_elapsed": 0.9925951957702637
     },
     {
         "realidx": "18243752",
@@ -514,12 +542,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 261,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.8699307441711426
+        "time_elapsed": 0.8243427276611328
     },
     {
         "realidx": "18284441",
@@ -532,12 +561,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 457,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.8759193420410156
+        "time_elapsed": 1.153132677078247
     },
     {
         "realidx": "18359123",
@@ -550,12 +580,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 315,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.278019905090332
+        "time_elapsed": 0.9154558181762695
     },
     {
         "realidx": "18496363",
@@ -568,12 +599,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 461,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9492290019989014
+        "time_elapsed": 0.8669896125793457
     },
     {
         "realidx": "18565233",
@@ -586,12 +618,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 594,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.2641451358795166
+        "time_elapsed": 1.2083384990692139
     },
     {
         "realidx": "18568290",
@@ -604,12 +637,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 541,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9376473426818848
+        "time_elapsed": 1.7955939769744873
     },
     {
         "realidx": "18714572",
@@ -622,12 +656,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 499,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9187543392181396
+        "time_elapsed": 1.3239588737487793
     },
     {
         "realidx": "18802997",
@@ -640,12 +675,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 479,
-            "completion_tokens": 7
+            "completion_tokens": 5
         },
-        "time_elapsed": 1.0257151126861572
+        "time_elapsed": 0.9232022762298584
     },
     {
         "realidx": "19103915",
@@ -658,12 +694,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 369,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.8542323112487793
+        "time_elapsed": 1.2709465026855469
     },
     {
         "realidx": "19108857",
@@ -676,12 +713,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 383,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0850472450256348
+        "time_elapsed": 1.110701560974121
     },
     {
         "realidx": "19351635",
@@ -694,12 +732,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 581,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.3982229232788086
+        "time_elapsed": 0.9994676113128662
     },
     {
         "realidx": "19430778",
@@ -712,12 +751,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 491,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3797218799591064
+        "time_elapsed": 1.1693336963653564
     },
     {
         "realidx": "19468282",
@@ -730,12 +770,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 602,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 1.699242353439331
+        "time_elapsed": 0.8538775444030762
     },
     {
         "realidx": "19578820",
@@ -748,12 +789,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 414,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.2589342594146729
+        "time_elapsed": 1.5762238502502441
     },
     {
         "realidx": "20197761",
@@ -766,12 +808,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 487,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8876924514770508
+        "time_elapsed": 1.071319341659546
     },
     {
         "realidx": "20297950",
@@ -784,12 +827,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 675,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.167271614074707
+        "time_elapsed": 1.8101727962493896
     },
     {
         "realidx": "20337202",
@@ -802,12 +846,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 381,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.93739914894104
+        "time_elapsed": 0.9322428703308105
     },
     {
         "realidx": "20538207",
@@ -820,12 +865,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 417,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9192585945129395
+        "time_elapsed": 0.7257328033447266
     },
     {
         "realidx": "20736672",
@@ -838,12 +884,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 457,
-            "completion_tokens": 6
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9503674507141113
+        "time_elapsed": 1.0775108337402344
     },
     {
         "realidx": "20971618",
@@ -856,12 +903,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 424,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8790175914764404
+        "time_elapsed": 1.3243672847747803
     },
     {
         "realidx": "21164063",
@@ -874,12 +922,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 498,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9542412757873535
+        "time_elapsed": 0.9918756484985352
     },
     {
         "realidx": "21712147",
@@ -892,12 +941,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 582,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.958463191986084
+        "time_elapsed": 1.2781195640563965
     },
     {
         "realidx": "21789019",
@@ -910,12 +960,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 365,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.893122673034668
+        "time_elapsed": 1.3665354251861572
     },
     {
         "realidx": "21889895",
@@ -928,12 +979,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 418,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8219869136810303
+        "time_elapsed": 1.3724663257598877
     },
     {
         "realidx": "22227642",
@@ -946,12 +998,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 585,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.2142157554626465
+        "time_elapsed": 0.807344913482666
     },
     {
         "realidx": "22236315",
@@ -964,12 +1017,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 367,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.8690328598022461
+        "time_elapsed": 1.3326096534729004
     },
     {
         "realidx": "22491528",
@@ -982,12 +1036,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 345,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.432647943496704
+        "time_elapsed": 1.6396281719207764
     },
     {
         "realidx": "22617083",
@@ -1000,12 +1055,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 380,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9715380668640137
+        "time_elapsed": 1.1528549194335938
     },
     {
         "realidx": "23149821",
@@ -1018,12 +1074,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 471,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.0703237056732178
+        "time_elapsed": 0.7964892387390137
     },
     {
         "realidx": "23422012",
@@ -1036,12 +1093,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 502,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 1.0336394309997559
+        "time_elapsed": 0.9270522594451904
     },
     {
         "realidx": "23497210",
@@ -1054,12 +1112,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 637,
-            "completion_tokens": 173
+            "completion_tokens": 4
         },
-        "time_elapsed": 4.596352577209473
+        "time_elapsed": 1.4386565685272217
     },
     {
         "realidx": "23690198",
@@ -1072,12 +1131,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 476,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8840491771697998
+        "time_elapsed": 1.4234123229980469
     },
     {
         "realidx": "24139705",
@@ -1090,12 +1150,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 503,
-            "completion_tokens": 6
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.0057637691497803
+        "time_elapsed": 1.2063791751861572
     },
     {
         "realidx": "24318956",
@@ -1108,12 +1169,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 446,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9954705238342285
+        "time_elapsed": 1.4133527278900146
     },
     {
         "realidx": "24336869",
@@ -1126,12 +1188,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 467,
             "completion_tokens": 4
         },
-        "time_elapsed": 2.1517460346221924
+        "time_elapsed": 1.62296724319458
     },
     {
         "realidx": "24352924",
@@ -1144,12 +1207,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 440,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.2593638896942139
+        "time_elapsed": 1.3199191093444824
     },
     {
         "realidx": "24359102",
@@ -1162,12 +1226,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 440,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9389622211456299
+        "time_elapsed": 1.551823377609253
     },
     {
         "realidx": "24449622",
@@ -1180,12 +1245,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 467,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.4948232173919678
+        "time_elapsed": 1.3155591487884521
     },
     {
         "realidx": "24495711",
@@ -1198,12 +1264,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 424,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.8657138347625732
+        "time_elapsed": 1.0501940250396729
     },
     {
         "realidx": "24591144",
@@ -1216,12 +1283,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 466,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7738080024719238
+        "time_elapsed": 1.7598936557769775
     },
     {
         "realidx": "24977765",
@@ -1234,12 +1302,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 559,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.014648199081421
+        "time_elapsed": 1.7386670112609863
     },
     {
         "realidx": "24995509",
@@ -1252,12 +1321,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 604,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.889427900314331
+        "time_elapsed": 1.3417751789093018
     },
     {
         "realidx": "25079920",
@@ -1270,12 +1340,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 507,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9960005283355713
+        "time_elapsed": 1.5351765155792236
     },
     {
         "realidx": "25103647",
@@ -1288,12 +1359,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 526,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.4658257961273193
+        "time_elapsed": 1.6392743587493896
     },
     {
         "realidx": "25277731",
@@ -1306,12 +1378,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 240,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3789427280426025
+        "time_elapsed": 3.10099458694458
     },
     {
         "realidx": "25371231",
@@ -1324,12 +1397,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 301,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.5586504936218262
+        "time_elapsed": 0.9659433364868164
     },
     {
         "realidx": "25394614",
@@ -1342,12 +1416,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 453,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.2818794250488281
+        "time_elapsed": 0.9473714828491211
     },
     {
         "realidx": "25488308",
@@ -1360,12 +1435,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 557,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.433741807937622
+        "time_elapsed": 1.0593602657318115
     },
     {
         "realidx": "25571931",
@@ -1378,12 +1454,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 435,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.0388984680175781
+        "time_elapsed": 1.4840233325958252
     },
     {
         "realidx": "25614468",
@@ -1396,12 +1473,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 516,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.3115811347961426
+        "time_elapsed": 1.066894292831421
     },
     {
         "realidx": "25779009",
@@ -1414,12 +1492,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 444,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.8887739181518555
+        "time_elapsed": 0.7542529106140137
     },
     {
         "realidx": "25793749",
@@ -1432,12 +1511,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 717,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9371037483215332
+        "time_elapsed": 1.1494431495666504
     },
     {
         "realidx": "26037986",
@@ -1450,12 +1530,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 384,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.76222825050354
+        "time_elapsed": 3.6268715858459473
     },
     {
         "realidx": "26606599",
@@ -1468,12 +1549,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 546,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.1842496395111084
+        "time_elapsed": 1.5645370483398438
     },
     {
         "realidx": "26708803",
@@ -1486,12 +1568,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 529,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 1.2027969360351562
+        "time_elapsed": 0.9184572696685791
     },
     {
         "realidx": "26778755",
@@ -1504,12 +1587,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 547,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9051175117492676
+        "time_elapsed": 1.023249864578247
     },
     {
         "realidx": "26852225",
@@ -1522,12 +1606,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 442,
             "completion_tokens": 4
         },
-        "time_elapsed": 0.9612298011779785
+        "time_elapsed": 1.2146422863006592
     },
     {
         "realidx": "26864326",
@@ -1540,12 +1625,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 516,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.8387598991394043
+        "time_elapsed": 0.812873363494873
     },
     {
         "realidx": "26965932",
@@ -1558,12 +1644,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 613,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.1427650451660156
+        "time_elapsed": 1.0769708156585693
     },
     {
         "realidx": "27044366",
@@ -1576,12 +1663,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 566,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9503259658813477
+        "time_elapsed": 0.8111960887908936
     },
     {
         "realidx": "27050489",
@@ -1594,12 +1682,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 446,
             "completion_tokens": 4
         },
-        "time_elapsed": 1.0887806415557861
+        "time_elapsed": 1.2429544925689697
     },
     {
         "realidx": "27136599",
@@ -1612,12 +1701,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 314,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.9475266933441162
+        "time_elapsed": 1.5407888889312744
     },
     {
         "realidx": "27217036",
@@ -1630,12 +1720,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 614,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.0318546295166016
+        "time_elapsed": 1.22483491897583
     },
     {
         "realidx": "27615402",
@@ -1648,12 +1739,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 391,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9936931133270264
+        "time_elapsed": 1.5972750186920166
     },
     {
         "realidx": "27643961",
@@ -1666,12 +1758,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 406,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.5080509185791016
+        "time_elapsed": 1.408379077911377
     },
     {
         "realidx": "28359277",
@@ -1684,12 +1777,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 369,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9502112865447998
+        "time_elapsed": 0.956550121307373
     },
     {
         "realidx": "7497757",
@@ -1702,12 +1796,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 523,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9918825626373291
+        "time_elapsed": 1.1442029476165771
     },
     {
         "realidx": "8738894",
@@ -1720,12 +1815,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 455,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.0143733024597168
+        "time_elapsed": 1.1055080890655518
     },
     {
         "realidx": "9363244",
@@ -1738,12 +1834,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 289,
             "completion_tokens": 5
         },
-        "time_elapsed": 0.9783432483673096
+        "time_elapsed": 1.1338694095611572
     },
     {
         "realidx": "9465206",
@@ -1756,12 +1853,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 682,
-            "completion_tokens": 6
+            "completion_tokens": 5
         },
-        "time_elapsed": 1.8975772857666016
+        "time_elapsed": 1.3528904914855957
     },
     {
         "realidx": "9483814",
@@ -1774,12 +1872,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 538,
             "completion_tokens": 5
         },
-        "time_elapsed": 1.5443487167358398
+        "time_elapsed": 1.6154394149780273
     },
     {
         "realidx": "9582182",
@@ -1792,11 +1891,12 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 403,
-            "completion_tokens": 5
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9350192546844482
+        "time_elapsed": 1.1465260982513428
     }
 ]

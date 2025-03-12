@@ -16,12 +16,20 @@
         },
         "answer_idx": "D",
         "answer": "B cells",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question involves identifying the predominant cell type in the cortical region of lymph nodes in a patient diagnosed with infectious mononucleosis. Infectious mononucleosis is commonly caused by the Epstein-Barr virus (EBV), which primarily infects B cells. However, the immune response to this infection involves a significant proliferation of cytotoxic T cells (CD8+ T cells) that target and destroy the infected B cells.\n\nGiven the solutions provided:\nSolution 1: G\nSolution 2: G\nSolution 3: G\nSolution 4: G\nSolution 5: G\n\nAll solutions consistently identify \"G\" as the answer. \"G\" corresponds to \"Activated cytotoxic T cells,\" which aligns with the known immune response in infectious mononucleosis.\n\nTherefore, the most consistent and reliable solution is:\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1738,
-            "completion_tokens": 1509
+            "completion_tokens": 1520
         },
-        "time_elapsed": 21.43850326538086
+        "time_elapsed": 20.872652530670166
     },
     {
         "realidx": "Text-113",
@@ -40,12 +48,20 @@
         },
         "answer_idx": "B",
         "answer": "Increases carpal tunnel pressure",
+        "solutions": [
+            "A",
+            "H",
+            "F",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"H\". \n\nTherefore, the single letter ID corresponding to the most consistent solution is:\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2146,
-            "completion_tokens": 2144
+            "completion_tokens": 1987
         },
-        "time_elapsed": 28.29169225692749
+        "time_elapsed": 23.684930086135864
     },
     {
         "realidx": "Text-116",
@@ -64,12 +80,20 @@
         },
         "answer_idx": "C",
         "answer": "45-year-old woman that had a propane tank explode near her thigh undergoing a transfemoral amputation",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"B\". \n\nThe reasoning behind this is that heterotopic ossification (HO) is more commonly associated with traumatic injuries, particularly those involving high-energy impacts and significant tissue damage. Among the options, a 25-year-old army captain with a complex blast injury to his shin undergoing transfemoral amputation (Option B) represents a scenario with a high risk of developing HO due to the nature of the injury (blast injury) and the extent of the trauma.\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3274,
-            "completion_tokens": 3151
+            "completion_tokens": 2996
         },
-        "time_elapsed": 34.03134322166443
+        "time_elapsed": 33.253734827041626
     },
     {
         "realidx": "Text-118",
@@ -88,12 +112,20 @@
         },
         "answer_idx": "C",
         "answer": "The earliest radiographic finding is loss of normal lumbar lordosis, followed by disc space narrowing and endplate erosion.",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The solutions provided all consistently indicate the same answer, which is \"H\". This consistency across multiple solutions suggests that \"H\" is the most reliable answer.\n\nTo summarize, the answer \"H\" states:\n\"The earliest radiographic finding is disc space narrowing, followed by endplate erosion and loss of normal lumbar lordosis.\"\n\nGiven the consistency in the solutions, the most reliable answer is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3550,
-            "completion_tokens": 2535
+            "completion_tokens": 2076
         },
-        "time_elapsed": 28.810294151306152
+        "time_elapsed": 27.677018642425537
     },
     {
         "realidx": "Text-123",
@@ -112,12 +144,20 @@
         },
         "answer_idx": "C",
         "answer": "Carboplatin and paclitaxel",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions provided is \"B\". This consistency suggests that the concurrent chemotherapy regimen of Carboplatin, paclitaxel, and trastuzumab is considered the most suitable for preoperative chemoradiotherapy to 50.4 Gy in a patient with HER2-positive T3N1 adenocarcinoma of the distal esophagus.\n\nThus, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2812,
-            "completion_tokens": 2585
+            "completion_tokens": 2086
         },
-        "time_elapsed": 28.486950874328613
+        "time_elapsed": 26.268624544143677
     },
     {
         "realidx": "Text-125",
@@ -136,12 +176,20 @@
         },
         "answer_idx": "F",
         "answer": "Nimorazole",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks for a hypoxic cell radiosensitizer that undergoes redox recycling or decomposes into a toxic product and has shown effectiveness in treating head and neck cancer. The answer choices provided include several known radiosensitizers and chemotherapeutic agents.\n\nUpon evaluating the solutions provided:\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nAll solutions consistently identify option (B) Tirapazamine as the correct answer. Tirapazamine is known for its mechanism of action involving redox cycling and the production of toxic radicals under hypoxic conditions, making it effective in targeting hypoxic tumor cells, such as those found in head and neck cancers.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1642,
-            "completion_tokens": 1745
+            "completion_tokens": 1820
         },
-        "time_elapsed": 21.990992069244385
+        "time_elapsed": 22.63129234313965
     },
     {
         "realidx": "Text-13",
@@ -160,12 +208,20 @@
         },
         "answer_idx": "I",
         "answer": "High tibial osteotomy",
+        "solutions": [
+            "B",
+            "D",
+            "D",
+            "B",
+            "D"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\n- Solution 1: B\n- Solution 2: D\n- Solution 3: D\n- Solution 4: B\n- Solution 5: D\n\nTo determine the most reliable solution, we need to identify the answer that appears most frequently across these solutions. \n\nCounting the occurrences:\n- B appears in Solution 1 and Solution 4 (2 times)\n- D appears in Solution 2, Solution 3, and Solution 5 (3 times)\n\nThe answer that appears most frequently is D.\n\nTherefore, the most consistent solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1894,
-            "completion_tokens": 2535
+            "completion_tokens": 2605
         },
-        "time_elapsed": 32.60791206359863
+        "time_elapsed": 30.271954774856567
     },
     {
         "realidx": "Text-131",
@@ -184,12 +240,20 @@
         },
         "answer_idx": "I",
         "answer": "Normal kidneys",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The question involves a female newborn diagnosed with a mutation in the PKD1 gene on chromosome 16. This gene is associated with Autosomal Dominant Polycystic Kidney Disease (ADPKD). In ADPKD, cysts develop in the kidneys, leading to their enlargement and potential dysfunction.\n\nGiven the options and the context of the PKD1 gene mutation, the most likely finding on an abdominal ultrasound shortly after birth would be the presence of multiple visible cysts in both kidneys. This is a characteristic feature of ADPKD.\n\nAll the provided solutions (Solution 1 to Solution 5) consistently indicate the answer as \"J,\" which corresponds to \"Multiple visible cysts in both kidneys.\"\n\nTherefore, the most reliable solution based on the consistency across all solutions is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1786,
-            "completion_tokens": 1441
+            "completion_tokens": 1758
         },
-        "time_elapsed": 19.869982957839966
+        "time_elapsed": 21.692880630493164
     },
     {
         "realidx": "Text-134",
@@ -208,12 +272,20 @@
         },
         "answer_idx": "H",
         "answer": "Dependent",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"G\". \n\nThe patient's symptoms, including social isolation, fear of leaving the house alone, discomfort in crowded places, and avoidance of public transportation, are indicative of Avoidant Personality Disorder. This disorder is characterized by extreme shyness, feelings of inadequacy, and sensitivity to rejection, leading to significant social inhibition. \n\nGiven the consistency of the answer \"G\" across all solutions and the alignment of the patient's symptoms with Avoidant Personality Disorder, the most reliable solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1888,
-            "completion_tokens": 2290
+            "completion_tokens": 1312
         },
-        "time_elapsed": 27.66254949569702
+        "time_elapsed": 17.649068593978882
     },
     {
         "realidx": "Text-141",
@@ -232,12 +304,20 @@
         },
         "answer_idx": "A",
         "answer": "Hemorrhage",
+        "solutions": [
+            "A",
+            "D",
+            "A",
+            "D",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"A\" (Hemorrhage). This answer appears in solutions 1, 3, and 5, making it the most consistent choice.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2314,
-            "completion_tokens": 1675
+            "completion_tokens": 1528
         },
-        "time_elapsed": 20.27803611755371
+        "time_elapsed": 19.537052154541016
     },
     {
         "realidx": "Text-150",
@@ -256,12 +336,20 @@
         },
         "answer_idx": "A",
         "answer": "| **Diameter** | **Degree of Myelination** |\n| --- | --- |\n| 2 \u00b5m | ++++ |",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is (I).\n\nExplanation:\nLocal anesthetics like xylocaine (lidocaine) preferentially block smaller diameter and less myelinated nerve fibers first. This is because these fibers have a higher surface area to volume ratio, making them more susceptible to the effects of the anesthetic. Among the options provided, option (I) describes a nerve fiber with a diameter of 0.5 \u00b5m and no myelination, which fits the criteria of being the most susceptible to blockade by the administered medication.\n\nTherefore, the correct answer is:\n\n(I)",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 4870,
-            "completion_tokens": 2282
+            "completion_tokens": 2341
         },
-        "time_elapsed": 29.959168434143066
+        "time_elapsed": 27.17671012878418
     },
     {
         "realidx": "Text-152",
@@ -280,12 +368,20 @@
         },
         "answer_idx": "I",
         "answer": "*Campylobacter*",
-        "predicted_answer": "I",
+        "solutions": [
+            "I",
+            "B",
+            "I",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2770,
-            "completion_tokens": 3302
+            "completion_tokens": 3198
         },
-        "time_elapsed": 39.88699769973755
+        "time_elapsed": 37.037874937057495
     },
     {
         "realidx": "Text-154",
@@ -304,12 +400,20 @@
         },
         "answer_idx": "D",
         "answer": "Pantothenic acid",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"F\".\n\nThe patient's symptoms of severe burning pain in both feet, generalized wasting, and severe malnutrition are indicative of a deficiency in Thiamine (Vitamin B1). Thiamine deficiency can lead to conditions such as beriberi, which is characterized by peripheral neuropathy (burning pain in the feet) and muscle wasting. Given the patient's history of severe malnutrition and the clinical presentation, Thiamine deficiency is the most likely cause of his symptoms.\n\nTherefore, the answer is:\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2458,
-            "completion_tokens": 3625
+            "completion_tokens": 3869
         },
-        "time_elapsed": 39.273709774017334
+        "time_elapsed": 43.87352156639099
     },
     {
         "realidx": "Text-158",
@@ -328,12 +432,20 @@
         },
         "answer_idx": "B",
         "answer": "Neurokinin A",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The question asks which substance plays a role in neurogenic inflammation and sympathetic nervous system activity in the context of Bladder pain syndrome. The answer choices provided include various neuropeptides and neurotransmitters.\n\nUpon evaluating the solutions provided:\n- Solution 1: H\n- Solution 2: H\n- Solution 3: H\n- Solution 4: H\n- Solution 5: H\n\nAll solutions consistently identify \"H\" as the answer. \n\nSubstance P is known to be involved in neurogenic inflammation and is a key player in the pain pathways, including those associated with Bladder pain syndrome. It is a neuropeptide that acts as a neurotransmitter and neuromodulator, and it is involved in the transmission of pain and other sensory signals.\n\nGiven the consistency across all solutions and the known role of Substance P in neurogenic inflammation and sympathetic nervous system activity, the most reliable solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1624,
-            "completion_tokens": 2476
+            "completion_tokens": 2456
         },
-        "time_elapsed": 30.401345014572144
+        "time_elapsed": 28.168992519378662
     },
     {
         "realidx": "Text-160",
@@ -352,12 +464,20 @@
         },
         "answer_idx": "I",
         "answer": "Sorbitol dehydrogenase",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is:\n\nF\n\nExplanation:\nThe patient's symptoms and fundoscopic findings are indicative of diabetic retinopathy, a common complication of long-standing diabetes. Diabetic retinopathy is associated with microvascular damage due to chronic hyperglycemia. One of the key enzymes involved in the pathogenesis of diabetic complications is aldose reductase. Aldose reductase converts glucose to sorbitol in the polyol pathway. In tissues where sorbitol dehydrogenase is low or absent, sorbitol accumulates, leading to osmotic stress and tissue damage. This mechanism is particularly relevant in the retina, lens, and peripheral nerves, contributing to diabetic retinopathy, cataracts, and neuropathy. Therefore, the enzyme aldose reductase (option F) is most likely responsible for the patient's clinical manifestations.",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2296,
-            "completion_tokens": 2080
+            "completion_tokens": 1986
         },
-        "time_elapsed": 25.004156589508057
+        "time_elapsed": 27.46031904220581
     },
     {
         "realidx": "Text-17",
@@ -376,12 +496,20 @@
         },
         "answer_idx": "B",
         "answer": "Covalent bonds between carboxyl and amino groups",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question describes a scenario where an Amazonian plant extract induces endoplasmic reticulum stress and cell death in tumor cells by targeting a key protein involved in transmitting proliferation signals. The extract's effect on the protein is irreversible even with the addition of chaperones, suggesting a disruption of a critical bond that cannot be easily repaired or reformed.\n\nGiven the options, the most likely bond being disrupted is one that is crucial for the protein's structural integrity and function, and one that chaperones cannot easily restore. Disulfide bonds (D) are covalent bonds formed between the sulfur atoms of cysteine residues within a protein, and they play a critical role in maintaining the protein's three-dimensional structure. Disruption of these bonds would lead to misfolding and loss of function, which chaperones cannot easily fix.\n\nAll provided solutions (Solution 1 through Solution 5) consistently identify option (D) as the answer. This consistency strongly suggests that the disruption of disulfide bonds is the most likely mechanism by which the plant extract exerts its effect.\n\nTherefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2536,
-            "completion_tokens": 2906
+            "completion_tokens": 3052
         },
-        "time_elapsed": 38.64016270637512
+        "time_elapsed": 33.555434226989746
     },
     {
         "realidx": "Text-176",
@@ -400,12 +528,20 @@
         },
         "answer_idx": "D",
         "answer": "Trim the frayed tendon edges and begin early range of motion",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2698,
-            "completion_tokens": 2811
+            "completion_tokens": 2519
         },
-        "time_elapsed": 33.082587003707886
+        "time_elapsed": 27.36247968673706
     },
     {
         "realidx": "Text-19",
@@ -424,12 +560,20 @@
         },
         "answer_idx": "I",
         "answer": "Lateral to the patella with knee in extension",
+        "solutions": [
+            "G",
+            "D",
+            "D",
+            "G",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"D\". \n\nHere is the breakdown of the solutions:\n- Solution 1: G\n- Solution 2: D\n- Solution 3: D\n- Solution 4: G\n- Solution 5: D\n\n\"D\" appears three times, while \"G\" appears twice. Therefore, the most consistent solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2308,
-            "completion_tokens": 2505
+            "completion_tokens": 2680
         },
-        "time_elapsed": 30.943494081497192
+        "time_elapsed": 31.743408918380737
     },
     {
         "realidx": "Text-197",
@@ -448,12 +592,20 @@
         },
         "answer_idx": "D",
         "answer": "0.9 cm grade 3 DCIS s/p lumpectomy with negative margin",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "F",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3136,
-            "completion_tokens": 3073
+            "completion_tokens": 3081
         },
-        "time_elapsed": 34.05747103691101
+        "time_elapsed": 32.239840269088745
     },
     {
         "realidx": "Text-198",
@@ -472,12 +624,20 @@
         },
         "answer_idx": "J",
         "answer": "Tobacco use",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"F\". This consistency suggests that \"Diabetes mellitus\" is the risk factor most strongly associated with post-operative wound complications following Achilles tendon repair.\n\nTherefore, the single letter ID corresponding to the most reliable solution is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 1456,
-            "completion_tokens": 2046
+            "completion_tokens": 2208
         },
-        "time_elapsed": 24.692381381988525
+        "time_elapsed": 27.321579694747925
     },
     {
         "realidx": "Text-212",
@@ -496,12 +656,20 @@
         },
         "answer_idx": "B",
         "answer": "Hip extension and abduction",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The question asks which type of movement is most associated with the development of the overuse syndrome known as athletic pubalgia. Athletic pubalgia, also known as sports hernia, is commonly associated with movements that involve repetitive stress on the groin area, particularly those that involve hip flexion and adduction.\n\nUpon reviewing the provided solutions, all of them consistently identify the same answer:\n\nSolution 1: F\nSolution 2: F\nSolution 3: F\nSolution 4: F\nSolution 5: F\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 1786,
-            "completion_tokens": 1457
+            "completion_tokens": 2346
         },
-        "time_elapsed": 19.265986680984497
+        "time_elapsed": 27.159279108047485
     },
     {
         "realidx": "Text-215",
@@ -520,12 +688,20 @@
         },
         "answer_idx": "G",
         "answer": "CN IX",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions provided is \"E\". \n\nTo determine the most reliable solution, I evaluated the consistency of the answers given. All five solutions consistently identified \"E\" as the answer. This consistency suggests that \"E\" is the most reliable solution.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2104,
-            "completion_tokens": 2977
+            "completion_tokens": 2674
         },
-        "time_elapsed": 34.92949843406677
+        "time_elapsed": 33.04253935813904
     },
     {
         "realidx": "Text-216",
@@ -544,12 +720,20 @@
         },
         "answer_idx": "D",
         "answer": "Alanine aminotransferase",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is \"H\". \n\nThe patient described has chronic hepatitis C infection and presents with symptoms and signs suggestive of advanced liver disease, including jaundice, splenomegaly, and caput medusae. These findings are indicative of cirrhosis and portal hypertension. In the context of chronic hepatitis C and these clinical features, the concern for hepatocellular carcinoma (HCC) is high. \n\nAlpha-fetoprotein (AFP) is a tumor marker that is often elevated in patients with hepatocellular carcinoma. Therefore, the most likely diagnostic laboratory test for this patient's underlying condition is alpha-fetoprotein.\n\nThus, the answer is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2128,
-            "completion_tokens": 2619
+            "completion_tokens": 2825
         },
-        "time_elapsed": 33.29176092147827
+        "time_elapsed": 31.839985132217407
     },
     {
         "realidx": "Text-225",
@@ -568,12 +752,20 @@
         },
         "answer_idx": "F",
         "answer": "For patients with a mild opioid use disorder in whom medication therapy is chosen, naltrexone is considered the first-line treatment.",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is \"D\". \n\nExplanation:\n- The question involves the management of opioid use disorder in a patient with advanced AIDS and a history of opioid use disorder.\n- The correct answer should accurately describe a key aspect of opioid use disorder management.\n- The answer choice \"D\" states that \"Methadone requires daily administration in a supervised clinical setting,\" which is a well-known fact about methadone treatment for opioid use disorder.\n- All the provided solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify \"D\" as the correct answer.\n\nTherefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3598,
-            "completion_tokens": 2693
+            "completion_tokens": 2829
         },
-        "time_elapsed": 33.40449285507202
+        "time_elapsed": 32.902501821517944
     },
     {
         "realidx": "Text-229",
@@ -592,12 +784,20 @@
         },
         "answer_idx": "D",
         "answer": "At the same dose, vilazodone will always have a submaximal effect.",
+        "solutions": [
+            "F",
+            "B",
+            "B",
+            "C",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is (B). \n\nHere is the detailed thought process:\n- Solution 1: F\n- Solution 2: B\n- Solution 3: B\n- Solution 4: C\n- Solution 5: B\n\nThe answer (B) appears three times, which is more frequent than any other answer. Therefore, the most consistent solution is:\n\n(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 4006,
-            "completion_tokens": 3299
+            "completion_tokens": 3338
         },
-        "time_elapsed": 41.115564584732056
+        "time_elapsed": 40.423580169677734
     },
     {
         "realidx": "Text-230",
@@ -616,12 +816,20 @@
         },
         "answer_idx": "J",
         "answer": "Stimulation of release of insulin-like growth factor",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2590,
-            "completion_tokens": 2813
+            "completion_tokens": 2700
         },
-        "time_elapsed": 34.99500513076782
+        "time_elapsed": 32.06406569480896
     },
     {
         "realidx": "Text-231",
@@ -640,12 +848,20 @@
         },
         "answer_idx": "G",
         "answer": "Autosomal recessive",
+        "solutions": [
+            "F",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"G\".\n\nTo determine the most likely inheritance pattern, we need to consider the following points:\n1. The infant presents with anemia and an enlarged spleen.\n2. There is a family history of a blood disorder on the maternal side.\n3. The great-great-grandmother had splenomegaly and joint pain.\n\nGiven these details, the condition appears to be inherited in a pattern that affects multiple generations and is not sex-linked (as it affects both males and females). The most common inheritance pattern for such conditions, especially those involving anemia and splenomegaly, is autosomal recessive. This is because autosomal recessive conditions often skip generations and can appear in individuals whose parents are carriers but do not show symptoms themselves.\n\nTherefore, the most consistent and likely inheritance pattern for this condition is autosomal recessive.\n\nThe answer is:\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2080,
-            "completion_tokens": 2674
+            "completion_tokens": 2826
         },
-        "time_elapsed": 32.179158210754395
+        "time_elapsed": 32.21267747879028
     },
     {
         "realidx": "Text-240",
@@ -664,12 +880,20 @@
         },
         "answer_idx": "H",
         "answer": "Naked, positive-sense, single-stranded RNA virus",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is:\n\nF\n\nExplanation:\nThe child has symptoms of diarrhea and vomiting after drinking river water, which suggests a gastrointestinal infection likely caused by a pathogen found in contaminated water. The description of the diarrhea as watery and the context of recent exposure to untreated water point towards a protozoal infection, specifically Giardia lamblia. Giardia lamblia is a trophozoite with 4 pairs of flagella, which matches option (F). This organism is commonly associated with waterborne outbreaks and causes gastrointestinal symptoms such as diarrhea. Therefore, the most consistent and correct answer is (F).",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3100,
-            "completion_tokens": 3195
+            "completion_tokens": 3228
         },
-        "time_elapsed": 38.58908534049988
+        "time_elapsed": 33.86961841583252
     },
     {
         "realidx": "Text-242",
@@ -688,12 +912,20 @@
         },
         "answer_idx": "G",
         "answer": "5'-CGC-3'",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "D"
+        ],
+        "ensemble_response": "The question involves identifying the anticodon sequence that would bind to a given mRNA codon sequence of 5'-GCA-3'. To determine the correct anticodon, we need to understand the base pairing rules in RNA, where adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G).\n\nThe mRNA codon sequence is 5'-GCA-3'. The corresponding anticodon sequence must be complementary and antiparallel to this codon. Therefore, the anticodon sequence should be:\n\n- G pairs with C\n- C pairs with G\n- A pairs with U\n\nSo, the anticodon sequence should be 3'-CGU-5'.\n\nReviewing the provided solutions:\n- Solution 1: H\n- Solution 2: H\n- Solution 3: H\n- Solution 4: H\n- Solution 5: D\n\nThe most frequently occurring solution is H, which corresponds to the anticodon sequence 3'-CGU-5'.\n\nThus, the correct answer is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2254,
-            "completion_tokens": 2266
+            "completion_tokens": 2364
         },
-        "time_elapsed": 28.546733379364014
+        "time_elapsed": 26.396628379821777
     },
     {
         "realidx": "Text-247",
@@ -712,12 +944,20 @@
         },
         "answer_idx": "J",
         "answer": "Procarbazine",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The question asks which chemotherapy drug used to treat non-Hodgkin\u2019s lymphoma is most strongly associated with an increased risk of developing acute myelogenous leukemia (AML). The provided solutions all consistently indicate the same answer.\n\nTo determine the most reliable solution, I will consider the consistency of the answers provided. All five solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) indicate the same answer: G.\n\nGiven this consistency, the most reliable solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2278,
-            "completion_tokens": 2141
+            "completion_tokens": 2113
         },
-        "time_elapsed": 27.26291060447693
+        "time_elapsed": 25.90171480178833
     },
     {
         "realidx": "Text-251",
@@ -736,12 +976,20 @@
         },
         "answer_idx": "H",
         "answer": "Obturator",
-        "predicted_answer": "E",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The question involves identifying which vessel is closest to the lateral aspect of the tension-free vaginal tape trocar during a retropubic placement procedure. The patient experienced brisk bleeding from the trocar sites, indicating that a nearby vessel was likely injured.\n\nThe options provided include various vessels located in the pelvic and lower abdominal regions. The correct answer should be the vessel that is anatomically closest to the path of the trocar used in the procedure.\n\nThe solutions provided all consistently indicate the same answer:\nSolution 1: H\nSolution 2: H\nSolution 3: H\nSolution 4: H\nSolution 5: H\n\nGiven that all solutions consistently identify the same vessel, the most reliable solution is the one that appears most frequently.\n\nThe vessel identified by the letter \"H\" is the obturator artery. The obturator artery runs close to the path of the trocar used in the retropubic placement of a tension-free vaginal tape, making it the most likely vessel to be injured during the procedure.\n\nTherefore, the most consistent and reliable answer is:\n\nH",
+        "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1888,
-            "completion_tokens": 2549
+            "completion_tokens": 2406
         },
-        "time_elapsed": 32.298038959503174
+        "time_elapsed": 28.306610584259033
     },
     {
         "realidx": "Text-258",
@@ -760,12 +1008,20 @@
         },
         "answer_idx": "I",
         "answer": "Familial adenomatous polyposis",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which genetic disorder is significantly correlated with the development of desmoid tumors occurring outside the abdominal cavity. The answer choices provided are various genetic syndromes.\n\nDesmoid tumors, also known as aggressive fibromatosis, are benign but locally aggressive tumors that can occur in various parts of the body. They are known to be associated with certain genetic conditions, particularly those involving mutations in the APC gene.\n\nGardner syndrome is a variant of familial adenomatous polyposis (FAP) and is characterized by the presence of multiple colorectal adenomas, osteomas, epidermoid cysts, and desmoid tumors. Desmoid tumors in Gardner syndrome can occur both intra-abdominally and extra-abdominally.\n\nGiven the solutions provided:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll solutions consistently identify Gardner syndrome (A) as the correct answer. This consistency strongly suggests that Gardner syndrome is indeed the genetic disorder most significantly correlated with the development of desmoid tumors outside the abdominal cavity.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1660,
-            "completion_tokens": 2483
+            "completion_tokens": 2577
         },
-        "time_elapsed": 31.043248414993286
+        "time_elapsed": 30.441847324371338
     },
     {
         "realidx": "Text-261",
@@ -784,12 +1040,20 @@
         },
         "answer_idx": "E",
         "answer": "Absence of an organ that is not needed in adulthood",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is:\n\nH\n\nExplanation:\nThe question describes a 2-year-old boy with a history of recurrent viral infections, delayed umbilical cord separation, and a family history of immunodeficiency. These clues point towards a condition affecting the immune system. The delayed separation of the umbilical cord is a key indicator of leukocyte adhesion deficiency (LAD), which is characterized by defective neutrophil chemotaxis. This condition leads to recurrent bacterial infections and poor wound healing, which aligns with the symptoms described in the question. Therefore, the most likely finding in this patient is:\n\n(H) Delayed separation of the umbilical cord due to defective neutrophil chemotaxis",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3352,
-            "completion_tokens": 3122
+            "completion_tokens": 3617
         },
-        "time_elapsed": 34.77875089645386
+        "time_elapsed": 38.04298663139343
     },
     {
         "realidx": "Text-267",
@@ -808,12 +1072,20 @@
         },
         "answer_idx": "I",
         "answer": "4 strand core suture technique and cast immobilization for 4 weeks",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3100,
-            "completion_tokens": 3511
+            "completion_tokens": 3170
         },
-        "time_elapsed": 43.928325176239014
+        "time_elapsed": 36.94349431991577
     },
     {
         "realidx": "Text-269",
@@ -832,12 +1104,20 @@
         },
         "answer_idx": "C",
         "answer": "Estrogen",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The patient presents with abnormal vaginal bleeding, a thickened endometrial stripe, and a left ovarian mass. These symptoms, along with the physical findings of spider angiomata and mild ascites, suggest a possible gynecologic malignancy, such as ovarian cancer. \n\nCancer antigen-125 (CA-125) is a tumor marker that is commonly elevated in ovarian cancer. Given the patient's presentation and the findings on ultrasound, CA-125 is the most likely tumor marker associated with her diagnosis.\n\nAll the solutions provided (Solution 1 through Solution 5) consistently identify CA-125 as the most likely tumor marker.\n\nTherefore, the most reliable solution is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2704,
-            "completion_tokens": 2332
+            "completion_tokens": 2489
         },
-        "time_elapsed": 29.050801277160645
+        "time_elapsed": 25.858789682388306
     },
     {
         "realidx": "Text-271",
@@ -856,12 +1136,20 @@
         },
         "answer_idx": "I",
         "answer": "Unfavorable Intermediate",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The question asks about the lowest risk level at which a bone scan for metastatic evaluation becomes recommended in prostate cancer. The provided solutions all consistently indicate the same answer.\n\nTo determine the most reliable solution, I will look at the consistency across the solutions provided. All five solutions (Solution 1 through Solution 5) indicate the same answer: \"I\".\n\nGiven this consistency, the most reliable solution is:\n\n(I) Unfavorable Intermediate",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1474,
-            "completion_tokens": 1508
+            "completion_tokens": 1535
         },
-        "time_elapsed": 19.019347190856934
+        "time_elapsed": 20.524147987365723
     },
     {
         "realidx": "Text-277",
@@ -880,12 +1168,20 @@
         },
         "answer_idx": "E",
         "answer": "L1",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"A\". \n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1606,
-            "completion_tokens": 1816
+            "completion_tokens": 1686
         },
-        "time_elapsed": 23.803282022476196
+        "time_elapsed": 22.906807899475098
     },
     {
         "realidx": "Text-278",
@@ -904,12 +1200,20 @@
         },
         "answer_idx": "J",
         "answer": "10-20%",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: F\n- Solution 5: F\n\nTo determine the most consistent solution, we count the frequency of each answer:\n- A appears 3 times.\n- F appears 2 times.\n\nSince the answer \"A\" appears most frequently, it is the most consistent solution.\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1660,
-            "completion_tokens": 1890
+            "completion_tokens": 1675
         },
-        "time_elapsed": 26.640984773635864
+        "time_elapsed": 23.821472644805908
     },
     {
         "realidx": "Text-298",
@@ -928,12 +1232,20 @@
         },
         "answer_idx": "C",
         "answer": "Fryette\u2019s third law",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is \"C\". \n\nFryette\u2019s third law states that when motion is introduced in one plane, it will modify (reduce) motion in the other two planes. This principle explains why the T5 vertebral segment shows restriction in extension and limited mobility in both rotation and sidebending. Given the patient's history of prolonged desk work, it is likely that the biomechanical stress has led to such restrictions.\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2104,
-            "completion_tokens": 2596
+            "completion_tokens": 1692
         },
-        "time_elapsed": 28.908706188201904
+        "time_elapsed": 22.268366813659668
     },
     {
         "realidx": "Text-304",
@@ -952,12 +1264,20 @@
         },
         "answer_idx": "I",
         "answer": "CN VII",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"I\". \n\nThe internal auditory canal (IAC) contains several important structures, including the facial nerve (CN VII), the vestibulocochlear nerve (CN VIII), and their branches. The transverse crest (also known as the falciform crest) divides the IAC into superior and inferior compartments. Bill's Bar is a small bony ridge that separates the superior vestibular nerve from the facial nerve.\n\nGiven the anatomical landmarks described in the question (superior to the transverse crest and anterior to Bill's Bar), the structure that fits this description is the facial nerve (CN VII), specifically the nervus intermedius, which is a part of CN VII.\n\nTherefore, the correct answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 1606,
-            "completion_tokens": 1713
+            "completion_tokens": 2014
         },
-        "time_elapsed": 21.326900005340576
+        "time_elapsed": 28.07798743247986
     },
     {
         "realidx": "Text-315",
@@ -976,12 +1296,20 @@
         },
         "answer_idx": "F",
         "answer": "Midshaft of the left femur",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The question involves a 66-year-old man with a confirmed diagnosis of colorectal cancer, specifically in the descending colon. The question asks for the most likely location of a discrete area of tenderness in this patient.\n\nGiven the options and the context of colorectal cancer, the most common sites for metastasis or related pain would typically be areas associated with the spread of cancer or secondary effects such as bone metastasis or local invasion.\n\nThe solutions provided are:\n- Solution 1: D (Lumbosacral spine)\n- Solution 2: D (Lumbosacral spine)\n- Solution 3: D (Lumbosacral spine)\n- Solution 4: J (Left greater trochanter)\n- Solution 5: J (Left greater trochanter)\n\nThe most frequently occurring answer among the solutions is \"D\" (Lumbosacral spine), appearing in three out of the five solutions.\n\nTherefore, the most consistent and reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2548,
-            "completion_tokens": 2363
+            "completion_tokens": 2339
         },
-        "time_elapsed": 25.35628628730774
+        "time_elapsed": 27.109246492385864
     },
     {
         "realidx": "Text-317",
@@ -1000,12 +1328,20 @@
         },
         "answer_idx": "C",
         "answer": "Granulomatous mastitis",
-        "predicted_answer": "I",
+        "solutions": [
+            "C",
+            "G",
+            "I",
+            "G",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"G\" (Acute non-puerperal mastitis). \n\nHere is the detailed thought process:\n\n1. The patient presents with a history of breast inflammation and purulent nipple discharge, which has recurred despite antibiotic treatment.\n2. She has no recent history of breastfeeding, trauma, or systemic symptoms, and her vital signs are within normal limits.\n3. Physical examination reveals erythema, induration, a tender mass, and a draining sinus tract with purulent discharge, but no axillary lymphadenopathy.\n\nGiven these clinical features, the most likely diagnosis is acute non-puerperal mastitis, which is consistent with the recurrent nature of the symptoms and the presence of purulent discharge. This condition is typically seen in non-lactating women and can present with similar signs and symptoms.\n\nTherefore, the most consistent answer is:\n\nG",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2716,
-            "completion_tokens": 3626
+            "completion_tokens": 3600
         },
-        "time_elapsed": 36.21324610710144
+        "time_elapsed": 37.39428687095642
     },
     {
         "realidx": "Text-320",
@@ -1024,12 +1360,20 @@
         },
         "answer_idx": "F",
         "answer": "Decreased contractility",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is \"H\". \n\nKetamine is known to have sympathomimetic effects, which can lead to an increase in heart rate. This is due to its ability to stimulate the release of catecholamines and inhibit their reuptake, resulting in increased sympathetic nervous system activity. Therefore, the most probable immediate cardiac response to ketamine administration in this patient would be an increased heart rate.\n\nThus, the answer is:\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1696,
-            "completion_tokens": 2183
+            "completion_tokens": 2000
         },
-        "time_elapsed": 25.074448108673096
+        "time_elapsed": 24.772056102752686
     },
     {
         "realidx": "Text-325",
@@ -1048,12 +1392,20 @@
         },
         "answer_idx": "I",
         "answer": "Tip of the right 12th\u00a0rib",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is (E). \n\nThe detailed thought process is as follows:\n- The patient is a 6-year-old boy with symptoms indicative of acute appendicitis, which typically presents with right lower quadrant abdominal pain, vomiting, fever, and elevated white blood cell count.\n- McBurney's point is a specific area in the right lower quadrant of the abdomen, approximately one-third of the distance from the anterior superior iliac spine to the umbilicus, which is commonly tender in cases of acute appendicitis.\n- Given the clinical presentation and the specific area of tenderness, McBurney's point is the most likely area to exhibit tenderness in this patient.\n\nTherefore, the answer is (E).",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2572,
-            "completion_tokens": 2401
+            "completion_tokens": 2356
         },
-        "time_elapsed": 30.661628246307373
+        "time_elapsed": 31.711910486221313
     },
     {
         "realidx": "Text-331",
@@ -1072,12 +1424,20 @@
         },
         "answer_idx": "J",
         "answer": "Prevents depolarization of Na+ channels",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient presents with symptoms of severe nausea, diarrhea, weakness, and tingling in her extremities after consuming exotic fish. These symptoms, along with the physical examination findings of fatigue and diminished reflexes, suggest a neurotoxic effect. The most likely cause is ciguatera poisoning, which is associated with the consumption of certain tropical and subtropical fish.\n\nCiguatoxin, the toxin responsible for ciguatera poisoning, acts by promoting the depolarization of voltage-gated sodium channels, leading to the symptoms described.\n\nGiven the solutions provided, all of them consistently identify the mechanism of action as promoting depolarization of Na+ channels.\n\nTherefore, the most consistent and reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2776,
-            "completion_tokens": 1580
+            "completion_tokens": 1922
         },
-        "time_elapsed": 19.823565244674683
+        "time_elapsed": 22.32920551300049
     },
     {
         "realidx": "Text-335",
@@ -1096,12 +1456,20 @@
         },
         "answer_idx": "E",
         "answer": "Vitamin E",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is \"C\". \n\nThe reasoning behind this choice is that Omega-3 fatty acids are well-documented for their cardiovascular protective effects. They have been shown to reduce triglyceride levels, lower blood pressure, and decrease the risk of heart disease. Given the patient's elevated cholesterol levels and hypertension, Omega-3 fatty acids would be a beneficial supplement to consider for cardiovascular protection.\n\nThus, the answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2980,
-            "completion_tokens": 2849
+            "completion_tokens": 2806
         },
-        "time_elapsed": 36.93183660507202
+        "time_elapsed": 33.39140486717224
     },
     {
         "realidx": "Text-337",
@@ -1120,12 +1488,20 @@
         },
         "answer_idx": "A",
         "answer": "Mesoderm",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The question is asking about the embryological origin of the inflamed gastrointestinal lining in a patient with suspected appendicitis. The appendix is part of the gastrointestinal tract, which is derived from the endoderm layer during embryological development.\n\nGiven the solutions provided:\nSolution 1: J\nSolution 2: J\nSolution 3: J\nSolution 4: J\nSolution 5: J\n\nAll solutions consistently indicate that the correct answer is \"J\".\n\nTherefore, the most reliable solution is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1798,
-            "completion_tokens": 1424
+            "completion_tokens": 1681
         },
-        "time_elapsed": 19.22963571548462
+        "time_elapsed": 21.70026731491089
     },
     {
         "realidx": "Text-339",
@@ -1144,12 +1520,20 @@
         },
         "answer_idx": "J",
         "answer": "Rifampin monotherapy",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2584,
-            "completion_tokens": 2380
+            "completion_tokens": 1711
         },
-        "time_elapsed": 30.01549983024597
+        "time_elapsed": 20.287342071533203
     },
     {
         "realidx": "Text-344",
@@ -1168,12 +1552,20 @@
         },
         "answer_idx": "A",
         "answer": "Union",
+        "solutions": [
+            "E",
+            "J",
+            "J",
+            "E",
+            "J"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\n- Solution 1: E\n- Solution 2: J\n- Solution 3: J\n- Solution 4: E\n- Solution 5: J\n\nBy evaluating the frequency of each answer:\n- E appears 2 times.\n- J appears 3 times.\n\nThe most frequently appearing answer is J.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 1570,
-            "completion_tokens": 2022
+            "completion_tokens": 1985
         },
-        "time_elapsed": 31.336669921875
+        "time_elapsed": 21.980543613433838
     },
     {
         "realidx": "Text-350",
@@ -1192,12 +1584,20 @@
         },
         "answer_idx": "A",
         "answer": "Short course RT (25 Gy in 5 Fx without concurrent 5-FU) followed by surgery within 1 week",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"J\". \n\nEach solution (1 through 5) consistently identifies \"J\" as the appropriate treatment regimen for patients diagnosed with resectable non-metastatic rectal adenocarcinoma. This consistency suggests that \"J\" is the most reliable solution.\n\nTherefore, the answer is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 4204,
-            "completion_tokens": 2111
+            "completion_tokens": 2042
         },
-        "time_elapsed": 23.810689210891724
+        "time_elapsed": 24.790823221206665
     },
     {
         "realidx": "Text-353",
@@ -1216,12 +1616,20 @@
         },
         "answer_idx": "G",
         "answer": "Blurry vision",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"C\" for Bronchiectasis. This is based on the fact that three out of the five solutions (Solution 1, Solution 2, and Solution 3) indicate \"C\" as the answer. \n\nBronchiectasis is a common complication in patients with recurrent pneumonia, especially in the context of an underlying immunodeficiency, which is suggested by the patient's history of multiple pneumonias, chronic diarrhea, and abnormal immunoglobulin levels (low IgA, IgG, and IgE, with elevated IgM). This pattern is indicative of Hyper-IgM syndrome, a condition that predisposes patients to recurrent respiratory infections and subsequent bronchiectasis.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2740,
-            "completion_tokens": 2192
+            "completion_tokens": 2670
         },
-        "time_elapsed": 29.50142765045166
+        "time_elapsed": 30.428736686706543
     },
     {
         "realidx": "Text-355",
@@ -1240,12 +1648,20 @@
         },
         "answer_idx": "I",
         "answer": "Women with low anger expression and hostility have less pain.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"B\". This consistency suggests that the statement \"Chronic pain patients direct most of their anger toward their friends and family members\" is the most accurate description of the relationship between anger and chronic pain patients.\n\nThus, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2512,
-            "completion_tokens": 2201
+            "completion_tokens": 2213
         },
-        "time_elapsed": 25.609586238861084
+        "time_elapsed": 27.20454216003418
     },
     {
         "realidx": "Text-362",
@@ -1264,12 +1680,20 @@
         },
         "answer_idx": "E",
         "answer": "Enteral nutrition can be initiated but should be discontinued if gastrointestinal output is >1500 mL/24 hours.",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "E",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"H\". \n\nExplanation:\n- Solution 1: H\n- Solution 2: H\n- Solution 3: H\n- Solution 4: E\n- Solution 5: H\n\nSince \"H\" appears four times out of five solutions, it is the most consistent answer.\n\nTherefore, the correct answer is:\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3634,
-            "completion_tokens": 3303
+            "completion_tokens": 3445
         },
-        "time_elapsed": 41.90047645568848
+        "time_elapsed": 39.042805910110474
     },
     {
         "realidx": "Text-364",
@@ -1288,12 +1712,20 @@
         },
         "answer_idx": "F",
         "answer": "Type IIIB intra-articular distal tibia fracture",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks which type of tibial injury is most frequently managed with staged open reduction and internal fixation combined with free flap soft tissue reconstruction. The answer choices provided are various types of tibial fractures, each with different characteristics and classifications.\n\nUpon reviewing the solutions provided:\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nAll solutions consistently identify \"B\" as the answer. This consistency suggests that \"B\" is the most reliable solution.\n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2266,
-            "completion_tokens": 2169
+            "completion_tokens": 2348
         },
-        "time_elapsed": 28.612897634506226
+        "time_elapsed": 27.095646619796753
     },
     {
         "realidx": "Text-371",
@@ -1312,12 +1744,20 @@
         },
         "answer_idx": "I",
         "answer": "CD2",
+        "solutions": [
+            "H",
+            "J",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The question describes a 15-year-old boy with fever, malaise, shortness of breath, facial swelling, hepatosplenomegaly, and a significantly elevated white blood cell count. These symptoms and findings are suggestive of a hematologic malignancy, likely acute lymphoblastic leukemia (ALL), which is common in this age group.\n\nIn ALL, the majority of leukocytes are immature lymphoid cells, specifically B-lymphoblasts. The cell surface markers commonly expressed by B-lymphoblasts include CD10 and CD19.\n\nGiven the solutions provided:\n- Solution 1: H (CD10)\n- Solution 2: J (CD19)\n- Solution 3: H (CD10)\n- Solution 4: H (CD10)\n- Solution 5: H (CD10)\n\nThe most frequently occurring answer is H (CD10).\n\nTherefore, the most consistent solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1840,
-            "completion_tokens": 2779
+            "completion_tokens": 2830
         },
-        "time_elapsed": 35.26471209526062
+        "time_elapsed": 32.750489473342896
     },
     {
         "realidx": "Text-38",
@@ -1336,12 +1776,20 @@
         },
         "answer_idx": "B",
         "answer": "Isoflurane set at a concentration of 1% has the same clinical effect at sea level and at higher altitude.",
-        "predicted_answer": "H",
+        "solutions": [
+            "H",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"I\". \n\nThe reasoning behind this is as follows:\n- At higher altitudes, the atmospheric pressure is lower than at sea level.\n- The partial pressure of an inhaled anesthetic is a function of its concentration and the atmospheric pressure.\n- Therefore, at higher altitudes, the same volume percentage of an anesthetic gas will result in a lower partial pressure compared to sea level.\n- To achieve the same clinical effect, which is dependent on the partial pressure of the anesthetic, a higher concentration of the anesthetic gas would be required at higher altitudes.\n\nThus, the correct answer is:\n\nI",
+        "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3814,
-            "completion_tokens": 2760
+            "completion_tokens": 3211
         },
-        "time_elapsed": 33.2058584690094
+        "time_elapsed": 35.829344034194946
     },
     {
         "realidx": "Text-383",
@@ -1360,12 +1808,20 @@
         },
         "answer_idx": "I",
         "answer": "Dysfunction of thermoregulation in the body",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is:\n\nH\n\nExplanation:\nThe 52-year-old woman is experiencing symptoms commonly associated with menopause, such as hot flashes and night sweats. These symptoms are typically due to hormonal changes, specifically the decrease in estrogen levels. The most likely cause of her symptoms is the increased sensitivity of the hypothalamic thermoregulatory centers to temperature changes, which is a well-documented phenomenon during menopause. This increased sensitivity leads to the characteristic hot flashes and night sweats. Therefore, the most consistent and reliable solution is option (H).",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2818,
-            "completion_tokens": 2444
+            "completion_tokens": 2451
         },
-        "time_elapsed": 31.16020941734314
+        "time_elapsed": 27.179612398147583
     },
     {
         "realidx": "Text-384",
@@ -1384,12 +1840,20 @@
         },
         "answer_idx": "J",
         "answer": "Sodium channels of respiratory epithelial cells",
-        "predicted_answer": "E",
+        "solutions": [
+            "F",
+            "F",
+            "E",
+            "F",
+            "E"
+        ],
+        "ensemble_response": "The question describes a genetic defect involving a deletion at codon 508 on chromosome 7, which is characteristic of cystic fibrosis (CF). This deletion affects the CFTR (Cystic Fibrosis Transmembrane Conductance Regulator) protein, leading to its misfolding and retention in the rough endoplasmic reticulum. The CFTR protein functions as a chloride channel in various epithelial cells, including those in the sweat glands, respiratory tract, and pancreas.\n\nIn cystic fibrosis, the defective CFTR protein results in impaired chloride transport across epithelial cell membranes. Specifically, in the sweat glands, the inability to reabsorb chloride leads to elevated chloride levels in sweat.\n\nGiven this information, the most relevant channel activity that would be affected is the chloride channels in epithelial cells of sweat glands.\n\nEvaluating the provided solutions:\n- Solution 1: F\n- Solution 2: F\n- Solution 3: E\n- Solution 4: F\n- Solution 5: E\n\nThe most frequently occurring answer is \"F,\" which corresponds to \"Chloride channels of epithelial cells in sweat glands.\"\n\nTherefore, the most consistent and reliable solution is:\n\nF",
+        "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2374,
-            "completion_tokens": 2024
+            "completion_tokens": 2097
         },
-        "time_elapsed": 25.294647693634033
+        "time_elapsed": 24.534876823425293
     },
     {
         "realidx": "Text-387",
@@ -1408,12 +1872,20 @@
         },
         "answer_idx": "J",
         "answer": "Granular eosinophilic cells",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The patient described in the question has a history of chronic alcohol use, unprotected sexual intercourse, and presents with symptoms of fatigue, joint pain, scleral icterus, and hepatomegaly. Blood tests reveal titers positive for a DNA hepadnavirus, which is indicative of hepatitis B infection. \n\nThe histologic findings in hepatitis B infection typically include ground-glass hepatocytes with cytoplasmic inclusions. This is a characteristic feature of chronic hepatitis B infection, where the hepatocytes appear with a finely granular, eosinophilic cytoplasm due to the presence of hepatitis B surface antigen.\n\nGiven the solutions provided, the answer that appears most frequently is \"I\".\n\nThus, the most consistent solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2914,
-            "completion_tokens": 1941
+            "completion_tokens": 1935
         },
-        "time_elapsed": 24.022090196609497
+        "time_elapsed": 23.31632113456726
     },
     {
         "realidx": "Text-391",
@@ -1432,12 +1904,20 @@
         },
         "answer_idx": "F",
         "answer": "Extent of soft-tissue release",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The solutions provided are all consistent, with each one indicating the same answer. The answer that appears most frequently across all solutions is \"G.\"\n\nTherefore, the most reliable solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1738,
-            "completion_tokens": 2613
+            "completion_tokens": 2482
         },
-        "time_elapsed": 30.545899868011475
+        "time_elapsed": 30.233999013900757
     },
     {
         "realidx": "Text-393",
@@ -1456,12 +1936,20 @@
         },
         "answer_idx": "I",
         "answer": "Bicuspid aortic valve",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most common congenital heart abnormality is the Ventricular Septal Defect (VSD). This is supported by the consistency in the solutions provided, where all solutions (Solution 1 through Solution 5) indicate the same answer.\n\nTherefore, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1756,
-            "completion_tokens": 2146
+            "completion_tokens": 2203
         },
-        "time_elapsed": 26.139952898025513
+        "time_elapsed": 28.004451513290405
     },
     {
         "realidx": "Text-397",
@@ -1480,12 +1968,20 @@
         },
         "answer_idx": "D",
         "answer": "Bradycardia",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about a potential complication that can arise from the rapid insufflation of carbon dioxide (CO2) into the abdominal cavity. The answer choices provided include various physiological responses and complications.\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A.\"\n\nThe most frequent and consistent answer across all solutions is \"A.\"\n\nTherefore, the single letter ID corresponding to the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1540,
-            "completion_tokens": 2550
+            "completion_tokens": 2351
         },
-        "time_elapsed": 28.629337787628174
+        "time_elapsed": 30.49718737602234
     },
     {
         "realidx": "Text-400",
@@ -1504,12 +2000,20 @@
         },
         "answer_idx": "B",
         "answer": "HBsAg",
-        "predicted_answer": "B",
+        "solutions": [
+            "E",
+            "D",
+            "B",
+            "B",
+            "D"
+        ],
+        "ensemble_response": "The most consistent answer across the provided solutions is (D) c-ANCA. \n\nThe patient's presentation with rectal bleeding, crampy abdominal pain, recent weight loss, fever, blood in urine, elevated blood pressure, abdominal tenderness, cutaneous ischemic ulcers, and abnormal renal function tests suggests a systemic vasculitis. Elevated ESR and C-reactive protein further support an inflammatory process. \n\nAmong the options, c-ANCA (cytoplasmic antineutrophil cytoplasmic antibodies) is associated with granulomatosis with polyangiitis (Wegener's granulomatosis), which can present with systemic symptoms including renal involvement, gastrointestinal symptoms, and cutaneous manifestations. \n\nTherefore, the most consistent and likely correct answer is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2968,
-            "completion_tokens": 3127
+            "completion_tokens": 3137
         },
-        "time_elapsed": 35.700597524642944
+        "time_elapsed": 36.57762336730957
     },
     {
         "realidx": "Text-402",
@@ -1528,12 +2032,20 @@
         },
         "answer_idx": "J",
         "answer": "Acute papillary necrosis",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2464,
-            "completion_tokens": 3546
+            "completion_tokens": 3616
         },
-        "time_elapsed": 40.1613028049469
+        "time_elapsed": 40.18253421783447
     },
     {
         "realidx": "Text-404",
@@ -1552,12 +2064,20 @@
         },
         "answer_idx": "E",
         "answer": "60 - 90%",
+        "solutions": [
+            "A",
+            "H",
+            "A",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently among the provided solutions. Here are the solutions:\n\n- Solution 1: A\n- Solution 2: H\n- Solution 3: A\n- Solution 4: H\n- Solution 5: H\n\nCounting the frequency of each answer:\n- A appears 2 times.\n- H appears 3 times.\n\nThe answer that appears most frequently is H. Therefore, the most consistent solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1810,
-            "completion_tokens": 1586
+            "completion_tokens": 1839
         },
-        "time_elapsed": 23.536492347717285
+        "time_elapsed": 21.728625774383545
     },
     {
         "realidx": "Text-405",
@@ -1576,12 +2096,20 @@
         },
         "answer_idx": "B",
         "answer": "Topiramate",
-        "predicted_answer": "G",
+        "solutions": [
+            "C",
+            "D",
+            "D",
+            "C",
+            "G"
+        ],
+        "ensemble_response": "To determine the most consistent solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: C\n- Solution 2: D\n- Solution 3: D\n- Solution 4: C\n- Solution 5: G\n\nNow, let's count the occurrences of each answer:\n- C: 2 times\n- D: 2 times\n- G: 1 time\n\nBoth C and D appear most frequently, each with 2 occurrences. Since there is a tie, I will consider the context of the question, which asks for a medication with limited evidence of effectiveness in managing pediatric bipolar disorder. \n\nGiven the options, medications like Tiagabine (C) and Felbamate (D) are not commonly used for pediatric bipolar disorder and have limited evidence supporting their effectiveness in this condition. However, Felbamate (D) is particularly known for its limited use due to its severe side effect profile, which might make it less likely to be considered effective.\n\nTherefore, the most consistent and contextually appropriate answer is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1534,
-            "completion_tokens": 2102
+            "completion_tokens": 2165
         },
-        "time_elapsed": 24.300716638565063
+        "time_elapsed": 24.33905863761902
     },
     {
         "realidx": "Text-413",
@@ -1600,12 +2128,20 @@
         },
         "answer_idx": "A",
         "answer": "100% intermediate squamous cells",
+        "solutions": [
+            "G",
+            "D",
+            "G",
+            "D",
+            "G"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"G\". This consistency suggests that the cytological pattern most characteristic of the pap smear findings during pregnancy is \"Navicular cells with glycogen accumulation\".\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2824,
-            "completion_tokens": 1839
+            "completion_tokens": 1884
         },
-        "time_elapsed": 20.25711226463318
+        "time_elapsed": 23.256629467010498
     },
     {
         "realidx": "Text-42",
@@ -1624,12 +2160,20 @@
         },
         "answer_idx": "C",
         "answer": "Prostate cancer",
+        "solutions": [
+            "C",
+            "F",
+            "C",
+            "A",
+            "C"
+        ],
+        "ensemble_response": "The question describes a 28-year-old female with a history of unsuccessful conception attempts, previous abdominal surgery, and a family history of endocrine disorders. She is prescribed a medication to be administered intermittently, one week before her expected menstrual cycle. The question then asks which condition could potentially be treated with the same medication if administered using a different dosing regimen.\n\nThe answer choices provided are:\n(A) Breast cancer\n(B) Hirsutism\n(C) Prostate cancer\n(D) Uterine fibroids\n(E) Diabetes\n(F) Central precocious puberty\n(G) Pituitary adenomas\n(H) Hypothalamic amenorrhea\n(I) Gender dysphoria\n(J) Polycystic ovarian syndrome\n\nThe solutions provided are:\nSolution 1: C\nSolution 2: F\nSolution 3: C\nSolution 4: A\nSolution 5: C\n\nTo determine the most reliable solution, we look for the answer that appears most frequently across the solutions. In this case, the answer \"C\" appears three times (Solution 1, Solution 3, and Solution 5).\n\nTherefore, the most consistent solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2104,
-            "completion_tokens": 2660
+            "completion_tokens": 2735
         },
-        "time_elapsed": 29.21298861503601
+        "time_elapsed": 29.40591788291931
     },
     {
         "realidx": "Text-423",
@@ -1648,12 +2192,20 @@
         },
         "answer_idx": "A",
         "answer": "Acute angle branching fungus",
+        "solutions": [
+            "D",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is (B) Trematode from undercooked fish. \n\nThe patient's symptoms, including fever, weight loss, reduced appetite, right upper quadrant abdominal pain, jaundice, and an enlarged liver, along with the elevated alpha-fetoprotein level, suggest a liver pathology. The patient's history of emigration from Malaysia, a region where liver flukes (trematodes) are endemic, supports the likelihood of an infection with a trematode, such as Clonorchis sinensis or Opisthorchis viverrini, which are known to be acquired from consuming undercooked fish. These parasites can cause chronic infection leading to liver damage and are associated with an increased risk of cholangiocarcinoma, which could explain the elevated alpha-fetoprotein level.\n\nTherefore, the most consistent and likely answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2638,
-            "completion_tokens": 2582
+            "completion_tokens": 3058
         },
-        "time_elapsed": 37.02837300300598
+        "time_elapsed": 32.93188977241516
     },
     {
         "realidx": "Text-425",
@@ -1672,12 +2224,20 @@
         },
         "answer_idx": "J",
         "answer": "Fat malabsorption",
+        "solutions": [
+            "B",
+            "I",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question describes a 55-year-old woman with hyperlipidemia and obesity, who is being considered for a medication that promotes cholesterol consumption by the liver for bile salt synthesis. The medication in question is likely a bile acid sequestrant, such as cholestyramine, colestipol, or colesevelam. These medications work by binding bile acids in the intestine, preventing their reabsorption, and thus promoting the liver to use more cholesterol to produce bile acids.\n\nOne of the known adverse effects of bile acid sequestrants is the increased risk of gallstone formation. This is because the increased conversion of cholesterol to bile acids can lead to an increased concentration of cholesterol in the bile, which can precipitate and form gallstones.\n\nGiven the solutions provided:\nSolution 1: B\nSolution 2: I\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nThe most frequently occurring answer is \"B,\" which corresponds to gallstones.\n\nTherefore, the most consistent and reliable solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2344,
-            "completion_tokens": 2312
+            "completion_tokens": 2538
         },
-        "time_elapsed": 28.338393211364746
+        "time_elapsed": 26.602412700653076
     },
     {
         "realidx": "Text-433",
@@ -1696,12 +2256,20 @@
         },
         "answer_idx": "H",
         "answer": "Indomethacin",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The patient described in the question is experiencing headaches that are severe, unilateral, and associated with autonomic symptoms such as redness and watering of the eye. These characteristics are highly suggestive of cluster headaches. Cluster headaches are typically treated with abortive therapies, and one of the most effective treatments for acute cluster headache attacks is sumatriptan.\n\nGiven that all the solutions provided (Solutions 1 through 5) consistently identify sumatriptan (J) as the drug of choice, it is clear that this is the most reliable solution.\n\nTherefore, the answer is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2224,
-            "completion_tokens": 2629
+            "completion_tokens": 2151
         },
-        "time_elapsed": 34.68814492225647
+        "time_elapsed": 26.001994609832764
     },
     {
         "realidx": "Text-440",
@@ -1720,12 +2288,20 @@
         },
         "answer_idx": "H",
         "answer": "20% for both daily and BID",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"H\". \n\nTherefore, the answer is:\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2674,
-            "completion_tokens": 1379
+            "completion_tokens": 1542
         },
-        "time_elapsed": 19.613136053085327
+        "time_elapsed": 20.405317306518555
     },
     {
         "realidx": "Text-450",
@@ -1744,12 +2320,20 @@
         },
         "answer_idx": "J",
         "answer": "Primary neuronal dysfunction.",
+        "solutions": [
+            "J",
+            "D",
+            "H",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2110,
-            "completion_tokens": 2701
+            "completion_tokens": 2620
         },
-        "time_elapsed": 31.340927600860596
+        "time_elapsed": 33.39641046524048
     },
     {
         "realidx": "Text-451",
@@ -1768,12 +2352,20 @@
         },
         "answer_idx": "D",
         "answer": "L2 neutral, sidebent right, rotated left",
+        "solutions": [
+            "F",
+            "J",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"F\". \n\nThe Still technique involves positioning the patient in the position of ease (where the somatic dysfunction is most relaxed) before applying a vector force and then moving the patient through the restriction back to neutral. Given the description of the somatic dysfunction (transverse processes of L1-L3 more anterior on the left, restricted in right sidebending), the position of ease would be sidebent left and rotated left. \n\nTherefore, the correct answer is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3094,
-            "completion_tokens": 1550
+            "completion_tokens": 1839
         },
-        "time_elapsed": 18.299165964126587
+        "time_elapsed": 21.94767451286316
     },
     {
         "realidx": "Text-458",
@@ -1792,12 +2384,20 @@
         },
         "answer_idx": "F",
         "answer": "Sargramostim",
+        "solutions": [
+            "D",
+            "F",
+            "D",
+            "F",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is (D) Oprelvekin. \n\nOprelvekin, also known as Interleukin-11, is used to stimulate platelet production and is known to cause side effects such as fluid retention, tachycardia, and hypotension, which align with the symptoms described in the patient after receiving the medication. Given the patient's low platelet count and the need to avoid altering her effective antiretroviral therapy, Oprelvekin would be a reasonable choice to improve her blood cell counts. The consistency of the answer (D) across multiple solutions further supports this conclusion.\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3088,
-            "completion_tokens": 2687
+            "completion_tokens": 2843
         },
-        "time_elapsed": 31.755271196365356
+        "time_elapsed": 30.401061296463013
     },
     {
         "realidx": "Text-459",
@@ -1816,12 +2416,20 @@
         },
         "answer_idx": "C",
         "answer": "Ischemic heart disease",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"E\". \n\nAdvanced glycation end-products (AGEs) are proteins or lipids that become glycated after exposure to sugars. They play a significant role in the development of diabetic complications. Among the listed complications, cataracts are primarily caused by the accumulation of AGEs in the lens of the eye, leading to lens opacification and cataract formation.\n\nTherefore, the answer is:\n\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2098,
-            "completion_tokens": 2111
+            "completion_tokens": 2426
         },
-        "time_elapsed": 23.085681915283203
+        "time_elapsed": 31.606935262680054
     },
     {
         "realidx": "Text-464",
@@ -1840,12 +2448,20 @@
         },
         "answer_idx": "E",
         "answer": "Flex to C6, rotate to the right, sidebend to the right",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "E"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"C\". \n\nHere is the detailed thought process:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: E\n\nThe answer \"C\" appears four times, while the answer \"E\" appears only once. Therefore, the most consistent solution is \"C\".\n\nThus, the single letter ID corresponding to the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3562,
-            "completion_tokens": 2247
+            "completion_tokens": 2690
         },
-        "time_elapsed": 25.551643133163452
+        "time_elapsed": 31.425331592559814
     },
     {
         "realidx": "Text-467",
@@ -1864,12 +2480,20 @@
         },
         "answer_idx": "C",
         "answer": "Long-term use causes symptomatic relief in soft tissue injury mainly by a strong placebo effect",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"F\". \n\nExplanation:\n- Topical NSAIDs, such as diclofenac gel, are designed to provide localized pain relief with minimal systemic absorption.\n- This localized application results in fewer gastrointestinal side effects compared to oral NSAIDs, which are known to cause gastrointestinal issues due to systemic absorption and direct irritation of the gastrointestinal lining.\n\nTherefore, the correct answer is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3328,
-            "completion_tokens": 2577
+            "completion_tokens": 2666
         },
-        "time_elapsed": 34.77670168876648
+        "time_elapsed": 28.71251368522644
     },
     {
         "realidx": "Text-472",
@@ -1888,12 +2512,20 @@
         },
         "answer_idx": "E",
         "answer": "Lack of empathy by provider",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The task requires identifying the most commonly reported concern by patients under the care of an orthopedic surgeon from a list of options. Several solutions have been provided, and the goal is to determine the most consistent answer among them.\n\nThe solutions provided are:\nSolution 1: G\nSolution 2: G\nSolution 3: G\nSolution 4: G\nSolution 5: G\n\nAll the solutions consistently indicate the same answer, which is \"G.\"\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1870,
-            "completion_tokens": 2337
+            "completion_tokens": 2364
         },
-        "time_elapsed": 26.000696659088135
+        "time_elapsed": 30.066027402877808
     },
     {
         "realidx": "Text-479",
@@ -1912,12 +2544,20 @@
         },
         "answer_idx": "A",
         "answer": "10 cm proximal to radiocapitellar joint",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The question asks where the radial nerve transitions from the posterior compartment of the arm to the anterior compartment. The radial nerve travels through various anatomical landmarks in the arm, and the correct answer should reflect the point where it moves from the posterior to the anterior compartment.\n\nThe provided solutions all consistently indicate \"F\" as the answer. This suggests that the radial nerve transitions at the lateral intermuscular septum, which is a known anatomical landmark where the nerve moves from the posterior to the anterior compartment.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2026,
-            "completion_tokens": 839
+            "completion_tokens": 951
         },
-        "time_elapsed": 13.301455020904541
+        "time_elapsed": 14.637641668319702
     },
     {
         "realidx": "Text-489",
@@ -1936,12 +2576,20 @@
         },
         "answer_idx": "F",
         "answer": "It describes the formation of a lethal lesion that results from the interaction of two proximate  sublesions formed by the same charged particle track",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is \"B\". \n\nIn the context of the linear quadratic model, the \u03b1D component typically represents the formation of lethal lesions due to the repair failure of a single complex DNA lesion induced by a single charged particle track. This is consistent with the description provided in option (B).\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 4246,
-            "completion_tokens": 4014
+            "completion_tokens": 3774
         },
-        "time_elapsed": 45.33846044540405
+        "time_elapsed": 40.24676823616028
     },
     {
         "realidx": "Text-491",
@@ -1960,12 +2608,20 @@
         },
         "answer_idx": "H",
         "answer": "SBRT followed by chemotherapy",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the appropriate treatment option for a patient diagnosed with stage IA small cell lung cancer (SCLC) is (B) Surgery followed by adjuvant chemotherapy.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2008,
-            "completion_tokens": 2644
+            "completion_tokens": 2283
         },
-        "time_elapsed": 30.722398042678833
+        "time_elapsed": 26.93311333656311
     },
     {
         "realidx": "Text-505",
@@ -1984,12 +2640,20 @@
         },
         "answer_idx": "E",
         "answer": "Two",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". Each solution consistently identifies \"D\" as the correct answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1492,
-            "completion_tokens": 1755
+            "completion_tokens": 1457
         },
-        "time_elapsed": 26.094329595565796
+        "time_elapsed": 18.24984097480774
     },
     {
         "realidx": "Text-513",
@@ -2008,12 +2672,20 @@
         },
         "answer_idx": "A",
         "answer": "no difference in outcomes",
-        "predicted_answer": "J",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the post-operative outcome measure that showed deterioration when using the oblique rectus snip technique compared to the traditional medial parapatellar approach in revision total knee arthroplasty procedures. The answer choices provided cover a range of potential outcomes.\n\nTo determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Here are the solutions given:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate \"D\" as the answer. This consistency suggests that \"D\" is the most reliable solution.\n\nTherefore, the answer is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1846,
-            "completion_tokens": 2579
+            "completion_tokens": 2636
         },
-        "time_elapsed": 30.0781672000885
+        "time_elapsed": 28.1049587726593
     },
     {
         "realidx": "Text-52",
@@ -2032,12 +2704,20 @@
         },
         "answer_idx": "D",
         "answer": "Stems that are precoated with polymethylmethacrylate",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions provided is \"I\". \n\nThe detailed thought process involves evaluating the factors that can lead to the failure of the femoral component in a cemented total hip arthroplasty. Among the options, a thin cement mantle less than 1 millimeter in thickness (Option I) is a well-documented risk factor for component failure. This is because a thin cement mantle can lead to inadequate support and increased stress on the cement, which can result in cracks and eventual failure of the component.\n\nTherefore, the most consistent and reliable solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2260,
-            "completion_tokens": 2336
+            "completion_tokens": 2448
         },
-        "time_elapsed": 32.06729435920715
+        "time_elapsed": 27.471413135528564
     },
     {
         "realidx": "Text-522",
@@ -2056,12 +2736,20 @@
         },
         "answer_idx": "J",
         "answer": "Simple ulnar nerve decompression at the cubital tunnel",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"H\". This consistency suggests that the most appropriate surgical procedure to address the patient's symptoms while minimizing potential complications is:\n\n(H) Ulnar nerve decompression at the cubital tunnel with anterior subcutaneous transposition",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3064,
-            "completion_tokens": 3208
+            "completion_tokens": 3521
         },
-        "time_elapsed": 36.200210094451904
+        "time_elapsed": 39.57654333114624
     },
     {
         "realidx": "Text-523",
@@ -2080,12 +2768,20 @@
         },
         "answer_idx": "F",
         "answer": "Glycopyrrolate",
+        "solutions": [
+            "B",
+            "A",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"B\". \n\nTo determine this, I evaluated the frequency of each answer:\n- Solution 1: B\n- Solution 2: A\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nThe answer \"B\" appears four times, while \"A\" appears only once. Therefore, the most reliable solution based on consistency is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2374,
-            "completion_tokens": 3010
+            "completion_tokens": 3068
         },
-        "time_elapsed": 34.49000120162964
+        "time_elapsed": 33.984944581985474
     },
     {
         "realidx": "Text-530",
@@ -2104,12 +2800,20 @@
         },
         "answer_idx": "J",
         "answer": "Eosinophilic casts",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The patient is a 57-year-old woman with a history of recurrent kidney stones and type 2 diabetes mellitus, presenting with fatigue, intermittent fevers, and tenderness over the left costovertebral angle. These symptoms, along with her recent treatment for a urinary tract infection that did not fully resolve, suggest a possible ongoing kidney infection or pyelonephritis.\n\nGiven the clinical presentation and the history, the most likely histologic finding in a kidney biopsy would be indicative of an acute or chronic infection. Among the provided options, the most consistent histologic finding in the context of an ongoing kidney infection would be:\n\n(I) Neutrophilic infiltrate of the renal interstitium\n\nThis is because neutrophils are the primary cells involved in acute bacterial infections, and their presence in the renal interstitium would be consistent with pyelonephritis.\n\nTherefore, the most consistent solution across the provided answers is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2872,
-            "completion_tokens": 2583
+            "completion_tokens": 3096
         },
-        "time_elapsed": 30.842053413391113
+        "time_elapsed": 33.154494285583496
     },
     {
         "realidx": "Text-534",
@@ -2128,12 +2832,20 @@
         },
         "answer_idx": "J",
         "answer": "Comminuted fracture at or above the level of the syndesmosis",
-        "predicted_answer": "J",
+        "solutions": [
+            "D",
+            "D",
+            "J",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The Lauge-Hansen classification system is used to categorize ankle fractures based on the mechanism of injury. In a pronation-abduction type ankle injury, the characteristic pattern of fibular fracture is typically a short oblique fracture extending proximally.\n\nUpon reviewing the provided solutions:\n- Solution 1: D\n- Solution 2: D\n- Solution 3: J\n- Solution 4: D\n- Solution 5: D\n\nThe answer that appears most frequently across these solutions is \"D\".\n\nTherefore, the most consistent and reliable solution is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2392,
-            "completion_tokens": 1409
+            "completion_tokens": 2078
         },
-        "time_elapsed": 20.290225744247437
+        "time_elapsed": 25.709702014923096
     },
     {
         "realidx": "Text-54",
@@ -2152,12 +2864,20 @@
         },
         "answer_idx": "G",
         "answer": "Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is (G) Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide.\n\nExplanation:\nThe therapeutic ratio in radiation therapy refers to the balance between the probability of tumor control and the probability of normal tissue complications. A decrease in the therapeutic ratio means that the treatment is more likely to cause harm to normal tissues relative to its effectiveness in controlling the tumor.\n\nThe addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide, can increase the toxicity to normal tissues without a proportional increase in tumor control, thereby decreasing the therapeutic ratio. This is because alkylating agents are non-selective and can damage both cancerous and healthy cells, leading to increased side effects and complications.\n\nTherefore, the consistent answer (G) is the most reliable solution.",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2584,
-            "completion_tokens": 2725
+            "completion_tokens": 2789
         },
-        "time_elapsed": 29.888420343399048
+        "time_elapsed": 33.35392212867737
     },
     {
         "realidx": "Text-543",
@@ -2176,12 +2896,20 @@
         },
         "answer_idx": "A",
         "answer": "Elevation of liver enzymes",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is \"G\". \n\nThe question describes a 2-year-old girl with a stage II Wilms tumor who is being treated with a chemotherapeutic agent that binds to DNA, inhibits RNA synthesis, and does not affect topoisomerase activity. The most common adverse effect associated with such chemotherapeutic agents, particularly those that bind to DNA and inhibit RNA synthesis, is myelosuppression. This is a well-known side effect of many chemotherapeutic drugs, including those used in the treatment of Wilms tumor.\n\nTherefore, the most reliable solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2188,
-            "completion_tokens": 2090
+            "completion_tokens": 1736
         },
-        "time_elapsed": 30.04872727394104
+        "time_elapsed": 22.67914581298828
     },
     {
         "realidx": "Text-57",
@@ -2200,12 +2928,20 @@
         },
         "answer_idx": "I",
         "answer": "Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"I\". \n\nTherefore, the optimal configuration for the surgical fixation of subcapital femoral neck fractures is:\n\n(I) Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2914,
-            "completion_tokens": 1522
+            "completion_tokens": 1336
         },
-        "time_elapsed": 19.092900037765503
+        "time_elapsed": 19.1665256023407
     },
     {
         "realidx": "Text-6",
@@ -2224,12 +2960,20 @@
         },
         "answer_idx": "H",
         "answer": "66 Gy",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: H\nSolution 2: H\nSolution 3: H\nSolution 4: H\nSolution 5: H\n\nAll the solutions consistently indicate the same answer, which is H. Therefore, the most reliable solution based on the consistency of the answers is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1510,
-            "completion_tokens": 2016
+            "completion_tokens": 1937
         },
-        "time_elapsed": 23.245457410812378
+        "time_elapsed": 25.014071464538574
     },
     {
         "realidx": "Text-61",
@@ -2248,12 +2992,20 @@
         },
         "answer_idx": "D",
         "answer": "Great toe dorsiflexion",
-        "predicted_answer": "A",
+        "solutions": [
+            "F",
+            "D",
+            "D",
+            "F",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: F\n- Solution 2: D\n- Solution 3: D\n- Solution 4: F\n- Solution 5: A\n\nNow, let's count the frequency of each answer:\n- F appears in Solution 1 and Solution 4 (2 times)\n- D appears in Solution 2 and Solution 3 (2 times)\n- A appears in Solution 5 (1 time)\n\nThe answers F and D both appear most frequently, each with 2 occurrences. Since there is a tie, I will consider the anatomical context to determine the most appropriate answer.\n\nAn iliosacral screw penetrating through the sacral ala could potentially affect the sacral nerve roots. The sacral nerve roots (S1-S4) are involved in various lower limb movements. Specifically:\n- The S1 nerve root is primarily responsible for ankle plantar flexion and great toe dorsiflexion.\n- The S2 nerve root contributes to knee flexion.\n\nGiven that both F (knee flexion) and D (great toe dorsiflexion) are plausible, the more likely movement to be weakened due to anterior penetration through the sacral ala would be great toe dorsiflexion, as the S1 nerve root is more directly involved.\n\nTherefore, the most consistent and anatomically appropriate answer is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1594,
-            "completion_tokens": 2964
+            "completion_tokens": 3188
         },
-        "time_elapsed": 33.70829772949219
+        "time_elapsed": 35.283573150634766
     },
     {
         "realidx": "Text-76",
@@ -2272,12 +3024,20 @@
         },
         "answer_idx": "F",
         "answer": "Activation of ATM",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The phosphorylation of \u03b3H2AX is a well-known marker for the presence of DNA double-strand breaks (DSBs). When DSBs occur, the histone variant H2AX is rapidly phosphorylated at the site of damage, forming \u03b3H2AX. This phosphorylation event is crucial for the recruitment of various DNA repair proteins to the site of damage, including the MRN complex (Mre11-Rad50-Nbs1), which plays a key role in the detection and repair of DSBs.\n\nGiven the solutions provided, all of them consistently identify the answer as (D) Recruitment of MRN complex. This consistency strongly suggests that the correct answer is indeed (D).\n\nTherefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1744,
-            "completion_tokens": 2731
+            "completion_tokens": 2473
         },
-        "time_elapsed": 33.63846802711487
+        "time_elapsed": 33.68553829193115
     },
     {
         "realidx": "Text-77",
@@ -2296,12 +3056,20 @@
         },
         "answer_idx": "D",
         "answer": "Patients with a laterally bowed fifth metatarsal, no keratotic lesions, and a normal 4-5 intermetatarsal angle",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "E",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"C\". This is because four out of the five solutions (Solution 1, Solution 2, Solution 3, and Solution 5) indicate \"C\" as the appropriate answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3826,
-            "completion_tokens": 3628
+            "completion_tokens": 3781
         },
-        "time_elapsed": 35.7193169593811
+        "time_elapsed": 41.325703382492065
     },
     {
         "realidx": "Text-81",
@@ -2320,12 +3088,20 @@
         },
         "answer_idx": "F",
         "answer": "L1 anterior lumbar tender point",
+        "solutions": [
+            "I",
+            "G",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"I\". \n\nTo determine this, I reviewed each solution:\n- Solution 1: I\n- Solution 2: G\n- Solution 3: I\n- Solution 4: I\n- Solution 5: I\n\nThe answer \"I\" appears four times, while \"G\" appears only once. Therefore, the most frequent and reliable solution is \"I\".\n\nThus, the single letter ID corresponding to the most consistent solution is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2596,
-            "completion_tokens": 2722
+            "completion_tokens": 2926
         },
-        "time_elapsed": 35.199482440948486
+        "time_elapsed": 31.549080848693848
     },
     {
         "realidx": "Text-82",
@@ -2344,12 +3120,20 @@
         },
         "answer_idx": "B",
         "answer": "5-FU and mitomycin",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"B\". This consistency suggests that the appropriate radiosensitizing chemotherapy regimen for patients with muscle-invasive bladder cancer (MIBC) undergoing chemo-radiotherapy (chemoRT) and no other significant comorbidities is 5-FU and mitomycin.\n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2188,
-            "completion_tokens": 2157
+            "completion_tokens": 2301
         },
-        "time_elapsed": 28.811728477478027
+        "time_elapsed": 26.0288245677948
     },
     {
         "realidx": "Text-90",
@@ -2368,12 +3152,20 @@
         },
         "answer_idx": "G",
         "answer": "Basaloid carcinoma",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"J\". \n\nThe patient's presentation of anal bleeding, mucoid discharge, and a mass within the anal canal, along with the anoscopy findings of an erythematous, irregular mass above the dentate line, are highly suggestive of squamous cell carcinoma. This type of carcinoma is the most common histologic type of anal cancer, particularly in the region above the dentate line. Given the consistency of the answers and the clinical presentation, the most reliable solution is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2770,
-            "completion_tokens": 2553
+            "completion_tokens": 2450
         },
-        "time_elapsed": 28.636548280715942
+        "time_elapsed": 28.399646282196045
     },
     {
         "realidx": "Text-94",
@@ -2392,11 +3184,19 @@
         },
         "answer_idx": "E",
         "answer": "Annual echocardiogram",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"E\". \n\nGiven the context of the question, a 13-year-old athlete with a family history of hypertrophic cardiomyopathy (HCM) and an unremarkable physical exam and electrocardiogram, the most appropriate screening recommendation is an annual echocardiogram. This is because HCM can develop over time, and regular monitoring is essential to detect any changes early, especially given the family history of the condition.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2398,
-            "completion_tokens": 2044
+            "completion_tokens": 2398
         },
-        "time_elapsed": 26.336275339126587
+        "time_elapsed": 26.043712377548218
     }
 ]

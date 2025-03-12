@@ -42,12 +42,13 @@
             "correct next action",
             "resident to take"
         ],
+        "raw_response": "Answer: Disclose the error to the patient and put it in the operative report",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1084,
-            "completion_tokens": 19
+            "completion_tokens": 17
         },
-        "time_elapsed": 0.9676971435546875
+        "time_elapsed": 1.56611967086792
     },
     {
         "realidx": 5,
@@ -84,12 +85,13 @@
             "first step",
             "management"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Labetalol",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1052,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.941857099533081
+        "time_elapsed": 1.3600661754608154
     },
     {
         "realidx": 6,
@@ -122,12 +124,13 @@
             "most likely underlying cause",
             "patient's condition"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Benign prostatic hyperplasia",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1031,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.885857105255127
+        "time_elapsed": 1.47088623046875
     },
     {
         "realidx": 33,
@@ -161,12 +164,13 @@
             "following",
             "most likely underlying cause"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Proliferation of gastric mucus-producing cells",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1063,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 0.746910810470581
+        "time_elapsed": 1.657806158065796
     },
     {
         "realidx": 34,
@@ -241,12 +245,13 @@
             "best next step",
             "management"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Insulin, potassium, IV fluids, and glucose",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1242,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 0.8251490592956543
+        "time_elapsed": 1.6295969486236572
     },
     {
         "realidx": 44,
@@ -309,12 +314,13 @@
             "present",
             "patient"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Globular 10-week sized uterus",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1174,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 0.7102017402648926
+        "time_elapsed": 1.1803438663482666
     },
     {
         "realidx": 59,
@@ -366,12 +372,13 @@
             "most consistent with",
             "patients condition"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Patients can have a history of both anorexia and bulimia",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1126,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 0.8537750244140625
+        "time_elapsed": 1.4058592319488525
     },
     {
         "realidx": 64,
@@ -427,12 +434,13 @@
             "most appropriate",
             "patient"
         ],
+        "raw_response": "Answer: Disruption of cell membrane permeability\n\nThis patient's presentation is consistent with oral thrush (candidiasis), which is characterized by white pseudomembranes in the mouth that can be wiped away, revealing erythematous mucosa. The most appropriate treatment for oral thrush is an antifungal medication, such as fluconazole or nystatin, which works by disrupting cell membrane permeability of the Candida species.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1138,
-            "completion_tokens": 85
+            "completion_tokens": 86
         },
-        "time_elapsed": 1.3470633029937744
+        "time_elapsed": 2.0155465602874756
     },
     {
         "realidx": 81,
@@ -473,12 +481,13 @@
             "most abnormal",
             "patient"
         ],
+        "raw_response": "Answer: Cyclin-dependent kinase 4\n\nThe patient's presentation suggests a possible neoplastic process, and the mention of a characteristic change in chromosome 18 is indicative of certain tumors, such as those associated with cyclin-dependent kinase dysregulation. Cyclin-dependent kinase 4 (CDK4) is involved in cell cycle regulation, and abnormalities in its regulation can lead to uncontrolled cell proliferation, which aligns with the patient's symptoms of chronic fatigue and the presence of enlarged nodules.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1051,
-            "completion_tokens": 94
+            "completion_tokens": 97
         },
-        "time_elapsed": 1.7193939685821533
+        "time_elapsed": 1.8100254535675049
     },
     {
         "realidx": 112,
@@ -538,12 +547,13 @@
             "pathophysiology",
             "patient's chief complaint"
         ],
+        "raw_response": "Answer: Decreased lower esophageal tone",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1135,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.9056987762451172
+        "time_elapsed": 1.2791762351989746
     },
     {
         "realidx": 114,
@@ -602,12 +612,13 @@
             "changes seen",
             "patient's labs"
         ],
+        "raw_response": "Answer: Diarrhea",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1138,
-            "completion_tokens": 76
+            "completion_tokens": 6
         },
-        "time_elapsed": 1.3240888118743896
+        "time_elapsed": 1.5515694618225098
     },
     {
         "realidx": 128,
@@ -667,12 +678,13 @@
             "st likely t  c nfirm t",
             "agnosis?\""
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Perifascicular and perivascular infiltration on muscle biopsy",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1211,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 0.8320908546447754
+        "time_elapsed": 1.4168016910552979
     },
     {
         "realidx": 145,
@@ -719,12 +731,13 @@
             "most likely to show",
             "following findings"
         ],
+        "raw_response": "Answer: Subepithelial dense deposits on electron microscopy\n\nThis clinical presentation is suggestive of minimal change disease, which is characterized by nephrotic syndrome in children, including symptoms such as facial swelling, edema, and significant proteinuria. The renal biopsy in minimal change disease typically shows normal findings on light microscopy but may reveal subepithelial dense deposits on electron microscopy.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1147,
-            "completion_tokens": 75
+            "completion_tokens": 76
         },
-        "time_elapsed": 1.2624571323394775
+        "time_elapsed": 1.5106337070465088
     },
     {
         "realidx": 149,
@@ -782,12 +795,13 @@
             "toxins",
             "organism"
         ],
+        "raw_response": "Answer: Immunoglobulin- IgG",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1134,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.9028396606445312
+        "time_elapsed": 0.9461343288421631
     },
     {
         "realidx": 155,
@@ -853,12 +867,13 @@
             "patient",
             "ymptoms?"
         ],
+        "raw_response": "Answer: Synthetic cathinone intoxication",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1175,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.8448538780212402
+        "time_elapsed": 1.0367012023925781
     },
     {
         "realidx": 160,
@@ -919,12 +934,13 @@
             "patient",
             "infections"
         ],
-        "predicted_answer": "B",
+        "raw_response": "Answer: 1 and 2\n\nIn patients with sickle cell disease, the spleen is often affected due to repeated splenic infarctions, leading to functional asplenia or hyposplenism. The areas marked as zones 1 and 2 typically represent the red pulp and marginal zone of the spleen, which are crucial for filtering blood and mounting an immune response against encapsulated organisms. Dysfunction in these areas predisposes the patient to infections from encapsulated bacteria such as Neisseria meningitidis, Haemophilus influenzae, and Streptococcus pneumoniae.",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1142,
-            "completion_tokens": 105
+            "completion_tokens": 119
         },
-        "time_elapsed": 1.6073594093322754
+        "time_elapsed": 1.8616912364959717
     },
     {
         "realidx": 171,
@@ -976,12 +992,13 @@
             "observed",
             "fetus"
         ],
+        "raw_response": "Answer: Cleft palate",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1130,
             "completion_tokens": 6
         },
-        "time_elapsed": 0.9004600048065186
+        "time_elapsed": 1.223031997680664
     },
     {
         "realidx": 178,
@@ -1028,12 +1045,13 @@
             "seen",
             "patient"
         ],
+        "raw_response": "Answer: Spastic paralysis at the level of lesion",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1084,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 0.8617541790008545
+        "time_elapsed": 0.9081051349639893
     },
     {
         "realidx": 196,
@@ -1075,12 +1093,13 @@
             "following anticoagulants",
             "patient most likely"
         ],
+        "raw_response": "Answer: Enoxaparin",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1055,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.0127689838409424
+        "time_elapsed": 1.90043044090271
     },
     {
         "realidx": 198,
@@ -1129,12 +1148,13 @@
             "treated",
             "drug"
         ],
+        "raw_response": "Answer: Polycystic ovarian syndrome",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1075,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.9342920780181885
+        "time_elapsed": 1.0933866500854492
     },
     {
         "realidx": 202,
@@ -1189,12 +1209,13 @@
             "most likely initial metastatic site",
             "patient"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Cervical lymph nodes",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1100,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.796215295791626
+        "time_elapsed": 2.9541070461273193
     },
     {
         "realidx": 203,
@@ -1247,12 +1268,13 @@
             "used to treat",
             "patient's condition"
         ],
+        "raw_response": "Answer: Sodium stibogluconate",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1120,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 0.8426017761230469
+        "time_elapsed": 0.9591071605682373
     },
     {
         "realidx": 211,
@@ -1333,12 +1355,13 @@
             "workup",
             "patient"
         ],
+        "raw_response": "Answer: Hepatitis C virus antibodies",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1306,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.8304266929626465
+        "time_elapsed": 1.022932767868042
     },
     {
         "realidx": 212,
@@ -1408,12 +1431,13 @@
             "authors",
             "following reasons"
         ],
+        "raw_response": "Answer: Low number of patients",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1145,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.7529308795928955
+        "time_elapsed": 0.9051198959350586
     },
     {
         "realidx": 215,
@@ -1459,12 +1483,13 @@
             "management",
             "patient"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Urinalysis and serum creatinine",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1079,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 0.9173130989074707
+        "time_elapsed": 1.0777087211608887
     },
     {
         "realidx": 222,
@@ -1515,12 +1540,13 @@
             "patient",
             "most likely"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Based on the information provided, the patient is a 60-year-old woman with a history of diabetes and symptoms suggestive of worsening heart failure (shortness of breath, abdominal distention, ascites, and edema). Given her age and the typical management of diabetes, it is likely that she is taking a medication that is commonly prescribed for type 2 diabetes.\n\nThe options provided relate to different mechanisms of action for various anti-diabetic medications:\n\n(A) Binding to the alpha subunit of the insulin receptor - This describes the action of insulin itself, not an oral medication.\n\n(B) Closure of ATP-sensitive K-channels in the pancreatic beta-cell - This describes the mechanism of action of sulfonylureas, which stimulate insulin secretion.\n\n(C) Increased gene expression of GLUT-4 - This is associated with the action of thiazolidinediones (TZDs), which improve insulin sensitivity.\n\n(D) Glucagon-like peptide-1 receptor agonist - This describes medications like GLP-1 agonists, which enhance glucose-dependent insulin secretion.\n\nGiven the patient's age and the common medications prescribed for type 2 diabetes, the most likely mechanism of action for the anti-diabetic medication she is taking is:\n\n**Answer: Closure of ATP-sensitive K-channels in the pancreatic beta-cell (B)**. \n\nThis suggests she may be on a sulfonylurea, which is a common class of medication for managing type 2 diabetes.",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1134,
-            "completion_tokens": 52
+            "completion_tokens": 290
         },
-        "time_elapsed": 1.0980567932128906
+        "time_elapsed": 2.681246519088745
     },
     {
         "realidx": 231,
@@ -1567,12 +1593,13 @@
             "following",
             "most likely causal organism"
         ],
+        "raw_response": "Answer: Staphylococcus epidermidis",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1100,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.7718675136566162
+        "time_elapsed": 1.1168406009674072
     },
     {
         "realidx": 234,
@@ -1617,12 +1644,13 @@
             "most likely explanation",
             "patient's laboratory findings"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Production of PTH-related peptide by malignant cells",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1135,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 0.8039395809173584
+        "time_elapsed": 1.4982082843780518
     },
     {
         "realidx": 237,
@@ -1694,12 +1722,13 @@
             "most likely",
             "following findings"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Stromal amyloid deposition",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1184,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.7487425804138184
+        "time_elapsed": 4.423356294631958
     },
     {
         "realidx": 238,
@@ -1751,12 +1780,13 @@
             "chosen",
             "specific study"
         ],
+        "raw_response": "Answer: The prevalence of SLE during consecutively shorter time windows will be overestimated.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1120,
-            "completion_tokens": 18
+            "completion_tokens": 19
         },
-        "time_elapsed": 0.9047353267669678
+        "time_elapsed": 1.0627975463867188
     },
     {
         "realidx": 239,
@@ -1809,12 +1839,13 @@
             "most likely to confirm",
             "diagnosis"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Serum ANA titer\n\nThe clinical presentation of progressive weakness, shortness of breath, a non-productive cough, muscle weakness, and a characteristic rash suggests a diagnosis of dermatomyositis, which is associated with autoimmune conditions. A serum ANA (antinuclear antibody) titer is commonly used to help confirm the diagnosis of autoimmune diseases, including dermatomyositis.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1125,
-            "completion_tokens": 4
+            "completion_tokens": 77
         },
-        "time_elapsed": 0.855067253112793
+        "time_elapsed": 1.5211215019226074
     },
     {
         "realidx": 241,
@@ -1890,12 +1921,13 @@
             "found",
             "histology"
         ],
-        "predicted_answer": "B",
+        "raw_response": "Answer: Mucosal defect in the stomach",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1201,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 0.8378973007202148
+        "time_elapsed": 1.1206047534942627
     },
     {
         "realidx": 243,
@@ -1942,12 +1974,13 @@
             "action to take",
             "control"
         ],
-        "predicted_answer": "B",
+        "raw_response": "Answer: Restart rosuvastatin at a lower dose",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1083,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 0.8326594829559326
+        "time_elapsed": 4.542540073394775
     },
     {
         "realidx": 246,
@@ -2004,12 +2037,13 @@
             "most appropriate next step to confirm",
             "diagnosis"
         ],
+        "raw_response": "Answer: Repeat blood cultures 24 hours after initial cultures were drawn",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1135,
-            "completion_tokens": 13
+            "completion_tokens": 14
         },
-        "time_elapsed": 1.0545768737792969
+        "time_elapsed": 1.3075363636016846
     },
     {
         "realidx": 258,
@@ -2070,12 +2104,13 @@
             "most likely cause",
             "current symptoms"
         ],
+        "raw_response": "Answer: Inhibition of ferrochelatase\n\nThe patient's symptoms of fatigue, dizziness, weakness, and numbness in her feet, along with the lab findings of low hemoglobin and low mean corpuscular volume, suggest microcytic anemia, likely due to iron deficiency. Inhibition of ferrochelatase, an enzyme involved in heme synthesis, can lead to decreased heme production and contribute to anemia.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1132,
-            "completion_tokens": 83
+            "completion_tokens": 84
         },
-        "time_elapsed": 1.335850477218628
+        "time_elapsed": 1.4773664474487305
     },
     {
         "realidx": 265,
@@ -2114,12 +2149,13 @@
             "most likely finding",
             "patient's chest CT"
         ],
+        "raw_response": "Answer: Nodular mass spreading along pleural surfaces",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1073,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 1.4286797046661377
+        "time_elapsed": 1.0158061981201172
     },
     {
         "realidx": 267,
@@ -2143,12 +2179,13 @@
             "carrier of",
             "disease"
         ],
+        "raw_response": "Answer: 50%",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 981,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.8640987873077393
+        "time_elapsed": 0.917987585067749
     },
     {
         "realidx": 271,
@@ -2216,12 +2253,13 @@
             "cause",
             "abnormal dipstick"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Oral glucose tolerance test",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1218,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.8444244861602783
+        "time_elapsed": 0.9637136459350586
     },
     {
         "realidx": 273,
@@ -2282,12 +2320,13 @@
             "most appropriate next step",
             "diagnosis"
         ],
+        "raw_response": "Answer: Abdominal ultrasound",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1172,
             "completion_tokens": 6
         },
-        "time_elapsed": 0.8251755237579346
+        "time_elapsed": 0.8402981758117676
     },
     {
         "realidx": 284,
@@ -2355,12 +2394,13 @@
             "mechanism of action",
             "prescribed medication"
         ],
+        "raw_response": "Based on the clinical presentation of the elderly man, he is likely experiencing symptoms of heart failure, characterized by difficulty breathing, easy fatigability, bilateral leg swelling, and signs of fluid overload (distended neck veins, pitting edema, and crepitations in the lungs). The presence of an S3 gallop rhythm suggests heart failure with reduced ejection fraction.\n\nGiven the options provided, the most appropriate mechanism of action for the medication prescribed to alleviate his symptoms would be:\n\n**(B) Preferential dilatation of capacitance vessels.**\n\nThis mechanism is characteristic of medications such as nitrates or other vasodilators that help reduce preload and improve symptoms of heart failure by decreasing the volume of blood returning to the heart, thus alleviating congestion and improving breathing.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1182,
-            "completion_tokens": 157
+            "completion_tokens": 155
         },
-        "time_elapsed": 1.6321275234222412
+        "time_elapsed": 1.599130392074585
     },
     {
         "realidx": 285,
@@ -2415,12 +2455,13 @@
             "management",
             "patient"
         ],
+        "raw_response": "Answer: Order an ACTH stimulation test",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1129,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.8892784118652344
+        "time_elapsed": 1.041041374206543
     },
     {
         "realidx": 303,
@@ -2522,12 +2563,13 @@
             "following",
             "most likely diagnosis"
         ],
+        "raw_response": "Answer: Normal development",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1398,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 0.8671989440917969
+        "time_elapsed": 0.9615182876586914
     },
     {
         "realidx": 307,
@@ -2603,12 +2645,13 @@
             "most appropriate course",
             "action"
         ],
+        "raw_response": "Answer: B) Refer this case to the court",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1204,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 0.8251047134399414
+        "time_elapsed": 1.1519672870635986
     },
     {
         "realidx": 321,
@@ -2661,12 +2704,13 @@
             "management",
             "time"
         ],
+        "raw_response": "Answer: Subcutaneous fondaparinux",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1127,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 1.0869264602661133
+        "time_elapsed": 1.1278176307678223
     },
     {
         "realidx": 329,
@@ -2739,12 +2783,13 @@
             "following therapies",
             "most likely indicated"
         ],
+        "raw_response": "Answer: Alteplase",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1195,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.7877330780029297
+        "time_elapsed": 0.9682669639587402
     },
     {
         "realidx": 336,
@@ -2813,12 +2858,13 @@
             "most associated with",
             "patients condition"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Epstein-Barr virus",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1159,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.8215208053588867
+        "time_elapsed": 0.9636220932006836
     },
     {
         "realidx": 337,
@@ -2887,12 +2933,13 @@
             "change",
             "patients condition"
         ],
+        "raw_response": "Answer: Increase in cardiac output",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1186,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.8815500736236572
+        "time_elapsed": 1.282285213470459
     },
     {
         "realidx": 340,
@@ -2962,12 +3009,13 @@
             "most appropriate next step",
             "management"
         ],
+        "raw_response": "Answer: Warfarin therapy\n\nThe clinical presentation suggests a possible subdural hematoma due to the history of falls and the bruise over the left temple. Given the patient's age and symptoms, the most appropriate next step in management would be to consider anticoagulation therapy if there is a risk of thromboembolic events, especially if the CT scan indicates a need for intervention. However, if the CT scan shows a significant hematoma, surgical intervention may be necessary. In this context, the answer is based on the assumption that the question is looking for a management step that addresses potential complications of the patient's condition.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1162,
-            "completion_tokens": 169
+            "completion_tokens": 126
         },
-        "time_elapsed": 1.880889892578125
+        "time_elapsed": 2.055603265762329
     },
     {
         "realidx": 367,
@@ -3041,12 +3089,13 @@
             "management",
             "woman"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Reassure and recommend vaccination against rubella postpartum",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1242,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 0.779280424118042
+        "time_elapsed": 1.074192762374878
     },
     {
         "realidx": 380,
@@ -3104,12 +3153,13 @@
             "best explanation",
             "patient's current presentation"
         ],
-        "predicted_answer": "D",
+        "raw_response": "Answer: Renal tubular acidosis type IV\n\nThis patient's presentation, including the bipedal edema, jugular venous distention, and the lab values showing a normal serum sodium, low potassium, elevated bicarbonate, and elevated calcium, suggests renal tubular acidosis type IV. This type is often associated with hyperkalemia (which is not present here) and can occur in the context of diabetes and medications like ACE inhibitors, which can affect renal function and potassium handling. The patient's symptoms of shortness of breath and cough could also be related to fluid overload, which is common in renal tubular acidosis.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1174,
-            "completion_tokens": 9
+            "completion_tokens": 124
         },
-        "time_elapsed": 0.7894315719604492
+        "time_elapsed": 1.7419791221618652
     },
     {
         "realidx": 413,
@@ -3170,12 +3220,13 @@
             "best next step",
             "management"
         ],
+        "raw_response": "Answer: 0.9% saline IV",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1184,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 0.859630823135376
+        "time_elapsed": 1.0331473350524902
     },
     {
         "realidx": 423,
@@ -3260,12 +3311,13 @@
             "best explanation",
             "patient's laboratory findings"
         ],
+        "raw_response": "Answer: Alcohol-induced liver injury",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1296,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.8180904388427734
+        "time_elapsed": 0.917151689529419
     },
     {
         "realidx": 448,
@@ -3363,12 +3415,13 @@
             "treatment",
             "patient"
         ],
+        "raw_response": "Answer: Elective endovascular repair",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1292,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.7892565727233887
+        "time_elapsed": 0.9791762828826904
     },
     {
         "realidx": 452,
@@ -3422,12 +3475,13 @@
             "likely organism responsible",
             "patient's symptoms"
         ],
+        "raw_response": "Answer: D-glutamate capsule\n\nThe clinical presentation of the patient, including fever, malaise, chest pain, dry cough, and the chest radiograph findings, suggests a possible infection with Bacillus anthracis, which is known to have a D-glutamate capsule. This organism is associated with pulmonary anthrax, especially in individuals who may have had exposure to animal products or environments where the bacteria are endemic.",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1122,
-            "completion_tokens": 83
+            "completion_tokens": 86
         },
-        "time_elapsed": 1.9858500957489014
+        "time_elapsed": 1.4065134525299072
     },
     {
         "realidx": 454,
@@ -3479,12 +3533,13 @@
             "region",
             "histology slide shown"
         ],
+        "raw_response": "To answer the question regarding the 42-year-old man with severe headache, palpitations, and sweating, we need to consider the symptoms and their likely cause. The combination of episodic headaches, palpitations, and sweating suggests a catecholamine-secreting tumor, such as a pheochromocytoma, which is typically associated with the adrenal glands.\n\nIn histological terms, pheochromocytomas arise from chromaffin cells located in the adrenal medulla. Therefore, if the options correspond to different regions of a histological slide, the correct answer would be the region that represents the adrenal medulla.\n\nWithout the actual figure to reference, I cannot definitively select an option (A, B, C, or D) without knowing which corresponds to the adrenal medulla. However, if you can identify which option corresponds to the adrenal medulla, that would be the correct answer.\n\nIf you have the figure or can provide more context about what each option represents, I can help you determine the correct answer.",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1093,
-            "completion_tokens": 210
+            "completion_tokens": 208
         },
-        "time_elapsed": 2.369990348815918
+        "time_elapsed": 2.104616403579712
     },
     {
         "realidx": 461,
@@ -3551,12 +3606,13 @@
             "most appropriate next step",
             "management"
         ],
+        "raw_response": "Answer: Nocturnal penile tumescence testing",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1177,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 1.9870903491973877
+        "time_elapsed": 1.0547330379486084
     },
     {
         "realidx": 477,
@@ -3598,12 +3654,13 @@
             "most likely to show weakness",
             "following actions"
         ],
+        "raw_response": "Based on the provided information, the patient is experiencing tingling in the right forearm and loss of sensation on the lateral side of the forearm, which suggests a possible issue with the radial nerve. The intact sensation over the thumb indicates that the median nerve is likely functioning properly. \n\nThe radial nerve is responsible for wrist extension and also contributes to elbow extension and forearm supination. Given the options provided, the most likely action that would show weakness due to radial nerve involvement is:\n\n(D) Wrist extension\n\nTherefore, the answer is: **Wrist extension**.",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1054,
-            "completion_tokens": 130
+            "completion_tokens": 115
         },
-        "time_elapsed": 1.9029805660247803
+        "time_elapsed": 1.6710383892059326
     },
     {
         "realidx": 480,
@@ -3651,12 +3708,13 @@
             "likely present",
             "patient"
         ],
+        "raw_response": "Answer: Aromatase enzyme deficiency",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1085,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.7690346240997314
+        "time_elapsed": 1.6452879905700684
     },
     {
         "realidx": 483,
@@ -3717,12 +3775,13 @@
             "best next treatment",
             "patient"
         ],
+        "raw_response": "Answer: Lactulose",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1169,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 0.8660368919372559
+        "time_elapsed": 0.892108678817749
     },
     {
         "realidx": 485,
@@ -3775,12 +3834,13 @@
             "most appropriate pharmacotherapy",
             "time"
         ],
+        "raw_response": "Answer: Budesonide",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1100,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.8361771106719971
+        "time_elapsed": 0.9109547138214111
     },
     {
         "realidx": 497,
@@ -3832,12 +3892,13 @@
             "obtained",
             "following"
         ],
+        "raw_response": "Answer: High-risk sexual behaviour\n\nThis patient's presentation is suggestive of optic neuritis, which can be associated with multiple sclerosis (MS). MS is more common in young women and can be linked to a history of high-risk sexual behavior, which may indicate potential exposure to sexually transmitted infections that can have neurological implications. Therefore, obtaining specific additional history regarding high-risk sexual behavior would be relevant in this context.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1104,
-            "completion_tokens": 80
+            "completion_tokens": 82
         },
-        "time_elapsed": 1.262134075164795
+        "time_elapsed": 5.388116359710693
     },
     {
         "realidx": 499,
@@ -3894,12 +3955,13 @@
             "following classes",
             "proteins"
         ],
+        "raw_response": "Answer: Transmembrane ion channel protein\n\nThis patient\u2019s history of cleft lip and recurrent respiratory infections suggests a possible underlying genetic condition, such as cystic fibrosis, which is associated with mutations in transmembrane ion channel proteins (specifically the CFTR gene). The infertility could also be related to congenital absence of the vas deferens, which is a common finding in males with cystic fibrosis.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1150,
-            "completion_tokens": 78
+            "completion_tokens": 82
         },
-        "time_elapsed": 1.9179565906524658
+        "time_elapsed": 1.7647364139556885
     },
     {
         "realidx": 501,
@@ -3944,12 +4006,13 @@
             "failure to",
             "antibiotic therapy"
         ],
+        "raw_response": "Answer: Ability to cleave \u03b2-lactam rings",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1099,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 0.9661126136779785
+        "time_elapsed": 1.197110652923584
     },
     {
         "realidx": 514,
@@ -4008,12 +4071,13 @@
             "increased risk",
             "following"
         ],
+        "raw_response": "Answer: Non-Hodgkin lymphoma\n\nThe clinical presentation of the 3-year-old girl, including recurrent respiratory infections, gastrointestinal symptoms, and the presence of pear-shaped multi-flagellated organisms (which suggest Giardia lamblia infection), raises concern for an underlying immunodeficiency. Children with certain types of immunodeficiencies, such as common variable immunodeficiency (CVID) or other B-cell deficiencies, are at increased risk for developing non-Hodgkin lymphoma due to chronic immune stimulation and dysregulation.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1152,
-            "completion_tokens": 95
+            "completion_tokens": 108
         },
-        "time_elapsed": 1.2415831089019775
+        "time_elapsed": 1.6141211986541748
     },
     {
         "realidx": 524,
@@ -4056,12 +4120,13 @@
             "most likely underlying cause",
             "patient's condition"
         ],
-        "predicted_answer": "B",
+        "raw_response": "Answer: B-cell maturation",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1083,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.8017008304595947
+        "time_elapsed": 1.4337248802185059
     },
     {
         "realidx": 531,
@@ -4137,12 +4202,13 @@
             "management",
             "patient"
         ],
+        "raw_response": "Answer: Start IV insulin infusion",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1276,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.770780086517334
+        "time_elapsed": 0.9558820724487305
     },
     {
         "realidx": 560,
@@ -4215,12 +4281,13 @@
             "best explanation",
             "patients laboratory values"
         ],
+        "raw_response": "Answer: Dietary changes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1242,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 0.8124654293060303
+        "time_elapsed": 0.8855624198913574
     },
     {
         "realidx": 564,
@@ -4263,12 +4330,13 @@
             "management",
             "patient"
         ],
+        "raw_response": "Answer: Addition of bupropion",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1078,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.8575842380523682
+        "time_elapsed": 0.98732590675354
     },
     {
         "realidx": 579,
@@ -4349,12 +4417,13 @@
             "most likely reveal",
             "following"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Based on the provided clinical information, the patient is a 59-year-old woman with diffuse bodily aches, a history of fractures, and laboratory findings indicating hypercalcemia (Ca2+ of 11.2 mg/dL) and hypophosphatemia (phosphate of 2.3 mg/dL). These findings, along with her symptoms, suggest a possible diagnosis of primary hyperparathyroidism or a related condition.\n\nIn primary hyperparathyroidism, one might expect to see bone changes such as subperiosteal bone resorption or cystic lesions due to increased osteoclastic activity. The most characteristic radiographic finding associated with primary hyperparathyroidism is subperiosteal bone resorption, particularly in the phalanges, but in the context of the hip, one might see changes consistent with osteitis fibrosa cystica, which can present as well-defined cystic lesions.\n\nGiven the options provided, the most likely radiographic finding in this case would be:\n\n(D) Well-defined cystic lesion with peritrabecular fibrosis\n\nThis option aligns with the expected findings in conditions associated with hyperparathyroidism, where cystic changes in the bone can occur due to increased osteoclastic activity.",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1302,
-            "completion_tokens": 161
+            "completion_tokens": 248
         },
-        "time_elapsed": 1.8140442371368408
+        "time_elapsed": 2.2853875160217285
     },
     {
         "realidx": 583,
@@ -4409,12 +4478,13 @@
             "patient's",
             "likely diagnosis"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Sjogren syndrome\n\nThe patient's symptoms, including nausea, vomiting, weakness, and back/leg pain, along with the flattening of the T wave on the EKG, suggest a possible electrolyte imbalance, particularly hypokalemia, which can be associated with thiazide diuretics. Sjogren syndrome is an autoimmune condition that can be associated with various other autoimmune diseases, including those that may lead to electrolyte imbalances.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1111,
-            "completion_tokens": 10
+            "completion_tokens": 90
         },
-        "time_elapsed": 0.8613994121551514
+        "time_elapsed": 1.5876405239105225
     },
     {
         "realidx": 587,
@@ -4451,12 +4521,13 @@
             "most likely congenital abnormality shown",
             "ultrasound"
         ],
+        "raw_response": "Answer: Sacral agenesis",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1045,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.263620138168335
+        "time_elapsed": 0.9045062065124512
     },
     {
         "realidx": 596,
@@ -4506,12 +4577,13 @@
             "most likely cause",
             "infant's cyanosis"
         ],
+        "raw_response": "Answer: Oxidization of Fe2+ to Fe3+",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1119,
-            "completion_tokens": 13
+            "completion_tokens": 14
         },
-        "time_elapsed": 0.8740601539611816
+        "time_elapsed": 1.0691020488739014
     },
     {
         "realidx": 616,
@@ -4552,12 +4624,13 @@
             "renal biopsy",
             "patient"
         ],
+        "raw_response": "Answer: Amyloidosis",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1051,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.9045495986938477
+        "time_elapsed": 0.9451243877410889
     },
     {
         "realidx": 627,
@@ -4619,12 +4692,13 @@
             "best next step",
             "management"
         ],
+        "raw_response": "Answer: Intravenous oxytocin",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1148,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.9098684787750244
+        "time_elapsed": 1.3542003631591797
     },
     {
         "realidx": 634,
@@ -4683,12 +4757,13 @@
             "best treatment",
             "patient"
         ],
+        "raw_response": "Answer: Bethanechol and intermittent straight catheterization",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1156,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 0.8476519584655762
+        "time_elapsed": 0.8753697872161865
     },
     {
         "realidx": 651,
@@ -4748,12 +4823,13 @@
             "most likely to show",
             "iron profile"
         ],
+        "raw_response": "Answer: Low ferritin levels",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1138,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.7758443355560303
+        "time_elapsed": 0.8905770778656006
     },
     {
         "realidx": 659,
@@ -4810,12 +4886,13 @@
             "removal",
             "nodules"
         ],
+        "raw_response": "Answer: Doubling time of < 1 month",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1149,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 1.3976402282714844
+        "time_elapsed": 0.9344496726989746
     },
     {
         "realidx": 663,
@@ -4857,12 +4934,13 @@
             "most likely impaired",
             "patient"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Lateral medulla",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1073,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.7818934917449951
+        "time_elapsed": 1.055799961090088
     },
     {
         "realidx": 664,
@@ -4902,12 +4980,13 @@
             "most likely diagnosis",
             "patient"
         ],
-        "predicted_answer": "C",
+        "raw_response": "Answer: Hemophilia A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1075,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.4756500720977783
+        "time_elapsed": 0.9979534149169922
     },
     {
         "realidx": 665,
@@ -4951,12 +5030,13 @@
             "entrapment",
             "mass"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Ulnar nerve",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1078,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.7405886650085449
+        "time_elapsed": 0.9599323272705078
     },
     {
         "realidx": 670,
@@ -4990,12 +5070,13 @@
             "mechanism of action",
             "chlorhexidine"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Bactericidal at low concentrations",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1070,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 0.7547049522399902
+        "time_elapsed": 0.8277575969696045
     },
     {
         "realidx": 676,
@@ -5039,12 +5120,13 @@
             "cell-type indicated",
             "arrow"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Interferon-gamma",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1076,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.8109970092773438
+        "time_elapsed": 0.9529333114624023
     },
     {
         "realidx": 677,
@@ -5090,12 +5172,13 @@
             "management",
             "patients condition"
         ],
+        "raw_response": "Answer: CT scan of the head",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1080,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.8432965278625488
+        "time_elapsed": 1.0146968364715576
     },
     {
         "realidx": 689,
@@ -5143,12 +5226,13 @@
             "most appropriate next step",
             "management"
         ],
+        "raw_response": "Answer: Treat with three weekly injections of penicillin, obtain titers in 6 months.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1142,
-            "completion_tokens": 19
+            "completion_tokens": 20
         },
-        "time_elapsed": 0.9165825843811035
+        "time_elapsed": 0.9924633502960205
     },
     {
         "realidx": 706,
@@ -5220,12 +5304,13 @@
             "best next step",
             "management"
         ],
+        "raw_response": "Answer: Supportive therapy and observation",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1184,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.8364291191101074
+        "time_elapsed": 0.897122859954834
     },
     {
         "realidx": 709,
@@ -5257,12 +5342,13 @@
             "plasma ratio",
             "urea"
         ],
+        "raw_response": "To answer the question regarding the tubular fluid-to-plasma concentration ratio of urea based on the graph, I would need to see the graph itself to provide an accurate answer. However, I can provide some general information about urea handling in the kidneys.\n\nIn the proximal convoluted tubule, urea is reabsorbed but not to the same extent as water and sodium. Therefore, the concentration of urea in the tubular fluid tends to be lower than that in plasma as water is reabsorbed more than urea. \n\nIf the graph indicates a concentration ratio that reflects this behavior, the answer would likely correspond to a lower ratio compared to other substances that are more actively reabsorbed. \n\nPlease provide the graph or additional context for a more specific answer.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 997,
-            "completion_tokens": 159
+            "completion_tokens": 155
         },
-        "time_elapsed": 1.7773220539093018
+        "time_elapsed": 2.2152791023254395
     },
     {
         "realidx": 714,
@@ -5331,12 +5417,13 @@
             "found",
             "patient"
         ],
+        "raw_response": "Answer: Holosystolic, high-pitched blowing murmur at the lower left sternal border\n\nThis patient presents with symptoms suggestive of aortic dissection, which can be associated with connective tissue disorders such as Marfan syndrome. The presence of a heart murmur, particularly a holosystolic murmur, may indicate mitral regurgitation, which is common in patients with Marfan syndrome due to mitral valve prolapse.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1206,
             "completion_tokens": 91
         },
-        "time_elapsed": 1.6933560371398926
+        "time_elapsed": 1.51419997215271
     },
     {
         "realidx": 720,
@@ -5381,12 +5468,13 @@
             "likely substance",
             "case"
         ],
+        "raw_response": "Answer: Increased progesterone",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1068,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.7525372505187988
+        "time_elapsed": 1.749044418334961
     },
     {
         "realidx": 724,
@@ -5458,12 +5546,13 @@
             "patient's",
             "likely diagnosis"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Based on the provided information, the patient is presenting with fever, nausea, vomiting, and neck stiffness, which are suggestive of meningitis. The cerebrospinal fluid (CSF) analysis shows an elevated white blood cell count (175/mm^3), normal glucose levels (49 mg/dL), and slightly elevated protein levels (55 mg/dL). \n\nThe elevated white blood cell count with a normal glucose level is more consistent with viral meningitis, while bacterial meningitis typically presents with a low glucose level. Given the patient's symptoms and CSF findings, the most likely diagnosis is viral meningitis.\n\nThe best treatment for viral meningitis is supportive care, which includes IV fluids and monitoring, as most cases resolve on their own without specific antiviral treatment.\n\nTherefore, the answer is:\n(D) IV fluids and monitoring",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1219,
-            "completion_tokens": 96
+            "completion_tokens": 165
         },
-        "time_elapsed": 1.4675633907318115
+        "time_elapsed": 1.9217503070831299
     },
     {
         "realidx": 748,
@@ -5497,12 +5586,13 @@
             "following pathways to exert",
             "action"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Intracellular receptors\n\nThe symptoms and findings in this case suggest the presence of an adrenal adenoma secreting cortisol, leading to Cushing's syndrome. Cortisol exerts its effects through intracellular receptors, which then act as transcription factors to regulate gene expression.",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1033,
-            "completion_tokens": 77
+            "completion_tokens": 55
         },
-        "time_elapsed": 1.8392245769500732
+        "time_elapsed": 1.3195762634277344
     },
     {
         "realidx": 755,
@@ -5571,12 +5661,13 @@
             "likely diagnosis",
             "patient"
         ],
+        "raw_response": "Answer: CT pulmonary angiogram\n\nIn this case, the patient presents with shortness of breath, right-sided chest pain that worsens with inspiration, and decreased air movement in the right lung. Given her recent travel history and the symptoms, there is a concern for a pulmonary embolism (PE). A CT pulmonary angiogram is the best next step to evaluate for this condition, as it is the gold standard for diagnosing PE.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1182,
-            "completion_tokens": 79
+            "completion_tokens": 87
         },
-        "time_elapsed": 3.548316240310669
+        "time_elapsed": 1.5770578384399414
     },
     {
         "realidx": 758,
@@ -5662,12 +5753,13 @@
             "most likely explanation",
             "cardiac findings"
         ],
-        "predicted_answer": "A",
+        "raw_response": "Answer: Malignant colonic neoplasm",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1305,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.8107855319976807
+        "time_elapsed": 0.9114882946014404
     },
     {
         "realidx": 764,
@@ -5723,12 +5815,13 @@
             "most appropriate next step",
             "management"
         ],
-        "predicted_answer": "B",
+        "raw_response": "Answer: Transfer the patient only if the medical benefits of transfer outweigh the risks",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1137,
-            "completion_tokens": 15
+            "completion_tokens": 16
         },
-        "time_elapsed": 0.9231054782867432
+        "time_elapsed": 1.176745891571045
     },
     {
         "realidx": 778,
@@ -5770,12 +5863,13 @@
             "residents moonlighting",
             "patient safety"
         ],
-        "predicted_answer": "D",
+        "raw_response": "Answer: He is already overcommitting and must reduce the number of hours",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1087,
             "completion_tokens": 16
         },
-        "time_elapsed": 0.9321658611297607
+        "time_elapsed": 0.8560025691986084
     },
     {
         "realidx": 784,
@@ -5826,12 +5920,13 @@
             "next best step",
             "management"
         ],
+        "raw_response": "Answer: Regular follow up appointments",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1111,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.8018536567687988
+        "time_elapsed": 0.782691478729248
     },
     {
         "realidx": 785,
@@ -5885,12 +5980,13 @@
             "most likely",
             "following"
         ],
+        "raw_response": "Answer: C) B lymphocytes",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1127,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.8560519218444824
+        "time_elapsed": 1.0820221900939941
     },
     {
         "realidx": 791,
@@ -5940,12 +6036,13 @@
             "associated",
             "viral infection"
         ],
+        "raw_response": "Answer: Painful dermatomal vesicles\n\nThe symptoms and urinalysis suggest a possible infection, and the mention of a double-stranded DNA virus points towards a viral infection such as herpes simplex virus (HSV), which can cause painful dermatomal vesicles.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1117,
-            "completion_tokens": 66
+            "completion_tokens": 55
         },
-        "time_elapsed": 1.1104059219360352
+        "time_elapsed": 1.199371337890625
     },
     {
         "realidx": 803,
@@ -6007,12 +6104,13 @@
             "best next step",
             "management"
         ],
+        "raw_response": "Answer: Echocardiogram\n\nIn this case, the patient experienced transient neurological symptoms (slurred speech and arm weakness) that resolved completely, which is suggestive of a transient ischemic attack (TIA). Given her history of atrial fibrillation, there is a risk of embolic strokes originating from the heart. An echocardiogram would help assess for any cardiac sources of emboli, such as thrombus formation in the left atrial appendage, which is a common complication of atrial fibrillation. Therefore, the best next step in management is to perform an echocardiogram.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1136,
-            "completion_tokens": 108
+            "completion_tokens": 122
         },
-        "time_elapsed": 1.520228624343872
+        "time_elapsed": 1.6219062805175781
     },
     {
         "realidx": 822,
@@ -6098,12 +6196,13 @@
             "patient's",
             "pathology"
         ],
+        "raw_response": "Answer: Decreased UDP-glucuronyl transferase activity",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1300,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 0.8386218547821045
+        "time_elapsed": 1.5970699787139893
     },
     {
         "realidx": 829,
@@ -6154,11 +6253,12 @@
             "next best step",
             "management"
         ],
+        "raw_response": "Answer: Azithromycin and admission to the medical floor",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1121,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 1.1267969608306885
+        "time_elapsed": 0.9543406963348389
     }
 ]

@@ -13,10 +13,21 @@
         "answer": "They will only be able to breathe quietly.",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1983,
-            "completion_tokens": 485
+            "prompt_tokens": 1647,
+            "completion_tokens": 379
         },
-        "time_elapsed": 8.209742307662964
+        "time_elapsed": 7.38930344581604,
+        "raw_responses": [
+            "Damage to the spinal cord at the level of the sixth cervical vertebra (C6) can affect the nerves that control the muscles involved in breathing. The diaphragm, which is the primary muscle for breathing, is innervated by the phrenic nerve that originates from the C3, C4, and C5 spinal nerves. Since the injury is at C6, the phrenic nerve should still be intact, allowing the diaphragm to function. However, other muscles that assist in breathing, such as the intercostal muscles, may be affected, potentially limiting the ability to breathe deeply or forcefully.\n\nFinal answer: (B) They will only be able to breathe quietly.",
+            "Damage to the spinal cord at the level of the sixth cervical vertebra (C6) can affect the nerves that control the muscles involved in breathing. The diaphragm, which is the primary muscle for breathing, is innervated by the phrenic nerve that originates from the C3, C4, and C5 spinal nerves. Since the injury is at C6, the phrenic nerve should still be functional, allowing the diaphragm to work. However, other muscles that assist in breathing, such as the intercostal muscles, may be affected.\n\n(A) They will be unable to breathe without life support. - Incorrect, because the diaphragm should still function.\n(B) They will only be able to breathe quietly. - Correct, because the diaphragm will work, but other muscles may be compromised.\n(C) It is impossible to predict an effect on breathing. - Incorrect, because we can predict that the diaphragm will still function.\n(D) Breathing will be unaffected. - Incorrect, because some breathing muscles may be affected.\n\nFinal answer: (B) They will only be able to breathe quietly.",
+            "(B) They will only be able to breathe quietly."
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "0"
+        ],
+        "final_solution": "Damage to the spinal cord at the level of the sixth cervical vertebra (C6) can affect the nerves that control the muscles involved in breathing. The diaphragm, which is the primary muscle for breathing, is innervated by the phrenic nerve that originates from the C3, C4, and C5 spinal nerves. Since the injury is at C6, the phrenic nerve should still be functional, allowing the diaphragm to work. However, other muscles that assist in breathing, such as the intercostal muscles, may be affected.\n\n(A) They will be unable to breathe without life support. - Incorrect, because the diaphragm should still function.\n(B) They will only be able to breathe quietly. - Correct, because the diaphragm will work, but other muscles may be compromised.\n(C) It is impossible to predict an effect on breathing. - Incorrect, because we can predict that the diaphragm will still function.\n(D) Breathing will be unaffected. - Incorrect, because some breathing muscles may be affected.\n\nFinal answer: (B) They will only be able to breathe quietly."
     },
     {
         "realidx": 108,
@@ -33,9 +44,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 519,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 5.457838535308838
+        "time_elapsed": 4.489384412765503,
+        "raw_responses": [
+            "(A) six weeks post-fertilization.",
+            "(A) six weeks post-fertilization.",
+            "(A) six weeks post-fertilization."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) six weeks post-fertilization."
     },
     {
         "realidx": 114,
@@ -52,9 +74,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 741,
-            "completion_tokens": 51
+            "completion_tokens": 57
         },
-        "time_elapsed": 3.8917744159698486
+        "time_elapsed": 4.564305782318115,
+        "raw_responses": [
+            "(A) The mental symphysis closes at about 1 year postnatally",
+            "(A) The mental symphysis closes at about 1 year postnatally",
+            "(A) The mental symphysis closes at about 1 year postnatally"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) The mental symphysis closes at about 1 year postnatally"
     },
     {
         "realidx": 123,
@@ -71,9 +104,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 771,
-            "completion_tokens": 102
+            "completion_tokens": 108
         },
-        "time_elapsed": 4.222772598266602
+        "time_elapsed": 5.011281728744507,
+        "raw_responses": [
+            "Gastrulation is the process of mesoderm formation and occurs before neurulation.\n\nFinal answer: (C) mesoderm formation and occurs before neurulation.",
+            "Gastrulation is the process of mesoderm formation and occurs before neurulation.\n\nFinal answer: (C) mesoderm formation and occurs before neurulation.",
+            "Gastrulation is the process of mesoderm formation and occurs before neurulation.\n\nFinal answer: (C) mesoderm formation and occurs before neurulation."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Gastrulation is the process of mesoderm formation and occurs before neurulation.\n\nFinal answer: (C) mesoderm formation and occurs before neurulation."
     },
     {
         "realidx": 125,
@@ -90,9 +134,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 465,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.6866345405578613
+        "time_elapsed": 5.449185132980347,
+        "raw_responses": [
+            "(A) Carbon dioxide",
+            "(A) Carbon dioxide",
+            "(A) Carbon dioxide"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Carbon dioxide"
     },
     {
         "realidx": 131,
@@ -106,12 +161,23 @@
         "answer_idx": "A",
         "subject": "anatomy",
         "answer": "constriction of the laryngeal entrance.",
-        "predicted_answer": "B",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1581,
-            "completion_tokens": 366
+            "prompt_tokens": 1125,
+            "completion_tokens": 212
         },
-        "time_elapsed": 6.907113790512085
+        "time_elapsed": 5.872875213623047,
+        "raw_responses": [
+            "(A) constriction of the laryngeal entrance.",
+            "(A) constriction of the laryngeal entrance.",
+            "During the pharyngeal phase of swallowing, several actions occur to ensure that food does not enter the larynx and instead moves towards the esophagus. The key mechanism involves the epiglottis, a flap of tissue that acts as a switch between the trachea and the esophagus.\n\n1. The laryngeal entrance constricts to help prevent food from entering the airway.\n2. The epiglottis moves downward to cover the laryngeal entrance, directing food towards the esophagus.\n3. The larynx moves upward and forward to assist in closing the laryngeal entrance and to help the epiglottis cover it effectively.\n4. Respiratory rate does not increase during swallowing; in fact, breathing temporarily stops to prevent aspiration.\n\nGiven these points, the correct answer is:\n\n(A) constriction of the laryngeal entrance."
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "0"
+        ],
+        "final_solution": "During the pharyngeal phase of swallowing, several actions occur to ensure that food does not enter the larynx and instead moves towards the esophagus. The key mechanism involves the epiglottis, a flap of tissue that acts as a switch between the trachea and the esophagus.\n\n1. The laryngeal entrance constricts to help prevent food from entering the airway.\n2. The epiglottis moves downward to cover the laryngeal entrance, directing food towards the esophagus.\n3. The larynx moves upward and forward to assist in closing the laryngeal entrance and to help the epiglottis cover it effectively.\n4. Respiratory rate does not increase during swallowing; in fact, breathing temporarily stops to prevent aspiration.\n\nGiven these points, the correct answer is:\n\n(A) constriction of the laryngeal entrance."
     },
     {
         "realidx": 133,
@@ -127,10 +193,21 @@
         "answer": "Erect",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 753,
-            "completion_tokens": 123
+            "prompt_tokens": 603,
+            "completion_tokens": 71
         },
-        "time_elapsed": 4.054075002670288
+        "time_elapsed": 6.8494040966033936,
+        "raw_responses": [
+            "(D) Prone",
+            "(A) Dorsal - The patient lies on their back.\n(B) Erect - The patient stands upright.\n(C) Lateral - The patient lies on their side.\n(D) Prone - The patient lies face down.\n\nFinal answer: (D) Prone",
+            "(D) Prone"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Dorsal - The patient lies on their back.\n(B) Erect - The patient stands upright.\n(C) Lateral - The patient lies on their side.\n(D) Prone - The patient lies face down.\n\nFinal answer: (D) Prone"
     },
     {
         "realidx": 134,
@@ -147,9 +224,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 552,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.2028229236602783
+        "time_elapsed": 4.716350078582764,
+        "raw_responses": [
+            "(A) palatine processes.",
+            "(A) palatine processes.",
+            "(A) palatine processes."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) palatine processes."
     },
     {
         "realidx": 155,
@@ -165,10 +253,21 @@
         "answer": "Downward",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 567,
-            "completion_tokens": 52
+            "prompt_tokens": 456,
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.6467554569244385
+        "time_elapsed": 3.653796672821045,
+        "raw_responses": [
+            "(B) Outward",
+            "(B) Outward",
+            "(B) Outward"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Outward"
     },
     {
         "realidx": 159,
@@ -185,9 +284,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 474,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.2397539615631104
+        "time_elapsed": 3.665823221206665,
+        "raw_responses": [
+            "(A) Masseter",
+            "(A) Masseter",
+            "(A) Masseter"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Masseter"
     },
     {
         "realidx": 168,
@@ -203,10 +313,21 @@
         "answer": "tracheal rings.",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1011,
-            "completion_tokens": 184
+            "prompt_tokens": 765,
+            "completion_tokens": 105
         },
-        "time_elapsed": 4.595193147659302
+        "time_elapsed": 4.843080997467041,
+        "raw_responses": [
+            "The isthmus of the thyroid gland typically crosses the respiratory tract at the level of the tracheal rings.\n\nFinal answer: (D) tracheal rings.",
+            "The isthmus of the thyroid gland is located at the level of the tracheal rings.\n\nFinal answer: (D) tracheal rings.",
+            "The isthmus of the thyroid gland is located at the level of the tracheal rings.\n\nFinal answer: (D) tracheal rings."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "The isthmus of the thyroid gland typically crosses the respiratory tract at the level of the tracheal rings.\n\nFinal answer: (D) tracheal rings."
     },
     {
         "realidx": 173,
@@ -223,9 +344,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 831,
-            "completion_tokens": 194
+            "completion_tokens": 170
         },
-        "time_elapsed": 5.0975165367126465
+        "time_elapsed": 5.195506572723389,
+        "raw_responses": [
+            "(A) anterior fragment to be displaced downwards by the action of the digastric muscle.",
+            "(A) anterior fragment to be displaced downwards by the action of the digastric muscle.",
+            "(A) anterior fragment to be displaced downwards by the action of the digastric muscle."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "All three candidate solutions are identical, stating that the anterior fragment would be displaced downwards by the action of the digastric muscle. Since they are the same, any of them can be chosen as the best final answer. I will choose option 0.\n\n0",
+            "All three candidate solutions are identical, stating that the anterior fragment would be displaced downwards by the action of the digastric muscle. Since they are the same, any of them can be chosen as the best final answer. I will choose option 0.\n\n0"
+        ],
+        "final_solution": "(A) anterior fragment to be displaced downwards by the action of the digastric muscle."
     },
     {
         "realidx": 197,
@@ -241,10 +373,21 @@
         "answer": "red below the mucogingival junction and light pink above it.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 798,
-            "completion_tokens": 57
+            "prompt_tokens": 804,
+            "completion_tokens": 65
         },
-        "time_elapsed": 3.978713274002075
+        "time_elapsed": 3.7368948459625244,
+        "raw_responses": [
+            "(A) light pink in colour on both sides of the mucogingigival junction.",
+            "(A) light pink in colour on both sides of the mucogingigival junction.",
+            "Option (A) light pink in colour on both sides of the mucogingigival junction."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "0"
+        ],
+        "final_solution": "Option (A) light pink in colour on both sides of the mucogingigival junction."
     },
     {
         "realidx": 203,
@@ -260,10 +403,21 @@
         "answer": "The ribs and sternum",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 936,
-            "completion_tokens": 361
+            "prompt_tokens": 507,
+            "completion_tokens": 21
         },
-        "time_elapsed": 10.201030731201172
+        "time_elapsed": 3.73746395111084,
+        "raw_responses": [
+            "(A) The ribs",
+            "(A) The ribs",
+            "(A) The ribs"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) The ribs"
     },
     {
         "realidx": 207,
@@ -279,10 +433,21 @@
         "answer": "ligaments and articular discs.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 2457,
-            "completion_tokens": 773
+            "prompt_tokens": 765,
+            "completion_tokens": 135
         },
-        "time_elapsed": 14.682868957519531
+        "time_elapsed": 5.080698251724243,
+        "raw_responses": [
+            "Proprioceptive nerve endings in synovial joints are primarily located in the capsule and ligaments.\n\nFinal answer: (C) capsule and ligaments.",
+            "Proprioceptive nerve endings in synovial joints are primarily located in the capsule and ligaments.\n\nFinal answer: (C) capsule and ligaments.",
+            "Proprioceptive nerve endings in synovial joints are primarily located in the capsule and ligaments. \n\nFinal answer: (C) capsule and ligaments."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "All three solutions are identical and correct. Therefore, any of the options can be chosen. I will choose option 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "Proprioceptive nerve endings in synovial joints are primarily located in the capsule and ligaments.\n\nFinal answer: (C) capsule and ligaments."
     },
     {
         "realidx": 229,
@@ -298,10 +463,21 @@
         "answer": "auditory tube opens.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 453,
-            "completion_tokens": 21
+            "prompt_tokens": 1737,
+            "completion_tokens": 529
         },
-        "time_elapsed": 4.062711715698242
+        "time_elapsed": 8.915515422821045,
+        "raw_responses": [
+            "During swallowing, the following events occur:\n\n1. The soft palate elevates to close off the nasopharynx.\n2. The larynx elevates and the epiglottis folds over the glottis to prevent food from entering the trachea.\n3. The upper esophageal sphincter (cricopharyngeus muscle) relaxes to allow the passage of the bolus into the esophagus.\n4. The auditory tube (Eustachian tube) opens to equalize pressure between the nasopharynx and the middle ear.\n5. The gag reflex is typically suppressed to allow the bolus to pass smoothly.\n\nGiven these points, the correct answer is:\n\n(A) auditory tube opens.",
+            "During swallowing, the following events occur:\n\n1. The soft palate elevates to close off the nasopharynx.\n2. The larynx elevates and the epiglottis folds down to cover the glottis, preventing food from entering the trachea.\n3. The upper esophageal sphincter (cricopharyngeus muscle) relaxes to allow the passage of the bolus into the esophagus.\n4. The auditory tube (Eustachian tube) opens to equalize pressure between the nasopharynx and the middle ear.\n5. The gag reflex is typically suppressed to allow the bolus to pass smoothly.\n\nGiven these points, the correct answer is:\n\n(A) auditory tube opens.",
+            "During swallowing, the following events occur:\n\n1. The soft palate elevates to close off the nasopharynx.\n2. The larynx elevates and the epiglottis folds down to cover the glottis, preventing food from entering the trachea.\n3. The upper esophageal sphincter (cricopharyngeus muscle) relaxes to allow the passage of the bolus into the esophagus.\n4. The auditory tube (Eustachian tube) opens to equalize pressure between the nasopharynx and the middle ear.\n5. The gag reflex is typically suppressed to allow the bolus to pass smoothly.\n\nBased on these steps, the correct answer is:\n\n(A) auditory tube opens."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "The solutions provided are essentially identical in content and structure. Each solution lists the same sequence of events that occur during swallowing and concludes with the same correct answer: (A) auditory tube opens.\n\nGiven that all solutions are equivalent, any of them could be chosen as the best final answer. Therefore, I will select option 0.\n\nThe chosen option number is: 0."
+        ],
+        "final_solution": "During swallowing, the following events occur:\n\n1. The soft palate elevates to close off the nasopharynx.\n2. The larynx elevates and the epiglottis folds down to cover the glottis, preventing food from entering the trachea.\n3. The upper esophageal sphincter (cricopharyngeus muscle) relaxes to allow the passage of the bolus into the esophagus.\n4. The auditory tube (Eustachian tube) opens to equalize pressure between the nasopharynx and the middle ear.\n5. The gag reflex is typically suppressed to allow the bolus to pass smoothly.\n\nGiven these points, the correct answer is:\n\n(A) auditory tube opens."
     },
     {
         "realidx": 491,
@@ -318,9 +494,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 573,
-            "completion_tokens": 42
+            "completion_tokens": 48
         },
-        "time_elapsed": 3.529059648513794
+        "time_elapsed": 4.324543714523315,
+        "raw_responses": [
+            "(A) The patient has a semi-formed or liquid output.",
+            "(A) The patient has a semi-formed or liquid output.",
+            "(A) The patient has a semi-formed or liquid output."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) The patient has a semi-formed or liquid output."
     },
     {
         "realidx": 493,
@@ -337,9 +524,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 597,
-            "completion_tokens": 39
+            "completion_tokens": 45
         },
-        "time_elapsed": 3.5383496284484863
+        "time_elapsed": 4.032063961029053,
+        "raw_responses": [
+            "(A) Diplopia can never occur if one eye is covered",
+            "(A) Diplopia can never occur if one eye is covered",
+            "(A) Diplopia can never occur if one eye is covered"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Diplopia can never occur if one eye is covered"
     },
     {
         "realidx": 509,
@@ -353,12 +551,23 @@
         "answer_idx": "A",
         "subject": "clinical_knowledge",
         "answer": "30 minutes.",
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 672,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.293008327484131
+        "time_elapsed": 4.132424354553223,
+        "raw_responses": [
+            "(A) 30 minutes.",
+            "(A) 30 minutes.",
+            "(C) 4 hours."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "2"
+        ],
+        "final_solution": "(C) 4 hours."
     },
     {
         "realidx": 514,
@@ -375,9 +584,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 552,
-            "completion_tokens": 183
+            "completion_tokens": 197
         },
-        "time_elapsed": 5.130051136016846
+        "time_elapsed": 5.716405391693115,
+        "raw_responses": [
+            "(A) More prominent in expiration",
+            "(A) More prominent in expiration",
+            "(A) More prominent in expiration"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions are identical, each suggesting that a crackling sound more prominent in expiration is indicative of a pleural friction rub rather than crackles. Since they are all the same, any of them can be chosen as the best final answer.\n\nI will choose option number 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: \"(A) More prominent in expiration.\" Since they are identical, any of them can be chosen as the best final answer. Therefore, I will choose option number 0.\n\n0",
+            "All the provided solutions are identical, each suggesting that a crackling sound more prominent in expiration is indicative of a pleural friction rub rather than crackles. Since they are all the same, any of them can be chosen as the best final answer.\n\nI will choose option number 0.\n\n0"
+        ],
+        "final_solution": "(A) More prominent in expiration"
     },
     {
         "realidx": 515,
@@ -394,9 +614,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 735,
-            "completion_tokens": 69
+            "completion_tokens": 75
         },
-        "time_elapsed": 4.128629446029663
+        "time_elapsed": 4.504945278167725,
+        "raw_responses": [
+            "Option (C) is usually higher at the end of the game than at the end of the first half.",
+            "Option (C) is usually higher at the end of the game than at the end of the first half.",
+            "Option (C) is usually higher at the end of the game than at the end of the first half."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Option (C) is usually higher at the end of the game than at the end of the first half."
     },
     {
         "realidx": 526,
@@ -412,10 +643,21 @@
         "answer": "40 kJ/min.",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1494,
-            "completion_tokens": 316
+            "prompt_tokens": 1455,
+            "completion_tokens": 502
         },
-        "time_elapsed": 6.068166255950928
+        "time_elapsed": 9.42423415184021,
+        "raw_responses": [
+            "To calculate the rate of energy expenditure, we use the fact that the energy equivalent of oxygen consumption is approximately 20 kJ per liter of oxygen consumed.\n\nGiven:\nMean rate of oxygen consumption = 2 liters/min\nEnergy equivalent of oxygen consumption = 20 kJ/liter\n\nEnergy expenditure = Oxygen consumption rate \u00d7 Energy equivalent\n= 2 liters/min \u00d7 20 kJ/liter\n= 40 kJ/min\n\nFinal answer: (D) 40 kJ/min.",
+            "To determine the rate of energy expenditure, we use the fact that the energy equivalent of oxygen consumption is approximately 20 kJ per liter of oxygen consumed.\n\nGiven:\n- Mean rate of oxygen consumption = 2 liters/min\n- Energy equivalent of oxygen consumption = 20 kJ/liter\n\nCalculation:\nEnergy expenditure = Oxygen consumption rate \u00d7 Energy equivalent\n= 2 liters/min \u00d7 20 kJ/liter\n= 40 kJ/min\n\nFinal answer: (D) 40 kJ/min.",
+            "To calculate the rate of energy expenditure, we use the fact that the energy equivalent of oxygen consumption is approximately 20 kJ per liter of oxygen consumed.\n\nGiven:\nMean rate of oxygen consumption = 2 liters/min\nEnergy equivalent of oxygen consumption = 20 kJ/liter\n\nEnergy expenditure = Oxygen consumption rate \u00d7 Energy equivalent\n= 2 liters/min \u00d7 20 kJ/liter\n= 40 kJ/min\n\nFinal answer: (D) 40 kJ/min."
+        ],
+        "ensemble_raw_responses": [
+            "All three solutions (0, 1, and 2) provide the same correct calculation and final answer. Therefore, any of these solutions can be chosen as they are identical in content and correctness. \n\nI will choose option 0.\n\n0",
+            "All three solutions (0, 1, and 2) are identical in their approach and calculations. They all correctly use the given data and the energy equivalent of oxygen consumption to determine the rate of energy expenditure. Therefore, any of these solutions can be considered correct.\n\nSince all solutions are the same, I will choose option 0.\n\nFinal answer: 0",
+            "All three solutions (0, 1, and 2) are identical in their approach and calculations. They all correctly use the given data and the energy equivalent of oxygen consumption to determine the rate of energy expenditure. Therefore, any of these solutions can be considered correct.\n\nSince all solutions are the same, I will choose option 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "To determine the rate of energy expenditure, we use the fact that the energy equivalent of oxygen consumption is approximately 20 kJ per liter of oxygen consumed.\n\nGiven:\n- Mean rate of oxygen consumption = 2 liters/min\n- Energy equivalent of oxygen consumption = 20 kJ/liter\n\nCalculation:\nEnergy expenditure = Oxygen consumption rate \u00d7 Energy equivalent\n= 2 liters/min \u00d7 20 kJ/liter\n= 40 kJ/min\n\nFinal answer: (D) 40 kJ/min."
     },
     {
         "realidx": 537,
@@ -432,9 +674,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 477,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.3583128452301025
+        "time_elapsed": 3.83636474609375,
+        "raw_responses": [
+            "(A) Every 4 hours.",
+            "(A) Every 4 hours.",
+            "(A) Every 4 hours."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Every 4 hours."
     },
     {
         "realidx": 552,
@@ -451,9 +704,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 546,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.6480703353881836
+        "time_elapsed": 5.046828985214233,
+        "raw_responses": [
+            "(C) 20%",
+            "(C) 20%",
+            "(C) 20%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) 20%"
     },
     {
         "realidx": 568,
@@ -470,9 +734,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 552,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 3.626955509185791
+        "time_elapsed": 4.278169870376587,
+        "raw_responses": [
+            "(C) pyruvate is converted to lactate.",
+            "(C) pyruvate is converted to lactate.",
+            "(C) pyruvate is converted to lactate."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) pyruvate is converted to lactate."
     },
     {
         "realidx": 576,
@@ -489,9 +764,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 411,
-            "completion_tokens": 13
+            "completion_tokens": 20
         },
-        "time_elapsed": 3.2453980445861816
+        "time_elapsed": 3.823390245437622,
+        "raw_responses": [
+            "(A) warm",
+            "(A) warm.",
+            "(A) warm."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(A) warm."
     },
     {
         "realidx": 598,
@@ -507,10 +793,21 @@
         "answer": "350",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1401,
-            "completion_tokens": 334
+            "prompt_tokens": 882,
+            "completion_tokens": 167
         },
-        "time_elapsed": 6.751936435699463
+        "time_elapsed": 5.404247045516968,
+        "raw_responses": [
+            "(C) 350",
+            "(C) 350",
+            "The mouth is a complex environment that supports a diverse microbial community. Studies have shown that the oral cavity can be colonized by a large number of different microorganisms, including bacteria, fungi, viruses, and protozoa. The number of bacterial species alone that can be found in the mouth is quite high.\n\nConsidering the options provided:\n(A) 35 - This number is too low given the known diversity of oral microorganisms.\n(B) 100 - This number is also likely too low.\n(C) 350 - This number is more reasonable but still might be on the lower side.\n(D) 500 - This number aligns with scientific estimates that suggest the oral cavity can host around 500 different species of microorganisms.\n\nFinal answer: (D) 500"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "1"
+        ],
+        "final_solution": "The mouth is a complex environment that supports a diverse microbial community. Studies have shown that the oral cavity can be colonized by a large number of different microorganisms, including bacteria, fungi, viruses, and protozoa. The number of bacterial species alone that can be found in the mouth is quite high.\n\nConsidering the options provided:\n(A) 35 - This number is too low given the known diversity of oral microorganisms.\n(B) 100 - This number is also likely too low.\n(C) 350 - This number is more reasonable but still might be on the lower side.\n(D) 500 - This number aligns with scientific estimates that suggest the oral cavity can host around 500 different species of microorganisms.\n\nFinal answer: (D) 500"
     },
     {
         "realidx": 614,
@@ -526,10 +823,21 @@
         "answer": "excessive weight loss.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1398,
-            "completion_tokens": 446
+            "prompt_tokens": 1059,
+            "completion_tokens": 315
         },
-        "time_elapsed": 7.5725696086883545
+        "time_elapsed": 6.383901834487915,
+        "raw_responses": [
+            "Insensible loss refers to the loss of water not easily measured, such as through respiration and skin evaporation. \n\n(A) Pyrexia (fever) increases body temperature, leading to increased sweating and respiratory rate, contributing to insensible loss.\n(B) Using unhumidified oxygen can dry out respiratory passages, increasing water loss through respiration, contributing to insensible loss.\n(C) Excessive weight loss is not directly related to insensible water loss; it is a broader condition that can result from various factors, not specifically from unmeasured water loss.\n(D) Diarrhoea involves the loss of water through the gastrointestinal tract, which is measurable and not considered insensible loss.\n\nFinal answer: (C) excessive weight loss.",
+            "(A) pyrexia.\n(B) using unhumidified oxygen.\n(C) excessive weight loss.\n(D) diarrhoea.\n\nFinal answer: (D) diarrhoea.",
+            "(A) pyrexia.\n(B) using unhumidified oxygen.\n(C) excessive weight loss.\n(D) diarrhoea.\n\nFinal answer: (D) diarrhoea."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "The best final answer is option 0. \n\nOption 0 provides a detailed explanation of why each choice is considered, and it correctly identifies that excessive weight loss is not directly related to insensible water loss. The other options (1 and 2) correctly identify that diarrhoea is not an insensible loss, but they do not provide the same level of detailed reasoning. \n\nTherefore, the chosen option number is: 0."
+        ],
+        "final_solution": "Insensible loss refers to the loss of water not easily measured, such as through respiration and skin evaporation. \n\n(A) Pyrexia (fever) increases body temperature, leading to increased sweating and respiratory rate, contributing to insensible loss.\n(B) Using unhumidified oxygen can dry out respiratory passages, increasing water loss through respiration, contributing to insensible loss.\n(C) Excessive weight loss is not directly related to insensible water loss; it is a broader condition that can result from various factors, not specifically from unmeasured water loss.\n(D) Diarrhoea involves the loss of water through the gastrointestinal tract, which is measurable and not considered insensible loss.\n\nFinal answer: (C) excessive weight loss."
     },
     {
         "realidx": 628,
@@ -545,10 +853,21 @@
         "answer": "1 minute",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 471,
-            "completion_tokens": 18
+            "prompt_tokens": 1263,
+            "completion_tokens": 399
         },
-        "time_elapsed": 3.37811017036438
+        "time_elapsed": 8.646755456924438,
+        "raw_responses": [
+            "(D) 4 minutes",
+            "To determine when maximal dynamic exercise becomes predominantly aerobic, we need to consider the energy systems involved in exercise:\n\n1. **Immediate Energy System (ATP-PCr System)**: This system provides energy for very short, high-intensity activities, typically lasting up to 10 seconds.\n2. **Glycolytic System (Anaerobic Glycolysis)**: This system takes over after the immediate energy system and can provide energy for activities lasting from about 10 seconds to 2 minutes. It does not require oxygen and produces lactic acid as a byproduct.\n3. **Oxidative System (Aerobic Metabolism)**: This system becomes the primary source of energy for activities lasting longer than 2 minutes. It requires oxygen and is more efficient at producing ATP over longer durations.\n\nGiven these points, maximal dynamic exercise transitions to being predominantly aerobic after the initial anaerobic phases. This typically occurs around the 2-minute mark.\n\nTherefore, the correct answer is:\n\n(D) 4 minutes",
+            "Maximal dynamic exercise transitions from anaerobic to predominantly aerobic metabolism as the duration increases. Initially, energy is supplied by the ATP-PC system and anaerobic glycolysis. Aerobic metabolism becomes more significant as exercise continues. Typically, this transition occurs around 1 to 2 minutes, but it becomes predominantly aerobic by 4 minutes.\n\nFinal answer: (D) 4 minutes"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The best final answer is option 0. \n\nOption 0 provides a detailed explanation of the transition from anaerobic to aerobic metabolism during maximal dynamic exercise and correctly identifies that the exercise becomes predominantly aerobic by 4 minutes. This aligns with the understanding of energy system contributions during exercise. \n\nOption 1 simply states the answer without any explanation, and option 2 provides a detailed explanation but incorrectly concludes that the transition occurs at 2 minutes, while still selecting 4 minutes as the final answer, which is inconsistent.\n\nTherefore, the chosen option is 0.",
+            "1"
+        ],
+        "final_solution": "(D) 4 minutes"
     },
     {
         "realidx": 634,
@@ -565,9 +884,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 642,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 3.5098109245300293
+        "time_elapsed": 3.996046304702759,
+        "raw_responses": [
+            "(A) The GP, consultant, and named nurse.",
+            "(A) The GP, consultant, and named nurse.",
+            "(A) The GP, consultant, and named nurse."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) The GP, consultant, and named nurse."
     },
     {
         "realidx": 640,
@@ -583,10 +913,21 @@
         "answer": "Inspect the nail-bed angle from the side",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 552,
-            "completion_tokens": 29
+            "prompt_tokens": 549,
+            "completion_tokens": 34
         },
-        "time_elapsed": 4.414759159088135
+        "time_elapsed": 3.9197332859039307,
+        "raw_responses": [
+            "(C) Schamroth's sign",
+            "(C) Schamroth's sign",
+            "(A) Inspect the nail-bed angle from above"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "(C) Schamroth's sign"
     },
     {
         "realidx": 642,
@@ -603,9 +944,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 510,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.313413381576538
+        "time_elapsed": 4.3247902393341064,
+        "raw_responses": [
+            "(D) Touch, pinch, grasp.",
+            "(D) Touch, pinch, grasp.",
+            "(D) Touch, pinch, grasp."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Touch, pinch, grasp."
     },
     {
         "realidx": 643,
@@ -622,9 +974,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 684,
-            "completion_tokens": 135
+            "completion_tokens": 141
         },
-        "time_elapsed": 4.498323440551758
+        "time_elapsed": 4.843766689300537,
+        "raw_responses": [
+            "(A) A pulsatile mass is always due to an aortic aneurysm",
+            "(A) A pulsatile mass is always due to an aortic aneurysm",
+            "(D) An indentible mass is caused by faecal loading of the colon"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0. \n\nOption 1 and 2 both state that a pulsatile mass is always due to an aortic aneurysm, which is not accurate as there can be other causes for a pulsatile mass. Option 0 correctly identifies that an indentible mass can be caused by faecal loading of the colon, which is a true statement.\n\nTherefore, the chosen option number is 0.",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) An indentible mass is caused by faecal loading of the colon"
     },
     {
         "realidx": 694,
@@ -641,9 +1004,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 456,
-            "completion_tokens": 25
+            "completion_tokens": 31
         },
-        "time_elapsed": 3.6140878200531006
+        "time_elapsed": 3.8933701515197754,
+        "raw_responses": [
+            "(D) Normal saline.",
+            "(A) Hydrogen peroxide.",
+            "(D) Normal saline."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The best final answer is 0."
+        ],
+        "final_solution": "(D) Normal saline."
     },
     {
         "realidx": 698,
@@ -660,9 +1034,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 534,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 3.7695531845092773
+        "time_elapsed": 3.9911177158355713,
+        "raw_responses": [
+            "(A) If the patient is post-operative.",
+            "(A) If the patient is post-operative.",
+            "(A) If the patient is post-operative."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) If the patient is post-operative."
     },
     {
         "realidx": 721,
@@ -676,12 +1061,23 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "Proprioception is appreciated via the same tracts as light touch",
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 687,
-            "completion_tokens": 49
+            "prompt_tokens": 690,
+            "completion_tokens": 56
         },
-        "time_elapsed": 3.789710760116577
+        "time_elapsed": 4.568082332611084,
+        "raw_responses": [
+            "(C) It is best to test vibration sense with a 256 Hz tuning fork",
+            "(C) It is best to test vibration sense with a 256 Hz tuning fork",
+            "(A) It is acceptable to test pain with a venepuncture needle"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "2"
+        ],
+        "final_solution": "(C) It is best to test vibration sense with a 256 Hz tuning fork"
     },
     {
         "realidx": 722,
@@ -698,9 +1094,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 552,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.410853624343872
+        "time_elapsed": 3.903019666671753,
+        "raw_responses": [
+            "(B) remains relatively unchanged.",
+            "(B) remains relatively unchanged.",
+            "(B) remains relatively unchanged."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) remains relatively unchanged."
     },
     {
         "realidx": 740,
@@ -714,12 +1121,23 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "in the conversion of fatty acids to acetyl CoA.",
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 893,
-            "completion_tokens": 194
+            "prompt_tokens": 1179,
+            "completion_tokens": 254
         },
-        "time_elapsed": 5.15130090713501
+        "time_elapsed": 7.5041937828063965,
+        "raw_responses": [
+            "(B) in the conversion of fatty acids to acetyl CoA.",
+            "(A) in glycolysis. - No, glycolysis does not require oxygen.\n(B) in the conversion of fatty acids to acetyl CoA. - No, this process does not directly require oxygen.\n(C) in the tricarboxylic acid cycle (Krebs' cycle). - No, the Krebs cycle itself does not directly use oxygen, but it is closely linked to the electron transport chain which requires oxygen.\n(D) in glycogenolysis. - No, glycogenolysis does not require oxygen.\n\nFinal answer: None of the above.",
+            "(A) in glycolysis. - No, glycolysis does not require oxygen.\n(B) in the conversion of fatty acids to acetyl CoA. - No, this process does not directly require oxygen.\n(C) in the tricarboxylic acid cycle (Krebs' cycle). - No, the Krebs cycle itself does not directly use oxygen, but it is closely linked to the electron transport chain which requires oxygen.\n(D) in glycogenolysis. - No, glycogenolysis does not require oxygen.\n\nFinal answer: None of the options directly use oxygen."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "2"
+        ],
+        "final_solution": "(A) in glycolysis. - No, glycolysis does not require oxygen.\n(B) in the conversion of fatty acids to acetyl CoA. - No, this process does not directly require oxygen.\n(C) in the tricarboxylic acid cycle (Krebs' cycle). - No, the Krebs cycle itself does not directly use oxygen, but it is closely linked to the electron transport chain which requires oxygen.\n(D) in glycogenolysis. - No, glycogenolysis does not require oxygen.\n\nFinal answer: None of the above."
     },
     {
         "realidx": 749,
@@ -736,9 +1154,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 468,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.214451789855957
+        "time_elapsed": 3.896883249282837,
+        "raw_responses": [
+            "(A) Urinary infection.",
+            "(A) Urinary infection.",
+            "(A) Urinary infection."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Urinary infection."
     },
     {
         "realidx": 791,
@@ -754,10 +1183,21 @@
         "answer": "Ontogeny recapitulates phylogeny.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 819,
-            "completion_tokens": 59
+            "prompt_tokens": 813,
+            "completion_tokens": 63
         },
-        "time_elapsed": 4.928400993347168
+        "time_elapsed": 4.117897033691406,
+        "raw_responses": [
+            "(C) An early human embryo has features in common with early fish and avian embryos.",
+            "(C) An early human embryo has features in common with early fish and avian embryos.",
+            "(C) An early human embryo has features in common with early fish and avian embryos."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) An early human embryo has features in common with early fish and avian embryos."
     },
     {
         "realidx": 805,
@@ -773,10 +1213,21 @@
         "answer": "Injecting eggs with antibodies that bind to ZP3 blocks in vitro fertilization.",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1176,
-            "completion_tokens": 258
+            "prompt_tokens": 1170,
+            "completion_tokens": 97
         },
-        "time_elapsed": 7.135347843170166
+        "time_elapsed": 4.575031757354736,
+        "raw_responses": [
+            "Option (D) Coating synthetic beads with a different glycoprotein, ZP2, fails to lead to sperm aggregation on the beads.",
+            "Option (D) Coating synthetic beads with a different glycoprotein, ZP2, fails to lead to sperm aggregation on the beads.",
+            "(D) Coating synthetic beads with a different glycoprotein, ZP2, fails to lead to sperm aggregation on the beads."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "Option (D) Coating synthetic beads with a different glycoprotein, ZP2, fails to lead to sperm aggregation on the beads."
     },
     {
         "realidx": 876,
@@ -793,9 +1244,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 615,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 3.629504919052124
+        "time_elapsed": 3.880066394805908,
+        "raw_responses": [
+            "(B) occurs in the absence of sensory feedback",
+            "(B) occurs in the absence of sensory feedback",
+            "(B) occurs in the absence of sensory feedback"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) occurs in the absence of sensory feedback"
     },
     {
         "realidx": 1210,
@@ -809,12 +1271,23 @@
         "answer_idx": "B",
         "subject": "college_medicine",
         "answer": "There are decreased dopamine receptors on the post-synaptic membrane.",
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 798,
-            "completion_tokens": 42
+            "completion_tokens": 61
         },
-        "time_elapsed": 3.38870906829834
+        "time_elapsed": 4.039989471435547,
+        "raw_responses": [
+            "(A) There is decreased dopamine in the synaptic cleft.",
+            "(D) There is seizure-like activity in the dopamine brain areas.",
+            "(A) There is decreased dopamine in the synaptic cleft."
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is:\n\n2",
+            "The best final answer is 0.",
+            "2"
+        ],
+        "final_solution": "(D) There is seizure-like activity in the dopamine brain areas."
     },
     {
         "realidx": 1211,
@@ -831,9 +1304,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1047,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 4.396407842636108
+        "time_elapsed": 3.831751585006714,
+        "raw_responses": [
+            "(D) Not enough information given.",
+            "(D) Not enough information given.",
+            "(D) Not enough information given."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Not enough information given."
     },
     {
         "realidx": 1219,
@@ -850,9 +1334,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 705,
-            "completion_tokens": 103
+            "completion_tokens": 299
         },
-        "time_elapsed": 4.118780136108398
+        "time_elapsed": 7.480193138122559,
+        "raw_responses": [
+            "(A) Osmosis",
+            "(B) Passive Transport",
+            "(B) Passive Transport"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2. Passive transport is the process that uses only the gradient of material to control the direction in which the material moves across the cell membrane. Osmosis is a specific type of passive transport that involves the movement of water, but passive transport encompasses all types of movement along the gradient, including diffusion and facilitated diffusion.\n\nSo, the chosen option number is:\n2",
+            "The best final answer is option 2. \n\nOption 2 correctly identifies \"Passive Transport\" as the process that uses only the gradient of material to control the direction in which the material moves across the cell membrane. Passive transport includes processes like diffusion and osmosis, which rely on the concentration gradient without the need for energy input. \n\nOption 1 is incorrect because osmosis is a specific type of passive transport, but the question asks for the general process. \n\nOption 0 is redundant and less clear compared to option 2. \n\nTherefore, the chosen option is 2.",
+            "The best final answer is option 2: (B) Passive Transport. \n\nPassive transport is the process that uses only the gradient of material to control the direction in which the material moves across the cell membrane. Osmosis is a specific type of passive transport that involves the movement of water, but passive transport encompasses all types of movement down a gradient, including diffusion and facilitated diffusion.\n\nTherefore, the chosen option number is 2."
+        ],
+        "final_solution": "(B) Passive Transport"
     },
     {
         "realidx": 1222,
@@ -868,10 +1363,21 @@
         "answer": "924 Hz",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 4830,
-            "completion_tokens": 1290
+            "prompt_tokens": 4674,
+            "completion_tokens": 1244
         },
-        "time_elapsed": 15.263945817947388
+        "time_elapsed": 19.34631085395813,
+        "raw_responses": [
+            "To solve this problem, we need to use the Doppler effect formula for sound. The formula for the perceived frequency \\( f' \\) when both the source and the observer are moving in the same direction is:\n\n\\[ f' = f \\left( \\frac{v + v_o}{v + v_s} \\right) \\]\n\nwhere:\n- \\( f \\) is the original frequency of the sound (800 Hz),\n- \\( v \\) is the speed of sound in air (approximately 343 m/s),\n- \\( v_o \\) is the speed of the observer (camera) in m/s,\n- \\( v_s \\) is the speed of the source (gunshot) in m/s.\n\nFirst, we need to convert the speeds from km/h to m/s:\n- Speed of the car (source), \\( v_s = 108 \\text{ km/h} = \\frac{108 \\times 1000}{3600} = 30 \\text{ m/s} \\),\n- Speed of the camera (observer), \\( v_o = 72 \\text{ km/h} = \\frac{72 \\times 1000}{3600} = 20 \\text{ m/s} \\).\n\nNow, we can plug these values into the Doppler effect formula:\n\n\\[ f' = 800 \\left( \\frac{343 + 20}{343 + 30} \\right) \\]\n\nCalculate the numerator and the denominator:\n\n\\[ f' = 800 \\left( \\frac{363}{373} \\right) \\]\n\nNow, perform the division:\n\n\\[ \\frac{363}{373} \\approx 0.973 \\]\n\nFinally, multiply by the original frequency:\n\n\\[ f' = 800 \\times 0.973 \\approx 778.4 \\]\n\nRounding to the nearest whole number, the perceived frequency is approximately 778 Hz. However, this does not match any of the given options exactly. The closest option is:\n\n(B) 787 Hz",
+            "To solve this problem, we need to use the Doppler effect formula for sound. The formula for the perceived frequency \\( f' \\) when both the source and the observer are moving in the same direction is:\n\n\\[ f' = f \\left( \\frac{v + v_o}{v + v_s} \\right) \\]\n\nwhere:\n- \\( f \\) is the original frequency of the sound (800 Hz),\n- \\( v \\) is the speed of sound in air (approximately 343 m/s),\n- \\( v_o \\) is the speed of the observer (camera) relative to the ground,\n- \\( v_s \\) is the speed of the source (gunshot) relative to the ground.\n\nFirst, we need to convert the speeds from km/h to m/s:\n- Speed of the car (source): \\( 108 \\, \\text{km/h} = \\frac{108 \\times 1000}{3600} \\, \\text{m/s} = 30 \\, \\text{m/s} \\)\n- Speed of the camera (observer): \\( 72 \\, \\text{km/h} = \\frac{72 \\times 1000}{3600} \\, \\text{m/s} = 20 \\, \\text{m/s} \\)\n\nNow, we can plug these values into the Doppler effect formula:\n\n\\[ f' = 800 \\left( \\frac{343 + 20}{343 + 30} \\right) \\]\n\nCalculate the numerator and the denominator:\n\n\\[ f' = 800 \\left( \\frac{363}{373} \\right) \\]\n\nNow, divide 363 by 373:\n\n\\[ \\frac{363}{373} \\approx 0.973 \\]\n\nFinally, multiply by the original frequency:\n\n\\[ f' = 800 \\times 0.973 \\approx 778.4 \\, \\text{Hz} \\]\n\nThe closest option to 778.4 Hz is:\n\n(B) 787 Hz",
+            "To solve this problem, we need to use the Doppler effect formula for sound. The formula for the observed frequency \\( f' \\) when both the source and the observer are moving in the same direction is:\n\n\\[ f' = f \\left( \\frac{v + v_o}{v + v_s} \\right) \\]\n\nwhere:\n- \\( f \\) is the original frequency of the sound (800 Hz),\n- \\( v \\) is the speed of sound in air (approximately 343 m/s),\n- \\( v_o \\) is the speed of the observer (camera) relative to the medium (air),\n- \\( v_s \\) is the speed of the source (gunshot) relative to the medium (air).\n\nFirst, we need to convert the speeds from km/h to m/s:\n- Speed of the car (source) \\( v_s = 108 \\text{ km/h} = \\frac{108 \\times 1000}{3600} \\text{ m/s} = 30 \\text{ m/s} \\),\n- Speed of the camera (observer) \\( v_o = 72 \\text{ km/h} = \\frac{72 \\times 1000}{3600} \\text{ m/s} = 20 \\text{ m/s} \\).\n\nNow, we can plug these values into the Doppler effect formula:\n\n\\[ f' = 800 \\left( \\frac{343 + 20}{343 + 30} \\right) \\]\n\nCalculate the numerator and the denominator:\n\n\\[ f' = 800 \\left( \\frac{363}{373} \\right) \\]\n\nNow, perform the division:\n\n\\[ \\frac{363}{373} \\approx 0.973 \\]\n\nFinally, multiply by the original frequency:\n\n\\[ f' = 800 \\times 0.973 \\approx 778.4 \\]\n\nThe closest option to 778.4 Hz is 787 Hz.\n\nThe answer is (B) 787 Hz."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "To solve this problem, we need to use the Doppler effect formula for sound. The formula for the observed frequency \\( f' \\) when both the source and the observer are moving in the same direction is:\n\n\\[ f' = f \\left( \\frac{v + v_o}{v + v_s} \\right) \\]\n\nwhere:\n- \\( f \\) is the original frequency of the sound (800 Hz),\n- \\( v \\) is the speed of sound in air (approximately 343 m/s),\n- \\( v_o \\) is the speed of the observer (camera) relative to the medium (air),\n- \\( v_s \\) is the speed of the source (gunshot) relative to the medium (air).\n\nFirst, we need to convert the speeds from km/h to m/s:\n- Speed of the car (source) \\( v_s = 108 \\text{ km/h} = \\frac{108 \\times 1000}{3600} \\text{ m/s} = 30 \\text{ m/s} \\),\n- Speed of the camera (observer) \\( v_o = 72 \\text{ km/h} = \\frac{72 \\times 1000}{3600} \\text{ m/s} = 20 \\text{ m/s} \\).\n\nNow, we can plug these values into the Doppler effect formula:\n\n\\[ f' = 800 \\left( \\frac{343 + 20}{343 + 30} \\right) \\]\n\nCalculate the numerator and the denominator:\n\n\\[ f' = 800 \\left( \\frac{363}{373} \\right) \\]\n\nNow, perform the division:\n\n\\[ \\frac{363}{373} \\approx 0.973 \\]\n\nFinally, multiply by the original frequency:\n\n\\[ f' = 800 \\times 0.973 \\approx 778.4 \\]\n\nThe closest option to 778.4 Hz is 787 Hz.\n\nThe answer is (B) 787 Hz."
     },
     {
         "realidx": 1260,
@@ -887,10 +1393,21 @@
         "answer": "40 kJ/min.",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1395,
-            "completion_tokens": 282
+            "prompt_tokens": 1467,
+            "completion_tokens": 386
         },
-        "time_elapsed": 5.678165435791016
+        "time_elapsed": 7.10886287689209,
+        "raw_responses": [
+            "To calculate the rate of energy expenditure, we use the fact that the energy equivalent of oxygen consumption is approximately 20 kJ per liter of oxygen consumed.\n\nGiven:\nMean rate of oxygen consumption = 2 liters/min\nEnergy equivalent of oxygen consumption = 20 kJ/liter\n\nEnergy expenditure = Oxygen consumption rate \u00d7 Energy equivalent\n= 2 liters/min \u00d7 20 kJ/liter\n= 40 kJ/min\n\nFinal answer: (D) 40 kJ/min.",
+            "To determine the rate of energy expenditure, we use the fact that the energy equivalent of oxygen consumption is approximately 20 kJ per liter of oxygen consumed.\n\nGiven:\n- Mean rate of oxygen consumption = 2 liters/min\n- Energy equivalent of oxygen consumption = 20 kJ/liter\n\nCalculation:\nEnergy expenditure = Oxygen consumption rate \u00d7 Energy equivalent\n= 2 liters/min \u00d7 20 kJ/liter\n= 40 kJ/min\n\nFinal answer: (D) 40 kJ/min.",
+            "To determine the rate of energy expenditure, we use the fact that the energy equivalent of oxygen consumption is approximately 20 kJ per liter of oxygen consumed.\n\nGiven:\n- Mean rate of oxygen consumption = 2 liters/min\n- Energy equivalent of oxygen consumption = 20 kJ/liter\n\nCalculation:\nEnergy expenditure = Oxygen consumption rate \u00d7 Energy equivalent\n= 2 liters/min \u00d7 20 kJ/liter\n= 40 kJ/min\n\nFinal answer: (D) 40 kJ/min."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "All three solutions (0, 1, and 2) are identical in their approach and calculations. They all correctly use the given data and the energy equivalent of oxygen consumption to determine the rate of energy expenditure. Therefore, any of the solutions can be chosen as they all provide the correct final answer.\n\nI will choose option 0.\n\nFinal answer: 0",
+            "0"
+        ],
+        "final_solution": "To determine the rate of energy expenditure, we use the fact that the energy equivalent of oxygen consumption is approximately 20 kJ per liter of oxygen consumed.\n\nGiven:\n- Mean rate of oxygen consumption = 2 liters/min\n- Energy equivalent of oxygen consumption = 20 kJ/liter\n\nCalculation:\nEnergy expenditure = Oxygen consumption rate \u00d7 Energy equivalent\n= 2 liters/min \u00d7 20 kJ/liter\n= 40 kJ/min\n\nFinal answer: (D) 40 kJ/min."
     },
     {
         "realidx": 1267,
@@ -906,10 +1423,21 @@
         "answer": "1 minute",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 471,
-            "completion_tokens": 18
+            "prompt_tokens": 1086,
+            "completion_tokens": 229
         },
-        "time_elapsed": 3.9463207721710205
+        "time_elapsed": 6.665212631225586,
+        "raw_responses": [
+            "To determine when maximal dynamic exercise becomes predominantly aerobic, we need to consider the energy systems involved in exercise:\n\n1. **Immediate Energy System (ATP-PCr System)**: This system provides energy for very short, high-intensity activities, typically lasting up to 10 seconds.\n2. **Glycolytic System (Anaerobic Glycolysis)**: This system takes over after the immediate energy system and can provide energy for activities lasting from about 10 seconds to 2 minutes. It does not require oxygen and produces lactic acid as a byproduct.\n3. **Oxidative System (Aerobic Metabolism)**: This system becomes the primary source of energy for activities lasting longer than 2 minutes. It requires oxygen and is more efficient at producing ATP over longer durations.\n\nGiven these points, maximal dynamic exercise transitions to being predominantly aerobic after the initial anaerobic phases (ATP-PCr and Glycolytic systems) are exhausted. This typically occurs after about 2 minutes.\n\nTherefore, the correct answer is:\n\n(D) 4 minutes",
+            "(D) 4 minutes",
+            "(D) 4 minutes"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "0"
+        ],
+        "final_solution": "To determine when maximal dynamic exercise becomes predominantly aerobic, we need to consider the energy systems involved in exercise:\n\n1. **Immediate Energy System (ATP-PCr System)**: This system provides energy for very short, high-intensity activities, typically lasting up to 10 seconds.\n2. **Glycolytic System (Anaerobic Glycolysis)**: This system takes over after the immediate energy system and can provide energy for activities lasting from about 10 seconds to 2 minutes. It does not require oxygen and produces lactic acid as a byproduct.\n3. **Oxidative System (Aerobic Metabolism)**: This system becomes the primary source of energy for activities lasting longer than 2 minutes. It requires oxygen and is more efficient at producing ATP over longer durations.\n\nGiven these points, maximal dynamic exercise transitions to being predominantly aerobic after the initial anaerobic phases (ATP-PCr and Glycolytic systems) are exhausted. This typically occurs after about 2 minutes.\n\nTherefore, the correct answer is:\n\n(D) 4 minutes"
     },
     {
         "realidx": 1269,
@@ -925,10 +1453,21 @@
         "answer": "[H2O] increases",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2310,
-            "completion_tokens": 669
+            "prompt_tokens": 3192,
+            "completion_tokens": 1284
         },
-        "time_elapsed": 10.609763622283936
+        "time_elapsed": 16.82980442047119,
+        "raw_responses": [
+            "When Mg(OH)2 is dissolved in water, it dissociates into Mg^2+ and OH^- ions until the solution becomes saturated. The solubility product constant (Ksp) for Mg(OH)2 is given by:\n\n\\[ K_{sp} = [Mg^{2+}][OH^-]^2 \\]\n\nWhen 10.0 mL of 0.1 M HCl is added to the saturated solution, the HCl dissociates completely into H^+ and Cl^- ions. The H^+ ions will react with the OH^- ions in the solution to form water:\n\n\\[ H^+ + OH^- \\rightarrow H_2O \\]\n\nThis reaction decreases the concentration of OH^- ions in the solution. According to Le Chatelier's principle, the equilibrium will shift to the right to dissolve more Mg(OH)2 to replace the OH^- ions that were removed. This will increase the concentration of Mg^2+ ions in the solution.\n\nSince the addition of HCl reduces the OH^- concentration and causes more Mg(OH)2 to dissolve, no precipitation of Mg(OH)2 or MgCl2 will occur. The Ksp for Mg(OH)2 is a constant at a given temperature and does not change. The concentration of water ([H2O]) in the solution remains essentially constant because the amount of water produced by the reaction is negligible compared to the total volume of the solution.\n\nTherefore, the correct answer is:\n\n(D) [H2O] increases",
+            "When Mg(OH)2 is dissolved in water, it dissociates into Mg^2+ and OH^- ions until the solution becomes saturated. The solubility product constant (Ksp) for Mg(OH)2 is given by:\n\n\\[ K_{sp} = [Mg^{2+}][OH^-]^2 \\]\n\nWhen 10.0 mL of 0.1 M HCl is added to the solution, the HCl dissociates completely into H^+ and Cl^- ions. The H^+ ions will react with the OH^- ions in the solution to form water:\n\n\\[ H^+ + OH^- \\rightarrow H_2O \\]\n\nThis reaction decreases the concentration of OH^- ions in the solution. As the concentration of OH^- ions decreases, the equilibrium shifts to the right to dissolve more Mg(OH)2 to maintain the Ksp value. This means that more Mg(OH)2 will dissolve rather than precipitate.\n\nTherefore, the correct answer is:\n\n(B) Mg(OH)2 precipitates",
+            "When Mg(OH)2 is dissolved in water, it dissociates into Mg^2+ and OH^- ions until the solution becomes saturated. The solubility product constant (Ksp) for Mg(OH)2 is given by:\n\n\\[ K_{sp} = [Mg^{2+}][OH^-]^2 \\]\n\nWhen 10.0 mL of 0.1 M HCl is added to the saturated solution, the HCl dissociates completely into H^+ and Cl^- ions. The H^+ ions will react with the OH^- ions in the solution to form water:\n\n\\[ H^+ + OH^- \\rightarrow H_2O \\]\n\nThis reaction decreases the concentration of OH^- ions in the solution. According to Le Chatelier's principle, the equilibrium will shift to the right to dissolve more Mg(OH)2 to replace the OH^- ions that were removed. This will increase the concentration of Mg^2+ ions in the solution.\n\nSince the addition of HCl reduces the OH^- concentration and causes more Mg(OH)2 to dissolve, no precipitation of Mg(OH)2 or MgCl2 will occur. The Ksp for Mg(OH)2 is a constant at a given temperature and does not change. The concentration of water ([H2O]) in the solution remains essentially constant because the amount of water produced by the reaction is negligible compared to the total volume of the solution.\n\nTherefore, the correct answer is:\n\n(D) [H2O] increases"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1. \n\nOption 1 correctly explains that the addition of HCl will decrease the concentration of OH^- ions, causing the equilibrium to shift to the right and dissolve more Mg(OH)2 to maintain the Ksp value. This results in an increase in the concentration of Mg^2+ ions in the solution. The explanation also correctly states that the amount of water produced is negligible compared to the total volume of the solution, so the concentration of water remains essentially constant. Therefore, the correct answer is:\n\n(D) [H2O] increases",
+            "The best final answer is option 1. \n\nOption 1 correctly explains that the addition of HCl will decrease the concentration of OH^- ions, causing the equilibrium to shift to the right and dissolve more Mg(OH)2 to maintain the Ksp value. This results in an increase in the concentration of Mg^2+ ions in the solution. The explanation also correctly states that the amount of water produced is negligible compared to the total volume of the solution, so the concentration of water remains essentially constant. Therefore, the correct answer is:\n\n(D) [H2O] increases\n\nOption 0 incorrectly concludes that Mg(OH)2 will precipitate, which is not the case. Option 2 is identical to option 1, so either option 1 or 2 would be acceptable, but since the task is to choose one, option 1 is chosen.",
+            "The best final answer is option 0. \n\nOption 0 correctly explains that the addition of HCl will decrease the concentration of OH^- ions, causing more Mg(OH)2 to dissolve to re-establish equilibrium according to Le Chatelier's principle. This results in an increase in the concentration of Mg^2+ ions in the solution. The explanation is thorough and accurate, and it correctly concludes that no precipitation of Mg(OH)2 or MgCl2 will occur. \n\nOption 1 is identical to option 0, so it is also correct.\n\nOption 2 incorrectly concludes that Mg(OH)2 will precipitate, which contradicts the correct analysis of the equilibrium shift.\n\nTherefore, the correct answer is option 0."
+        ],
+        "final_solution": "When Mg(OH)2 is dissolved in water, it dissociates into Mg^2+ and OH^- ions until the solution becomes saturated. The solubility product constant (Ksp) for Mg(OH)2 is given by:\n\n\\[ K_{sp} = [Mg^{2+}][OH^-]^2 \\]\n\nWhen 10.0 mL of 0.1 M HCl is added to the saturated solution, the HCl dissociates completely into H^+ and Cl^- ions. The H^+ ions will react with the OH^- ions in the solution to form water:\n\n\\[ H^+ + OH^- \\rightarrow H_2O \\]\n\nThis reaction decreases the concentration of OH^- ions in the solution. According to Le Chatelier's principle, the equilibrium will shift to the right to dissolve more Mg(OH)2 to replace the OH^- ions that were removed. This will increase the concentration of Mg^2+ ions in the solution.\n\nSince the addition of HCl reduces the OH^- concentration and causes more Mg(OH)2 to dissolve, no precipitation of Mg(OH)2 or MgCl2 will occur. The Ksp for Mg(OH)2 is a constant at a given temperature and does not change. The concentration of water ([H2O]) in the solution remains essentially constant because the amount of water produced by the reaction is negligible compared to the total volume of the solution.\n\nTherefore, the correct answer is:\n\n(D) [H2O] increases"
     },
     {
         "realidx": 1273,
@@ -945,9 +1484,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 858,
-            "completion_tokens": 217
+            "completion_tokens": 222
         },
-        "time_elapsed": 5.317279577255249
+        "time_elapsed": 5.638144016265869,
+        "raw_responses": [
+            "(C) After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
+            "(C) After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
+            "(C) After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light."
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions are identical, providing the same answer: (C) After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.\n\nSince all solutions are the same, any of them can be chosen as the final answer. Therefore, I will choose option 0.\n\n0",
+            "All three candidate solutions are identical. Therefore, any of the options can be chosen as the final answer. I will choose option 0.\n\n0",
+            "All three candidate solutions are identical, providing the same answer (C) for the problem. Therefore, any of the options 0, 1, or 2 can be chosen as the final answer. \n\nI will choose option 0.\n\n0"
+        ],
+        "final_solution": "(C) After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light."
     },
     {
         "realidx": 1276,
@@ -964,9 +1514,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 999,
-            "completion_tokens": 266
+            "completion_tokens": 301
         },
-        "time_elapsed": 6.0820982456207275
+        "time_elapsed": 6.309380292892456,
+        "raw_responses": [
+            "(B) Production of a similar-sized but dysfunctional protein",
+            "(B) Production of a similar-sized but dysfunctional protein",
+            "(B) Production of a similar-sized but dysfunctional protein"
+        ],
+        "ensemble_raw_responses": [
+            "The correct answer is 0. \n\nAll the candidate solutions are identical, so any of them would be correct. I chose 0 as the final answer.",
+            "The correct answer is 0. \n\nAll three solutions are identical, so any of them would be correct. However, since you asked for the best final answer, I will choose option 0.",
+            "The given RNA sequences differ by a single nucleotide change: the original sequence has \"GAAUAGAUGGGAAGCGCCAGAUACAGUAACAGA\" while the modified sequence has \"GAAUAGAUGGGAAGCGCCAGAUACAGUACCAGA\". This change is a substitution of \"A\" with \"C\" at the 27th position from the start of the sequence.\n\nThis single nucleotide change can potentially lead to a change in the amino acid sequence of the resulting protein, which may affect its function. Given that the modification is likely to produce a protein of similar size but with a potential functional alteration, the most likely outcome is the production of a similar-sized but dysfunctional protein.\n\nAll candidate solutions (0, 1, and 2) suggest the same outcome: (B) Production of a similar-sized but dysfunctional protein. Therefore, any of these options would be correct.\n\nI will choose option 0.\n\n0"
+        ],
+        "final_solution": "(B) Production of a similar-sized but dysfunctional protein"
     },
     {
         "realidx": 1282,
@@ -983,9 +1544,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 552,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 3.5623202323913574
+        "time_elapsed": 3.855058431625366,
+        "raw_responses": [
+            "(C) pyruvate is converted to lactate.",
+            "(C) pyruvate is converted to lactate.",
+            "(C) pyruvate is converted to lactate."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) pyruvate is converted to lactate."
     },
     {
         "realidx": 1284,
@@ -1001,10 +1573,21 @@
         "answer": "Paranoid",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1353,
-            "completion_tokens": 51
+            "prompt_tokens": 1452,
+            "completion_tokens": 90
         },
-        "time_elapsed": 3.992800235748291
+        "time_elapsed": 4.240044355392456,
+        "raw_responses": [
+            "The patient is exhibiting traits of grandiosity, entitlement, and a lack of empathy for others, which are characteristic of Narcissistic Personality Disorder.\n\nFinal answer: (B) Narcissistic",
+            "The patient is exhibiting traits of grandiosity, entitlement, and a lack of empathy for others, which are characteristic of Narcissistic Personality Disorder.\n\nFinal answer: (B) Narcissistic",
+            "(B) Narcissistic"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "The patient is exhibiting traits of grandiosity, entitlement, and a lack of empathy for others, which are characteristic of Narcissistic Personality Disorder.\n\nFinal answer: (B) Narcissistic"
     },
     {
         "realidx": 1286,
@@ -1020,10 +1603,21 @@
         "answer": "Phallic",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1068,
-            "completion_tokens": 81
+            "prompt_tokens": 861,
+            "completion_tokens": 42
         },
-        "time_elapsed": 4.355010509490967
+        "time_elapsed": 3.9571421146392822,
+        "raw_responses": [
+            "(A) Anal",
+            "(A) Anal",
+            "(A) Anal"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option number 0.",
+            "The best final answer is 0."
+        ],
+        "final_solution": "(A) Anal"
     },
     {
         "realidx": 1293,
@@ -1039,10 +1633,21 @@
         "answer": "He decides that the first test is always harder than the others.",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 987,
-            "completion_tokens": 61
+            "prompt_tokens": 975,
+            "completion_tokens": 63
         },
-        "time_elapsed": 3.9880805015563965
+        "time_elapsed": 3.9504706859588623,
+        "raw_responses": [
+            "(D) He critiques his study methods and tries to find out which led to poor returns.",
+            "(D) He critiques his study methods and tries to find out which led to poor returns.",
+            "(D) He critiques his study methods and tries to find out which led to poor returns."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) He critiques his study methods and tries to find out which led to poor returns."
     },
     {
         "realidx": 1298,
@@ -1056,12 +1661,23 @@
         "answer_idx": "B",
         "subject": "college_medicine",
         "answer": "in the conversion of fatty acids to acetyl CoA.",
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1494,
-            "completion_tokens": 353
+            "prompt_tokens": 675,
+            "completion_tokens": 156
         },
-        "time_elapsed": 6.977377891540527
+        "time_elapsed": 5.610958099365234,
+        "raw_responses": [
+            "(A) in glycolysis. - No, glycolysis does not require oxygen.\n(B) in the conversion of fatty acids to acetyl CoA. - No, this process does not directly require oxygen.\n(C) in the tricarboxylic acid cycle (Krebs' cycle). - No, the Krebs cycle itself does not directly use oxygen, but it is closely linked to the electron transport chain which requires oxygen.\n(D) in glycogenolysis. - No, glycogenolysis does not require oxygen.\n\nFinal answer: None of the options directly use oxygen.",
+            "(C) in the tricarboxylic acid cycle (Krebs' cycle).",
+            "(B) in the conversion of fatty acids to acetyl CoA."
+        ],
+        "ensemble_raw_responses": [
+            "(A) in glycolysis. - No, glycolysis does not require oxygen.\n(B) in the conversion of fatty acids to acetyl CoA. - No, this process does not directly require oxygen.\n(C) in the tricarboxylic acid cycle (Krebs' cycle). - No, the Krebs cycle itself does not directly use oxygen, but it is closely linked to the electron transport chain which requires oxygen.\n(D) in glycogenolysis. - No, glycogenolysis does not require oxygen.\n\nFinal answer: None of the options directly use oxygen.",
+            "0",
+            "1"
+        ],
+        "final_solution": "(C) in the tricarboxylic acid cycle (Krebs' cycle)."
     },
     {
         "realidx": 1307,
@@ -1077,10 +1693,21 @@
         "answer": "slightly less than 20L",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1797,
-            "completion_tokens": 547
+            "prompt_tokens": 1731,
+            "completion_tokens": 590
         },
-        "time_elapsed": 9.388914108276367
+        "time_elapsed": 9.925379753112793,
+        "raw_responses": [
+            "Using Boyle's Law, which states that \\( P_1 V_1 = P_2 V_2 \\):\n\nGiven:\n\\( P_1 = 200 \\) atm\n\\( V_1 = 0.1 \\) L\n\\( P_2 = 1 \\) atm\n\nWe need to find \\( V_2 \\).\n\nUsing the formula:\n\\( V_2 = \\frac{P_1 V_1}{P_2} \\)\n\nSubstitute the given values:\n\\( V_2 = \\frac{200 \\times 0.1}{1} \\)\n\\( V_2 = 20 \\) L\n\nThe correct answer is:\n(B) 20L",
+            "Using Boyle's Law, which states that \\( P_1V_1 = P_2V_2 \\):\n\nGiven:\n\\( P_1 = 200 \\) atm\n\\( V_1 = 0.1 \\) L\n\\( P_2 = 1 \\) atm\n\nWe need to find \\( V_2 \\):\n\n\\( 200 \\times 0.1 = 1 \\times V_2 \\)\n\n\\( 20 = V_2 \\)\n\nThe volume at 1 atm will be 20 L.\n\nFinal answer: (B) 20L",
+            "Using Boyle's Law, which states that \\( P_1 V_1 = P_2 V_2 \\):\n\nGiven:\n\\( P_1 = 200 \\) atm\n\\( V_1 = 0.1 \\) L\n\\( P_2 = 1 \\) atm\n\nWe need to find \\( V_2 \\).\n\nUsing the formula:\n\\( V_2 = \\frac{P_1 V_1}{P_2} \\)\n\nSubstitute the given values:\n\\( V_2 = \\frac{200 \\times 0.1}{1} \\)\n\\( V_2 = 20 \\) L\n\nThe correct answer is:\n(B) 20L"
+        ],
+        "ensemble_raw_responses": [
+            "All three solutions correctly apply Boyle's Law and arrive at the same correct answer. Therefore, any of the solutions can be chosen. I will choose option 0.\n\nFinal answer: 0",
+            "All three solutions correctly apply Boyle's Law, \\( P_1 V_1 = P_2 V_2 \\), and accurately calculate the final volume \\( V_2 \\). Each solution arrives at the same correct answer of 20 L. Therefore, any of the solutions can be considered correct.\n\nSince all solutions are equivalent in correctness and clarity, I will choose option 0.\n\nFinal answer: 0",
+            "All three solutions correctly apply Boyle's Law and arrive at the same final answer. Since they are all accurate and consistent, any of them could be chosen. However, for the sake of consistency and clarity, I will choose option 1.\n\nThe chosen option number is: 1."
+        ],
+        "final_solution": "Using Boyle's Law, which states that \\( P_1 V_1 = P_2 V_2 \\):\n\nGiven:\n\\( P_1 = 200 \\) atm\n\\( V_1 = 0.1 \\) L\n\\( P_2 = 1 \\) atm\n\nWe need to find \\( V_2 \\).\n\nUsing the formula:\n\\( V_2 = \\frac{P_1 V_1}{P_2} \\)\n\nSubstitute the given values:\n\\( V_2 = \\frac{200 \\times 0.1}{1} \\)\n\\( V_2 = 20 \\) L\n\nThe correct answer is:\n(B) 20L"
     },
     {
         "realidx": 1316,
@@ -1096,10 +1723,21 @@
         "answer": "is usually lower at the end of the game than at the end of the first half.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 723,
-            "completion_tokens": 65
+            "prompt_tokens": 735,
+            "completion_tokens": 75
         },
-        "time_elapsed": 3.954094648361206
+        "time_elapsed": 6.020130395889282,
+        "raw_responses": [
+            "Option (C) is usually higher at the end of the game than at the end of the first half.",
+            "Option (C) is usually higher at the end of the game than at the end of the first half.",
+            "Option (C) is usually higher at the end of the game than at the end of the first half."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Option (C) is usually higher at the end of the game than at the end of the first half."
     },
     {
         "realidx": 1322,
@@ -1116,9 +1754,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 531,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 8.567586898803711
+        "time_elapsed": 4.007004737854004,
+        "raw_responses": [
+            "(A) Oxaloacetate",
+            "(A) Oxaloacetate",
+            "(A) Oxaloacetate"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Oxaloacetate"
     },
     {
         "realidx": 1325,
@@ -1134,10 +1783,21 @@
         "answer": "Hide snack food out of sight within his house.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 678,
-            "completion_tokens": 110
+            "prompt_tokens": 828,
+            "completion_tokens": 91
         },
-        "time_elapsed": 4.549704551696777
+        "time_elapsed": 4.510205268859863,
+        "raw_responses": [
+            "(C) Snap himself with a rubber band when he eats a high calorie snack.",
+            "(C) Snap himself with a rubber band when he eats a high calorie snack.",
+            "(C) Snap himself with a rubber band when he eats a high calorie snack."
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are all identical. Therefore, any of the options (0, 1, or 2) would be correct. I will choose option 0.\n\n0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Snap himself with a rubber band when he eats a high calorie snack."
     },
     {
         "realidx": 1344,
@@ -1154,9 +1814,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 846,
-            "completion_tokens": 289
+            "completion_tokens": 330
         },
-        "time_elapsed": 5.9930291175842285
+        "time_elapsed": 9.607397079467773,
+        "raw_responses": [
+            "Option (C) An eight month old male infant raised by a single caregiver who frequently neglect the child",
+            "(A) A two month old female infant raised in a safe, stable environment",
+            "(C) An eight month old male infant raised by a single caregiver who frequently neglect the child"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0. \n\nOption 0 and option 2 are essentially the same, but option 0 is more clearly presented. Option 1 describes a child in a safe, stable environment, which is less likely to lead to attachment to a previously unknown male psychologist compared to a child who is frequently neglected and may be seeking attachment figures. Therefore, option 0 is the most appropriate choice.",
+            "Option 2 is the best final answer. \n\nAccording to attachment theory, children who experience neglect or inconsistent caregiving are more likely to seek attachment figures outside their primary caregiver. An eight-month-old male infant raised by a single caregiver who frequently neglects the child (Option C) is more likely to attach to a male psychologist, previously unknown to the child, in the course of a psychological study. \n\nTherefore, the chosen option number is:\n2",
+            "Option 2 is the best final answer. \n\nThe reasoning is as follows: According to attachment theory, children who experience neglect or inconsistent caregiving are more likely to seek attachment figures outside their primary caregiver. An eight-month-old male infant raised by a single caregiver who frequently neglects the child (Option C) is more likely to attach to a male psychologist, previously unknown to the child, in the course of a psychological study. \n\nTherefore, the chosen option number is 2."
+        ],
+        "final_solution": "(C) An eight month old male infant raised by a single caregiver who frequently neglect the child"
     },
     {
         "realidx": 1358,
@@ -1173,9 +1844,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 5724,
-            "completion_tokens": 121
+            "completion_tokens": 96
         },
-        "time_elapsed": 4.661212921142578
+        "time_elapsed": 4.683068513870239,
+        "raw_responses": [
+            "(B) Increase in stroke volume.",
+            "(B) Increase in stroke volume.",
+            "(B) Increase in stroke volume."
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 0.",
+            "The correct answer is (B) Increase in stroke volume. All candidate solutions (0, 1, and 2) have identified this as the correct answer. Therefore, any of the options can be chosen. I will choose option 0.\n\n0",
+            "The best final answer is 0."
+        ],
+        "final_solution": "(B) Increase in stroke volume."
     },
     {
         "realidx": 1364,
@@ -1192,9 +1874,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 552,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.161191463470459
+        "time_elapsed": 4.113448858261108,
+        "raw_responses": [
+            "(B) remains relatively unchanged.",
+            "(B) remains relatively unchanged.",
+            "(B) remains relatively unchanged."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) remains relatively unchanged."
     },
     {
         "realidx": 1365,
@@ -1211,9 +1904,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 807,
-            "completion_tokens": 165
+            "completion_tokens": 251
         },
-        "time_elapsed": 5.835549592971802
+        "time_elapsed": 6.177927732467651,
+        "raw_responses": [
+            "(A) DNA polymerase I",
+            "(A) DNA polymerase I",
+            "(A) DNA polymerase I"
+        ],
+        "ensemble_raw_responses": [
+            "The correct answer is 0. All the candidate solutions are identical and correct, as DNA polymerase I is responsible for removing RNA primers and filling in the gaps with DNA nucleotides, and it also has proofreading activity to correct mistakes. Therefore, any of the options would be correct, but since they are all the same, option 0 is chosen.",
+            "The correct repair mechanism for removing an incorrect base shortly after the RNA primer is removed during DNA replication is indeed DNA polymerase I. All the candidate solutions provided (0, 1, and 2) correctly identify DNA polymerase I as the answer.\n\nSince all the solutions are identical and correct, any of them can be chosen. I will choose option 0.\n\nThe chosen option number is: 0",
+            "The correct answer is 0. All the candidate solutions are identical and correct, as DNA polymerase I is responsible for removing RNA primers and proofreading the newly synthesized DNA strand. Therefore, any of the options (0, 1, or 2) would be correct, but since you asked for the best final answer, I will return option 0.\n\n0"
+        ],
+        "final_solution": "(A) DNA polymerase I"
     },
     {
         "realidx": 7339,
@@ -1230,9 +1934,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 831,
-            "completion_tokens": 483
+            "completion_tokens": 60
         },
-        "time_elapsed": 8.31897497177124
+        "time_elapsed": 4.667159557342529,
+        "raw_responses": [
+            "(B) lack of expression or reduced expression of the lac operon genes under all circumstances",
+            "(B) lack of expression or reduced expression of the lac operon genes under all circumstances",
+            "(B) lack of expression or reduced expression of the lac operon genes under all circumstances"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) lack of expression or reduced expression of the lac operon genes under all circumstances"
     },
     {
         "realidx": 12213,
@@ -1248,10 +1963,21 @@
         "answer": "Development of polycythemia",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1455,
-            "completion_tokens": 103
+            "prompt_tokens": 1665,
+            "completion_tokens": 179
         },
-        "time_elapsed": 4.257874965667725
+        "time_elapsed": 5.902018070220947,
+        "raw_responses": [
+            "The patient is Rh-negative and the father is Rh-positive, which means there is a risk of Rh incompatibility. If the fetus is Rh-positive, the mother can develop antibodies against the Rh antigen if fetal blood cells enter her circulation. Administering Rho(D) immune globulin prevents the mother's immune system from forming antibodies to RhD.\n\nFinal answer: (D) Formation of antibodies to RhD",
+            "The patient is Rh-negative and the father is Rh-positive, which means there is a risk of Rh incompatibility. This can lead to the mother developing antibodies against Rh-positive fetal red blood cells if fetal-maternal hemorrhage occurs. Administering Rho(D) immune globulin prevents the mother's immune system from forming antibodies to RhD.\n\nFinal answer: (D) Formation of antibodies to RhD",
+            "(D) Formation of antibodies to RhD"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient is Rh-negative and the father is Rh-positive, which means there is a risk of Rh incompatibility. If the fetus is Rh-positive, the mother can develop antibodies against the Rh antigen if fetal blood cells enter her circulation. Administering Rho(D) immune globulin prevents the mother's immune system from forming antibodies to RhD.\n\nFinal answer: (D) Formation of antibodies to RhD"
     },
     {
         "realidx": 12247,
@@ -1267,10 +1993,21 @@
         "answer": "adjustment disorder with depressed mood",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2038,
-            "completion_tokens": 298
+            "prompt_tokens": 2706,
+            "completion_tokens": 517
         },
-        "time_elapsed": 5.303358316421509
+        "time_elapsed": 10.043556213378906,
+        "raw_responses": [
+            "The most likely diagnosis is (E) premenstrual dysphoric disorder.",
+            "The patient's symptoms are closely related to her menstrual cycle, with mood changes occurring predictably before and during her menses. This pattern suggests a diagnosis related to hormonal changes rather than a primary psychiatric disorder. Given the cyclical nature of her symptoms and the absence of a psychiatric history, the most likely diagnosis is premenstrual dysphoric disorder (PMDD), which is not listed among the options provided. However, considering the options given:\n\n(A) Adjustment disorder with depressed mood: This diagnosis is typically related to a specific stressor and does not usually follow a cyclical pattern related to the menstrual cycle.\n(B) Bipolar I disorder, mixed: This involves episodes of mania and depression, but the patient's symptoms are specifically tied to her menstrual cycle.\n(C) Cyclothymic personality: This involves chronic fluctuating mood disturbances, but again, the patient's symptoms are specifically tied to her menstrual cycle.\n(D) Generalized anxiety disorder: This involves persistent and excessive worry about various aspects of life, not specifically tied to the menstrual cycle.\n\nGiven the options, none perfectly fit the patient's presentation, but the closest match considering the cyclical nature of her symptoms would be:\n\nFinal answer: (C) cyclothymic personality",
+            "The patient's symptoms are closely related to her menstrual cycle, with mood changes occurring before and during her menses. This pattern suggests a diagnosis related to hormonal changes rather than a primary psychiatric disorder. Given the timing and nature of her symptoms, the most likely diagnosis is premenstrual dysphoric disorder (PMDD), which is not listed among the options. However, considering the options provided:\n\n(A) Adjustment disorder with depressed mood: This diagnosis is typically related to a specific stressor and does not usually follow a cyclical pattern related to the menstrual cycle.\n(B) Bipolar I disorder, mixed: This involves episodes of mania and depression, but the patient's symptoms are specifically tied to her menstrual cycle.\n(C) Cyclothymic personality: This involves chronic fluctuating mood disturbances, but again, the patient's symptoms are specifically tied to her menstrual cycle.\n(D) Generalized anxiety disorder: This involves persistent and excessive worry about various aspects of life, not specifically tied to the menstrual cycle.\n\nGiven the options, none perfectly fit the patient's presentation, but the closest match considering the cyclical nature of her symptoms would be related to mood changes. However, since none of the options perfectly fit, the correct diagnosis is not listed among the provided options."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "1"
+        ],
+        "final_solution": "The most likely diagnosis is (E) premenstrual dysphoric disorder."
     },
     {
         "realidx": 12260,
@@ -1286,10 +2023,21 @@
         "answer": "Intraoperative angiography",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1698,
-            "completion_tokens": 36
+            "prompt_tokens": 1680,
+            "completion_tokens": 112
         },
-        "time_elapsed": 3.6876676082611084
+        "time_elapsed": 5.328606605529785,
+        "raw_responses": [
+            "(B) Doppler ultrasonography of the left lower extremity",
+            "(D) Intraoperative angiography",
+            "(D) Intraoperative angiography"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "The patient is presenting with signs of acute limb ischemia, which is a surgical emergency. The most appropriate initial step in management is to confirm the diagnosis and identify the site of occlusion. Doppler ultrasonography is a non-invasive and rapid method to assess blood flow and can help in determining the presence and location of arterial occlusion.\n\nTherefore, the best final answer is:\n\n2"
+        ],
+        "final_solution": "(D) Intraoperative angiography"
     },
     {
         "realidx": 12296,
@@ -1306,9 +2054,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2343,
-            "completion_tokens": 57
+            "completion_tokens": 63
         },
-        "time_elapsed": 3.6842079162597656
+        "time_elapsed": 4.335517406463623,
+        "raw_responses": [
+            "(B) Adhere to the patient's wishes on the condition that he agree to home nursing care",
+            "(B) Adhere to the patient's wishes on the condition that he agree to home nursing care",
+            "(B) Adhere to the patient's wishes on the condition that he agree to home nursing care"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Adhere to the patient's wishes on the condition that he agree to home nursing care"
     },
     {
         "realidx": 12307,
@@ -1325,9 +2084,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 942,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.413406133651733
+        "time_elapsed": 4.2335193157196045,
+        "raw_responses": [
+            "(A) central hyperalimentation",
+            "(A) central hyperalimentation",
+            "(A) central hyperalimentation"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) central hyperalimentation"
     },
     {
         "realidx": 12317,
@@ -1343,10 +2113,21 @@
         "answer": "Cervical culture",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1488,
-            "completion_tokens": 122
+            "prompt_tokens": 2712,
+            "completion_tokens": 536
         },
-        "time_elapsed": 4.632042407989502
+        "time_elapsed": 8.667005777359009,
+        "raw_responses": [
+            "Step-by-step reasoning:\n\n1. The patient presents with lower abdominal pain, nausea, fever, and signs of pelvic inflammatory disease (PID) such as leukorrhea and uterine tenderness.\n2. She is sexually active and does not use contraception, which increases the risk of sexually transmitted infections (STIs) that can lead to PID.\n3. The presence of fever (38.3\u00b0C) and abdominal tenderness with rebound and guarding suggests a significant infection or inflammation.\n4. The most immediate concern is to rule out an ectopic pregnancy, which can present with similar symptoms and is a medical emergency.\n5. Serum \u03b2-hCG concentration is the most appropriate initial test to rule out pregnancy, including ectopic pregnancy.\n\nFinal answer: (D) Serum \u03b2-hCG concentration",
+            "The patient's symptoms of lower abdominal pain, nausea, fever, leukorrhea, and tenderness of the uterus and adnexal areas suggest a possible pelvic inflammatory disease (PID). Given her sexual activity without contraception, it is important to rule out pregnancy as a potential cause of her symptoms, such as an ectopic pregnancy.\n\nStep-by-step reasoning:\n1. The patient has lower abdominal pain and nausea, which are nonspecific but concerning symptoms.\n2. She has a fever (38.3\u00b0C), which suggests an infectious process.\n3. Physical examination reveals abdominal tenderness, rebound, and guarding, indicating peritoneal irritation.\n4. Pelvic examination shows leukorrhea and uterine tenderness, which are signs of PID.\n5. The adnexal tenderness without palpable masses further supports PID but does not rule out other conditions like ectopic pregnancy.\n\nGiven the clinical presentation and the need to rule out a potentially life-threatening condition like ectopic pregnancy, the most appropriate initial diagnostic study is to check the serum \u03b2-hCG concentration.\n\nFinal answer: (D) Serum \u03b2-hCG concentration",
+            "Step-by-step reasoning:\n\n1. The patient presents with lower abdominal pain, nausea, fever, and signs of pelvic inflammatory disease (PID) such as leukorrhea and uterine tenderness.\n2. She is sexually active and does not use contraception, which increases the risk of sexually transmitted infections (STIs) that can lead to PID.\n3. The presence of fever (38.3\u00b0C) and abdominal tenderness with rebound and guarding suggests a significant infection or inflammation.\n4. The most immediate concern is to rule out an ectopic pregnancy, which can present with similar symptoms and is a medical emergency.\n5. Serum \u03b2-hCG concentration is the most appropriate initial test to rule out pregnancy, including ectopic pregnancy.\n\nFinal answer: (D) Serum \u03b2-hCG concentration"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient's symptoms of lower abdominal pain, nausea, fever, leukorrhea, and tenderness of the uterus and adnexal areas suggest a possible pelvic inflammatory disease (PID). Given her sexual activity without contraception, it is important to rule out pregnancy as a potential cause of her symptoms, such as an ectopic pregnancy.\n\nStep-by-step reasoning:\n1. The patient has lower abdominal pain and nausea, which are nonspecific but concerning symptoms.\n2. She has a fever (38.3\u00b0C), which suggests an infectious process.\n3. Physical examination reveals abdominal tenderness, rebound, and guarding, indicating peritoneal irritation.\n4. Pelvic examination shows leukorrhea and uterine tenderness, which are signs of PID.\n5. The adnexal tenderness without palpable masses further supports PID but does not rule out other conditions like ectopic pregnancy.\n\nGiven the clinical presentation and the need to rule out a potentially life-threatening condition like ectopic pregnancy, the most appropriate initial diagnostic study is to check the serum \u03b2-hCG concentration.\n\nFinal answer: (D) Serum \u03b2-hCG concentration"
     },
     {
         "realidx": 12341,
@@ -1362,10 +2143,21 @@
         "answer": "Salmonella typhi",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 804,
-            "completion_tokens": 28
+            "prompt_tokens": 1305,
+            "completion_tokens": 357
         },
-        "time_elapsed": 3.72792649269104
+        "time_elapsed": 6.888273477554321,
+        "raw_responses": [
+            "The patient has a history of recent antibiotic use, which is a significant risk factor for Clostridium difficile infection. The presentation of diarrhea following antibiotic use is highly suggestive of Clostridium difficile. Additionally, the culture on hektoen enteric agar being positive is consistent with the identification of Clostridium difficile, as this medium is used to isolate enteric pathogens, including Clostridium difficile.\n\nFinal answer: (A) Clostridium difficile",
+            "(A) Clostridium difficile",
+            "The patient has a history of recent antibiotic use, which is a significant risk factor for Clostridium difficile infection. The presentation of diarrhea following antibiotic use is highly suggestive of C. difficile. Additionally, the culture on hektoen enteric agar being positive is consistent with the identification of C. difficile, as this medium is used to isolate enteric pathogens, including C. difficile.\n\nFinal answer: (A) Clostridium difficile"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2. \n\nOption 2 provides a clear and concise explanation of why Clostridium difficile is the most likely etiologic agent, considering the patient's recent antibiotic use and the positive culture on hektoen enteric agar. It also correctly identifies Clostridium difficile as the final answer.",
+            "Option 0 is the best final answer. \n\nOptions 1 and 2 contain incorrect information regarding the hektoen enteric agar. Hektoen enteric agar is typically used to isolate and differentiate enteric pathogens such as Salmonella and Shigella, not Clostridium difficile. Therefore, the additional explanations in options 1 and 2 are misleading. Option 0 correctly identifies Clostridium difficile as the most likely etiologic agent without including the incorrect information about the culture medium.",
+            "0"
+        ],
+        "final_solution": "The patient has a history of recent antibiotic use, which is a significant risk factor for Clostridium difficile infection. The presentation of diarrhea following antibiotic use is highly suggestive of C. difficile. Additionally, the culture on hektoen enteric agar being positive is consistent with the identification of C. difficile, as this medium is used to isolate enteric pathogens, including C. difficile.\n\nFinal answer: (A) Clostridium difficile"
     },
     {
         "realidx": 12424,
@@ -1381,9 +2173,20 @@
         "answer": "nonmaleficence overrides autonomy",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2082,
-            "completion_tokens": 371
+            "prompt_tokens": 2217,
+            "completion_tokens": 422
         },
-        "time_elapsed": 7.111099720001221
+        "time_elapsed": 7.398521661758423,
+        "raw_responses": [
+            "The physician's recommendation is based on the principle that the wife's right to know about her potential HIV status is crucial for her health and safety. This situation involves balancing the patient's autonomy (his right to keep his medical information private) against the potential harm to his wife if she remains unaware of her risk of being HIV positive.\n\n1. Autonomy: The patient's right to make decisions about his own health information.\n2. Beneficence: The physician's duty to act in the best interest of the patient and others.\n3. Nonmaleficence: The duty to do no harm.\n4. Justice: Fairness and equality in distributing benefits and risks.\n\nIn this case, the principle of nonmaleficence (preventing harm to the wife) is overriding the patient's autonomy (his desire to keep his HIV status private). The physician is prioritizing the wife's right to know and protect her health over the patient's wish to withhold information.\n\nFinal answer: (D) nonmaleficence overrides autonomy",
+            "(C) beneficence overrides autonomy",
+            "The physician's recommendation is based on the principle that the wife's right to know about her potential HIV status is crucial for her health and safety. This situation involves balancing the patient's autonomy (his right to keep his medical information private) against the potential harm to his wife if she remains unaware of her risk of being HIV positive.\n\n1. Autonomy: The patient's right to make decisions about his own health information.\n2. Beneficence: The physician's duty to act in the best interest of the patient and others.\n3. Nonmaleficence: The duty to do no harm.\n4. Justice: Fairness and equality in distributing benefits and risks.\n\nIn this case, the principle of nonmaleficence (preventing harm to the wife) is overriding the patient's autonomy (his desire to keep his HIV status private). The physician is prioritizing the wife's right to know and protect her health over the patient's wish to withhold information.\n\nFinal answer: (D) nonmaleficence overrides autonomy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "The physician's recommendation is based on the principle that the wife's right to know about her potential HIV status is crucial for her health and safety. This situation involves balancing the patient's autonomy (his right to keep his medical information private) against the potential harm to his wife if she remains unaware of her risk of being HIV positive.\n\n1. Autonomy: The patient's right to make decisions about his own health information.\n2. Beneficence: The physician's duty to act in the best interest of the patient and others.\n3. Nonmaleficence: The duty to do no harm.\n4. Justice: Fairness and equality in distributing benefits and risks.\n\nIn this case, the principle of nonmaleficence (preventing harm to the wife) is overriding the patient's autonomy (his desire to keep his HIV status private). The physician is prioritizing the wife's right to know and protect her health over the patient's wish to withhold information.\n\nFinal answer: (D) nonmaleficence overrides autonomy"
     }
 ]

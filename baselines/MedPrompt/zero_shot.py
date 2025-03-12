@@ -89,7 +89,8 @@ def zero_shot(problem: Dict, client: Any, model: str = "o3-mini", retries: int =
                     model=model,
                     messages=messages,
                     seed=42,
-                    temperature=0.0
+                    temperature=0.0,
+                    max_tokens=512,
                 )
                 raw_response = completion.choices[0].message.content.strip()
 
@@ -121,6 +122,7 @@ def zero_shot(problem: Dict, client: Any, model: str = "o3-mini", retries: int =
             end_time = time.time()
             time_elapsed = end_time - start_time
 
+            problem['completion'] = raw_response
             problem['predicted_answer'] = predicted_answer
             problem['token_usage'] = {
                 "prompt_tokens": prompt_tokens,
@@ -173,7 +175,7 @@ if __name__ == "__main__":
             azure_endpoint=os.getenv("AZURE_ENDPOINT_2"),
             api_key=os.getenv("AZURE_API_KEY_2"),
         )
-    elif args.model_name in ["Qwen/QwQ-32B-Preview", "deepseek-ai/DeepSeek-R1", "deepseek-ai/DeepSeek-V3", "meta-llama/Llama-3.3-70B-Instruct-Turbo"]:
+    elif args.model_name in ["Qwen/QwQ-32B", "deepseek-ai/DeepSeek-R1", "deepseek-ai/DeepSeek-V3", "meta-llama/Llama-3.3-70B-Instruct-Turbo"]:
         client = OpenAI(
             base_url="https://api.together.xyz/v1",
             api_key=os.getenv("TOGETHER_API_KEY"),

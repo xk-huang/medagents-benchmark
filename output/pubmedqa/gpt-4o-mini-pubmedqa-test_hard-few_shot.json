@@ -10,12 +10,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
-        "predicted_answer": "A",
+        "raw_response": "Answer: no",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1993,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9625358581542969
+        "time_elapsed": 0.7389569282531738
     },
     {
         "realidx": "10223070",
@@ -28,12 +29,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1906,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.79825758934021
+        "time_elapsed": 0.9844579696655273
     },
     {
         "realidx": "11146778",
@@ -46,12 +48,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
-        "predicted_answer": "A",
+        "raw_response": "Answer: no",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1953,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 4.456043720245361
+        "time_elapsed": 1.1650676727294922
     },
     {
         "realidx": "11411430",
@@ -64,12 +67,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1956,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 3.7564194202423096
+        "time_elapsed": 0.9343268871307373
     },
     {
         "realidx": "11458136",
@@ -82,12 +86,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
-        "predicted_answer": "C",
+        "raw_response": "Answer: no",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1864,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8455924987792969
+        "time_elapsed": 1.329329252243042
     },
     {
         "realidx": "11570976",
@@ -100,12 +105,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1765,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8604505062103271
+        "time_elapsed": 0.9924652576446533
     },
     {
         "realidx": "11926574",
@@ -118,12 +124,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2021,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8455209732055664
+        "time_elapsed": 0.9317054748535156
     },
     {
         "realidx": "12094116",
@@ -136,12 +143,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1858,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9594976902008057
+        "time_elapsed": 0.9487884044647217
     },
     {
         "realidx": "12407608",
@@ -154,12 +162,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
-        "predicted_answer": "A",
+        "raw_response": "Answer: yes",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1968,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9210379123687744
+        "time_elapsed": 1.1730093955993652
     },
     {
         "realidx": "12630042",
@@ -172,12 +181,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1896,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8007357120513916
+        "time_elapsed": 1.474285364151001
     },
     {
         "realidx": "12790890",
@@ -190,12 +200,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: no",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1920,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8093051910400391
+        "time_elapsed": 0.96665358543396
     },
     {
         "realidx": "12970636",
@@ -208,12 +219,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1965,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8502087593078613
+        "time_elapsed": 0.9947881698608398
     },
     {
         "realidx": "14599616",
@@ -226,12 +238,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
-        "predicted_answer": "B",
+        "raw_response": "Answer: maybe",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1839,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7959790229797363
+        "time_elapsed": 0.9833898544311523
     },
     {
         "realidx": "14627582",
@@ -244,12 +257,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2026,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8593175411224365
+        "time_elapsed": 0.8864705562591553
     },
     {
         "realidx": "16392897",
@@ -262,12 +276,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1886,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8082773685455322
+        "time_elapsed": 0.9036445617675781
     },
     {
         "realidx": "16538201",
@@ -280,12 +295,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1978,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 2.1015145778656006
+        "time_elapsed": 1.1366705894470215
     },
     {
         "realidx": "16816043",
@@ -298,12 +314,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1967,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8406589031219482
+        "time_elapsed": 0.8981313705444336
     },
     {
         "realidx": "16962519",
@@ -316,12 +333,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1960,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8699438571929932
+        "time_elapsed": 2.8701610565185547
     },
     {
         "realidx": "16968876",
@@ -334,12 +352,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1967,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8345091342926025
+        "time_elapsed": 1.3520605564117432
     },
     {
         "realidx": "17076091",
@@ -352,12 +371,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1813,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8751063346862793
+        "time_elapsed": 1.391181230545044
     },
     {
         "realidx": "17208539",
@@ -370,12 +390,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1958,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8601493835449219
+        "time_elapsed": 0.8963465690612793
     },
     {
         "realidx": "17445978",
@@ -388,12 +409,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1972,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8500363826751709
+        "time_elapsed": 1.0816433429718018
     },
     {
         "realidx": "17565137",
@@ -406,12 +428,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2012,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9030508995056152
+        "time_elapsed": 1.1068487167358398
     },
     {
         "realidx": "17621202",
@@ -424,12 +447,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1836,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8435842990875244
+        "time_elapsed": 1.1500606536865234
     },
     {
         "realidx": "17691856",
@@ -442,12 +466,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2041,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8617894649505615
+        "time_elapsed": 1.080256700515747
     },
     {
         "realidx": "17894828",
@@ -460,12 +485,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1986,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8581340312957764
+        "time_elapsed": 0.8676638603210449
     },
     {
         "realidx": "17940352",
@@ -478,12 +504,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1959,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8234109878540039
+        "time_elapsed": 0.9313499927520752
     },
     {
         "realidx": "18235194",
@@ -496,12 +523,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
-        "predicted_answer": "A",
+        "raw_response": "Answer: no",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1760,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7161011695861816
+        "time_elapsed": 1.1541805267333984
     },
     {
         "realidx": "18243752",
@@ -514,12 +542,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1768,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7979702949523926
+        "time_elapsed": 1.1004033088684082
     },
     {
         "realidx": "18284441",
@@ -532,12 +561,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1933,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.963425874710083
+        "time_elapsed": 0.913994550704956
     },
     {
         "realidx": "18359123",
@@ -550,12 +580,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
-        "predicted_answer": "C",
+        "raw_response": "Answer: maybe",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1827,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9001588821411133
+        "time_elapsed": 0.981884241104126
     },
     {
         "realidx": "18496363",
@@ -568,12 +599,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1949,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8694884777069092
+        "time_elapsed": 0.997338056564331
     },
     {
         "realidx": "18565233",
@@ -586,12 +618,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2050,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7210507392883301
+        "time_elapsed": 1.5948023796081543
     },
     {
         "realidx": "18568290",
@@ -604,12 +637,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2010,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.6910254955291748
+        "time_elapsed": 0.9828908443450928
     },
     {
         "realidx": "18714572",
@@ -622,12 +656,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1946,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8993210792541504
+        "time_elapsed": 1.0590076446533203
     },
     {
         "realidx": "18802997",
@@ -640,12 +675,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1954,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8602969646453857
+        "time_elapsed": 1.3216421604156494
     },
     {
         "realidx": "19103915",
@@ -658,12 +694,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1878,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8456151485443115
+        "time_elapsed": 0.8705029487609863
     },
     {
         "realidx": "19108857",
@@ -676,12 +713,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1881,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 5.444662809371948
+        "time_elapsed": 1.0404465198516846
     },
     {
         "realidx": "19351635",
@@ -694,12 +732,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2066,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7848992347717285
+        "time_elapsed": 1.0834591388702393
     },
     {
         "realidx": "19430778",
@@ -712,12 +751,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: no",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1978,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8202948570251465
+        "time_elapsed": 1.1445717811584473
     },
     {
         "realidx": "19468282",
@@ -730,12 +770,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2069,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.0152878761291504
+        "time_elapsed": 0.9194631576538086
     },
     {
         "realidx": "19578820",
@@ -748,12 +789,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
-        "predicted_answer": "C",
+        "raw_response": "Answer: no",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1911,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8394381999969482
+        "time_elapsed": 1.0086500644683838
     },
     {
         "realidx": "20197761",
@@ -766,12 +808,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: no",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1961,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8030087947845459
+        "time_elapsed": 1.1778290271759033
     },
     {
         "realidx": "20297950",
@@ -784,12 +827,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2139,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 2.5640432834625244
+        "time_elapsed": 1.07843017578125
     },
     {
         "realidx": "20337202",
@@ -802,12 +846,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1878,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8525936603546143
+        "time_elapsed": 0.9220967292785645
     },
     {
         "realidx": "20538207",
@@ -820,12 +865,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1920,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8138620853424072
+        "time_elapsed": 1.4536058902740479
     },
     {
         "realidx": "20736672",
@@ -838,12 +884,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1949,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8792011737823486
+        "time_elapsed": 1.208486557006836
     },
     {
         "realidx": "20971618",
@@ -856,12 +903,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1910,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.881920337677002
+        "time_elapsed": 1.553666114807129
     },
     {
         "realidx": "21164063",
@@ -874,12 +922,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
-        "predicted_answer": "C",
+        "raw_response": "Answer: yes",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1970,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7814767360687256
+        "time_elapsed": 0.9244785308837891
     },
     {
         "realidx": "21712147",
@@ -892,12 +941,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
-        "predicted_answer": "B",
+        "raw_response": "Answer: maybe",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2056,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8232836723327637
+        "time_elapsed": 0.9787867069244385
     },
     {
         "realidx": "21789019",
@@ -910,12 +960,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1866,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8244061470031738
+        "time_elapsed": 0.9409275054931641
     },
     {
         "realidx": "21889895",
@@ -928,12 +979,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1918,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8777117729187012
+        "time_elapsed": 0.8419392108917236
     },
     {
         "realidx": "22227642",
@@ -946,12 +998,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2042,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8110756874084473
+        "time_elapsed": 1.0818259716033936
     },
     {
         "realidx": "22236315",
@@ -964,12 +1017,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1859,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8223724365234375
+        "time_elapsed": 1.2060377597808838
     },
     {
         "realidx": "22491528",
@@ -982,12 +1036,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1827,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8005988597869873
+        "time_elapsed": 1.2571687698364258
     },
     {
         "realidx": "22617083",
@@ -1000,12 +1055,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1869,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8816473484039307
+        "time_elapsed": 0.8474431037902832
     },
     {
         "realidx": "23149821",
@@ -1018,12 +1074,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1930,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9082112312316895
+        "time_elapsed": 1.2565035820007324
     },
     {
         "realidx": "23422012",
@@ -1036,12 +1093,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1979,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.837634801864624
+        "time_elapsed": 1.016911506652832
     },
     {
         "realidx": "23497210",
@@ -1054,12 +1112,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2106,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8297719955444336
+        "time_elapsed": 1.0621836185455322
     },
     {
         "realidx": "23690198",
@@ -1072,12 +1131,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1963,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8419406414031982
+        "time_elapsed": 0.858025074005127
     },
     {
         "realidx": "24139705",
@@ -1090,12 +1150,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: no",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2011,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8314347267150879
+        "time_elapsed": 1.971848964691162
     },
     {
         "realidx": "24318956",
@@ -1108,12 +1169,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1930,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9430773258209229
+        "time_elapsed": 3.6138696670532227
     },
     {
         "realidx": "24336869",
@@ -1126,12 +1188,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1944,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.817457914352417
+        "time_elapsed": 0.9856998920440674
     },
     {
         "realidx": "24352924",
@@ -1144,12 +1207,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1915,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 2.5746419429779053
+        "time_elapsed": 0.9891519546508789
     },
     {
         "realidx": "24359102",
@@ -1162,12 +1226,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
-        "predicted_answer": "C",
+        "raw_response": "Answer: yes",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1910,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7962379455566406
+        "time_elapsed": 10.053673505783081
     },
     {
         "realidx": "24449622",
@@ -1180,12 +1245,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1946,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8496139049530029
+        "time_elapsed": 1.281313419342041
     },
     {
         "realidx": "24495711",
@@ -1198,12 +1264,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: no",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1904,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8631038665771484
+        "time_elapsed": 1.0130031108856201
     },
     {
         "realidx": "24591144",
@@ -1216,12 +1283,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1939,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8534379005432129
+        "time_elapsed": 1.0775866508483887
     },
     {
         "realidx": "24977765",
@@ -1234,12 +1302,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
-        "predicted_answer": "C",
+        "raw_response": "Answer: no",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2028,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.0329155921936035
+        "time_elapsed": 0.630774736404419
     },
     {
         "realidx": "24995509",
@@ -1252,12 +1321,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2069,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8559927940368652
+        "time_elapsed": 1.2207624912261963
     },
     {
         "realidx": "25079920",
@@ -1270,12 +1340,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1997,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7841477394104004
+        "time_elapsed": 0.922311544418335
     },
     {
         "realidx": "25103647",
@@ -1288,12 +1359,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1998,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8289411067962646
+        "time_elapsed": 0.8869085311889648
     },
     {
         "realidx": "25277731",
@@ -1306,12 +1378,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1747,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9484076499938965
+        "time_elapsed": 0.8535199165344238
     },
     {
         "realidx": "25371231",
@@ -1324,12 +1397,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1806,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.2062036991119385
+        "time_elapsed": 0.911146879196167
     },
     {
         "realidx": "25394614",
@@ -1342,12 +1416,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: no",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1941,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8810575008392334
+        "time_elapsed": 1.0641701221466064
     },
     {
         "realidx": "25488308",
@@ -1360,12 +1435,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2029,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7577910423278809
+        "time_elapsed": 1.1161277294158936
     },
     {
         "realidx": "25571931",
@@ -1378,12 +1454,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: no",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1931,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7903645038604736
+        "time_elapsed": 1.1110644340515137
     },
     {
         "realidx": "25614468",
@@ -1396,12 +1473,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1989,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.0378093719482422
+        "time_elapsed": 1.0558080673217773
     },
     {
         "realidx": "25779009",
@@ -1414,12 +1492,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1930,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8250753879547119
+        "time_elapsed": 0.7974774837493896
     },
     {
         "realidx": "25793749",
@@ -1432,12 +1511,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2207,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9671480655670166
+        "time_elapsed": 1.1389079093933105
     },
     {
         "realidx": "26037986",
@@ -1450,12 +1530,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1874,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 3.7433369159698486
+        "time_elapsed": 1.3132567405700684
     },
     {
         "realidx": "26606599",
@@ -1468,12 +1549,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2027,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8678739070892334
+        "time_elapsed": 1.134678840637207
     },
     {
         "realidx": "26708803",
@@ -1486,12 +1568,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2008,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7512662410736084
+        "time_elapsed": 1.148751974105835
     },
     {
         "realidx": "26778755",
@@ -1504,12 +1587,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2015,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.0529520511627197
+        "time_elapsed": 1.115382194519043
     },
     {
         "realidx": "26852225",
@@ -1522,12 +1606,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1931,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.882401704788208
+        "time_elapsed": 1.1400232315063477
     },
     {
         "realidx": "26864326",
@@ -1540,12 +1625,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: no",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2016,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9725096225738525
+        "time_elapsed": 0.9731643199920654
     },
     {
         "realidx": "26965932",
@@ -1558,12 +1644,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
-        "predicted_answer": "C",
+        "raw_response": "Answer: no",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2060,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.839524507522583
+        "time_elapsed": 1.0942492485046387
     },
     {
         "realidx": "27044366",
@@ -1576,12 +1663,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2025,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.9758572578430176
+        "time_elapsed": 1.0630762577056885
     },
     {
         "realidx": "27050489",
@@ -1594,12 +1682,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1933,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.1075770854949951
+        "time_elapsed": 1.0884199142456055
     },
     {
         "realidx": "27136599",
@@ -1612,12 +1701,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1827,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8274095058441162
+        "time_elapsed": 1.3138668537139893
     },
     {
         "realidx": "27217036",
@@ -1630,12 +1720,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2050,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8294486999511719
+        "time_elapsed": 1.0889708995819092
     },
     {
         "realidx": "27615402",
@@ -1648,12 +1739,13 @@
             "C": "maybe"
         },
         "answer_idx": "C",
+        "raw_response": "Answer: no",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1883,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8277003765106201
+        "time_elapsed": 0.8207495212554932
     },
     {
         "realidx": "27643961",
@@ -1666,12 +1758,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1905,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8268542289733887
+        "time_elapsed": 1.0874717235565186
     },
     {
         "realidx": "28359277",
@@ -1684,12 +1777,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
-        "predicted_answer": "C",
+        "raw_response": "Answer: yes",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1868,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7764449119567871
+        "time_elapsed": 0.8672664165496826
     },
     {
         "realidx": "7497757",
@@ -1702,12 +1796,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
+        "raw_response": "Answer: yes",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1987,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8826417922973633
+        "time_elapsed": 0.9262490272521973
     },
     {
         "realidx": "8738894",
@@ -1720,12 +1815,13 @@
             "C": "maybe"
         },
         "answer_idx": "B",
-        "predicted_answer": "A",
+        "raw_response": "Answer: maybe",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1949,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8293783664703369
+        "time_elapsed": 1.0538105964660645
     },
     {
         "realidx": "9363244",
@@ -1738,12 +1834,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: no",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1793,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.7784140110015869
+        "time_elapsed": 1.1371879577636719
     },
     {
         "realidx": "9465206",
@@ -1756,12 +1853,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2125,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 2.5941412448883057
+        "time_elapsed": 1.1888298988342285
     },
     {
         "realidx": "9483814",
@@ -1774,12 +1872,13 @@
             "C": "maybe"
         },
         "answer_idx": "A",
+        "raw_response": "Answer: maybe",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2014,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 0.8360214233398438
+        "time_elapsed": 1.0042426586151123
     },
     {
         "realidx": "9582182",
@@ -1792,11 +1891,12 @@
             "C": "maybe"
         },
         "answer_idx": "A",
-        "predicted_answer": "C",
+        "raw_response": "Answer: no",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1879,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.637803077697754
+        "time_elapsed": 1.327773094177246
     }
 ]

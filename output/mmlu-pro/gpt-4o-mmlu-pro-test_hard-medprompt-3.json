@@ -15,9 +15,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 438,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.6217973232269287
+        "time_elapsed": 4.002595663070679,
+        "raw_responses": [
+            "(A) Tumours",
+            "(A) Tumours",
+            "(A) Tumours"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Tumours"
     },
     {
         "realidx": 6003,
@@ -38,12 +49,23 @@
         "category": "health",
         "src": "ori_mmlu-virology",
         "answer": "The botanist Dmitri Iwanowsky",
-        "predicted_answer": "I",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 714,
+            "prompt_tokens": 699,
             "completion_tokens": 42
         },
-        "time_elapsed": 3.4118106365203857
+        "time_elapsed": 5.272913932800293,
+        "raw_responses": [
+            "(I) The botanist Dmitri Iwanowsky",
+            "(I) The botanist Dmitri Iwanowsky",
+            "(I) The botanist Dmitri Iwanowsky"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(I) The botanist Dmitri Iwanowsky"
     },
     {
         "realidx": 6012,
@@ -67,9 +89,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 717,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.604389190673828
+        "time_elapsed": 3.8756115436553955,
+        "raw_responses": [
+            "(E) Schamroth's sign",
+            "(E) Schamroth's sign",
+            "(E) Schamroth's sign"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "(E) Schamroth's sign"
     },
     {
         "realidx": 6013,
@@ -90,12 +123,23 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "Expiratory component louder and longer with a gap between inspiration and expiration",
-        "predicted_answer": "G",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 975,
-            "completion_tokens": 53
+            "prompt_tokens": 978,
+            "completion_tokens": 60
         },
-        "time_elapsed": 3.872424840927124
+        "time_elapsed": 4.446548700332642,
+        "raw_responses": [
+            "(C) Expiratory component louder and longer, but no gap between expiration and inspiration",
+            "(C) Expiratory component louder and longer, but no gap between expiration and inspiration",
+            "(C) Expiratory component louder and longer, but no gap between expiration and inspiration"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Expiratory component louder and longer, but no gap between expiration and inspiration"
     },
     {
         "realidx": 6018,
@@ -119,9 +163,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 633,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.294525384902954
+        "time_elapsed": 3.804940938949585,
+        "raw_responses": [
+            "(A) More frequent for men than women",
+            "(A) More frequent for men than women",
+            "(A) More frequent for men than women"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) More frequent for men than women"
     },
     {
         "realidx": 6021,
@@ -145,9 +200,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 585,
-            "completion_tokens": 12
+            "completion_tokens": 18
         },
-        "time_elapsed": 3.4039881229400635
+        "time_elapsed": 3.6842150688171387,
+        "raw_responses": [
+            "(B) Jewish",
+            "(B) Jewish",
+            "(B) Jewish"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Jewish"
     },
     {
         "realidx": 6029,
@@ -170,10 +236,21 @@
         "answer": "arise from the ascending aorta and fill during diastole.",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 1119,
-            "completion_tokens": 148
+            "prompt_tokens": 954,
+            "completion_tokens": 59
         },
-        "time_elapsed": 4.91380500793457
+        "time_elapsed": 4.3018639087677,
+        "raw_responses": [
+            "The correct answer is (I) arise from the ascending aorta and fill during diastole.",
+            "(I) arise from the ascending aorta and fill during diastole.",
+            "(I) arise from the ascending aorta and fill during diastole."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The correct answer is (I) arise from the ascending aorta and fill during diastole."
     },
     {
         "realidx": 6030,
@@ -197,9 +274,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 870,
-            "completion_tokens": 54
+            "completion_tokens": 60
         },
-        "time_elapsed": 3.505296230316162
+        "time_elapsed": 4.1774396896362305,
+        "raw_responses": [
+            "(A) The ribs, sternum, clavicle, vertebrae and femur",
+            "(A) The ribs, sternum, clavicle, vertebrae and femur",
+            "(A) The ribs, sternum, clavicle, vertebrae and femur"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) The ribs, sternum, clavicle, vertebrae and femur"
     },
     {
         "realidx": 6032,
@@ -223,9 +311,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 990,
-            "completion_tokens": 71
+            "completion_tokens": 48
         },
-        "time_elapsed": 4.495309114456177
+        "time_elapsed": 3.9523251056671143,
+        "raw_responses": [
+            "(A) Pupillary constriction and vasodilation of facial vessels",
+            "(A) Pupillary constriction and vasodilation of facial vessels",
+            "(A) Pupillary constriction and vasodilation of facial vessels"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Pupillary constriction and vasodilation of facial vessels"
     },
     {
         "realidx": 6039,
@@ -249,9 +348,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1587,
-            "completion_tokens": 39
+            "completion_tokens": 102
         },
-        "time_elapsed": 3.6848466396331787
+        "time_elapsed": 5.556691884994507,
+        "raw_responses": [
+            "(A) the neck was treated in simultaneous hyperrotation and extension",
+            "(A) the neck was treated in simultaneous hyperrotation and extension",
+            "(A) the neck was treated in simultaneous hyperrotation and extension"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The solutions provided are identical, with each stating that the physician may be found liable if \"the neck was treated in simultaneous hyperrotation and extension.\" Since all solutions are the same, any of them can be chosen as the final answer.\n\nTherefore, the chosen option number is: 0.",
+            "0"
+        ],
+        "final_solution": "(A) the neck was treated in simultaneous hyperrotation and extension"
     },
     {
         "realidx": 6042,
@@ -272,12 +382,23 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Ribosomal assembly",
-        "predicted_answer": "H",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1629,
-            "completion_tokens": 18
+            "prompt_tokens": 1866,
+            "completion_tokens": 103
         },
-        "time_elapsed": 3.0799400806427
+        "time_elapsed": 5.93911600112915,
+        "raw_responses": [
+            "(H) Cell wall synthesis",
+            "The patient presents with fever, severe muscle pain, painful swelling of lymph nodes, and necrotic skin lesions after returning from a camping trip in New Mexico. These symptoms are suggestive of bubonic plague, caused by Yersinia pestis. The most effective antibiotic for treating Yersinia pestis is streptomycin, which interferes with ribosomal assembly.\n\nFinal answer: (B) Ribosomal assembly",
+            "(H) Cell wall synthesis"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "2"
+        ],
+        "final_solution": "The patient presents with fever, severe muscle pain, painful swelling of lymph nodes, and necrotic skin lesions after returning from a camping trip in New Mexico. These symptoms are suggestive of bubonic plague, caused by Yersinia pestis. The most effective antibiotic for treating Yersinia pestis is streptomycin, which interferes with ribosomal assembly.\n\nFinal answer: (B) Ribosomal assembly"
     },
     {
         "realidx": 6045,
@@ -299,9 +420,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1677,
-            "completion_tokens": 28
+            "completion_tokens": 34
         },
-        "time_elapsed": 3.884263038635254
+        "time_elapsed": 5.004546403884888,
+        "raw_responses": [
+            "(D) Chronic Pancreatitis",
+            "(D) Chronic Pancreatitis",
+            "(D) Chronic Pancreatitis"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is 0.",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Chronic Pancreatitis"
     },
     {
         "realidx": 6049,
@@ -325,9 +457,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 582,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.755197048187256
+        "time_elapsed": 4.645313501358032,
+        "raw_responses": [
+            "(A) 66%",
+            "(A) 66%",
+            "(A) 66%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 66%"
     },
     {
         "realidx": 6050,
@@ -351,9 +494,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 870,
-            "completion_tokens": 48
+            "completion_tokens": 108
         },
-        "time_elapsed": 3.55137038230896
+        "time_elapsed": 5.45738673210144,
+        "raw_responses": [
+            "(I) Carboxylation of pyruvate to oxaloacetate",
+            "(I) Carboxylation of pyruvate to oxaloacetate",
+            "(I) Carboxylation of pyruvate to oxaloacetate"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "All three solutions provided are identical, stating that biotin is involved in the carboxylation of pyruvate to oxaloacetate. Since they are all the same, any of them can be chosen as the correct answer. I will choose option 0.\n\n0",
+            "0"
+        ],
+        "final_solution": "(I) Carboxylation of pyruvate to oxaloacetate"
     },
     {
         "realidx": 6051,
@@ -376,10 +530,21 @@
         "answer": "Carboxylation of pyruvate to oxaloacetate",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 870,
-            "completion_tokens": 96
+            "prompt_tokens": 891,
+            "completion_tokens": 61
         },
-        "time_elapsed": 5.05539870262146
+        "time_elapsed": 4.012085914611816,
+        "raw_responses": [
+            "(I) Carboxylation of pyruvate to oxaloacetate",
+            "(I) Carboxylation of pyruvate to oxaloacetate",
+            "The function of biotin is:\n\n(I) Carboxylation of pyruvate to oxaloacetate"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "0"
+        ],
+        "final_solution": "The function of biotin is:\n\n(I) Carboxylation of pyruvate to oxaloacetate"
     },
     {
         "realidx": 6052,
@@ -403,9 +568,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1266,
-            "completion_tokens": 104
+            "completion_tokens": 241
         },
-        "time_elapsed": 4.255971193313599
+        "time_elapsed": 5.272135972976685,
+        "raw_responses": [
+            "(B) Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of aspartate render the amino acid(s) unavailable for digestion.",
+            "(I) Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion.",
+            "(B) Cross-links between the &epsiv;-amino group of lysine and the carboxyl group of aspartate render the amino acid(s) unavailable for digestion."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The correct answer is option 0. \n\nOption 0 correctly describes that cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion. This is a well-known aspect of protein structure where disulphide bonds stabilize the protein structure and can affect its digestibility. \n\nOptions 1 and 2 are identical and describe cross-links between the &epsiv;-amino group of lysine and the carboxyl group of aspartate, which is not a common or well-known cross-linking mechanism in protein structure. \n\nTherefore, the best final answer is option 0.",
+            "1"
+        ],
+        "final_solution": "(I) Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion."
     },
     {
         "realidx": 6054,
@@ -427,9 +603,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 750,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.7510156631469727
+        "time_elapsed": 4.019138813018799,
+        "raw_responses": [
+            "(A) Regular physical activity and outdoor exposure",
+            "(A) Regular physical activity and outdoor exposure",
+            "(A) Regular physical activity and outdoor exposure"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Regular physical activity and outdoor exposure"
     },
     {
         "realidx": 6055,
@@ -450,9 +637,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 579,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.5170223712921143
+        "time_elapsed": 3.7906110286712646,
+        "raw_responses": [
+            "(A) Decreased muscle mass",
+            "(A) Decreased muscle mass",
+            "(A) Decreased muscle mass"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Decreased muscle mass"
     },
     {
         "realidx": 6059,
@@ -476,9 +674,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1326,
-            "completion_tokens": 69
+            "completion_tokens": 75
         },
-        "time_elapsed": 4.24681830406189
+        "time_elapsed": 4.589879035949707,
+        "raw_responses": [
+            "(E) Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions",
+            "(E) Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions",
+            "(E) Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(E) Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions"
     },
     {
         "realidx": 6061,
@@ -499,12 +708,23 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "High dose \u00df-carotene supplements",
-        "predicted_answer": "D",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 702,
-            "completion_tokens": 98
+            "prompt_tokens": 2268,
+            "completion_tokens": 588
         },
-        "time_elapsed": 4.573514699935913
+        "time_elapsed": 8.424425840377808,
+        "raw_responses": [
+            "(A) Saturated fat - No strong evidence linking to lung cancer.\n(B) High fiber diet - Generally considered protective against cancer.\n(C) Eating citrus fruits - Generally considered protective against cancer.\n(D) Alcohol - Some evidence suggests it may increase risk, but not strongly linked to lung cancer specifically.\n(E) Lack of physical activity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(F) Low protein intake - No strong evidence linking to lung cancer.\n(G) Vitamin D deficiency - Some evidence suggests it may increase risk, but not strongly linked to lung cancer.\n(H) Obesity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(I) High dose \u00df-carotene supplements - Strong evidence suggests it increases the risk for lung cancer, especially in smokers.\n(J) Drinking green tea - Generally considered protective against cancer.\n\nFinal answer: (I) High dose \u00df-carotene supplements",
+            "(A) Saturated fat - No strong evidence linking to lung cancer.\n(B) High fiber diet - Generally considered protective against cancer.\n(C) Eating citrus fruits - Generally considered protective against cancer.\n(D) Alcohol - Some evidence suggests it may increase risk, but not strongly linked to lung cancer specifically.\n(E) Lack of physical activity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(F) Low protein intake - No strong evidence linking to lung cancer.\n(G) Vitamin D deficiency - Some evidence suggests it may increase risk, but not strongly linked to lung cancer.\n(H) Obesity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(I) High dose \u00df-carotene supplements - Strong evidence suggests it increases the risk for lung cancer, especially in smokers.\n(J) Drinking green tea - Generally considered protective against cancer.\n\nFinal answer: (I) High dose \u00df-carotene supplements",
+            "(A) Saturated fat - No strong evidence linking to lung cancer.\n(B) High fiber diet - Generally considered protective against cancer.\n(C) Eating citrus fruits - Generally considered protective against cancer.\n(D) Alcohol - Some evidence suggests it may increase risk, but not strongly linked to lung cancer specifically.\n(E) Lack of physical activity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(F) Low protein intake - No strong evidence linking to lung cancer.\n(G) Vitamin D deficiency - Some evidence suggests it may increase risk, but not strongly linked to lung cancer.\n(H) Obesity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(I) High dose \u00df-carotene supplements - Strong evidence suggests it increases the risk for lung cancer, especially in smokers.\n(J) Drinking green tea - Generally considered protective against cancer.\n\nFinal answer: (I) High dose \u00df-carotene supplements"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Saturated fat - No strong evidence linking to lung cancer.\n(B) High fiber diet - Generally considered protective against cancer.\n(C) Eating citrus fruits - Generally considered protective against cancer.\n(D) Alcohol - Some evidence suggests it may increase risk, but not strongly linked to lung cancer specifically.\n(E) Lack of physical activity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(F) Low protein intake - No strong evidence linking to lung cancer.\n(G) Vitamin D deficiency - Some evidence suggests it may increase risk, but not strongly linked to lung cancer.\n(H) Obesity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(I) High dose \u00df-carotene supplements - Strong evidence suggests it increases the risk for lung cancer, especially in smokers.\n(J) Drinking green tea - Generally considered protective against cancer.\n\nFinal answer: (I) High dose \u00df-carotene supplements"
     },
     {
         "realidx": 6062,
@@ -527,10 +747,21 @@
         "answer": "High dose \u00df-carotene supplements",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 1746,
-            "completion_tokens": 427
+            "prompt_tokens": 2172,
+            "completion_tokens": 574
         },
-        "time_elapsed": 7.1869611740112305
+        "time_elapsed": 8.75406289100647,
+        "raw_responses": [
+            "(A) Saturated fat - No strong evidence linking to lung cancer.\n(B) High fiber diet - Generally considered protective against cancer.\n(C) Eating citrus fruits - Generally considered protective against cancer.\n(D) Alcohol - Some evidence suggests it may increase risk, but not strongly linked to lung cancer specifically.\n(E) Lack of physical activity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(F) Low protein intake - No strong evidence linking to lung cancer.\n(G) Vitamin D deficiency - Some evidence suggests it may increase risk, but not strongly linked to lung cancer.\n(H) Obesity - Generally considered a risk factor for various cancers, but not strongly linked to lung cancer.\n(I) High dose \u00df-carotene supplements - Strong evidence suggests it increases the risk for lung cancer, especially in smokers.\n(J) Drinking green tea - Generally considered protective against cancer.\n\nFinal answer: (I) High dose \u00df-carotene supplements",
+            "(A) Saturated fat - No strong evidence linking to lung cancer.\n(B) High fiber diet - Generally considered protective against cancer.\n(C) Eating citrus fruits - Generally considered protective against cancer.\n(D) Alcohol - Not a primary risk factor for lung cancer.\n(E) Lack of physical activity - Not a primary risk factor for lung cancer.\n(F) Low protein intake - Not a primary risk factor for lung cancer.\n(G) Vitamin D deficiency - Not a primary risk factor for lung cancer.\n(H) Obesity - Not a primary risk factor for lung cancer.\n(I) High dose \u00df-carotene supplements - Increases risk for lung cancer, especially in smokers.\n(J) Drinking green tea - Generally considered protective against cancer.\n\nFinal answer: (I) High dose \u00df-carotene supplements",
+            "(A) Saturated fat - No strong evidence linking saturated fat to lung cancer.\n(B) High fiber diet - Generally considered protective against various cancers.\n(C) Eating citrus fruits - Generally considered protective against various cancers.\n(D) Alcohol - Some evidence suggests a link to increased cancer risk, but not specifically lung cancer.\n(E) Lack of physical activity - Generally considered a risk factor for various cancers, but not specifically lung cancer.\n(F) Low protein intake - No strong evidence linking low protein intake to lung cancer.\n(G) Vitamin D deficiency - Some evidence suggests a link to increased cancer risk, but not specifically lung cancer.\n(H) Obesity - Generally considered a risk factor for various cancers, but not specifically lung cancer.\n(I) High dose \u00df-carotene supplements - Studies have shown an increased risk of lung cancer, especially in smokers.\n(J) Drinking green tea - Generally considered protective against various cancers.\n\nFinal answer: (I) High dose \u00df-carotene supplements"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2.",
+            "2",
+            "The best final answer is option number: 2."
+        ],
+        "final_solution": "(A) Saturated fat - No strong evidence linking saturated fat to lung cancer.\n(B) High fiber diet - Generally considered protective against various cancers.\n(C) Eating citrus fruits - Generally considered protective against various cancers.\n(D) Alcohol - Some evidence suggests a link to increased cancer risk, but not specifically lung cancer.\n(E) Lack of physical activity - Generally considered a risk factor for various cancers, but not specifically lung cancer.\n(F) Low protein intake - No strong evidence linking low protein intake to lung cancer.\n(G) Vitamin D deficiency - Some evidence suggests a link to increased cancer risk, but not specifically lung cancer.\n(H) Obesity - Generally considered a risk factor for various cancers, but not specifically lung cancer.\n(I) High dose \u00df-carotene supplements - Studies have shown an increased risk of lung cancer, especially in smokers.\n(J) Drinking green tea - Generally considered protective against various cancers.\n\nFinal answer: (I) High dose \u00df-carotene supplements"
     },
     {
         "realidx": 6064,
@@ -553,9 +784,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 543,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.5303285121917725
+        "time_elapsed": 3.7365164756774902,
+        "raw_responses": [
+            "(A) Colorectal cancer",
+            "(A) Colorectal cancer",
+            "(A) Colorectal cancer"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Colorectal cancer"
     },
     {
         "realidx": 6067,
@@ -573,9 +815,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 477,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.641544818878174
+        "time_elapsed": 4.2192864418029785,
+        "raw_responses": [
+            "(A) Shot gun sequencing",
+            "(A) Shot gun sequencing",
+            "(A) Shot gun sequencing"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Shot gun sequencing"
     },
     {
         "realidx": 6068,
@@ -592,10 +845,21 @@
         "answer": "An icosahedral large pleomorphic virus",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1017,
-            "completion_tokens": 256
+            "prompt_tokens": 1026,
+            "completion_tokens": 199
         },
-        "time_elapsed": 6.233703851699829
+        "time_elapsed": 6.4956934452056885,
+        "raw_responses": [
+            "(A) Club shaped glycoprotein spikes protrude through a lipid bilayer",
+            "The coronavirus structure is characterized by the presence of club-shaped glycoprotein spikes that protrude through a lipid bilayer. These spikes give the virus its crown-like appearance, which is why it is named \"corona\" (crown in Latin). The virus also has an envelope, but the defining feature is the club-shaped spikes.\n\nFinal answer: (A) Club shaped glycoprotein spikes protrude through a lipid bilayer",
+            "The coronavirus structure is characterized by club-shaped glycoprotein spikes that protrude through a lipid bilayer. These spikes give the virus its crown-like appearance, which is why it is named \"corona\" (Latin for crown). The virus has an envelope derived from the host cell membrane, which contains the lipid bilayer.\n\nFinal answer: (A) Club shaped glycoprotein spikes protrude through a lipid bilayer"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "2"
+        ],
+        "final_solution": "The coronavirus structure is characterized by club-shaped glycoprotein spikes that protrude through a lipid bilayer. These spikes give the virus its crown-like appearance, which is why it is named \"corona\" (Latin for crown). The virus has an envelope derived from the host cell membrane, which contains the lipid bilayer.\n\nFinal answer: (A) Club shaped glycoprotein spikes protrude through a lipid bilayer"
     },
     {
         "realidx": 6070,
@@ -618,10 +882,21 @@
         "answer": "Factor VIII is made synthetically",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 1680,
-            "completion_tokens": 399
+            "prompt_tokens": 2454,
+            "completion_tokens": 553
         },
-        "time_elapsed": 7.136467933654785
+        "time_elapsed": 9.754550695419312,
+        "raw_responses": [
+            "(H) Factor VIII is made synthetically",
+            "(A) The use of Factor VIII has been completely discontinued in the United States - Incorrect, Factor VIII is still in use.\n(B) Factor VIII is only distributed to hospitals with strict infection control protocols - Incorrect, this does not address the source of the Factor VIII.\n(C) Factor VIII is only used by individuals who are already HIV positive - Incorrect, Factor VIII is used by individuals with hemophilia, regardless of HIV status.\n(D) Factor VIII is irradiated to kill any potential HIV - Incorrect, irradiation is not the primary method used.\n(E) Factor VIII is important from countries with no reported HIV - Incorrect, this is not the primary reason.\n(F) Factor VIII is heat-treated to inactivate any potential HIV - Correct, heat treatment is a method used to inactivate HIV.\n(G) All donors for factor VIII are screened - Correct, donor screening is a critical step in ensuring the safety of blood products.\n(H) Factor VIII is made synthetically - Correct, synthetic production eliminates the risk of HIV contamination.\n(I) Factor VIII is derived from animals, which cannot carry HIV - Incorrect, Factor VIII is not derived from animals.\n(J) Factor VIII is subject to detergent \u201cwashing\u201d prior to release - Correct, detergent treatment is another method used to inactivate HIV.\n\nFinal answer: (H) Factor VIII is made synthetically",
+            "(A) The use of Factor VIII has been completely discontinued in the United States - Incorrect, Factor VIII is still in use.\n(B) Factor VIII is only distributed to hospitals with strict infection control protocols - Incorrect, this does not address the source of the Factor VIII.\n(C) Factor VIII is only used by individuals who are already HIV positive - Incorrect, Factor VIII is used by individuals with hemophilia, regardless of HIV status.\n(D) Factor VIII is irradiated to kill any potential HIV - Incorrect, irradiation is not the primary method used.\n(E) Factor VIII is important from countries with no reported HIV - Incorrect, this is not the primary reason.\n(F) Factor VIII is heat-treated to inactivate any potential HIV - Correct, heat treatment is a method used to inactivate HIV.\n(G) All donors for factor VIII are screened - Correct, donor screening is a critical step in ensuring the safety of blood products.\n(H) Factor VIII is made synthetically - Correct, synthetic production eliminates the risk of HIV contamination.\n(I) Factor VIII is derived from animals, which cannot carry HIV - Incorrect, Factor VIII is not derived from animals.\n(J) Factor VIII is subject to detergent \u201cwashing\u201d prior to release - Correct, detergent treatment is another method used to inactivate HIV.\n\nFinal answer: (H) Factor VIII is made synthetically"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "1"
+        ],
+        "final_solution": "(A) The use of Factor VIII has been completely discontinued in the United States - Incorrect, Factor VIII is still in use.\n(B) Factor VIII is only distributed to hospitals with strict infection control protocols - Incorrect, this does not address the source of the Factor VIII.\n(C) Factor VIII is only used by individuals who are already HIV positive - Incorrect, Factor VIII is used by individuals with hemophilia, regardless of HIV status.\n(D) Factor VIII is irradiated to kill any potential HIV - Incorrect, irradiation is not the primary method used.\n(E) Factor VIII is important from countries with no reported HIV - Incorrect, this is not the primary reason.\n(F) Factor VIII is heat-treated to inactivate any potential HIV - Correct, heat treatment is a method used to inactivate HIV.\n(G) All donors for factor VIII are screened - Correct, donor screening is a critical step in ensuring the safety of blood products.\n(H) Factor VIII is made synthetically - Correct, synthetic production eliminates the risk of HIV contamination.\n(I) Factor VIII is derived from animals, which cannot carry HIV - Incorrect, Factor VIII is not derived from animals.\n(J) Factor VIII is subject to detergent \u201cwashing\u201d prior to release - Correct, detergent treatment is another method used to inactivate HIV.\n\nFinal answer: (H) Factor VIII is made synthetically"
     },
     {
         "realidx": 6071,
@@ -644,10 +919,21 @@
         "answer": "Part of a cycle of mosquitoes biting humans in cities",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 879,
-            "completion_tokens": 43
+            "prompt_tokens": 885,
+            "completion_tokens": 51
         },
-        "time_elapsed": 3.5988821983337402
+        "time_elapsed": 4.279439449310303,
+        "raw_responses": [
+            "Option (I) Part of a cycle of mosquitoes biting humans in cities",
+            "Option (I) Part of a cycle of mosquitoes biting humans in cities",
+            "Option (I) Part of a cycle of mosquitoes biting humans in cities"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Option (I) Part of a cycle of mosquitoes biting humans in cities"
     },
     {
         "realidx": 6072,
@@ -670,10 +956,21 @@
         "answer": "Higher than the pOH",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 816,
-            "completion_tokens": 62
+            "prompt_tokens": 729,
+            "completion_tokens": 39
         },
-        "time_elapsed": 3.5629184246063232
+        "time_elapsed": 4.592002630233765,
+        "raw_responses": [
+            "(A) Near 14 at 25\u00baC",
+            "(A) Near 14 at 25\u00baC",
+            "(A) Near 14 at 25\u00baC"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Near 14 at 25\u00baC"
     },
     {
         "realidx": 6074,
@@ -696,10 +993,21 @@
         "answer": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
         "predicted_answer": "E",
         "token_usage": {
-            "prompt_tokens": 4467,
-            "completion_tokens": 1203
+            "prompt_tokens": 2232,
+            "completion_tokens": 656
         },
-        "time_elapsed": 16.313077211380005
+        "time_elapsed": 10.286362886428833,
+        "raw_responses": [
+            "The original DNA sequence is 5\u2019 \u2013 GGATCCTCATG \u2013 3\u2019.\n\n1. Point mutation: A single nucleotide is changed.\n2. Deletion: A single nucleotide is removed.\n\nLet's analyze each option:\n\n(A) 5' - GGATCCTCA - 3' \n- Deletion of 'T' at the end, no point mutation.\n\n(B) 5\u2019 \u2013 TGATCCCAG \u2013 3\u2019\n- Multiple changes, not just a point mutation and a deletion.\n\n(C) 5\u2019 \u2013 GGATCCATG \u2013 3\u2019\n- Deletion of 'T' and point mutation 'C' to 'A'.\n\n(D) 5' - GGATCCTCGT - 3'\n- Point mutation 'A' to 'G', no deletion.\n\n(E) 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019\n- Point mutation 'A' to 'T', deletion of 'G' at the end.\n\n(F) 5' - GGATCCGCATG - 3'\n- Point mutation 'T' to 'G', no deletion.\n\n(G) 5' - GGATCTCATG - 3'\n- Deletion of 'C', no point mutation.\n\n(H) 5' - GGATCCTCAT - 3'\n- Deletion of 'G' at the end, no point mutation.\n\n(I) 5' - GGATCCTCAG - 3'\n- Point mutation 'T' to 'G', no deletion.\n\n(J) 5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019\n- Point mutation 'G' to 'C', no deletion.\n\nThe correct answer is:\n(C) 5\u2019 \u2013 GGATCCATG \u2013 3\u2019",
+            "(E) 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
+            "(E) 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019"
+        ],
+        "ensemble_raw_responses": [
+            "The correct answer is option 0. \n\nExplanation:\n- The original DNA sequence is 5\u2019 \u2013 GGATCCTCATG \u2013 3\u2019.\n- A point mutation involves changing one nucleotide to another.\n- A deletion involves removing one nucleotide.\n\nOption (E) 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019:\n- Point mutation: 'A' to 'T' (GGATCCTCATG to GGTCCTCATG)\n- Deletion: 'G' at the end (GGTCCTCATG to GGTCCTCATC)\n\nThis satisfies both the point mutation and deletion criteria. Therefore, the correct answer is option 0.",
+            "The best final answer is option 0. \n\nOption 0 correctly identifies that the DNA segment 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019 (option E) results from a point mutation (A to T) and a deletion (G at the end).",
+            "The best final answer is option 0. \n\nOption 0 correctly identifies that the DNA segment 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019 (option E) results from a point mutation (A to T) and a deletion (removal of G at the end). This matches the criteria given in the problem."
+        ],
+        "final_solution": "(E) 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019"
     },
     {
         "realidx": 6079,
@@ -720,12 +1028,23 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "A diversified and developed economy.",
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 879,
-            "completion_tokens": 25
+            "prompt_tokens": 885,
+            "completion_tokens": 342
         },
-        "time_elapsed": 3.1084530353546143
+        "time_elapsed": 8.605156183242798,
+        "raw_responses": [
+            "(I) A diversified and developed economy.",
+            "(I) A diversified and developed economy.",
+            "(I) A diversified and developed economy."
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are identical, stating that a semi-periphery country has \"a diversified and developed economy.\" Since they are all the same, any of them can be chosen as the final answer. Therefore, I will choose option 0.\n\n0",
+            "The given solutions are identical, each stating \"A diversified and developed economy.\" This description best correlates with core countries rather than semi-periphery countries. Semi-periphery countries typically have characteristics that are intermediate between core and periphery countries, such as moderate levels of industrialization and development, and they often play a stabilizing role in the world economy.\n\nSince all the provided solutions are the same and do not accurately describe semi-periphery countries, none of the options are correct. However, if I must choose one based on the given instructions, I will select option 0.\n\nSo, the chosen option number is: 0.",
+            "All the provided solutions are identical, stating that a semi-periphery country has \"a diversified and developed economy.\" This description is more characteristic of core countries rather than semi-periphery countries. Semi-periphery countries typically have a mix of both core and periphery characteristics, often being industrializing and having moderate levels of economic development and diversification.\n\nGiven that all the solutions are the same and not entirely accurate for semi-periphery countries, none of the options (0, 1, 2) can be considered the best final answer. However, if I must choose one based on the given instructions, I will select option 0.\n\nSo, the chosen option number is:\n0"
+        ],
+        "final_solution": "(I) A diversified and developed economy."
     },
     {
         "realidx": 6087,
@@ -749,9 +1068,20 @@
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 738,
-            "completion_tokens": 23
+            "completion_tokens": 133
         },
-        "time_elapsed": 3.4598276615142822
+        "time_elapsed": 4.896534204483032,
+        "raw_responses": [
+            "(D) No variation with posture",
+            "(D) No variation with posture",
+            "(F) Pulsation increases with physical activity"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "The best final answer is option 1. \n\nPulsation that increases with physical activity is a characteristic feature of arterial pulsation, as arterial pulsations are typically influenced by the heart's activity and can become more pronounced with increased cardiac output during physical activity. \n\nOptions 0 and 2, which state \"No variation with posture,\" are less indicative of arterial pulsation, as arterial pulsations can sometimes vary with posture due to changes in blood pressure and heart rate.\n\nTherefore, the chosen option number is 1.",
+            "0"
+        ],
+        "final_solution": "(F) Pulsation increases with physical activity"
     },
     {
         "realidx": 6092,
@@ -775,9 +1105,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 741,
-            "completion_tokens": 33
+            "completion_tokens": 39
         },
-        "time_elapsed": 3.73838472366333
+        "time_elapsed": 3.6914961338043213,
+        "raw_responses": [
+            "(A) Have less experience and therefore need more training",
+            "(A) Have less experience and therefore need more training",
+            "(A) Have less experience and therefore need more training"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Have less experience and therefore need more training"
     },
     {
         "realidx": 6093,
@@ -801,9 +1142,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 636,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.202765464782715
+        "time_elapsed": 4.176081895828247,
+        "raw_responses": [
+            "(B) Driving during peak traffic hours",
+            "(B) Driving during peak traffic hours",
+            "(B) Driving during peak traffic hours"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Driving during peak traffic hours"
     },
     {
         "realidx": 6104,
@@ -827,9 +1179,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2451,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.2711522579193115
+        "time_elapsed": 4.301515579223633,
+        "raw_responses": [
+            "(G) Initiate physical therapy",
+            "(G) Initiate physical therapy",
+            "(G) Initiate physical therapy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(G) Initiate physical therapy"
     },
     {
         "realidx": 6105,
@@ -853,9 +1216,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2451,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.597182273864746
+        "time_elapsed": 3.5086801052093506,
+        "raw_responses": [
+            "(G) Initiate physical therapy",
+            "(G) Initiate physical therapy",
+            "(G) Initiate physical therapy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(G) Initiate physical therapy"
     },
     {
         "realidx": 6108,
@@ -879,9 +1253,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1374,
-            "completion_tokens": 27
+            "completion_tokens": 40
         },
-        "time_elapsed": 3.697195291519165
+        "time_elapsed": 4.3711652755737305,
+        "raw_responses": [
+            "(G) Formation of antibodies to RhD",
+            "(G) Formation of antibodies to RhD",
+            "(G) Formation of antibodies to RhD"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The best final answer is 0."
+        ],
+        "final_solution": "(G) Formation of antibodies to RhD"
     },
     {
         "realidx": 6109,
@@ -905,9 +1290,20 @@
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 1374,
-            "completion_tokens": 27
+            "completion_tokens": 76
         },
-        "time_elapsed": 3.925870180130005
+        "time_elapsed": 4.466659307479858,
+        "raw_responses": [
+            "(G) Formation of antibodies to RhD",
+            "(G) Formation of antibodies to RhD",
+            "(G) Formation of antibodies to RhD"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The solutions provided are identical, all stating \"(G) Formation of antibodies to RhD.\" Since they are the same, any of them can be chosen as the final answer. Therefore, the chosen option number is:\n\n0",
+            "0"
+        ],
+        "final_solution": "(G) Formation of antibodies to RhD"
     },
     {
         "realidx": 6127,
@@ -926,9 +1322,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 513,
-            "completion_tokens": 130
+            "completion_tokens": 335
         },
-        "time_elapsed": 4.680962562561035
+        "time_elapsed": 7.1128973960876465,
+        "raw_responses": [
+            "(A) Tapering",
+            "(A) Tapering",
+            "(A) Tapering"
+        ],
+        "ensemble_raw_responses": [
+            "The given problem asks for nutritional strategies that will not improve performance during prolonged endurance type exercise. The candidate solutions provided all suggest \"Tapering\" as the answer. However, tapering is not a nutritional strategy; it is a training strategy involving the reduction of exercise intensity and volume before a competition to allow the body to recover and perform optimally.\n\nSince the problem specifically asks for nutritional strategies, and tapering does not fit this category, none of the provided solutions directly address the problem correctly. Therefore, none of the options (0, 1, 2) are appropriate answers to the problem as stated.\n\nGiven the context, it seems there might be a misunderstanding or misalignment in the provided solutions. If I must choose from the given options, I would select option 0, 1, or 2 as they are identical, but it is important to note that the correct answer should involve a nutritional strategy, not tapering.",
+            "0",
+            "The given problem is about identifying nutritional strategies that will not improve performance during prolonged endurance type exercise. The candidate solutions provided all suggest \"Tapering\" as the answer. However, tapering is not a nutritional strategy; it is a training strategy involving the reduction of exercise intensity and volume before a competition to allow the body to recover and perform optimally.\n\nSince all the candidate solutions are identical and none of them correctly address the nutritional aspect of the problem, none of the options (0, 1, 2) can be considered correct.\n\nTherefore, the best final answer is to return none of the given options."
+        ],
+        "final_solution": "(A) Tapering"
     },
     {
         "realidx": 6128,
@@ -952,9 +1359,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 741,
-            "completion_tokens": 26
+            "completion_tokens": 32
         },
-        "time_elapsed": 3.193952798843384
+        "time_elapsed": 4.005129337310791,
+        "raw_responses": [
+            "(B) 2.5 units of BMI",
+            "(A) 1 unit of BMI",
+            "(A) 1 unit of BMI"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "2"
+        ],
+        "final_solution": "(B) 2.5 units of BMI"
     },
     {
         "realidx": 6140,
@@ -975,12 +1393,23 @@
         "category": "health",
         "src": "ori_mmlu-college_medicine",
         "answer": "glucose-1-phosphate.",
-        "predicted_answer": "A",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 732,
-            "completion_tokens": 24
+            "prompt_tokens": 858,
+            "completion_tokens": 73
         },
-        "time_elapsed": 3.2828481197357178
+        "time_elapsed": 4.698408365249634,
+        "raw_responses": [
+            "(I) glucose-1-phosphate",
+            "The breakdown of glycogen in muscle involves the enzyme glycogen phosphorylase, which cleaves glucose units from glycogen. This process releases glucose-1-phosphate as the initial product.\n\nFinal answer: (I) glucose-1-phosphate.",
+            "(I) glucose-1-phosphate"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "1"
+        ],
+        "final_solution": "The breakdown of glycogen in muscle involves the enzyme glycogen phosphorylase, which cleaves glucose units from glycogen. This process releases glucose-1-phosphate as the initial product.\n\nFinal answer: (I) glucose-1-phosphate."
     },
     {
         "realidx": 6142,
@@ -1003,10 +1432,21 @@
         "answer": "Passive",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 1380,
-            "completion_tokens": 163
+            "prompt_tokens": 1647,
+            "completion_tokens": 367
         },
-        "time_elapsed": 4.64874792098999
+        "time_elapsed": 7.632513046264648,
+        "raw_responses": [
+            "The patient is given a serum containing rabies antibodies grown inside a horse. This means the patient is receiving pre-formed antibodies, not producing them through their own immune response. This is an example of passive immunity because the antibodies are provided externally. Since the antibodies are produced in a horse and then given to the patient, it is not a natural process but an artificial one.\n\nFinal answer: (F) Passive artificial",
+            "The patient is given a serum that contains rabies antibodies grown inside a horse. This means the patient is receiving pre-formed antibodies, not producing them himself. This is an example of passive immunity because the antibodies are provided externally. Since the antibodies are produced in a horse and then given to the patient, it is not a natural process but an artificial one. Therefore, the correct answer is:\n\n(F) Passive artificial",
+            "The patient is given a serum containing rabies antibodies grown inside a horse. This means the patient is receiving pre-formed antibodies, not producing them through their own immune response. This is an example of passive immunity because the antibodies are provided externally rather than being produced by the patient's own immune system. Since the antibodies are artificially prepared and administered, this is specifically passive artificial immunity.\n\nFinal answer: (F) Passive artificial"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2.",
+            "All three solutions correctly identify the type of immunity as passive artificial immunity. They all provide the same reasoning and conclusion. Therefore, any of the solutions could be chosen as the best final answer. \n\nSince they are all identical in their reasoning and conclusion, I will choose option 0.\n\nFinal answer: 0",
+            "All three solutions correctly identify the type of immunity as \"passive artificial.\" However, solution 1 is the most concise and clear in its explanation.\n\nTherefore, the chosen option number is: 1."
+        ],
+        "final_solution": "The patient is given a serum containing rabies antibodies grown inside a horse. This means the patient is receiving pre-formed antibodies, not producing them through their own immune response. This is an example of passive immunity because the antibodies are provided externally rather than being produced by the patient's own immune system. Since the antibodies are artificially prepared and administered, this is specifically passive artificial immunity.\n\nFinal answer: (F) Passive artificial"
     },
     {
         "realidx": 6145,
@@ -1030,9 +1470,20 @@
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 861,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 4.3502655029296875
+        "time_elapsed": 4.5623040199279785,
+        "raw_responses": [
+            "(E) The consultant, patient, and named nurse.",
+            "(E) The consultant, patient, and named nurse.",
+            "(E) The consultant, patient, and named nurse."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(E) The consultant, patient, and named nurse."
     },
     {
         "realidx": 6146,
@@ -1056,9 +1507,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 936,
-            "completion_tokens": 74
+            "completion_tokens": 54
         },
-        "time_elapsed": 5.679972171783447
+        "time_elapsed": 4.376552581787109,
+        "raw_responses": [
+            "(D) It causes hoarseness due to compression of the trachea",
+            "(D) It causes hoarseness due to compression of the trachea",
+            "(D) It causes hoarseness due to compression of the trachea"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) It causes hoarseness due to compression of the trachea"
     },
     {
         "realidx": 6147,
@@ -1079,12 +1541,23 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "the highest rate of air expelled from the lungs through an open mouth.",
-        "predicted_answer": "I",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2550,
-            "completion_tokens": 673
+            "prompt_tokens": 2430,
+            "completion_tokens": 607
         },
-        "time_elapsed": 10.99322509765625
+        "time_elapsed": 9.168124437332153,
+        "raw_responses": [
+            "(I) the highest rate of air expelled from the lungs through an open mouth.",
+            "(A) the amount of air inhaled into the lungs. - Incorrect, peak flow meters measure the rate of air expelled, not inhaled.\n(B) the total capacity of the lungs. - Incorrect, peak flow meters do not measure lung capacity.\n(C) the lowest rate of air expelled from the lungs through an open mouth. - Incorrect, peak flow meters measure the highest rate, not the lowest.\n(D) the oxygen saturation level in the blood. - Incorrect, peak flow meters do not measure oxygen saturation.\n(E) the average rate of air expelled from the lungs through an open mouth. - Incorrect, peak flow meters measure the highest rate, not the average.\n(F) forced vital capacity. - Incorrect, peak flow meters do not measure forced vital capacity.\n(G) the volume of air remaining in the lungs after a forced expiration. - Incorrect, peak flow meters do not measure residual volume.\n(H) forced expiratory volume. - Incorrect, peak flow meters do not measure forced expiratory volume.\n(I) the highest rate of air expelled from the lungs through an open mouth. - Correct, peak flow meters measure the peak expiratory flow rate.\n(J) the rate of air inhaled into the lungs through an open mouth. - Incorrect, peak flow meters measure the rate of air expelled, not inhaled.\n\nFinal answer: (I) the highest rate of air expelled from the lungs through an open mouth.",
+            "(A) the amount of air inhaled into the lungs. (Incorrect, peak flow meters measure air expelled, not inhaled)\n(B) the total capacity of the lungs. (Incorrect, peak flow meters do not measure total lung capacity)\n(C) the lowest rate of air expelled from the lungs through an open mouth. (Incorrect, peak flow meters measure the highest rate, not the lowest)\n(D) the oxygen saturation level in the blood. (Incorrect, peak flow meters do not measure oxygen saturation)\n(E) the average rate of air expelled from the lungs through an open mouth. (Incorrect, peak flow meters measure the highest rate, not the average)\n(F) forced vital capacity. (Incorrect, peak flow meters do not measure forced vital capacity)\n(G) the volume of air remaining in the lungs after a forced expiration. (Incorrect, peak flow meters do not measure residual volume)\n(H) forced expiratory volume. (Incorrect, peak flow meters do not measure forced expiratory volume)\n(I) the highest rate of air expelled from the lungs through an open mouth. (Correct, peak flow meters measure the peak expiratory flow rate)\n(J) the rate of air inhaled into the lungs through an open mouth. (Incorrect, peak flow meters measure air expelled, not inhaled)\n\nFinal answer: (I) the highest rate of air expelled from the lungs through an open mouth."
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 1.",
+            "0",
+            "The best final answer is option number 2."
+        ],
+        "final_solution": "(I) the highest rate of air expelled from the lungs through an open mouth."
     },
     {
         "realidx": 6150,
@@ -1108,9 +1581,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 525,
-            "completion_tokens": 156
+            "completion_tokens": 162
         },
-        "time_elapsed": 4.242622137069702
+        "time_elapsed": 5.241351366043091,
+        "raw_responses": [
+            "(J) Identity",
+            "(J) Identity",
+            "(J) Identity"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (J) Identity. Since they are identical, any of them can be chosen as the final answer. Therefore, I will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (J) Identity. Since they are identical, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (J) Identity. Since they are identical, any of them can be chosen as the final answer. I will choose option 0.\n\n0"
+        ],
+        "final_solution": "(J) Identity"
     },
     {
         "realidx": 6154,
@@ -1134,9 +1618,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 618,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.2667429447174072
+        "time_elapsed": 3.836949110031128,
+        "raw_responses": [
+            "(D) Biological aging",
+            "The term \"senescence\" refers to:\n\n(D) Biological aging",
+            "(D) Biological aging"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The term \"senescence\" refers to:\n\n(D) Biological aging"
     },
     {
         "realidx": 6157,
@@ -1160,9 +1655,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 738,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.5829153060913086
+        "time_elapsed": 3.5783798694610596,
+        "raw_responses": [
+            "(B) behavioral epigenetics",
+            "(C) fetal epigenetics",
+            "(B) behavioral epigenetics"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(C) fetal epigenetics"
     },
     {
         "realidx": 6158,
@@ -1185,10 +1691,21 @@
         "answer": "lack of expression or reduced expression of the lac operon genes under all circumstances",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1161,
-            "completion_tokens": 169
+            "prompt_tokens": 1071,
+            "completion_tokens": 60
         },
-        "time_elapsed": 4.867573022842407
+        "time_elapsed": 4.404206991195679,
+        "raw_responses": [
+            "(B) lack of expression or reduced expression of the lac operon genes under all circumstances",
+            "(B) lack of expression or reduced expression of the lac operon genes under all circumstances",
+            "(B) lack of expression or reduced expression of the lac operon genes under all circumstances"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) lack of expression or reduced expression of the lac operon genes under all circumstances"
     },
     {
         "realidx": 6159,
@@ -1211,10 +1728,21 @@
         "answer": "0.08",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 1182,
-            "completion_tokens": 360
+            "prompt_tokens": 1167,
+            "completion_tokens": 340
         },
-        "time_elapsed": 6.288025140762329
+        "time_elapsed": 6.815409898757935,
+        "raw_responses": [
+            "The likelihood of an individual carrying two specific alleles, each with a frequency of 0.2, is calculated by multiplying the frequencies of the two alleles:\n\n0.2 * 0.2 = 0.04\n\n(H) 0.04",
+            "The likelihood of an individual carrying two specific alleles, each with a frequency of 0.2, is calculated by multiplying the frequencies of the two alleles:\n\n0.2 * 0.2 = 0.04\n\n(H) 0.04",
+            "The likelihood of an individual carrying two specific alleles, each with a frequency of 0.2, is calculated by multiplying the frequencies of the two alleles:\n\n0.2 * 0.2 = 0.04\n\n(H) 0.04"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) are identical and correctly calculate the likelihood of an individual carrying two specific alleles, each with a frequency of 0.2, by multiplying the frequencies of the two alleles:\n\n0.2 * 0.2 = 0.04\n\nTherefore, any of the options can be chosen as the best final answer. I will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) are identical and correctly calculate the likelihood of an individual carrying two specific alleles, each with a frequency of 0.2, by multiplying the frequencies of the two alleles:\n\n0.2 * 0.2 = 0.04\n\nTherefore, any of the options can be chosen as the best final answer. I will choose option 0.\n\n0",
+            "0"
+        ],
+        "final_solution": "The likelihood of an individual carrying two specific alleles, each with a frequency of 0.2, is calculated by multiplying the frequencies of the two alleles:\n\n0.2 * 0.2 = 0.04\n\n(H) 0.04"
     },
     {
         "realidx": 6167,
@@ -1238,9 +1766,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 993,
-            "completion_tokens": 42
+            "completion_tokens": 48
         },
-        "time_elapsed": 3.4491260051727295
+        "time_elapsed": 4.371562242507935,
+        "raw_responses": [
+            "(A) Pupillary dilatation and a downward strabismus",
+            "(A) Pupillary dilatation and a downward strabismus",
+            "(A) Pupillary dilatation and a downward strabismus"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Pupillary dilatation and a downward strabismus"
     },
     {
         "realidx": 6169,
@@ -1263,10 +1802,21 @@
         "answer": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
         "predicted_answer": "F",
         "token_usage": {
-            "prompt_tokens": 1173,
-            "completion_tokens": 87
+            "prompt_tokens": 1179,
+            "completion_tokens": 60
         },
-        "time_elapsed": 4.291941165924072
+        "time_elapsed": 4.294536113739014,
+        "raw_responses": [
+            "(F) posterior fragment to be displaced upwards by the action of the masseter muscle.",
+            "(F) posterior fragment to be displaced upwards by the action of the masseter muscle.",
+            "(F) posterior fragment to be displaced upwards by the action of the masseter muscle."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(F) posterior fragment to be displaced upwards by the action of the masseter muscle."
     },
     {
         "realidx": 6171,
@@ -1290,9 +1840,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 732,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.8306379318237305
+        "time_elapsed": 5.757344722747803,
+        "raw_responses": [
+            "(B) capsule and ligaments.",
+            "(B) capsule and ligaments.",
+            "(B) capsule and ligaments."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) capsule and ligaments."
     },
     {
         "realidx": 6173,
@@ -1316,9 +1877,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 594,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.1979284286499023
+        "time_elapsed": 3.9083852767944336,
+        "raw_responses": [
+            "(B) esophagus expands.",
+            "(B) esophagus expands.",
+            "(B) esophagus expands."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) esophagus expands."
     },
     {
         "realidx": 6181,
@@ -1340,10 +1912,21 @@
         "answer": "Atlanto-axial instability",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 2031,
-            "completion_tokens": 40
+            "prompt_tokens": 1995,
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.673555374145508
+        "time_elapsed": 3.9050686359405518,
+        "raw_responses": [
+            "(I) Atlanto-axial instability",
+            "(I) Atlanto-axial instability",
+            "(I) Atlanto-axial instability"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(I) Atlanto-axial instability"
     },
     {
         "realidx": 6183,
@@ -1360,10 +1943,21 @@
         "answer": "Cervical culture",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2829,
-            "completion_tokens": 569
+            "prompt_tokens": 2577,
+            "completion_tokens": 491
         },
-        "time_elapsed": 8.27206015586853
+        "time_elapsed": 8.37501311302185,
+        "raw_responses": [
+            "The patient's symptoms of lower abdominal pain, nausea, fever, leukorrhea, and tenderness of the uterus and adnexal areas suggest a possible pelvic inflammatory disease (PID). However, given that she is sexually active and does not use contraception, it is crucial to first rule out an ectopic pregnancy, which can present with similar symptoms and is a medical emergency.\n\nThe most appropriate initial diagnostic study to rule out an ectopic pregnancy is a serum \u03b2-hCG concentration.\n\nFinal answer: (D) Serum \u03b2-hCG concentration",
+            "Step-by-step reasoning:\n\n1. The patient presents with lower abdominal pain, nausea, fever, and signs of pelvic inflammatory disease (PID) such as leukorrhea and uterine tenderness.\n2. PID is often caused by sexually transmitted infections (STIs), and the patient is sexually active without contraception, increasing her risk for STIs.\n3. The presence of fever and severe abdominal pain with rebound and guarding suggests a significant infection or inflammation.\n4. To confirm the diagnosis of PID and identify the causative organism, a cervical culture is necessary.\n5. While laparoscopy can provide a definitive diagnosis, it is more invasive and typically not the first step in diagnosis.\n6. Culdocentesis is less commonly used and not the first-line diagnostic tool for PID.\n7. Serum \u03b2-hCG concentration is important to rule out pregnancy, especially ectopic pregnancy, but given the clinical presentation, PID is more likely.\n\nFinal answer: (A) Cervical culture",
+            "The patient's symptoms of lower abdominal pain, nausea, fever, leukorrhea, and tenderness of the uterus and adnexal areas suggest a possible pelvic inflammatory disease (PID). Given her sexual activity without contraception, it is important to rule out pregnancy as a potential cause of her symptoms, such as an ectopic pregnancy.\n\nStep-by-step reasoning:\n1. The patient has lower abdominal pain, fever, and leukorrhea, which are indicative of an infection.\n2. She is sexually active and does not use contraception, increasing the risk of sexually transmitted infections (STIs) and PID.\n3. Her last menstrual period ended 6 days ago, so she could potentially be pregnant.\n4. The presence of adnexal tenderness without palpable masses raises concern for PID or an ectopic pregnancy.\n\nGiven these considerations, the most immediate and appropriate diagnostic study to rule out pregnancy is:\n\n(D) Serum \u03b2-hCG concentration"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "1"
+        ],
+        "final_solution": "The patient's symptoms of lower abdominal pain, nausea, fever, leukorrhea, and tenderness of the uterus and adnexal areas suggest a possible pelvic inflammatory disease (PID). However, given that she is sexually active and does not use contraception, it is crucial to first rule out an ectopic pregnancy, which can present with similar symptoms and is a medical emergency.\n\nThe most appropriate initial diagnostic study to rule out an ectopic pregnancy is a serum \u03b2-hCG concentration.\n\nFinal answer: (D) Serum \u03b2-hCG concentration"
     },
     {
         "realidx": 6184,
@@ -1384,10 +1978,21 @@
         "answer": "Significant findings can be reported with greater confidence",
         "predicted_answer": "H",
         "token_usage": {
-            "prompt_tokens": 2370,
-            "completion_tokens": 445
+            "prompt_tokens": 1293,
+            "completion_tokens": 363
         },
-        "time_elapsed": 7.474124908447266
+        "time_elapsed": 7.176321506500244,
+        "raw_responses": [
+            "(A) The study will have less power\n(E) Significant findings can be reported with greater confidence\n(H) There is a decreased likelihood of statistically significant findings",
+            "(A) The study will have less power\n(H) There is a decreased likelihood of statistically significant findings",
+            "(A) The study will have less power\n(E) Significant findings can be reported with greater confidence\n(H) There is a decreased likelihood of statistically significant findings"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2. \n\nOption 2 correctly identifies that setting the alpha at 0.01 instead of 0.05 will result in the study having less power (A) and a decreased likelihood of statistically significant findings (H). These are the most relevant and accurate consequences of lowering the alpha level. \n\nWhile option 0 and 1 also include the correct points (A and H), they additionally include point (E) which is less directly relevant to the primary statistical implications of changing the alpha level. Therefore, option 2 is the most concise and accurate answer.",
+            "The best final answer is option 2. \n\nOption 2 includes the correct points:\n(A) The study will have less power\n(H) There is a decreased likelihood of statistically significant findings\n\nThese points accurately reflect the consequences of setting the alpha level at 0.01 instead of 0.05. The study will indeed have less power because a lower alpha level makes it harder to detect a true effect, and there is a decreased likelihood of statistically significant findings for the same reason. \n\nOption 0 and 1 include an additional point (E) which is not necessary for the correct answer and does not directly address the main consequences of changing the alpha level. Therefore, option 2 is the most concise and accurate.",
+            "The best final answer is option 2."
+        ],
+        "final_solution": "(A) The study will have less power\n(H) There is a decreased likelihood of statistically significant findings"
     },
     {
         "realidx": 6190,
@@ -1408,12 +2013,23 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "70%-75 %",
-        "predicted_answer": "G",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1335,
-            "completion_tokens": 144
+            "prompt_tokens": 1311,
+            "completion_tokens": 129
         },
-        "time_elapsed": 4.545353889465332
+        "time_elapsed": 5.100835084915161,
+        "raw_responses": [
+            "(G) 60%-65%",
+            "(B) 80%-85%",
+            "Lactase non-persistence, which leads to lactose intolerance, varies significantly across different populations. In many Asian, African, and South American populations, the prevalence of lactase non-persistence is very high, often exceeding 70%. In contrast, in Northern European populations, the prevalence is much lower, often below 30%. Given the global distribution and higher prevalence in many large populations, the worldwide percentage of lactase non-persisters is generally estimated to be quite high.\n\nFinal answer: (B) 80%-85%"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "0"
+        ],
+        "final_solution": "Lactase non-persistence, which leads to lactose intolerance, varies significantly across different populations. In many Asian, African, and South American populations, the prevalence of lactase non-persistence is very high, often exceeding 70%. In contrast, in Northern European populations, the prevalence is much lower, often below 30%. Given the global distribution and higher prevalence in many large populations, the worldwide percentage of lactase non-persisters is generally estimated to be quite high.\n\nFinal answer: (B) 80%-85%"
     },
     {
         "realidx": 6196,
@@ -1436,10 +2052,21 @@
         "answer": "40%",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 597,
-            "completion_tokens": 29
+            "prompt_tokens": 663,
+            "completion_tokens": 202
         },
-        "time_elapsed": 3.3777618408203125
+        "time_elapsed": 5.644771575927734,
+        "raw_responses": [
+            "The estimated global prevalence of untreated dental caries is (A) 30%.",
+            "The estimated global prevalence of untreated dental caries is (A) 30%.",
+            "The estimated global prevalence of untreated dental caries is (A) 30%."
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions provide the same answer, stating that the estimated global prevalence of untreated dental caries is 30%. Since they are identical, any of them can be chosen as the best final answer. I will choose option 0.\n\n0",
+            "All three candidate solutions provide the same answer, stating that the estimated global prevalence of untreated dental caries is 30%. Since they are identical, any of them can be chosen as the best final answer. \n\nI will choose option 0.\n\n0",
+            "All three candidate solutions provide the same answer, stating that the estimated global prevalence of untreated dental caries is 30%. Since they are identical, any of them can be chosen as the best final answer. I will choose option 0.\n\n0"
+        ],
+        "final_solution": "The estimated global prevalence of untreated dental caries is (A) 30%."
     },
     {
         "realidx": 6197,
@@ -1461,9 +2088,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 573,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.1118783950805664
+        "time_elapsed": 3.9134521484375,
+        "raw_responses": [
+            "(C) High blood pressure",
+            "(C) High blood pressure",
+            "(C) High blood pressure"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) High blood pressure"
     },
     {
         "realidx": 6198,
@@ -1487,9 +2125,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1281,
-            "completion_tokens": 69
+            "completion_tokens": 75
         },
-        "time_elapsed": 3.8558053970336914
+        "time_elapsed": 4.6027891635894775,
+        "raw_responses": [
+            "(D) The use of rats in protein quality tests overestimates the quality of dietary proteins for human nutrition.",
+            "(D) The use of rats in protein quality tests overestimates the quality of dietary proteins for human nutrition.",
+            "(D) The use of rats in protein quality tests overestimates the quality of dietary proteins for human nutrition."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) The use of rats in protein quality tests overestimates the quality of dietary proteins for human nutrition."
     },
     {
         "realidx": 6199,
@@ -1513,9 +2162,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 756,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.4849681854248047
+        "time_elapsed": 3.8911125659942627,
+        "raw_responses": [
+            "(A) Chylomicrons only",
+            "(A) Chylomicrons only",
+            "(A) Chylomicrons only"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Chylomicrons only"
     },
     {
         "realidx": 6200,
@@ -1536,12 +2196,23 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "C20 and C22 polyunsaturated fatty acids",
-        "predicted_answer": "I",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 888,
-            "completion_tokens": 109
+            "prompt_tokens": 867,
+            "completion_tokens": 57
         },
-        "time_elapsed": 5.064295530319214
+        "time_elapsed": 4.603721857070923,
+        "raw_responses": [
+            "The correct answer is: (I) C20 and C22 polyunsaturated fatty acids",
+            "(I) C20 and C22 polyunsaturated fatty acids",
+            "The correct answer is (I) C20 and C22 polyunsaturated fatty acids."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(I) C20 and C22 polyunsaturated fatty acids"
     },
     {
         "realidx": 6201,
@@ -1564,10 +2235,21 @@
         "answer": "Glycine",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2079,
-            "completion_tokens": 484
+            "prompt_tokens": 1650,
+            "completion_tokens": 339
         },
-        "time_elapsed": 9.095890760421753
+        "time_elapsed": 7.5885937213897705,
+        "raw_responses": [
+            "(E) Arginine",
+            "Under conditions of metabolic or other stress, the body may require certain amino acids in greater amounts than it can readily synthesize. These amino acids are often referred to as \"conditionally essential\" because, under normal circumstances, the body can produce them in sufficient quantities, but under stress, their demand exceeds the body's ability to produce them.\n\n1. Glutamate: Generally non-essential and can be synthesized by the body.\n2. Tyrosine: Conditionally essential, especially if phenylalanine (its precursor) is deficient.\n3. Alanine: Non-essential and can be synthesized by the body.\n4. Glutamine: Conditionally essential, especially during stress, illness, or injury.\n5. Arginine: Conditionally essential, especially during periods of rapid growth, illness, or stress.\n6. Glycine: Non-essential and can be synthesized by the body.\n7. Proline: Conditionally essential, especially during periods of rapid growth or healing.\n8. Cysteine: Conditionally essential, especially if methionine (its precursor) is deficient.\n9. Aspartate: Non-essential and can be synthesized by the body.\n10. Serine: Non-essential and can be synthesized by the body.\n\nGiven the options and the context of metabolic or other stress, the amino acids that are most likely to be required in greater amounts than can be readily synthesized are Glutamine, Arginine, Proline, and Cysteine. Among these, Glutamine is particularly notable for its increased demand during stress.\n\nFinal answer: (D) Glutamine",
+            "(D) Glutamine"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(D) Glutamine"
     },
     {
         "realidx": 6203,
@@ -1590,10 +2272,21 @@
         "answer": "0.15 mol retinol /mol \u00df-carotene",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 1419,
-            "completion_tokens": 180
+            "prompt_tokens": 1536,
+            "completion_tokens": 543
         },
-        "time_elapsed": 5.495987415313721
+        "time_elapsed": 9.111586809158325,
+        "raw_responses": [
+            "\u00df-carotene is cleaved into two molecules of retinol. Therefore, 1 mol of \u00df-carotene forms 2 mol of retinol.\n\nThe closest option to 2 mol retinol /mol \u00df-carotene is:\n\n(I) 2 mol retinol /mol \u00df-carotene",
+            "The conversion of \u03b2-carotene to retinol involves the cleavage of one molecule of \u03b2-carotene to form two molecules of retinol. Therefore, the amount of retinol formed from one mole of \u03b2-carotene is:\n\n2 mol retinol / mol \u03b2-carotene\n\nThe closest option to this value is:\n\n(I) 2 mol retinol / mol \u03b2-carotene",
+            "The conversion of \u03b2-carotene to retinol involves the cleavage of one molecule of \u03b2-carotene to form two molecules of retinol. Therefore, the amount of retinol formed from \u03b2-carotene is 2 mol retinol / mol \u03b2-carotene.\n\nFinal answer: (I) 2 mol retinol / mol \u03b2-carotene"
+        ],
+        "ensemble_raw_responses": [
+            "All three solutions correctly identify that one molecule of \u03b2-carotene is cleaved to form two molecules of retinol, resulting in a conversion ratio of 2 mol retinol per mol \u03b2-carotene. Each solution concludes that the closest option is 2 mol retinol / mol \u03b2-carotene.\n\nGiven that all solutions are essentially the same in terms of correctness and clarity, any of them could be chosen. However, solution 2 is the most concise and directly states the final answer without additional explanation.\n\nTherefore, the best final answer is:\n\n2",
+            "All three solutions correctly identify that one molecule of \u03b2-carotene is cleaved to form two molecules of retinol, resulting in 2 mol retinol per mol \u03b2-carotene. Each solution arrives at the same final answer: 2 mol retinol / mol \u03b2-carotene.\n\nSince all solutions are correct and provide the same final answer, any of them could be chosen. However, solution 2 is the most concise and directly states the final answer without additional explanation.\n\nTherefore, the best final answer is option number: 2.",
+            "All three solutions correctly identify that one molecule of \u03b2-carotene is cleaved to form two molecules of retinol, leading to the conclusion that 1 mol of \u03b2-carotene forms 2 mol of retinol. Each solution then selects the closest option, which is (I) 2 mol retinol / mol \u03b2-carotene.\n\nSince all solutions are essentially the same and correct, any of them can be chosen. I will choose solution 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "The conversion of \u03b2-carotene to retinol involves the cleavage of one molecule of \u03b2-carotene to form two molecules of retinol. Therefore, the amount of retinol formed from \u03b2-carotene is 2 mol retinol / mol \u03b2-carotene.\n\nFinal answer: (I) 2 mol retinol / mol \u03b2-carotene"
     },
     {
         "realidx": 6208,
@@ -1616,10 +2309,21 @@
         "answer": "gain in body mass.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 594,
-            "completion_tokens": 24
+            "prompt_tokens": 624,
+            "completion_tokens": 40
         },
-        "time_elapsed": 3.163736581802368
+        "time_elapsed": 4.046948432922363,
+        "raw_responses": [
+            "The expected side effect of creatine supplementation is:\n\n(I) gain in body mass.",
+            "(I) gain in body mass.",
+            "(I) gain in body mass."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "2"
+        ],
+        "final_solution": "The expected side effect of creatine supplementation is:\n\n(I) gain in body mass."
     },
     {
         "realidx": 6209,
@@ -1643,9 +2347,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 963,
-            "completion_tokens": 57
+            "completion_tokens": 264
         },
-        "time_elapsed": 4.0720603466033936
+        "time_elapsed": 6.212242364883423,
+        "raw_responses": [
+            "(I) Dyspnoea, tachycardia, and distended neck veins.",
+            "(I) Dyspnoea, tachycardia, and distended neck veins.",
+            "(I) Dyspnoea, tachycardia, and distended neck veins."
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) are identical and correctly identify dyspnoea, tachycardia, and distended neck veins as indicative signs and symptoms of circulatory overload. Therefore, any of the options can be chosen as the best final answer. \n\nI will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) are identical and correctly identify dyspnoea, tachycardia, and distended neck veins as indicative signs and symptoms of circulatory overload. Therefore, any of the options can be chosen as the best final answer. \n\nI will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) are identical and correctly identify dyspnoea, tachycardia, and distended neck veins as indicative signs and symptoms of circulatory overload. Therefore, any of the options can be chosen as the best final answer. \n\nI will choose option 0.\n\n0"
+        ],
+        "final_solution": "(I) Dyspnoea, tachycardia, and distended neck veins."
     },
     {
         "realidx": 6214,
@@ -1669,9 +2384,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 612,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.2645177841186523
+        "time_elapsed": 4.016473770141602,
+        "raw_responses": [
+            "(C) Mountain climbing",
+            "(C) Mountain climbing",
+            "(C) Mountain climbing"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Mountain climbing"
     },
     {
         "realidx": 6215,
@@ -1695,9 +2421,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 621,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.767306089401245
+        "time_elapsed": 3.7964398860931396,
+        "raw_responses": [
+            "(C) Smaller networks overall",
+            "(C) Smaller networks overall",
+            "(C) Smaller networks overall"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Smaller networks overall"
     },
     {
         "realidx": 6218,
@@ -1720,10 +2457,21 @@
         "answer": "Hurler syndrome",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 1998,
-            "completion_tokens": 630
+            "prompt_tokens": 1551,
+            "completion_tokens": 371
         },
-        "time_elapsed": 9.977876663208008
+        "time_elapsed": 7.095261096954346,
+        "raw_responses": [
+            "Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome?\n\nOptions:\n(A) Sandhoff disease (B) Tay-Sachs disease (C) Mucolipidosis type IV (D) Fabry disease (E) Hunter syndrome (F) Krabbe disease (G) Niemann-Pick disease (H) Gaucher disease (I) Hurler syndrome (J) Pompe disease\n\nStep-by-step reasoning:\n1. Recombinant alpha-iduronidase is an enzyme replacement therapy.\n2. Alpha-iduronidase deficiency is associated with mucopolysaccharidosis type I (MPS I).\n3. Hurler syndrome is a severe form of mucopolysaccharidosis type I (MPS I).\n\nFinal answer: (I) Hurler syndrome",
+            "(I) Hurler syndrome",
+            "Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome?\n\nOptions:\n(A) Sandhoff disease (B) Tay-Sachs disease (C) Mucolipidosis type IV (D) Fabry disease (E) Hunter syndrome (F) Krabbe disease (G) Niemann-Pick disease (H) Gaucher disease (I) Hurler syndrome (J) Pompe disease\n\nRecombinant alpha-iduronidase is an enzyme replacement therapy used to treat Hurler syndrome, which is also known as mucopolysaccharidosis type I (MPS I). Hurler syndrome is caused by a deficiency of the enzyme alpha-L-iduronidase.\n\nFinal answer: (I) Hurler syndrome"
+        ],
+        "ensemble_raw_responses": [
+            "Option 2 is the best final answer. It provides a clear step-by-step reasoning process that explains why recombinant alpha-iduronidase is used to treat Hurler syndrome, making it the most comprehensive and informative solution.",
+            "0",
+            "0"
+        ],
+        "final_solution": "Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome?\n\nOptions:\n(A) Sandhoff disease (B) Tay-Sachs disease (C) Mucolipidosis type IV (D) Fabry disease (E) Hunter syndrome (F) Krabbe disease (G) Niemann-Pick disease (H) Gaucher disease (I) Hurler syndrome (J) Pompe disease\n\nStep-by-step reasoning:\n1. Recombinant alpha-iduronidase is an enzyme replacement therapy.\n2. Alpha-iduronidase deficiency is associated with mucopolysaccharidosis type I (MPS I).\n3. Hurler syndrome is a severe form of mucopolysaccharidosis type I (MPS I).\n\nFinal answer: (I) Hurler syndrome"
     },
     {
         "realidx": 6219,
@@ -1747,9 +2495,20 @@
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 957,
-            "completion_tokens": 43
+            "completion_tokens": 49
         },
-        "time_elapsed": 3.415386915206909
+        "time_elapsed": 4.328260183334351,
+        "raw_responses": [
+            "The genetic phenomenon consistent with these results is:\n\n(I) incomplete dominance",
+            "The genetic phenomenon consistent with these results is (I) incomplete dominance.",
+            "The genetic phenomenon consistent with these results is:\n\n(I) incomplete dominance"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "The genetic phenomenon consistent with these results is (I) incomplete dominance."
     },
     {
         "realidx": 6222,
@@ -1773,9 +2532,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 975,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 3.844090461730957
+        "time_elapsed": 4.00925087928772,
+        "raw_responses": [
+            "(D) The mandibular foramen shifts position during growth",
+            "(D) The mandibular foramen shifts position during growth",
+            "(D) The mandibular foramen shifts position during growth"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) The mandibular foramen shifts position during growth"
     },
     {
         "realidx": 6224,
@@ -1799,9 +2569,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 549,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.311154842376709
+        "time_elapsed": 4.095662832260132,
+        "raw_responses": [
+            "(D) Prone",
+            "(D) Prone",
+            "(D) Prone"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Prone"
     },
     {
         "realidx": 6225,
@@ -1824,10 +2605,21 @@
         "answer": "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
         "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 1173,
+            "prompt_tokens": 1155,
             "completion_tokens": 91
         },
-        "time_elapsed": 3.9583468437194824
+        "time_elapsed": 6.825913190841675,
+        "raw_responses": [
+            "(I) Left ventricle \u2192 aorta \u2192 arteries \u2192 capillaries \u2192 veins",
+            "(I) Left ventricle \u2192 aorta \u2192 arteries \u2192 capillaries \u2192 veins",
+            "The correct sequence for systemic circulation is:\n\nLeft ventricle \u2192 aorta \u2192 arteries \u2192 capillaries \u2192 veins\n\nSo, the correct option is:\n\n(I) Left ventricle \u2192 aorta \u2192 arteries \u2192 capillaries \u2192 veins"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "2"
+        ],
+        "final_solution": "The correct sequence for systemic circulation is:\n\nLeft ventricle \u2192 aorta \u2192 arteries \u2192 capillaries \u2192 veins\n\nSo, the correct option is:\n\n(I) Left ventricle \u2192 aorta \u2192 arteries \u2192 capillaries \u2192 veins"
     },
     {
         "realidx": 6248,
@@ -1848,12 +2640,23 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "The patient is at no increased risk",
-        "predicted_answer": "I",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1698,
-            "completion_tokens": 87
+            "prompt_tokens": 1491,
+            "completion_tokens": 39
         },
-        "time_elapsed": 4.0265984535217285
+        "time_elapsed": 4.082207679748535,
+        "raw_responses": [
+            "(I) Seizures",
+            "(I) Seizures",
+            "(I) Seizures"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is 0.",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "(I) Seizures"
     },
     {
         "realidx": 6249,
@@ -1877,9 +2680,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1491,
-            "completion_tokens": 34
+            "completion_tokens": 32
         },
-        "time_elapsed": 3.4645988941192627
+        "time_elapsed": 4.362092018127441,
+        "raw_responses": [
+            "(I) Seizures",
+            "(I) Seizures",
+            "(I) Seizures"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "(I) Seizures"
     },
     {
         "realidx": 6250,
@@ -1902,10 +2716,21 @@
         "answer": "Prescribe rifampin",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1599,
-            "completion_tokens": 31
+            "prompt_tokens": 1635,
+            "completion_tokens": 42
         },
-        "time_elapsed": 3.8759193420410156
+        "time_elapsed": 5.214808464050293,
+        "raw_responses": [
+            "(I) Prescribe rifampin",
+            "(I) Prescribe rifampin",
+            "The most appropriate intervention for this patient at this time is:\n\n(I) Prescribe rifampin"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(I) Prescribe rifampin"
     },
     {
         "realidx": 6251,
@@ -1926,12 +2751,23 @@
         "category": "health",
         "src": "ori_mmlu-professional_medicine",
         "answer": "Prescribe rifampin",
-        "predicted_answer": "A",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 1635,
-            "completion_tokens": 43
+            "prompt_tokens": 2382,
+            "completion_tokens": 291
         },
-        "time_elapsed": 3.751436471939087
+        "time_elapsed": 6.778607606887817,
+        "raw_responses": [
+            "The patient's soccer teammate was diagnosed with meningococcal meningitis, which is a serious bacterial infection caused by Neisseria meningitidis. Close contacts of individuals with meningococcal meningitis are at increased risk of contracting the infection and should receive prophylactic antibiotics to prevent the disease.\n\nGiven that the patient shared a hotel room with the infected teammate, she is considered a close contact and should receive prophylactic treatment.\n\nThe appropriate prophylactic antibiotics for close contacts of individuals with meningococcal meningitis include rifampin, ciprofloxacin, or ceftriaxone.\n\nTherefore, the most appropriate intervention for this patient at this time is:\n\n(I) Prescribe rifampin",
+            "(I) Prescribe rifampin",
+            "The patient's soccer teammate was diagnosed with meningococcal meningitis, which is a serious bacterial infection caused by Neisseria meningitidis. Close contacts of individuals with meningococcal meningitis are at increased risk of contracting the infection and should receive prophylactic antibiotics to prevent the disease.\n\nGiven that the patient shared a hotel room with the infected teammate, she is considered a close contact and should receive prophylactic treatment.\n\nThe appropriate prophylactic antibiotics for close contacts of a patient with meningococcal meningitis include rifampin, ciprofloxacin, or ceftriaxone.\n\nThe most appropriate intervention for this patient at this time is:\n\n(I) Prescribe rifampin"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "The patient's soccer teammate was diagnosed with meningococcal meningitis, which is a serious bacterial infection caused by Neisseria meningitidis. Close contacts of individuals with meningococcal meningitis are at increased risk of contracting the infection and should receive prophylactic antibiotics to prevent the disease.\n\nGiven that the patient shared a hotel room with the infected teammate, she is considered a close contact and should receive prophylactic treatment.\n\nThe appropriate prophylactic antibiotics for close contacts of individuals with meningococcal meningitis include rifampin, ciprofloxacin, or ceftriaxone.\n\nTherefore, the most appropriate intervention for this patient at this time is:\n\n(I) Prescribe rifampin"
     },
     {
         "realidx": 6252,
@@ -1954,10 +2790,21 @@
         "answer": "Administer intravenous fluids",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2061,
-            "completion_tokens": 328
+            "prompt_tokens": 2067,
+            "completion_tokens": 200
         },
-        "time_elapsed": 6.383554697036743
+        "time_elapsed": 6.146337270736694,
+        "raw_responses": [
+            "The patient is a 15-year-old boy presenting with symptoms of headache, dizziness, nausea, vomiting, weakness, and confusion after full-contact football practice in hot weather. His vital signs indicate hyperthermia (temperature of 39.5\u00b0C), tachycardia (pulse of 120/min), tachypnea (respirations of 40/min), and hypotension (blood pressure of 90/65 mm Hg). He is also diaphoretic and disoriented.\n\nThese symptoms and signs are consistent with heat stroke, a medical emergency characterized by elevated body temperature and central nervous system dysfunction due to prolonged exposure to high temperatures and physical exertion.\n\nThe most appropriate next step in management is rapid cooling to lower the body temperature and prevent further complications.\n\nFinal answer: (D) Immerse the patient in an ice water bath",
+            "(D) Immerse the patient in an ice water bath",
+            "(D) Immerse the patient in an ice water bath"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "2"
+        ],
+        "final_solution": "The patient is a 15-year-old boy presenting with symptoms of headache, dizziness, nausea, vomiting, weakness, and confusion after full-contact football practice in hot weather. His vital signs indicate hyperthermia (temperature of 39.5\u00b0C), tachycardia (pulse of 120/min), tachypnea (respirations of 40/min), and hypotension (blood pressure of 90/65 mm Hg). He is also diaphoretic and disoriented.\n\nThese symptoms and signs are consistent with heat stroke, a medical emergency characterized by elevated body temperature and central nervous system dysfunction due to prolonged exposure to high temperatures and physical exertion.\n\nThe most appropriate next step in management is rapid cooling to lower the body temperature and prevent further complications.\n\nFinal answer: (D) Immerse the patient in an ice water bath"
     },
     {
         "realidx": 6253,
@@ -1980,10 +2827,21 @@
         "answer": "Administer intravenous fluids",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1731,
-            "completion_tokens": 82
+            "prompt_tokens": 1593,
+            "completion_tokens": 56
         },
-        "time_elapsed": 3.8851170539855957
+        "time_elapsed": 5.800745010375977,
+        "raw_responses": [
+            "(D) Immerse the patient in an ice water bath",
+            "(D) Immerse the patient in an ice water bath",
+            "(D) Immerse the patient in an ice water bath"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is 0.",
+            "The best final answer is 0.",
+            "0"
+        ],
+        "final_solution": "(D) Immerse the patient in an ice water bath"
     },
     {
         "realidx": 6260,
@@ -2004,12 +2862,23 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported",
-        "predicted_answer": "D",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 1530,
-            "completion_tokens": 93
+            "prompt_tokens": 1545,
+            "completion_tokens": 105
         },
-        "time_elapsed": 4.258106708526611
+        "time_elapsed": 4.826709747314453,
+        "raw_responses": [
+            "Option (I) After absorption, long chain triglycerides (LCT) enter the lymphatic system, whereas medium chain triglycerides enter the portal blood system.",
+            "Option (I) After absorption, long chain triglycerides (LCT) enter the lymphatic system, whereas medium chain triglycerides enter the portal blood system.",
+            "Option (I) After absorption, long chain triglycerides (LCT) enter the lymphatic system, whereas medium chain triglycerides enter the portal blood system."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Option (I) After absorption, long chain triglycerides (LCT) enter the lymphatic system, whereas medium chain triglycerides enter the portal blood system."
     },
     {
         "realidx": 6268,
@@ -2033,9 +2902,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 648,
-            "completion_tokens": 24
+            "completion_tokens": 81
         },
-        "time_elapsed": 3.559142827987671
+        "time_elapsed": 4.607826232910156,
+        "raw_responses": [
+            "(B) 95-100%",
+            "(B) 95-100%",
+            "(B) 95-100%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (B) 95-100%. Since they are identical, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\n0",
+            "0"
+        ],
+        "final_solution": "(B) 95-100%"
     },
     {
         "realidx": 6269,
@@ -2056,12 +2936,23 @@
         "category": "health",
         "src": "ori_mmlu-nutrition",
         "answer": "Have been unchanged",
-        "predicted_answer": "J",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 750,
-            "completion_tokens": 29
+            "prompt_tokens": 735,
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.9691107273101807
+        "time_elapsed": 4.294361591339111,
+        "raw_responses": [
+            "(I) Are inconsistent across different countries",
+            "(I) Are inconsistent across different countries",
+            "(I) Are inconsistent across different countries"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(I) Are inconsistent across different countries"
     },
     {
         "realidx": 6270,
@@ -2085,9 +2976,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 675,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.539931535720825
+        "time_elapsed": 3.842222213745117,
+        "raw_responses": [
+            "(A) 70 to 90%",
+            "(A) 70 to 90%",
+            "(A) 70 to 90%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 70 to 90%"
     },
     {
         "realidx": 6272,
@@ -2111,9 +3013,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 846,
-            "completion_tokens": 73
+            "completion_tokens": 45
         },
-        "time_elapsed": 3.76177716255188
+        "time_elapsed": 5.944740056991577,
+        "raw_responses": [
+            "(A) Infants and children need the most protein dense food",
+            "(A) Infants and children need the most protein dense food",
+            "(A) Infants and children need the most protein dense food"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Infants and children need the most protein dense food"
     },
     {
         "realidx": 6274,
@@ -2137,9 +3050,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 660,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.059178113937378
+        "time_elapsed": 3.989760398864746,
+        "raw_responses": [
+            "(B) Longitudinal study",
+            "(B) Longitudinal study",
+            "(B) Longitudinal study"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Longitudinal study"
     },
     {
         "realidx": 6275,
@@ -2163,9 +3087,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 660,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 2.992556571960449
+        "time_elapsed": 3.998734712600708,
+        "raw_responses": [
+            "(B) Longitudinal study",
+            "(B) Longitudinal study",
+            "(B) Longitudinal study"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Longitudinal study"
     },
     {
         "realidx": 6277,
@@ -2189,9 +3124,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 537,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.7031896114349365
+        "time_elapsed": 3.793165445327759,
+        "raw_responses": [
+            "(A) Wild birds",
+            "(A) Wild birds",
+            "(A) Wild birds"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Wild birds"
     },
     {
         "realidx": 6278,
@@ -2209,9 +3155,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 645,
-            "completion_tokens": 62
+            "completion_tokens": 158
         },
-        "time_elapsed": 3.7183215618133545
+        "time_elapsed": 9.072126388549805,
+        "raw_responses": [
+            "(B) Types 14, 16, 18, 31, 45",
+            "(B) Types 14, 16, 18, 31, 45",
+            "(B) Types 14, 16, 18, 31, 45"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "The correct answer is not among the provided options. The types of HPV known to cause cervical cancer are primarily HPV types 16 and 18, along with other high-risk types such as 31, 33, 45, 52, and 58. However, type 14 is not typically associated with cervical cancer.\n\nGiven the options, none of them are entirely correct due to the inclusion of type 14. Therefore, the best final answer cannot be chosen from the provided options."
+        ],
+        "final_solution": "(B) Types 14, 16, 18, 31, 45"
     },
     {
         "realidx": 6286,
@@ -2232,12 +3189,23 @@
         "category": "health",
         "src": "ori_mmlu-clinical_knowledge",
         "answer": "Water.",
-        "predicted_answer": "A",
+        "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 723,
-            "completion_tokens": 168
+            "completion_tokens": 73
         },
-        "time_elapsed": 5.084497928619385
+        "time_elapsed": 4.225882053375244,
+        "raw_responses": [
+            "(A) Baking soda. (B) Hydrogen peroxide. (C) Water. (F) Normal saline. (H) Mouthwash containing alcohol.",
+            "(F) Normal saline",
+            "(A) Baking soda. (B) Hydrogen peroxide. (C) Water. (F) Normal saline. (H) Mouthwash containing alcohol."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(F) Normal saline"
     },
     {
         "realidx": 6288,
@@ -2260,9 +3228,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 606,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.24973201751709
+        "time_elapsed": 3.854250907897949,
+        "raw_responses": [
+            "(C) Immunization",
+            "(C) Immunization",
+            "(C) Immunization"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Immunization"
     },
     {
         "realidx": 6290,
@@ -2286,9 +3265,20 @@
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 615,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.2137551307678223
+        "time_elapsed": 3.6774840354919434,
+        "raw_responses": [
+            "(J) An Asian woman",
+            "(J) An Asian woman",
+            "(J) An Asian woman"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(J) An Asian woman"
     },
     {
         "realidx": 6291,
@@ -2312,9 +3302,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 861,
-            "completion_tokens": 111
+            "completion_tokens": 117
         },
-        "time_elapsed": 4.105880975723267
+        "time_elapsed": 5.429606199264526,
+        "raw_responses": [
+            "(A) Heart Disease (B) Alcoholism (C) Suicide (D) Diabetes (E) Depression (G) Dementia (I) Obesity (J) Hypertension",
+            "(A) Heart Disease (B) Alcoholism (C) Suicide (D) Diabetes (E) Depression (G) Dementia (I) Obesity (J) Hypertension",
+            "(A) Heart Disease (B) Alcoholism (C) Suicide (D) Diabetes (E) Depression (G) Dementia (I) Obesity (J) Hypertension"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Heart Disease (B) Alcoholism (C) Suicide (D) Diabetes (E) Depression (G) Dementia (I) Obesity (J) Hypertension"
     },
     {
         "realidx": 6293,
@@ -2338,9 +3339,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 933,
-            "completion_tokens": 54
+            "completion_tokens": 60
         },
-        "time_elapsed": 4.0705461502075195
+        "time_elapsed": 4.52197790145874,
+        "raw_responses": [
+            "(A) There are many more memories to search through to find the one that is sought",
+            "(A) There are many more memories to search through to find the one that is sought",
+            "(A) There are many more memories to search through to find the one that is sought"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) There are many more memories to search through to find the one that is sought"
     },
     {
         "realidx": 6294,
@@ -2361,12 +3373,23 @@
         "category": "health",
         "src": "ori_mmlu-medical_genetics",
         "answer": "Almost 100%",
-        "predicted_answer": "I",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 897,
-            "completion_tokens": 112
+            "prompt_tokens": 624,
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.74920654296875
+        "time_elapsed": 4.386759042739868,
+        "raw_responses": [
+            "(I) Almost 100%",
+            "(I) Almost 100%",
+            "(I) Almost 100%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(I) Almost 100%"
     },
     {
         "realidx": 6298,
@@ -2390,9 +3413,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 714,
-            "completion_tokens": 39
+            "completion_tokens": 45
         },
-        "time_elapsed": 3.594672203063965
+        "time_elapsed": 3.792598009109497,
+        "raw_responses": [
+            "(F) 1 in 20",
+            "The proportion of babies that have an abnormality identifiable at birth is (B) 1 in 50.",
+            "(F) 1 in 20"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "2"
+        ],
+        "final_solution": "The proportion of babies that have an abnormality identifiable at birth is (B) 1 in 50."
     },
     {
         "realidx": 6299,
@@ -2413,12 +3447,23 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "a recessive maxilla due to failure of elongation of the cranial base.",
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 906,
-            "completion_tokens": 83
+            "prompt_tokens": 900,
+            "completion_tokens": 45
         },
-        "time_elapsed": 3.9169857501983643
+        "time_elapsed": 3.999990463256836,
+        "raw_responses": [
+            "(A) a small chin due to micrognathia.",
+            "(A) a small chin due to micrognathia.",
+            "(A) a small chin due to micrognathia."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) a small chin due to micrognathia."
     },
     {
         "realidx": 6300,
@@ -2441,10 +3486,21 @@
         "answer": "Proprioceptive information is carried by the masseteric and auriculotemporal nerves.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1065,
-            "completion_tokens": 166
+            "prompt_tokens": 1167,
+            "completion_tokens": 341
         },
-        "time_elapsed": 4.781426429748535
+        "time_elapsed": 6.755566596984863,
+        "raw_responses": [
+            "(A) It has an articular disc of fibrocartilage\n(D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\n(G) Its articular surfaces are covered by fibrocartilage",
+            "(A) It has an articular disc of fibrocartilage\n(D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\n(G) Its articular surfaces are covered by fibrocartilage",
+            "(A) It has an articular disc of fibrocartilage"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2.",
+            "The best final answer is option 1. \n\nOption 1 includes all the correct statements about the temporomandibular joint:\n(A) It has an articular disc of fibrocartilage.\n(D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\n(G) Its articular surfaces are covered by fibrocartilage.\n\nOption 0 is identical to option 1, but since both are the same, either could be chosen. However, option 1 is chosen here for clarity.\n\nOption 2 only includes statement (A) and misses the other correct statements (D) and (G).\n\nTherefore, the chosen option is 1.",
+            "The best final answer is option 2. \n\nOption 2 includes all the correct statements about the temporomandibular joint:\n(A) It has an articular disc of fibrocartilage\n(D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\n(G) Its articular surfaces are covered by fibrocartilage\n\nTherefore, the chosen option number is 2."
+        ],
+        "final_solution": "(A) It has an articular disc of fibrocartilage\n(D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\n(G) Its articular surfaces are covered by fibrocartilage"
     },
     {
         "realidx": 6301,
@@ -2467,10 +3523,21 @@
         "answer": "facial artery crosses the mandible.",
         "predicted_answer": "J",
         "token_usage": {
-            "prompt_tokens": 768,
-            "completion_tokens": 37
+            "prompt_tokens": 771,
+            "completion_tokens": 44
         },
-        "time_elapsed": 3.4423110485076904
+        "time_elapsed": 3.680776834487915,
+        "raw_responses": [
+            "(A) superficial temporal artery crosses the zygomatic arch.",
+            "(A) superficial temporal artery crosses the zygomatic arch.",
+            "Option (J) facial artery crosses the mandible."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "1"
+        ],
+        "final_solution": "Option (J) facial artery crosses the mandible."
     },
     {
         "realidx": 6305,
@@ -2491,12 +3558,23 @@
         "category": "health",
         "src": "ori_mmlu-anatomy",
         "answer": "sensory neuronal processes.",
-        "predicted_answer": "A",
+        "predicted_answer": "I",
         "token_usage": {
-            "prompt_tokens": 645,
-            "completion_tokens": 21
+            "prompt_tokens": 693,
+            "completion_tokens": 43
         },
-        "time_elapsed": 4.385810852050781
+        "time_elapsed": 3.8138487339019775,
+        "raw_responses": [
+            "The dorsal roots of all spinal nerves contain sensory neuronal processes.\n\nFinal answer: (I) sensory neuronal processes.",
+            "(I) sensory neuronal processes.",
+            "(I) sensory neuronal processes."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "2"
+        ],
+        "final_solution": "The dorsal roots of all spinal nerves contain sensory neuronal processes.\n\nFinal answer: (I) sensory neuronal processes."
     },
     {
         "realidx": 6307,
@@ -2520,9 +3598,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1551,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.466012954711914
+        "time_elapsed": 4.532231092453003,
+        "raw_responses": [
+            "(C) Initiate breastfeeding education",
+            "(C) Initiate breastfeeding education",
+            "(C) Initiate breastfeeding education"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Initiate breastfeeding education"
     },
     {
         "realidx": 6308,
@@ -2546,8 +3635,19 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1755,
-            "completion_tokens": 66
+            "completion_tokens": 72
         },
-        "time_elapsed": 4.097981214523315
+        "time_elapsed": 4.962916374206543,
+        "raw_responses": [
+            "(D) The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives.",
+            "(D) The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives.",
+            "(D) The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives."
     }
 ]

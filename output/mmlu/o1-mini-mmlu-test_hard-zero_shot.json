@@ -11,12 +11,13 @@
         "answer_idx": "B",
         "subject": "anatomy",
         "answer": "They will only be able to breathe quietly.",
-        "predicted_answer": "D",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 149,
-            "completion_tokens": 331
+            "completion_tokens": 587
         },
-        "time_elapsed": 7.88178277015686
+        "time_elapsed": 3.702777624130249
     },
     {
         "realidx": 108,
@@ -30,12 +31,13 @@
         "answer_idx": "C",
         "subject": "anatomy",
         "answer": "ten weeks post-fertilization.",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 128,
-            "completion_tokens": 331
+            "completion_tokens": 267
         },
-        "time_elapsed": 2.54194974899292
+        "time_elapsed": 3.1616296768188477
     },
     {
         "realidx": 114,
@@ -49,12 +51,13 @@
         "answer_idx": "A",
         "subject": "anatomy",
         "answer": "The mental symphysis closes at about 1 year postnatally",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 171,
             "completion_tokens": 587
         },
-        "time_elapsed": 4.685213327407837
+        "time_elapsed": 3.9920594692230225
     },
     {
         "realidx": 123,
@@ -68,12 +71,13 @@
         "answer_idx": "B",
         "subject": "anatomy",
         "answer": "ectomesenchyme formation and occurs before neurulation.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 140,
-            "completion_tokens": 267
+            "completion_tokens": 396
         },
-        "time_elapsed": 2.167576789855957
+        "time_elapsed": 3.048687696456909
     },
     {
         "realidx": 125,
@@ -87,12 +91,13 @@
         "answer_idx": "C",
         "subject": "anatomy",
         "answer": "Nitrogen",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 115,
-            "completion_tokens": 459
+            "completion_tokens": 332
         },
-        "time_elapsed": 3.413886785507202
+        "time_elapsed": 2.641982316970825
     },
     {
         "realidx": 131,
@@ -106,12 +111,13 @@
         "answer_idx": "A",
         "subject": "anatomy",
         "answer": "constriction of the laryngeal entrance.",
-        "predicted_answer": "B",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 143,
-            "completion_tokens": 523
+            "completion_tokens": 395
         },
-        "time_elapsed": 3.3299403190612793
+        "time_elapsed": 3.023447036743164
     },
     {
         "realidx": 133,
@@ -125,12 +131,13 @@
         "answer_idx": "B",
         "subject": "anatomy",
         "answer": "Erect",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 114,
-            "completion_tokens": 203
+            "completion_tokens": 76
         },
-        "time_elapsed": 4.537815570831299
+        "time_elapsed": 1.1428077220916748
     },
     {
         "realidx": 134,
@@ -144,12 +151,13 @@
         "answer_idx": "C",
         "subject": "anatomy",
         "answer": "palatine, frontonasal and secondary nasal processes.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 143,
-            "completion_tokens": 651
+            "completion_tokens": 267
         },
-        "time_elapsed": 5.882718324661255
+        "time_elapsed": 2.0232326984405518
     },
     {
         "realidx": 155,
@@ -163,12 +171,13 @@
         "answer_idx": "D",
         "subject": "anatomy",
         "answer": "Downward",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 114,
-            "completion_tokens": 267
+            "completion_tokens": 459
         },
-        "time_elapsed": 3.64237904548645
+        "time_elapsed": 4.177653551101685
     },
     {
         "realidx": 159,
@@ -182,12 +191,13 @@
         "answer_idx": "D",
         "subject": "anatomy",
         "answer": "Medial pterygoid.",
-        "predicted_answer": "B",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 122,
-            "completion_tokens": 332
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.5969936847686768
+        "time_elapsed": 2.379079818725586
     },
     {
         "realidx": 168,
@@ -201,12 +211,13 @@
         "answer_idx": "D",
         "subject": "anatomy",
         "answer": "tracheal rings.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 130,
-            "completion_tokens": 395
+            "completion_tokens": 267
         },
-        "time_elapsed": 3.7158260345458984
+        "time_elapsed": 2.3062899112701416
     },
     {
         "realidx": 173,
@@ -220,12 +231,13 @@
         "answer_idx": "A",
         "subject": "anatomy",
         "answer": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
-        "predicted_answer": "A",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 185,
-            "completion_tokens": 267
+            "completion_tokens": 459
         },
-        "time_elapsed": 2.068190097808838
+        "time_elapsed": 4.244644641876221
     },
     {
         "realidx": 197,
@@ -239,12 +251,13 @@
         "answer_idx": "C",
         "subject": "anatomy",
         "answer": "red below the mucogingival junction and light pink above it.",
-        "predicted_answer": "C",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 175,
-            "completion_tokens": 523
+            "completion_tokens": 395
         },
-        "time_elapsed": 3.4663567543029785
+        "time_elapsed": 2.937525987625122
     },
     {
         "realidx": 203,
@@ -258,12 +271,13 @@
         "answer_idx": "B",
         "subject": "anatomy",
         "answer": "The ribs and sternum",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 132,
-            "completion_tokens": 523
+            "completion_tokens": 459
         },
-        "time_elapsed": 3.582725763320923
+        "time_elapsed": 3.3685715198516846
     },
     {
         "realidx": 207,
@@ -277,12 +291,13 @@
         "answer_idx": "D",
         "subject": "anatomy",
         "answer": "ligaments and articular discs.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 134,
-            "completion_tokens": 332
+            "completion_tokens": 331
         },
-        "time_elapsed": 2.605940580368042
+        "time_elapsed": 2.4389684200286865
     },
     {
         "realidx": 229,
@@ -296,12 +311,13 @@
         "answer_idx": "A",
         "subject": "anatomy",
         "answer": "auditory tube opens.",
-        "predicted_answer": "A",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 120,
-            "completion_tokens": 523
+            "completion_tokens": 395
         },
-        "time_elapsed": 3.495161771774292
+        "time_elapsed": 3.374552011489868
     },
     {
         "realidx": 491,
@@ -315,12 +331,13 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "The patient has a colostomy.",
-        "predicted_answer": "C",
+        "completion": "A",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 135,
             "completion_tokens": 523
         },
-        "time_elapsed": 3.3852617740631104
+        "time_elapsed": 3.3927555084228516
     },
     {
         "realidx": 493,
@@ -334,12 +351,13 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "The outer image is always the false image",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 141,
-            "completion_tokens": 459
+            "completion_tokens": 587
         },
-        "time_elapsed": 3.1254501342773438
+        "time_elapsed": 3.8997416496276855
     },
     {
         "realidx": 509,
@@ -353,12 +371,13 @@
         "answer_idx": "A",
         "subject": "clinical_knowledge",
         "answer": "30 minutes.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 153,
-            "completion_tokens": 203
+            "completion_tokens": 76
         },
-        "time_elapsed": 2.1525115966796875
+        "time_elapsed": 7.449464559555054
     },
     {
         "realidx": 514,
@@ -372,12 +391,13 @@
         "answer_idx": "A",
         "subject": "clinical_knowledge",
         "answer": "More prominent in expiration",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 130,
             "completion_tokens": 587
         },
-        "time_elapsed": 3.737434148788452
+        "time_elapsed": 3.8859660625457764
     },
     {
         "realidx": 515,
@@ -391,12 +411,13 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "is usually lower at the end of the game than at the end of the first half.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 161,
-            "completion_tokens": 523
+            "completion_tokens": 459
         },
-        "time_elapsed": 3.316479444503784
+        "time_elapsed": 2.7859303951263428
     },
     {
         "realidx": 526,
@@ -410,12 +431,13 @@
         "answer_idx": "D",
         "subject": "clinical_knowledge",
         "answer": "40 kJ/min.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 146,
-            "completion_tokens": 203
+            "completion_tokens": 459
         },
-        "time_elapsed": 1.785935401916504
+        "time_elapsed": 4.165889024734497
     },
     {
         "realidx": 537,
@@ -429,12 +451,13 @@
         "answer_idx": "C",
         "subject": "clinical_knowledge",
         "answer": "Every 12 hours.",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 121,
-            "completion_tokens": 203
+            "completion_tokens": 204
         },
-        "time_elapsed": 1.5210239887237549
+        "time_elapsed": 1.8049728870391846
     },
     {
         "realidx": 552,
@@ -448,12 +471,13 @@
         "answer_idx": "D",
         "subject": "clinical_knowledge",
         "answer": "30%",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 131,
-            "completion_tokens": 587
+            "completion_tokens": 459
         },
-        "time_elapsed": 3.63797926902771
+        "time_elapsed": 3.4314286708831787
     },
     {
         "realidx": 568,
@@ -467,12 +491,13 @@
         "answer_idx": "D",
         "subject": "clinical_knowledge",
         "answer": "glycolysis is being used as a major means of resynthesising ATP.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 135,
-            "completion_tokens": 331
+            "completion_tokens": 460
         },
-        "time_elapsed": 2.340620517730713
+        "time_elapsed": 3.3586926460266113
     },
     {
         "realidx": 576,
@@ -486,12 +511,13 @@
         "answer_idx": "D",
         "subject": "clinical_knowledge",
         "answer": "room temperature.",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 109,
-            "completion_tokens": 395
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.5413050651550293
+        "time_elapsed": 1.9068613052368164
     },
     {
         "realidx": 598,
@@ -505,12 +531,13 @@
         "answer_idx": "C",
         "subject": "clinical_knowledge",
         "answer": "350",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 112,
-            "completion_tokens": 203
+            "completion_tokens": 268
         },
-        "time_elapsed": 1.7736189365386963
+        "time_elapsed": 2.1755001544952393
     },
     {
         "realidx": 614,
@@ -524,12 +551,13 @@
         "answer_idx": "C",
         "subject": "clinical_knowledge",
         "answer": "excessive weight loss.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 118,
             "completion_tokens": 459
         },
-        "time_elapsed": 3.781174421310425
+        "time_elapsed": 2.8304600715637207
     },
     {
         "realidx": 628,
@@ -543,12 +571,13 @@
         "answer_idx": "C",
         "subject": "clinical_knowledge",
         "answer": "1 minute",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 117,
-            "completion_tokens": 203
+            "completion_tokens": 459
         },
-        "time_elapsed": 1.6605145931243896
+        "time_elapsed": 3.3313417434692383
     },
     {
         "realidx": 634,
@@ -562,12 +591,13 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "The nurse, patient, and ward clerk.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 150,
-            "completion_tokens": 267
+            "completion_tokens": 139
         },
-        "time_elapsed": 2.2002570629119873
+        "time_elapsed": 1.4611053466796875
     },
     {
         "realidx": 640,
@@ -581,12 +611,13 @@
         "answer_idx": "D",
         "subject": "clinical_knowledge",
         "answer": "Inspect the nail-bed angle from the side",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 134,
-            "completion_tokens": 395
+            "completion_tokens": 331
         },
-        "time_elapsed": 2.5643937587738037
+        "time_elapsed": 2.472712755203247
     },
     {
         "realidx": 642,
@@ -600,12 +631,13 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "Grip, percussion, sensory.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 127,
-            "completion_tokens": 396
+            "completion_tokens": 332
         },
-        "time_elapsed": 2.7991504669189453
+        "time_elapsed": 2.554088830947876
     },
     {
         "realidx": 643,
@@ -619,12 +651,13 @@
         "answer_idx": "D",
         "subject": "clinical_knowledge",
         "answer": "An indentible mass is caused by faecal loading of the colon",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 159,
-            "completion_tokens": 715
+            "completion_tokens": 523
         },
-        "time_elapsed": 4.204876184463501
+        "time_elapsed": 3.1891074180603027
     },
     {
         "realidx": 694,
@@ -638,12 +671,13 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "Water.",
-        "predicted_answer": "D",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 118,
-            "completion_tokens": 267
+            "completion_tokens": 268
         },
-        "time_elapsed": 1.9760258197784424
+        "time_elapsed": 3.395336627960205
     },
     {
         "realidx": 698,
@@ -657,12 +691,13 @@
         "answer_idx": "A",
         "subject": "clinical_knowledge",
         "answer": "If the patient is post-operative.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 132,
-            "completion_tokens": 971
+            "completion_tokens": 459
         },
-        "time_elapsed": 7.166171550750732
+        "time_elapsed": 3.234196424484253
     },
     {
         "realidx": 721,
@@ -676,12 +711,13 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "Proprioception is appreciated via the same tracts as light touch",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 157,
-            "completion_tokens": 459
+            "completion_tokens": 587
         },
-        "time_elapsed": 4.229300498962402
+        "time_elapsed": 4.412985324859619
     },
     {
         "realidx": 722,
@@ -695,12 +731,13 @@
         "answer_idx": "A",
         "subject": "clinical_knowledge",
         "answer": "frequently rises by 1 - 3 mM.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 142,
-            "completion_tokens": 267
+            "completion_tokens": 460
         },
-        "time_elapsed": 3.0063726902008057
+        "time_elapsed": 3.7152507305145264
     },
     {
         "realidx": 740,
@@ -714,12 +751,13 @@
         "answer_idx": "B",
         "subject": "clinical_knowledge",
         "answer": "in the conversion of fatty acids to acetyl CoA.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 134,
-            "completion_tokens": 587
+            "completion_tokens": 1419
         },
-        "time_elapsed": 3.8521347045898438
+        "time_elapsed": 8.446986675262451
     },
     {
         "realidx": 749,
@@ -733,12 +771,13 @@
         "answer_idx": "D",
         "subject": "clinical_knowledge",
         "answer": "Ventilator-associated pneumonia.",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 120,
-            "completion_tokens": 331
+            "completion_tokens": 268
         },
-        "time_elapsed": 2.6473076343536377
+        "time_elapsed": 2.17897891998291
     },
     {
         "realidx": 791,
@@ -752,12 +791,13 @@
         "answer_idx": "A",
         "subject": "college_biology",
         "answer": "Ontogeny recapitulates phylogeny.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 179,
-            "completion_tokens": 395
+            "completion_tokens": 523
         },
-        "time_elapsed": 2.6551170349121094
+        "time_elapsed": 3.5142760276794434
     },
     {
         "realidx": 805,
@@ -771,12 +811,13 @@
         "answer_idx": "A",
         "subject": "college_biology",
         "answer": "Injecting eggs with antibodies that bind to ZP3 blocks in vitro fertilization.",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 234,
-            "completion_tokens": 2187
+            "completion_tokens": 3019
         },
-        "time_elapsed": 11.905483484268188
+        "time_elapsed": 15.94614052772522
     },
     {
         "realidx": 876,
@@ -790,12 +831,13 @@
         "answer_idx": "B",
         "subject": "college_biology",
         "answer": "occurs in the absence of sensory feedback",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 153,
-            "completion_tokens": 459
+            "completion_tokens": 587
         },
-        "time_elapsed": 3.541372299194336
+        "time_elapsed": 3.8528647422790527
     },
     {
         "realidx": 1210,
@@ -809,12 +851,13 @@
         "answer_idx": "B",
         "subject": "college_medicine",
         "answer": "There are decreased dopamine receptors on the post-synaptic membrane.",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 179,
-            "completion_tokens": 971
+            "completion_tokens": 395
         },
-        "time_elapsed": 6.907524108886719
+        "time_elapsed": 3.144587755203247
     },
     {
         "realidx": 1211,
@@ -828,12 +871,13 @@
         "answer_idx": "B",
         "subject": "college_medicine",
         "answer": "70%",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 213,
-            "completion_tokens": 332
+            "completion_tokens": 267
         },
-        "time_elapsed": 3.0135374069213867
+        "time_elapsed": 2.075702428817749
     },
     {
         "realidx": 1219,
@@ -847,12 +891,13 @@
         "answer_idx": "A",
         "subject": "college_medicine",
         "answer": "Osmosis",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 156,
-            "completion_tokens": 268
+            "completion_tokens": 715
         },
-        "time_elapsed": 2.2325968742370605
+        "time_elapsed": 4.159607172012329
     },
     {
         "realidx": 1222,
@@ -866,12 +911,13 @@
         "answer_idx": "C",
         "subject": "college_medicine",
         "answer": "924 Hz",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 208,
-            "completion_tokens": 4555
+            "completion_tokens": 3915
         },
-        "time_elapsed": 28.00175189971924
+        "time_elapsed": 20.44224715232849
     },
     {
         "realidx": 1260,
@@ -885,12 +931,13 @@
         "answer_idx": "D",
         "subject": "college_medicine",
         "answer": "40 kJ/min.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 146,
-            "completion_tokens": 267
+            "completion_tokens": 204
         },
-        "time_elapsed": 2.715585947036743
+        "time_elapsed": 2.2743403911590576
     },
     {
         "realidx": 1267,
@@ -904,12 +951,13 @@
         "answer_idx": "C",
         "subject": "college_medicine",
         "answer": "1 minute",
-        "predicted_answer": "C",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 117,
-            "completion_tokens": 395
+            "completion_tokens": 203
         },
-        "time_elapsed": 2.8924684524536133
+        "time_elapsed": 1.9456875324249268
     },
     {
         "realidx": 1269,
@@ -923,12 +971,13 @@
         "answer_idx": "D",
         "subject": "college_medicine",
         "answer": "[H2O] increases",
-        "predicted_answer": "B",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 168,
-            "completion_tokens": 1611
+            "completion_tokens": 651
         },
-        "time_elapsed": 8.766466856002808
+        "time_elapsed": 7.78731632232666
     },
     {
         "realidx": 1273,
@@ -942,12 +991,13 @@
         "answer_idx": "C",
         "subject": "college_medicine",
         "answer": "After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
-        "predicted_answer": "D",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 190,
-            "completion_tokens": 459
+            "completion_tokens": 779
         },
-        "time_elapsed": 2.836642026901245
+        "time_elapsed": 5.587616682052612
     },
     {
         "realidx": 1276,
@@ -961,12 +1011,13 @@
         "answer_idx": "D",
         "subject": "college_medicine",
         "answer": "Production of a larger, likely dysfunctional protein",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 211,
-            "completion_tokens": 907
+            "completion_tokens": 780
         },
-        "time_elapsed": 5.394274473190308
+        "time_elapsed": 4.509030342102051
     },
     {
         "realidx": 1282,
@@ -980,12 +1031,13 @@
         "answer_idx": "D",
         "subject": "college_medicine",
         "answer": "glycolysis is being used as a major means of resynthesising ATP.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 135,
-            "completion_tokens": 267
+            "completion_tokens": 331
         },
-        "time_elapsed": 2.301331043243408
+        "time_elapsed": 2.676457405090332
     },
     {
         "realidx": 1284,
@@ -999,12 +1051,13 @@
         "answer_idx": "C",
         "subject": "college_medicine",
         "answer": "Paranoid",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 248,
-            "completion_tokens": 203
+            "completion_tokens": 460
         },
-        "time_elapsed": 1.806577205657959
+        "time_elapsed": 3.068390130996704
     },
     {
         "realidx": 1286,
@@ -1018,12 +1071,13 @@
         "answer_idx": "B",
         "subject": "college_medicine",
         "answer": "Phallic",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 183,
             "completion_tokens": 203
         },
-        "time_elapsed": 2.1394968032836914
+        "time_elapsed": 1.8904483318328857
     },
     {
         "realidx": 1293,
@@ -1037,12 +1091,13 @@
         "answer_idx": "A",
         "subject": "college_medicine",
         "answer": "He decides that the first test is always harder than the others.",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 208,
-            "completion_tokens": 203
+            "completion_tokens": 332
         },
-        "time_elapsed": 1.830172061920166
+        "time_elapsed": 2.589474678039551
     },
     {
         "realidx": 1298,
@@ -1056,12 +1111,13 @@
         "answer_idx": "B",
         "subject": "college_medicine",
         "answer": "in the conversion of fatty acids to acetyl CoA.",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 134,
-            "completion_tokens": 396
+            "completion_tokens": 844
         },
-        "time_elapsed": 2.8986802101135254
+        "time_elapsed": 5.0103983879089355
     },
     {
         "realidx": 1307,
@@ -1075,12 +1131,13 @@
         "answer_idx": "A",
         "subject": "college_medicine",
         "answer": "slightly less than 20L",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 135,
-            "completion_tokens": 396
+            "completion_tokens": 268
         },
-        "time_elapsed": 2.6032187938690186
+        "time_elapsed": 2.2501060962677
     },
     {
         "realidx": 1316,
@@ -1094,12 +1151,13 @@
         "answer_idx": "B",
         "subject": "college_medicine",
         "answer": "is usually lower at the end of the game than at the end of the first half.",
-        "predicted_answer": "B",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 161,
-            "completion_tokens": 459
+            "completion_tokens": 779
         },
-        "time_elapsed": 2.8533260822296143
+        "time_elapsed": 4.555131673812866
     },
     {
         "realidx": 1322,
@@ -1113,12 +1171,13 @@
         "answer_idx": "C",
         "subject": "college_medicine",
         "answer": "Water",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 127,
-            "completion_tokens": 459
+            "completion_tokens": 523
         },
-        "time_elapsed": 3.371020793914795
+        "time_elapsed": 3.393192768096924
     },
     {
         "realidx": 1325,
@@ -1132,12 +1191,13 @@
         "answer_idx": "D",
         "subject": "college_medicine",
         "answer": "Hide snack food out of sight within his house.",
-        "predicted_answer": "C",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 181,
             "completion_tokens": 395
         },
-        "time_elapsed": 2.6839733123779297
+        "time_elapsed": 3.0201776027679443
     },
     {
         "realidx": 1344,
@@ -1151,12 +1211,13 @@
         "answer_idx": "A",
         "subject": "college_medicine",
         "answer": "A two month old female infant raised in a safe, stable environment",
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 183,
-            "completion_tokens": 651
+            "completion_tokens": 395
         },
-        "time_elapsed": 5.326561212539673
+        "time_elapsed": 2.979417562484741
     },
     {
         "realidx": 1358,
@@ -1170,12 +1231,13 @@
         "answer_idx": "D",
         "subject": "college_medicine",
         "answer": "Decreased rate of erectile dysfunction.",
-        "predicted_answer": "D",
+        "completion": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 998,
-            "completion_tokens": 1163
+            "completion_tokens": 459
         },
-        "time_elapsed": 6.402564764022827
+        "time_elapsed": 4.147395133972168
     },
     {
         "realidx": 1364,
@@ -1189,12 +1251,13 @@
         "answer_idx": "A",
         "subject": "college_medicine",
         "answer": "frequently rises by 1 - 3 mM.",
-        "predicted_answer": "A",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 142,
-            "completion_tokens": 395
+            "completion_tokens": 267
         },
-        "time_elapsed": 2.839393377304077
+        "time_elapsed": 2.275254249572754
     },
     {
         "realidx": 1365,
@@ -1208,12 +1271,13 @@
         "answer_idx": "A",
         "subject": "college_medicine",
         "answer": "DNA polymerase I",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 174,
-            "completion_tokens": 395
+            "completion_tokens": 331
         },
-        "time_elapsed": 2.774531602859497
+        "time_elapsed": 3.65385365486145
     },
     {
         "realidx": 7339,
@@ -1227,12 +1291,13 @@
         "answer_idx": "B",
         "subject": "medical_genetics",
         "answer": "lack of expression or reduced expression of the lac operon genes under all circumstances",
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 172,
-            "completion_tokens": 523
+            "completion_tokens": 460
         },
-        "time_elapsed": 4.170443296432495
+        "time_elapsed": 2.932894468307495
     },
     {
         "realidx": 12213,
@@ -1246,12 +1311,13 @@
         "answer_idx": "C",
         "subject": "professional_medicine",
         "answer": "Development of polycythemia",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 251,
             "completion_tokens": 267
         },
-        "time_elapsed": 4.52559757232666
+        "time_elapsed": 1.9097635746002197
     },
     {
         "realidx": 12247,
@@ -1265,12 +1331,13 @@
         "answer_idx": "A",
         "subject": "professional_medicine",
         "answer": "adjustment disorder with depressed mood",
-        "predicted_answer": "A",
+        "completion": "C",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 246,
-            "completion_tokens": 587
+            "completion_tokens": 651
         },
-        "time_elapsed": 5.7654948234558105
+        "time_elapsed": 3.902578830718994
     },
     {
         "realidx": 12260,
@@ -1284,12 +1351,13 @@
         "answer_idx": "D",
         "subject": "professional_medicine",
         "answer": "Intraoperative angiography",
-        "predicted_answer": "B",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 325,
-            "completion_tokens": 331
+            "completion_tokens": 459
         },
-        "time_elapsed": 2.411313533782959
+        "time_elapsed": 3.538848400115967
     },
     {
         "realidx": 12296,
@@ -1303,12 +1371,13 @@
         "answer_idx": "A",
         "subject": "professional_medicine",
         "answer": "Adhere to the patient's wishes and discuss home-care options",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 424,
-            "completion_tokens": 203
+            "completion_tokens": 459
         },
-        "time_elapsed": 1.5919618606567383
+        "time_elapsed": 3.3977386951446533
     },
     {
         "realidx": 12307,
@@ -1322,12 +1391,13 @@
         "answer_idx": "D",
         "subject": "professional_medicine",
         "answer": "peripheral hyperalimentation",
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 199,
-            "completion_tokens": 587
+            "completion_tokens": 523
         },
-        "time_elapsed": 4.489640712738037
+        "time_elapsed": 3.4897172451019287
     },
     {
         "realidx": 12317,
@@ -1341,12 +1411,13 @@
         "answer_idx": "A",
         "subject": "professional_medicine",
         "answer": "Cervical culture",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 236,
-            "completion_tokens": 779
+            "completion_tokens": 459
         },
-        "time_elapsed": 6.011858701705933
+        "time_elapsed": 3.051314353942871
     },
     {
         "realidx": 12341,
@@ -1360,12 +1431,13 @@
         "answer_idx": "D",
         "subject": "professional_medicine",
         "answer": "Salmonella typhi",
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 173,
-            "completion_tokens": 715
+            "completion_tokens": 587
         },
-        "time_elapsed": 4.359415292739868
+        "time_elapsed": 4.503633737564087
     },
     {
         "realidx": 12424,
@@ -1379,11 +1451,12 @@
         "answer_idx": "D",
         "subject": "professional_medicine",
         "answer": "nonmaleficence overrides autonomy",
-        "predicted_answer": "C",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 213,
-            "completion_tokens": 139
+            "completion_tokens": 779
         },
-        "time_elapsed": 1.5451929569244385
+        "time_elapsed": 4.573216676712036
     }
 ]

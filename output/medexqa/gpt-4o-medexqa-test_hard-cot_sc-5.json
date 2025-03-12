@@ -10,12 +10,20 @@
         },
         "answer_idx": "B",
         "answer": "If the airflow velocity between the vocal folds decreases, the air pressure decreases.",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". \n\nThe myoelastic-aerodynamic theory of phonation explains that the vocal folds are brought together by the reduced air pressure between them (Bernoulli effect) and the elasticity of the vocal folds. This theory combines the muscle (myoelastic) and airflow (aerodynamic) aspects of phonation.\n\nTherefore, the correct answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1246,
-            "completion_tokens": 1728
+            "completion_tokens": 1819
         },
-        "time_elapsed": 18.96187686920166
+        "time_elapsed": 27.787978649139404
     },
     {
         "realidx": "101_biomedical_engineer",
@@ -28,12 +36,20 @@
         },
         "answer_idx": "B",
         "answer": "Bone",
+        "solutions": [
+            "A",
+            "A",
+            "B",
+            "A",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions and their corresponding answers:\n\n- Solution 1: A\n- Solution 2: A\n- Solution 3: B\n- Solution 4: A\n- Solution 5: B\n\nNow, let's count the frequency of each answer:\n\n- Answer A: 3 times (Solution 1, Solution 2, Solution 4)\n- Answer B: 2 times (Solution 3, Solution 5)\n\nThe answer that appears most frequently is A. Therefore, the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 754,
-            "completion_tokens": 1372
+            "completion_tokens": 1402
         },
-        "time_elapsed": 17.598997592926025
+        "time_elapsed": 17.347474575042725
     },
     {
         "realidx": "103_biomedical_engineer",
@@ -46,12 +62,20 @@
         },
         "answer_idx": "A",
         "answer": "Mercury sphygmomanometer",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C\". \n\nGiven this consistency, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1154,
-            "completion_tokens": 1566
+            "prompt_tokens": 880,
+            "completion_tokens": 1041
         },
-        "time_elapsed": 18.425814390182495
+        "time_elapsed": 14.871592283248901
     },
     {
         "realidx": "108_biomedical_engineer",
@@ -64,12 +88,20 @@
         },
         "answer_idx": "D",
         "answer": "Type CF part",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the classification of medical device parts based on patient leakage current under normal and single fault conditions. The options provided are different types of classifications for medical device parts.\n\nThe key details to consider are:\n- Patient leakage current is 0.01mA under normal conditions.\n- Patient leakage current is less than 0.05mA under a single fault condition.\n\nThe classifications are:\n- Type B: Basic protection against electric shock.\n- Type BF: Body floating, applied parts with additional protection against electric shock.\n- Type CF: Cardiac floating, applied parts with the highest level of protection against electric shock, suitable for direct cardiac applications.\n\nGiven the leakage current values provided, the classification that fits these criteria is Type CF (Cardiac Floating), which allows for the lowest leakage currents, ensuring the highest level of safety.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify the answer as \"D\" (Type CF part).\n\nTherefore, the most reliable solution based on the consistency across all solutions is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1829,
-            "completion_tokens": 3145
+            "prompt_tokens": 1024,
+            "completion_tokens": 1470
         },
-        "time_elapsed": 34.93434453010559
+        "time_elapsed": 19.622276067733765
     },
     {
         "realidx": "115_biomedical_engineer",
@@ -82,12 +114,20 @@
         },
         "answer_idx": "C",
         "answer": "They have a low specific gravity and a metallic luster.",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C.\" \n\nGiven this consistency, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 988,
-            "completion_tokens": 1429
+            "completion_tokens": 1383
         },
-        "time_elapsed": 22.326691389083862
+        "time_elapsed": 19.378512859344482
     },
     {
         "realidx": "11_occupational_therapist",
@@ -100,12 +140,20 @@
         },
         "answer_idx": "B",
         "answer": "A point to the left of the spine center",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is D. Therefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 988,
-            "completion_tokens": 1768
+            "completion_tokens": 1815
         },
-        "time_elapsed": 25.578771591186523
+        "time_elapsed": 22.621296405792236
     },
     {
         "realidx": "11_speech_pathologist",
@@ -118,12 +166,20 @@
         },
         "answer_idx": "C",
         "answer": "Secondary behaviors are measured on a 4-point scale.",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the correct answer is C. Given this consistency, it is reasonable to conclude that the most reliable solution is indeed C.\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1006,
-            "completion_tokens": 1395
+            "completion_tokens": 1397
         },
-        "time_elapsed": 19.185378789901733
+        "time_elapsed": 28.60858941078186
     },
     {
         "realidx": "126_occupational_therapist",
@@ -136,12 +192,20 @@
         },
         "answer_idx": "C",
         "answer": "Base of the third metacarpal",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: D\n\nBy counting the occurrences of each answer:\n- A: 0 times\n- B: 0 times\n- C: 4 times\n- D: 1 time\n\nThe answer that appears most frequently is \"C,\" which occurs 4 times.\n\nTherefore, the most consistent solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 910,
-            "completion_tokens": 1690
+            "completion_tokens": 1660
         },
-        "time_elapsed": 26.074717044830322
+        "time_elapsed": 25.820202827453613
     },
     {
         "realidx": "12_speech_pathologist",
@@ -154,12 +218,20 @@
         },
         "answer_idx": "B",
         "answer": "Humming using nasal resonance.",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". Therefore, the most reliable solution based on the consistency across all provided solutions is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 976,
-            "completion_tokens": 1587
+            "completion_tokens": 1492
         },
-        "time_elapsed": 19.024089813232422
+        "time_elapsed": 31.596420764923096
     },
     {
         "realidx": "130_biomedical_engineer",
@@ -172,12 +244,20 @@
         },
         "answer_idx": "C",
         "answer": "The biomaterial should have sufficient mechanical strength to perform its function",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". \n\nGiven this consistency, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1042,
-            "completion_tokens": 2054
+            "completion_tokens": 2126
         },
-        "time_elapsed": 23.863702297210693
+        "time_elapsed": 24.180190324783325
     },
     {
         "realidx": "131_clinical_laboratory_scientist",
@@ -190,12 +270,20 @@
         },
         "answer_idx": "A",
         "answer": "It is a non-competitive method.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the correct statement regarding IRMA (Immunoradiometric Assay). The options provided are:\n\n(A) It is a non-competitive method.\n(B) The radioactive isotope is labeled on the antigen.\n(C) Uses 99mTc.\n(D) There is no need to separate the bound and free forms.\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the correct answer is (A).\n\nTherefore, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 946,
-            "completion_tokens": 1477
+            "completion_tokens": 1538
         },
-        "time_elapsed": 25.16255497932434
+        "time_elapsed": 20.74534273147583
     },
     {
         "realidx": "134_biomedical_engineer",
@@ -208,12 +296,20 @@
         },
         "answer_idx": "C",
         "answer": "Plane joint: The articulating surfaces are flat, and the joint is surrounded by a tight joint capsule and strong ligaments, limiting movement.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The solutions provided are all consistent in identifying the correct answer. Each solution (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) indicates that the correct description of the types of synovial joints is option (B).\n\nOption (B) describes the saddle joint accurately: \"The articulating surfaces are shaped like a saddle, allowing movement in two perpendicular directions.\"\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 2128,
-            "completion_tokens": 3496
+            "prompt_tokens": 1438,
+            "completion_tokens": 2252
         },
-        "time_elapsed": 32.200756788253784
+        "time_elapsed": 28.504050254821777
     },
     {
         "realidx": "136_occupational_therapist",
@@ -226,12 +322,20 @@
         },
         "answer_idx": "D",
         "answer": "Number of deaths at age 50 and above",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: B\n- Solution 5: B\n\nNow, let's count the frequency of each option:\n- Option A: 3 times (Solution 1, Solution 2, Solution 3)\n- Option B: 2 times (Solution 4, Solution 5)\n- Option C: 0 times\n- Option D: 0 times\n\nThe most frequently occurring answer is Option A, which appears 3 times.\n\nTherefore, the most consistent solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1012,
-            "completion_tokens": 2181
+            "completion_tokens": 1930
         },
-        "time_elapsed": 28.877336978912354
+        "time_elapsed": 29.64803719520569
     },
     {
         "realidx": "137_biomedical_engineer",
@@ -244,12 +348,20 @@
         },
         "answer_idx": "D",
         "answer": "Diffusion, Convection",
+        "solutions": [
+            "B",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: B\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nBy counting the frequency of each answer:\n- Answer B appears 1 time.\n- Answer C appears 4 times.\n\nThe most frequently appearing answer is C.\n\nTherefore, the most reliable solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1234,
-            "completion_tokens": 2912
+            "prompt_tokens": 940,
+            "completion_tokens": 1918
         },
-        "time_elapsed": 34.6110680103302
+        "time_elapsed": 25.88614845275879
     },
     {
         "realidx": "13_speech_pathologist",
@@ -262,12 +374,20 @@
         },
         "answer_idx": "C",
         "answer": "Rapid speech rate",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is \"A\". \n\nProsodic impairment, which involves the rhythm, stress, and intonation of speech, can indeed accompany agrammatism in patients with aphasia. Agrammatism is characterized by difficulty in constructing grammatically correct sentences, and prosodic impairment can be a related symptom as it affects the natural flow and melody of speech.\n\nTherefore, the most reliable solution based on the consistency of the answers provided is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 2008
+            "completion_tokens": 2024
         },
-        "time_elapsed": 27.34145712852478
+        "time_elapsed": 41.97579908370972
     },
     {
         "realidx": "158_occupational_therapist",
@@ -280,12 +400,20 @@
         },
         "answer_idx": "D",
         "answer": "Once a month",
+        "solutions": [
+            "D",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: D\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nNow, I will count the frequency of each answer:\n- A: 0 times\n- B: 4 times\n- C: 0 times\n- D: 1 time\n\nThe answer that appears most frequently is \"B,\" which appears 4 times.\n\nTherefore, the most consistent solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 868,
-            "completion_tokens": 1709
+            "completion_tokens": 1932
         },
-        "time_elapsed": 23.226293325424194
+        "time_elapsed": 24.04860782623291
     },
     {
         "realidx": "162_occupational_therapist",
@@ -298,12 +426,20 @@
         },
         "answer_idx": "D",
         "answer": "At the height of the greater trochanter",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". \n\nThe appropriate height for the handle of a standard cane is typically at the height of the greater trochanter. This ensures that the cane provides adequate support and helps maintain proper posture and balance while walking.\n\nTherefore, the correct answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1054,
-            "completion_tokens": 1578
+            "completion_tokens": 1611
         },
-        "time_elapsed": 21.69172239303589
+        "time_elapsed": 21.92143487930298
     },
     {
         "realidx": "166_occupational_therapist",
@@ -316,12 +452,20 @@
         },
         "answer_idx": "D",
         "answer": "Pancreas",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks which digestive organ receives pancreatic juice containing amylase, trypsinogen, and lipase. The options provided are:\n\n(A) Jejunum\n(B) Duodenum\n(C) Ileum\n(D) Pancreas\n\nPancreatic juice, which contains enzymes such as amylase, trypsinogen, and lipase, is secreted by the pancreas and delivered to the duodenum, the first section of the small intestine. This is where these enzymes play a crucial role in the digestion of carbohydrates, proteins, and fats.\n\nUpon reviewing the solutions provided:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll solutions consistently identify the duodenum (B) as the correct answer. Given this consistency, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 862,
-            "completion_tokens": 1412
+            "completion_tokens": 1488
         },
-        "time_elapsed": 20.305038928985596
+        "time_elapsed": 21.145925521850586
     },
     {
         "realidx": "169_occupational_therapist",
@@ -334,12 +478,20 @@
         },
         "answer_idx": "D",
         "answer": "Lift the non-paralyzed leg.",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks what a hemiplegic patient should do first when using a cane to climb stairs. The options provided are:\n\n(A) Lift the cane and the paralyzed leg at the same time.\n(B) Lift the cane.\n(C) Lift the paralyzed leg.\n(D) Lift the non-paralyzed leg.\n\nWe have five solutions provided, and all of them indicate the same answer:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nSince all the solutions consistently indicate the same answer, the most reliable solution is the one that appears most frequently, which is option (D).\n\nTherefore, the answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 958,
-            "completion_tokens": 1229
+            "completion_tokens": 1405
         },
-        "time_elapsed": 15.627459526062012
+        "time_elapsed": 18.22119426727295
     },
     {
         "realidx": "172_occupational_therapist",
@@ -352,12 +504,20 @@
         },
         "answer_idx": "A",
         "answer": "P-",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate the answer as \"A.\" \n\nGiven that all solutions agree on the same answer, the most reliable solution is indeed \"A.\"\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 856,
-            "completion_tokens": 1449
+            "completion_tokens": 1415
         },
-        "time_elapsed": 19.128506898880005
+        "time_elapsed": 17.602896451950073
     },
     {
         "realidx": "177_occupational_therapist",
@@ -370,12 +530,20 @@
         },
         "answer_idx": "D",
         "answer": "Electrical stimulation therapy",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The given question asks for the remedial approach, and the options provided are (A) Modifying the size of food bolus, (B) Lowering the jaw, (C) Changing the texture of food, and (D) Electrical stimulation therapy.\n\nUpon evaluating the solutions provided:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nAll the solutions consistently indicate option (C) as the answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1722
+            "completion_tokens": 1733
         },
-        "time_elapsed": 22.25610327720642
+        "time_elapsed": 21.163635730743408
     },
     {
         "realidx": "17_biomedical_engineer",
@@ -388,12 +556,20 @@
         },
         "answer_idx": "B",
         "answer": "Capillary dilation \u2192 Cell infiltration \u2192 Regeneration \u2192 Epithelialization \u2192 Disintegration",
-        "predicted_answer": "C",
+        "solutions": [
+            "C",
+            "B",
+            "B",
+            "B",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions and their corresponding answers:\n\n- Solution 1: C\n- Solution 2: B\n- Solution 3: B\n- Solution 4: B\n- Solution 5: C\n\nNow, let's count the frequency of each answer:\n\n- Answer B appears in Solution 2, Solution 3, and Solution 4 (3 times).\n- Answer C appears in Solution 1 and Solution 5 (2 times).\n\nThe answer that appears most frequently is B, with a total of 3 occurrences.\n\nTherefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1198,
-            "completion_tokens": 1917
+            "completion_tokens": 2371
         },
-        "time_elapsed": 33.59521222114563
+        "time_elapsed": 31.678606271743774
     },
     {
         "realidx": "180_occupational_therapist",
@@ -406,12 +582,20 @@
         },
         "answer_idx": "A",
         "answer": "Optimum Population Theory",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks which theory argues that population control is necessary to ensure real income and maintain living standards due to overpopulation, not specifically because of food.\n\nThe options provided are:\n(A) Optimum Population Theory\n(B) Population Transition Theory\n(C) Neo-Malthusianism\n(D) Malthusianism\n\nThe solutions generated are:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate option C, Neo-Malthusianism. Neo-Malthusianism is a theory that extends the ideas of Malthusianism, emphasizing the need for population control to prevent overpopulation and its negative effects on living standards and resources, including but not limited to food.\n\nTherefore, the most consistent and reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 952,
-            "completion_tokens": 1689
+            "completion_tokens": 1682
         },
-        "time_elapsed": 29.39123558998108
+        "time_elapsed": 19.95485210418701
     },
     {
         "realidx": "18_speech_pathologist",
@@ -424,12 +608,20 @@
         },
         "answer_idx": "B",
         "answer": "Central auditory processing disorder",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the type of hearing loss that occurs due to problems in the outer or middle ear. The options provided are:\n\n(A) Sensorineural hearing loss\n(B) Central auditory processing disorder\n(C) Psychogenic hearing loss\n(D) Conductive hearing loss\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate option D as the answer. \n\nTherefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 874,
-            "completion_tokens": 1231
+            "completion_tokens": 1209
         },
-        "time_elapsed": 16.58214235305786
+        "time_elapsed": 16.878925561904907
     },
     {
         "realidx": "195_clinical_laboratory_scientist",
@@ -442,12 +634,20 @@
         },
         "answer_idx": "D",
         "answer": "MI",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is \"D\". Given that all solutions agree on this answer, it is reasonable to conclude that the most reliable solution is indeed \"D\".\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1154,
-            "completion_tokens": 1724
+            "prompt_tokens": 880,
+            "completion_tokens": 1341
         },
-        "time_elapsed": 19.92508363723755
+        "time_elapsed": 16.90680241584778
     },
     {
         "realidx": "196_clinical_laboratory_scientist",
@@ -460,12 +660,20 @@
         },
         "answer_idx": "D",
         "answer": "exodus cell",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate option A as the answer. Given this consistency, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 898,
-            "completion_tokens": 1740
+            "completion_tokens": 1643
         },
-        "time_elapsed": 25.665454864501953
+        "time_elapsed": 19.322002410888672
     },
     {
         "realidx": "1_occupational_therapist",
@@ -478,12 +686,20 @@
         },
         "answer_idx": "D",
         "answer": "Star-shaped",
-        "predicted_answer": "C",
+        "solutions": [
+            "A",
+            "A",
+            "C",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"A\". \n\nHere is the breakdown of the solutions:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: C\n- Solution 4: A\n- Solution 5: A\n\nThe answer \"A\" appears four times, while \"C\" appears only once. Therefore, the most consistent solution is:\n\nA",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 952,
-            "completion_tokens": 1483
+            "completion_tokens": 1421
         },
-        "time_elapsed": 18.802685499191284
+        "time_elapsed": 20.1195330619812
     },
     {
         "realidx": "1_speech_pathologist",
@@ -496,12 +712,20 @@
         },
         "answer_idx": "D",
         "answer": "Take antihistamine medication.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"B\". \n\nThe reasoning behind this choice is as follows:\n- Speaking in a whispering voice (Option A) can actually strain the vocal cords more and is not recommended for vocal nodules.\n- Using a high pillow when sleeping (Option B) helps to reduce laryngopharyngeal reflux by keeping the head elevated, which prevents stomach acid from flowing back into the throat and causing irritation.\n- Drinking carbonated beverages before bed (Option C) is not advisable as they can increase acid reflux.\n- Taking antihistamine medication (Option D) can dry out the vocal cords and is not typically recommended for vocal hygiene.\n\nTherefore, the most appropriate voice hygiene recommendation for a patient with vocal nodules and laryngopharyngeal reflux disease is to use a high pillow when sleeping.\n\nThe answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 994,
-            "completion_tokens": 1394
+            "completion_tokens": 1581
         },
-        "time_elapsed": 19.80985975265503
+        "time_elapsed": 19.71091604232788
     },
     {
         "realidx": "20_clinical_laboratory_scientist",
@@ -514,12 +738,20 @@
         },
         "answer_idx": "B",
         "answer": "7",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the number of electrodes used in the 3-channel method of a 24-hour (Holter) electrocardiogram. The options provided are (A) 5, (B) 7, (C) 3, and (D) 11. \n\nUpon reviewing the solutions, all five solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently indicate that the answer is (A) 5.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 874,
-            "completion_tokens": 1412
+            "completion_tokens": 1601
         },
-        "time_elapsed": 19.01830506324768
+        "time_elapsed": 19.652823209762573
     },
     {
         "realidx": "20_speech_pathologist",
@@ -532,12 +764,20 @@
         },
         "answer_idx": "B",
         "answer": "Temporal association area",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which cerebral area is important for planning and programming speech movements. The options provided are:\n\n(A) Frontal association area\n(B) Temporal association area\n(C) Occipital association area\n(D) Primary auditory area\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is (A) Frontal association area. \n\nThe frontal association area, specifically Broca's area located in the frontal lobe, is known to be crucial for speech production and the planning and programming of speech movements.\n\nTherefore, the most consistent and reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1167
+            "completion_tokens": 1242
         },
-        "time_elapsed": 15.175704002380371
+        "time_elapsed": 28.56856107711792
     },
     {
         "realidx": "211_clinical_laboratory_scientist",
@@ -550,12 +790,20 @@
         },
         "answer_idx": "D",
         "answer": "Decrease in ketone bodies",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the changes that occur in a urine specimen left at room temperature for more than 2 hours after opening. The options provided are:\n\n(A) Increase in cells and casts\n(B) Increase in bilirubin\n(C) Decrease in odor\n(D) Decrease in ketone bodies\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the correct answer is (D) Decrease in ketone bodies. \n\nThe reasoning behind this is that ketone bodies are volatile and can evaporate if the urine specimen is left at room temperature for an extended period. This leads to a decrease in their concentration. Other changes, such as an increase in cells and casts, an increase in bilirubin, or a decrease in odor, are less likely to occur under these conditions.\n\nTherefore, the most consistent and reliable answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 970,
-            "completion_tokens": 1370
+            "completion_tokens": 1245
         },
-        "time_elapsed": 23.09637999534607
+        "time_elapsed": 15.334314584732056
     },
     {
         "realidx": "21_speech_pathologist",
@@ -568,12 +816,20 @@
         },
         "answer_idx": "A",
         "answer": "Deficits in using grammatical morphemes",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". \n\nGiven this consistency, the most reliable solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 958,
-            "completion_tokens": 1324
+            "completion_tokens": 1276
         },
-        "time_elapsed": 18.641752004623413
+        "time_elapsed": 27.511147022247314
     },
     {
         "realidx": "22_speech_pathologist",
@@ -586,12 +842,20 @@
         },
         "answer_idx": "C",
         "answer": "Wearing tight clothes",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 814,
-            "completion_tokens": 1110
+            "completion_tokens": 900
         },
-        "time_elapsed": 16.539068698883057
+        "time_elapsed": 27.537726640701294
     },
     {
         "realidx": "238_clinical_laboratory_scientist",
@@ -604,12 +868,20 @@
         },
         "answer_idx": "C",
         "answer": "polychromatic normoblast",
-        "predicted_answer": "C",
+        "solutions": [
+            "B",
+            "C",
+            "C",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions and their corresponding answers:\n\n- Solution 1: B\n- Solution 2: C\n- Solution 3: C\n- Solution 4: B\n- Solution 5: B\n\nNow, let's count the frequency of each answer:\n- Answer B appears in Solution 1, Solution 4, and Solution 5 (3 times).\n- Answer C appears in Solution 2 and Solution 3 (2 times).\n\nThe answer that appears most frequently is B.\n\nTherefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 904,
-            "completion_tokens": 1646
+            "completion_tokens": 1736
         },
-        "time_elapsed": 24.92313027381897
+        "time_elapsed": 21.441855907440186
     },
     {
         "realidx": "23_speech_pathologist",
@@ -622,12 +894,20 @@
         },
         "answer_idx": "B",
         "answer": "Include activities that violate the script in the first session.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the correct answer is A. Given this consistency, it is reasonable to conclude that the most reliable solution is indeed A.\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1102,
-            "completion_tokens": 1558
+            "completion_tokens": 1710
         },
-        "time_elapsed": 20.480209350585938
+        "time_elapsed": 21.77521300315857
     },
     {
         "realidx": "24_occupational_therapist",
@@ -640,12 +920,20 @@
         },
         "answer_idx": "D",
         "answer": "three-jaw chuck pinch",
+        "solutions": [
+            "D",
+            "A",
+            "A",
+            "D",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: D\n- Solution 2: A\n- Solution 3: A\n- Solution 4: D\n- Solution 5: A\n\nNow, let's count the frequency of each answer:\n- A: 3 times (Solution 2, Solution 3, Solution 5)\n- D: 2 times (Solution 1, Solution 4)\n\nThe answer that appears most frequently is \"A,\" which is the hook grasp.\n\nTherefore, the most consistent solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 958,
-            "completion_tokens": 2251
+            "completion_tokens": 2271
         },
-        "time_elapsed": 47.20119071006775
+        "time_elapsed": 24.33078622817993
     },
     {
         "realidx": "24_speech_pathologist",
@@ -658,12 +946,20 @@
         },
         "answer_idx": "A",
         "answer": "Stuttering after being forced by parents to speak English at home",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the answer is \"D\". \n\nThe question asks which case can be diagnosed as neurogenic stuttering. Neurogenic stuttering typically occurs due to neurological damage or disease affecting the brain. This can include conditions such as stroke, head trauma, or other forms of cerebral damage.\n\nGiven that all solutions point to \"D\" and considering the definition of neurogenic stuttering, the most reliable solution is indeed \"D\".\n\nTherefore, the answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 964,
-            "completion_tokens": 1342
+            "completion_tokens": 1445
         },
-        "time_elapsed": 18.5680091381073
+        "time_elapsed": 19.71314287185669
     },
     {
         "realidx": "252_clinical_laboratory_scientist",
@@ -676,12 +972,20 @@
         },
         "answer_idx": "C",
         "answer": "In response to severe hemorrhage",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"A\". \n\nIn hematology, a 'shift to the left' refers to an increase in the number of immature white blood cells, particularly neutrophil band cells, in the blood. This is typically observed during an acute bacterial infection as the bone marrow releases more white blood cells to fight the infection.\n\nTherefore, the correct answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 904,
-            "completion_tokens": 2067
+            "completion_tokens": 2005
         },
-        "time_elapsed": 25.415461778640747
+        "time_elapsed": 22.890321969985962
     },
     {
         "realidx": "25_speech_pathologist",
@@ -694,12 +998,20 @@
         },
         "answer_idx": "D",
         "answer": "Parallel Teaching",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". Given this consistency, it is reasonable to conclude that the most reliable solution is indeed \"A\".\n\nThe collaborative teaching model where one expert has primary responsibility for the overall instructional planning and another expert provides individual support by rotating through the classroom is known as \"Lead-Teach, Support-Teach\".\n\nTherefore, the answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 928,
-            "completion_tokens": 1487
+            "completion_tokens": 1459
         },
-        "time_elapsed": 22.43550753593445
+        "time_elapsed": 21.71000647544861
     },
     {
         "realidx": "266_clinical_laboratory_scientist",
@@ -712,12 +1024,20 @@
         },
         "answer_idx": "D",
         "answer": "32-fold",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate the answer as \"D\". Therefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1554,
-            "completion_tokens": 2704
+            "prompt_tokens": 874,
+            "completion_tokens": 1529
         },
-        "time_elapsed": 20.438136100769043
+        "time_elapsed": 21.238747119903564
     },
     {
         "realidx": "269_clinical_laboratory_scientist",
@@ -730,12 +1050,20 @@
         },
         "answer_idx": "A",
         "answer": "Operative temperature",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most appropriate temperature for body temperature regulation, which is divided into subjective, productive, and physiological temperature, we need to evaluate the given options and the solutions provided.\n\nThe options are:\n(A) Operative temperature\n(B) Sensory temperature\n(C) Effective temperature\n(D) Perceived temperature\n\nThe solutions provided are:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is (C) Effective temperature. This consistency across all solutions suggests that (C) Effective temperature is the most reliable and appropriate answer for the given question.\n\nTherefore, the most consistent solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 880,
-            "completion_tokens": 1494
+            "completion_tokens": 1553
         },
-        "time_elapsed": 19.16416311264038
+        "time_elapsed": 19.96771812438965
     },
     {
         "realidx": "26_speech_pathologist",
@@ -748,12 +1076,20 @@
         },
         "answer_idx": "A",
         "answer": "For esophageal speech, lung breath is used for phonation.",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". \n\nExplanation:\n- Solution 1: D\n- Solution 2: D\n- Solution 3: D\n- Solution 4: D\n- Solution 5: D\n\nAll solutions consistently indicate \"D\" as the correct answer. Therefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1222,
-            "completion_tokens": 1710
+            "completion_tokens": 1773
         },
-        "time_elapsed": 20.668607711791992
+        "time_elapsed": 22.19184899330139
     },
     {
         "realidx": "275_clinical_laboratory_scientist",
@@ -766,12 +1102,20 @@
         },
         "answer_idx": "B",
         "answer": "Ovulatory phase",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the correct phase of the menstrual cycle based on the given dates, we need to understand the typical duration and phases of the menstrual cycle. The menstrual cycle is generally around 28 days long and is divided into several phases:\n\n1. **Menstrual Phase**: Days 1-5\n2. **Proliferative Phase**: Days 6-14\n3. **Ovulatory Phase**: Around Day 14\n4. **Secretory Phase**: Days 15-28\n\nGiven:\n- Last Menstrual Period (LMP): December 24th\n- Specimen Collection Date: January 6th\n\nFirst, we calculate the number of days from the LMP to the specimen collection date:\n- December 24th to December 31st: 7 days\n- January 1st to January 6th: 6 days\n- Total: 7 + 6 = 13 days\n\nDay 13 of the menstrual cycle falls within the Proliferative Phase (Days 6-14).\n\nAll the provided solutions (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify the Proliferative Phase as the correct answer.\n\nTherefore, the most consistent and reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 970,
-            "completion_tokens": 2266
+            "completion_tokens": 2151
         },
-        "time_elapsed": 28.253987550735474
+        "time_elapsed": 26.59623408317566
     },
     {
         "realidx": "28_clinical_laboratory_scientist",
@@ -784,12 +1128,20 @@
         },
         "answer_idx": "B",
         "answer": "ERV (Expiratory Reserve Volume)",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\".\n\nTherefore, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 910,
-            "completion_tokens": 2072
+            "completion_tokens": 1883
         },
-        "time_elapsed": 30.029123544692993
+        "time_elapsed": 24.2736337184906
     },
     {
         "realidx": "29_biomedical_engineer",
@@ -802,12 +1154,20 @@
         },
         "answer_idx": "C",
         "answer": "It uses mnemonic codes.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks which of the given options is not related to the Anatomical Therapeutic Chemical (ATC) classification system. The options provided are:\n\n(A) It has a hierarchical structure, allowing for logical grouping.\n(B) Combination products cannot be included.\n(C) It uses mnemonic codes.\n(D) It is an international standard of the WHO for drug utilization studies.\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the answer is (B).\n\nNow, let's verify the correctness of this answer:\n- The ATC classification system indeed has a hierarchical structure (Option A).\n- The ATC system can include combination products, so Option B is incorrect.\n- The ATC system uses alphanumeric codes, which can be considered mnemonic (Option C).\n- The ATC system is an international standard of the WHO for drug utilization studies (Option D).\n\nGiven that Option B is the only one that is not true about the ATC classification system, the consistent answer provided by all solutions is correct.\n\nTherefore, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1164,
-            "completion_tokens": 1673
+            "prompt_tokens": 1006,
+            "completion_tokens": 1482
         },
-        "time_elapsed": 22.126314878463745
+        "time_elapsed": 17.983372449874878
     },
     {
         "realidx": "29_speech_pathologist",
@@ -820,12 +1180,20 @@
         },
         "answer_idx": "A",
         "answer": "It occurs more frequently in men than in women.",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the characteristics of psychogenic stuttering. The options provided are:\n\n(A) It occurs more frequently in men than in women.\n(B) It is caused by acquired neurological damage.\n(C) It uses grammatically correct sentences without errors.\n(D) It remains non-fluent even under conditions that enhance fluency.\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate that the correct answer is (D). \n\nTherefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 982,
-            "completion_tokens": 1352
+            "completion_tokens": 1315
         },
-        "time_elapsed": 18.07841920852661
+        "time_elapsed": 20.53456211090088
     },
     {
         "realidx": "2_speech_pathologist",
@@ -838,12 +1206,20 @@
         },
         "answer_idx": "B",
         "answer": "Engage in high-intensity exercise immediately after eating.",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate the answer as \"D\". \n\nGiven this consistency, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1036,
-            "completion_tokens": 1449
+            "completion_tokens": 1291
         },
-        "time_elapsed": 18.62688159942627
+        "time_elapsed": 19.8653826713562
     },
     {
         "realidx": "30_clinical_psychologist",
@@ -856,12 +1232,20 @@
         },
         "answer_idx": "C",
         "answer": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+        "solutions": [
+            "C",
+            "C",
+            "A",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1372,
-            "completion_tokens": 2112
+            "completion_tokens": 2113
         },
-        "time_elapsed": 27.718063831329346
+        "time_elapsed": 30.391371726989746
     },
     {
         "realidx": "30_speech_pathologist",
@@ -874,12 +1258,20 @@
         },
         "answer_idx": "D",
         "answer": "supraglottic swallow",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is \"A\". \n\nThe Mendelsohn maneuver is a swallowing technique that involves maintaining the thyroid cartilage elevated for about 2 to 5 seconds immediately after the hyo-laryngeal elevation occurs. This technique is used to improve the swallowing process by prolonging the opening of the upper esophageal sphincter.\n\nTherefore, the correct answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 946,
-            "completion_tokens": 1343
+            "completion_tokens": 1358
         },
-        "time_elapsed": 24.588794946670532
+        "time_elapsed": 20.130797863006592
     },
     {
         "realidx": "31_clinical_psychologist",
@@ -892,12 +1284,20 @@
         },
         "answer_idx": "B",
         "answer": "Naive but open attitude",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 958,
-            "completion_tokens": 1961
+            "completion_tokens": 1954
         },
-        "time_elapsed": 27.147193670272827
+        "time_elapsed": 30.629573583602905
     },
     {
         "realidx": "322_clinical_laboratory_scientist",
@@ -910,12 +1310,20 @@
         },
         "answer_idx": "C",
         "answer": "Excessive centrifugation",
+        "solutions": [
+            "D",
+            "D",
+            "C",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions and their corresponding answers:\n- Solution 1: D\n- Solution 2: D\n- Solution 3: C\n- Solution 4: D\n- Solution 5: D\n\nBy counting the frequency of each answer:\n- Answer D appears 4 times.\n- Answer C appears 1 time.\n\nSince answer D appears most frequently across the solutions, it is the most consistent and reliable solution.\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 910,
-            "completion_tokens": 1837
+            "completion_tokens": 1924
         },
-        "time_elapsed": 26.121848106384277
+        "time_elapsed": 27.55557107925415
     },
     {
         "realidx": "32_clinical_laboratory_scientist",
@@ -928,12 +1336,20 @@
         },
         "answer_idx": "C",
         "answer": "Constant Variable",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the answer is \"B\". Given this consistency, it is reasonable to conclude that the most reliable solution is indeed \"B\".\n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1255,
-            "completion_tokens": 1765
+            "prompt_tokens": 856,
+            "completion_tokens": 1108
         },
-        "time_elapsed": 17.049376010894775
+        "time_elapsed": 16.5837299823761
     },
     {
         "realidx": "32_speech_pathologist",
@@ -946,12 +1362,20 @@
         },
         "answer_idx": "A",
         "answer": "In a spectrogram, speech sounds are represented two-dimensionally.",
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "A"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\n- Solution 1: D\n- Solution 2: D\n- Solution 3: D\n- Solution 4: D\n- Solution 5: A\n\nThe most frequently occurring answer among these solutions is \"D,\" which appears in four out of the five solutions. \n\nTherefore, the most consistent solution is:\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1024,
-            "completion_tokens": 1787
+            "completion_tokens": 1694
         },
-        "time_elapsed": 21.280030488967896
+        "time_elapsed": 22.544605493545532
     },
     {
         "realidx": "338_clinical_laboratory_scientist",
@@ -964,12 +1388,20 @@
         },
         "answer_idx": "A",
         "answer": "Salting \u2013 Sugaring",
-        "predicted_answer": "D",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". \n\nNow, let's verify if \"A\" is indeed the correct answer by analyzing the options:\n\n(A) Salting \u2013 Sugaring: Both salting and sugaring are chemical methods of food preservation. Salting involves the use of salt to draw out moisture and inhibit bacterial growth, while sugaring uses sugar to achieve a similar effect.\n\n(B) Drying \u2013 Salting: Drying is a physical method of preservation, not a chemical one. Therefore, this option is incorrect.\n\n(C) Radiation \u2013 Salting: Radiation is a physical method of preservation, not a chemical one. Therefore, this option is incorrect.\n\n(D) Pickling \u2013 Sugaring: Pickling involves the use of vinegar or brine, which is a chemical method, and sugaring is also a chemical method. However, the combination of pickling and sugaring is less common compared to salting and sugaring.\n\nGiven the consistency of the answers and the analysis, the most reliable solution is:\n\nA",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 862,
-            "completion_tokens": 1712
+            "completion_tokens": 2030
         },
-        "time_elapsed": 21.58619499206543
+        "time_elapsed": 26.39312171936035
     },
     {
         "realidx": "33_speech_pathologist",
@@ -982,12 +1414,20 @@
         },
         "answer_idx": "D",
         "answer": "It corresponds to a convenience facility for local residents.",
-        "predicted_answer": "C",
+        "solutions": [
+            "A",
+            "C",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the frequency of each answer provided in the solutions. Here are the solutions:\n\n- Solution 1: A\n- Solution 2: C\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nBy counting the occurrences of each option:\n- Option A appears 4 times.\n- Option C appears 1 time.\n\nOption A is the most frequently occurring answer. Therefore, the most consistent solution is:\n\nA",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1030,
-            "completion_tokens": 1515
+            "completion_tokens": 1523
         },
-        "time_elapsed": 20.297468900680542
+        "time_elapsed": 21.827535390853882
     },
     {
         "realidx": "340_clinical_laboratory_scientist",
@@ -1000,12 +1440,20 @@
         },
         "answer_idx": "D",
         "answer": "Secondary antibody",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate the answer as \"D\". Therefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 856,
-            "completion_tokens": 2284
+            "completion_tokens": 2271
         },
-        "time_elapsed": 28.892602682113647
+        "time_elapsed": 38.54942512512207
     },
     {
         "realidx": "341_clinical_laboratory_scientist",
@@ -1018,12 +1466,20 @@
         },
         "answer_idx": "B",
         "answer": "Reticular fibers",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks what is stained by the aniline blue dye in Masson's trichrome (MT) staining. The options are:\n(A) Collagen fibers\n(B) Reticular fibers\n(C) Muscle fibers\n(D) Elastic fibers\n\nAll the provided solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) indicate the answer as (A) Collagen fibers.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 862,
-            "completion_tokens": 1466
+            "completion_tokens": 1257
         },
-        "time_elapsed": 18.307459354400635
+        "time_elapsed": 17.041120052337646
     },
     {
         "realidx": "35_clinical_laboratory_scientist",
@@ -1036,12 +1492,20 @@
         },
         "answer_idx": "D",
         "answer": "IRMA",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks for the assay method that involves labeling antibodies with radioactive isotopes. The options provided are:\n\n(A) FIA\n(B) RIA\n(C) CPBA\n(D) IRMA\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the correct answer is (B) RIA. \n\nRIA stands for Radioimmunoassay, which is a technique that involves labeling antibodies with radioactive isotopes to detect and quantify substances such as hormones, drugs, and other proteins in a sample.\n\nTherefore, the most consistent and reliable answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 802,
-            "completion_tokens": 1408
+            "completion_tokens": 1491
         },
-        "time_elapsed": 20.475679874420166
+        "time_elapsed": 22.68300771713257
     },
     {
         "realidx": "35_speech_pathologist",
@@ -1054,12 +1518,20 @@
         },
         "answer_idx": "A",
         "answer": "Imaginative function",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks about the communicative function that can be targeted by providing yogurt without a spoon to eat. The options are:\n\n(A) Imaginative function\n(B) Personal function\n(C) Interactive function\n(D) Instrumental function\n\nThe solutions provided are:\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate option D. The instrumental function refers to using language to get things done or to fulfill a need. In this case, providing yogurt without a spoon would likely prompt the individual to request a spoon, thereby using language instrumentally to achieve the goal of eating the yogurt.\n\nTherefore, the most consistent and reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1471
+            "completion_tokens": 1450
         },
-        "time_elapsed": 23.661424160003662
+        "time_elapsed": 18.802736520767212
     },
     {
         "realidx": "36_speech_pathologist",
@@ -1072,12 +1544,20 @@
         },
         "answer_idx": "D",
         "answer": "Abuse removal",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks for the treatment method used to strengthen the velopharyngeal function in a patient with mild velopharyngeal insufficiency. The options provided are:\n\n(A) Posterior positioning of the tongue\n(B) Continuous positive airway pressure training\n(C) Relaxation\n(D) Abuse removal\n\nUpon evaluating the solutions provided:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll solutions consistently indicate option B as the answer. Continuous positive airway pressure (CPAP) training is a known method used to improve velopharyngeal function by providing resistance training to the muscles involved in velopharyngeal closure.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 928,
-            "completion_tokens": 1585
+            "completion_tokens": 1727
         },
-        "time_elapsed": 20.803369998931885
+        "time_elapsed": 23.744069814682007
     },
     {
         "realidx": "37_speech_pathologist",
@@ -1090,12 +1570,20 @@
         },
         "answer_idx": "B",
         "answer": "CN 9",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which cranial nerve is associated with chewing. The options provided are:\n\n(A) CN 5\n(B) CN 9\n(C) CN 10\n(D) CN 11\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is (A) CN 5. \n\nThe cranial nerve associated with chewing is the trigeminal nerve, which is cranial nerve V (CN 5). The trigeminal nerve is responsible for motor functions such as biting and chewing.\n\nTherefore, the most consistent and correct answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 802,
-            "completion_tokens": 1338
+            "completion_tokens": 1329
         },
-        "time_elapsed": 19.30838704109192
+        "time_elapsed": 17.848001956939697
     },
     {
         "realidx": "38_speech_pathologist",
@@ -1108,12 +1596,20 @@
         },
         "answer_idx": "A",
         "answer": "Accent Method",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks for the name of the comprehensive approach that consists of four stages: preparatory exercises, vocal fold stretching exercises, vocal fold adduction exercises, and strengthening exercises to treat hyperfunctional voice disorders.\n\nThe options provided are:\n(A) Accent Method\n(B) Lessac-Madsen Resonant Voice Therapy\n(C) Vocal Function Exercises\n(D) Resonant Voice Therapy\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently identify option (C) as the answer. Given this consistency, it is reasonable to conclude that the most reliable solution is option (C).\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 994,
-            "completion_tokens": 1554
+            "completion_tokens": 1596
         },
-        "time_elapsed": 21.39768671989441
+        "time_elapsed": 19.851581811904907
     },
     {
         "realidx": "39_speech_pathologist",
@@ -1126,12 +1622,20 @@
         },
         "answer_idx": "C",
         "answer": "Screening test \u2013 Establishing a treatment plan for different types of aphasia",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"B\". Each solution (1 through 5) consistently identifies \"B\" as the correct answer. \n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1096,
-            "completion_tokens": 1771
+            "completion_tokens": 2095
         },
-        "time_elapsed": 24.706403732299805
+        "time_elapsed": 24.127432823181152
     },
     {
         "realidx": "3_speech_pathologist",
@@ -1144,12 +1648,20 @@
         },
         "answer_idx": "D",
         "answer": "Correcting grammatical errors",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". Given this consistency, it is reasonable to conclude that the most reliable solution is \"A\".\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 880,
-            "completion_tokens": 1430
+            "completion_tokens": 1577
         },
-        "time_elapsed": 22.501145839691162
+        "time_elapsed": 21.61376643180847
     },
     {
         "realidx": "40_speech_pathologist",
@@ -1162,12 +1674,20 @@
         },
         "answer_idx": "B",
         "answer": "Induce vocal fold adduction with strong vocal fold contact.",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". Each solution (1 through 5) consistently identifies \"D\" as the correct method for treating spasmodic dysphonia. Therefore, the most reliable solution based on this consistency is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1012,
-            "completion_tokens": 1560
+            "completion_tokens": 1703
         },
-        "time_elapsed": 19.006699085235596
+        "time_elapsed": 25.721399784088135
     },
     {
         "realidx": "41_speech_pathologist",
@@ -1180,12 +1700,20 @@
         },
         "answer_idx": "D",
         "answer": "symptomatic penetration",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks for the condition when food goes below the vocal cords but does not cause coughing symptoms. The options provided are:\n\n(A) symptomatic aspiration\n(B) silent aspiration\n(C) dry swallow\n(D) symptomatic penetration\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate option B as the answer. \n\nThe condition described in the question, where food goes below the vocal cords without causing coughing symptoms, is known as \"silent aspiration.\" This is because the term \"silent\" refers to the absence of the typical coughing reflex that usually occurs when aspiration happens.\n\nTherefore, the most consistent and reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1286
+            "completion_tokens": 1462
         },
-        "time_elapsed": 16.56674838066101
+        "time_elapsed": 19.658063650131226
     },
     {
         "realidx": "42_speech_pathologist",
@@ -1198,12 +1726,20 @@
         },
         "answer_idx": "B",
         "answer": "Conversion aphonia \u2013 Confidential voice",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks for the correct voice disorder and its treatment approach. The options provided are:\n\n(A) Muscle tension dysphonia \u2013 Pushing approach\n(B) Conversion aphonia \u2013 Confidential voice\n(C) Vocal nodules \u2013 Occlusion\n(D) Traumatic laryngitis \u2013 Elimination of abuse\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate option D as the correct answer. Therefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 946,
-            "completion_tokens": 1672
+            "completion_tokens": 1647
         },
-        "time_elapsed": 20.637856006622314
+        "time_elapsed": 21.881152391433716
     },
     {
         "realidx": "43_clinical_laboratory_scientist",
@@ -1216,12 +1752,20 @@
         },
         "answer_idx": "B",
         "answer": "Cardiac conduction muscle fibers",
-        "predicted_answer": "C",
+        "solutions": [
+            "D",
+            "C",
+            "C",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: D\n- Solution 2: C\n- Solution 3: C\n- Solution 4: D\n- Solution 5: D\n\nNow, let's count the frequency of each option:\n- Option A: 0 times\n- Option B: 0 times\n- Option C: 2 times\n- Option D: 3 times\n\nThe most frequently occurring answer is Option D, which appears 3 times.\n\nTherefore, the most consistent solution is:\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1649
+            "completion_tokens": 1575
         },
-        "time_elapsed": 20.84191632270813
+        "time_elapsed": 22.276456832885742
     },
     {
         "realidx": "47_biomedical_engineer",
@@ -1234,12 +1778,20 @@
         },
         "answer_idx": "A",
         "answer": "Increasing the efficiency of medical records",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks which of the following is NOT a goal of medical informatics as proposed by the American Medical Informatics Association (AMIA). The options provided are:\n\n(A) Increasing the efficiency of medical records\n(B) Learning computer operation methods\n(C) Computer-assisted learning\n(D) Information retrieval and management\n\nTo determine the most consistent solution, I will evaluate the solutions provided:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently identify option (B) as the answer. \n\nGiven that the goal of medical informatics typically includes improving the efficiency of medical records, computer-assisted learning, and information retrieval and management, but does not specifically focus on learning computer operation methods, the consistent answer (B) is logical.\n\nTherefore, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 928,
-            "completion_tokens": 1308
+            "completion_tokens": 1381
         },
-        "time_elapsed": 19.859488248825073
+        "time_elapsed": 19.014662504196167
     },
     {
         "realidx": "47_clinical_laboratory_scientist",
@@ -1252,12 +1804,20 @@
         },
         "answer_idx": "D",
         "answer": "Fibroblasts",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks which cells are involved in tissue damage or wound healing. The options provided are:\n\n(A) Macrophages\n(B) Adipocytes\n(C) Mast cells\n(D) Fibroblasts\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate option (D) as the answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 814,
-            "completion_tokens": 1556
+            "completion_tokens": 1577
         },
-        "time_elapsed": 20.047074556350708
+        "time_elapsed": 21.039247512817383
     },
     {
         "realidx": "49_speech_pathologist",
@@ -1270,12 +1830,20 @@
         },
         "answer_idx": "D",
         "answer": "Soft sounds \u2192 Loud sounds",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the correct answer is \"A.\"\n\nGiven this consistency, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1018,
-            "completion_tokens": 1518
+            "completion_tokens": 1404
         },
-        "time_elapsed": 18.79171633720398
+        "time_elapsed": 17.8150851726532
     },
     {
         "realidx": "4_speech_pathologist",
@@ -1288,12 +1856,20 @@
         },
         "answer_idx": "D",
         "answer": "The higher the CAPE-V score, the closer to a normal voice.",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks for the correct description of the perceptual evaluation method for voice, and the options provided are:\n\n(A) CAPE-V uses a 0-100 mm equal interval scale.\n(B) CAPE-V can assess voice tremor.\n(C) The GRBAS scale is a 3-point Likert scale.\n(D) The higher the CAPE-V score, the closer to a normal voice.\n\nThe solutions provided are:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate option (A) as the correct answer. Given this consistency, it is reasonable to conclude that option (A) is the most reliable solution.\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1084,
-            "completion_tokens": 1613
+            "completion_tokens": 1684
         },
-        "time_elapsed": 20.06858992576599
+        "time_elapsed": 56.72526788711548
     },
     {
         "realidx": "50_speech_pathologist",
@@ -1306,12 +1882,20 @@
         },
         "answer_idx": "A",
         "answer": "Voice Handicap Index",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks which vocal assessment method can measure glottal closure rate. The options provided are:\n\n(A) Voice Handicap Index\n(B) Voice Range Profile\n(C) Quality of Life Related to Voice\n(D) Electroglottography\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate option (D) as the answer. \n\nElectroglottography (EGG) is a method used to measure the electrical conductance across the larynx, which can provide information about the glottal closure rate. This makes it the correct and most reliable answer.\n\nTherefore, the most consistent solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 844,
-            "completion_tokens": 1274
+            "completion_tokens": 1340
         },
-        "time_elapsed": 18.50012755393982
+        "time_elapsed": 20.2326238155365
     },
     {
         "realidx": "51_speech_pathologist",
@@ -1324,12 +1908,20 @@
         },
         "answer_idx": "D",
         "answer": "Copying the picture after seeing it",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: C\n\nThe answer that appears most frequently across the solutions is \"A,\" which appears four times, while \"C\" appears only once.\n\nTherefore, the most consistent solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1078,
-            "completion_tokens": 2194
+            "completion_tokens": 2201
         },
-        "time_elapsed": 29.037665843963623
+        "time_elapsed": 28.77815866470337
     },
     {
         "realidx": "52_speech_pathologist",
@@ -1342,12 +1934,20 @@
         },
         "answer_idx": "A",
         "answer": "Putting a hat on one's head.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently identify option B as the correct answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 976,
-            "completion_tokens": 1704
+            "completion_tokens": 1723
         },
-        "time_elapsed": 20.083409309387207
+        "time_elapsed": 22.400123596191406
     },
     {
         "realidx": "53_occupational_therapist",
@@ -1360,12 +1960,20 @@
         },
         "answer_idx": "D",
         "answer": "27",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The 'Rule of Nines' is a method used in estimating the total body surface area (TBSA) affected by burns. According to this rule, the body is divided into sections, each representing approximately 9% (or a multiple thereof) of the total body surface area. \n\nGiven the options:\n(A) 18\n(B) 9\n(C) 45\n(D) 27\n\nThe correct answer is 9%, as each section of the body (head, each arm, each leg, front torso, back torso) is assigned a percentage that is a multiple of 9.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify option B as the correct answer.\n\nTherefore, the most reliable solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 856,
-            "completion_tokens": 1554
+            "completion_tokens": 1528
         },
-        "time_elapsed": 21.24269151687622
+        "time_elapsed": 20.038454294204712
     },
     {
         "realidx": "55_biomedical_engineer",
@@ -1378,12 +1986,20 @@
         },
         "answer_idx": "D",
         "answer": "OCS",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". \n\nGiven this consistency, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1887
+            "completion_tokens": 1621
         },
-        "time_elapsed": 22.953901529312134
+        "time_elapsed": 19.520286560058594
     },
     {
         "realidx": "55_speech_pathologist",
@@ -1396,12 +2012,20 @@
         },
         "answer_idx": "B",
         "answer": "Glasses-type hearing aid",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A\". \n\nGiven this consistency, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 886,
-            "completion_tokens": 1397
+            "completion_tokens": 1371
         },
-        "time_elapsed": 20.70801854133606
+        "time_elapsed": 17.340855598449707
     },
     {
         "realidx": "56_speech_pathologist",
@@ -1414,12 +2038,20 @@
         },
         "answer_idx": "A",
         "answer": "Oral pressure gauge",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"C\". \n\nHypokinetic dysarthria is a motor speech disorder commonly associated with Parkinson's disease, characterized by reduced movement and speech that is often fast, quiet, and difficult to understand. A pacing board is an assistive device that helps patients slow down their speech and articulate more clearly by providing a visual and tactile cue to pace their speech. This can significantly improve speech intelligibility in patients with hypokinetic dysarthria.\n\nTherefore, the most consistent and reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 880,
-            "completion_tokens": 1961
+            "completion_tokens": 1842
         },
-        "time_elapsed": 24.782132625579834
+        "time_elapsed": 22.23435878753662
     },
     {
         "realidx": "57_speech_pathologist",
@@ -1432,12 +2064,20 @@
         },
         "answer_idx": "A",
         "answer": "Cepstrum",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks what can be used as visual feedback for singers to expand their vocal range. The options provided are:\n\n(A) Cepstrum\n(B) Voice Range Profile\n(C) Laryngoscopy\n(D) Nasometer\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate option B as the answer. \n\nThe Voice Range Profile (VRP) is a tool that provides visual feedback for singers by mapping their vocal range and dynamic range, which helps them understand and expand their vocal capabilities.\n\nTherefore, the most consistent and reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 832,
             "completion_tokens": 1499
         },
-        "time_elapsed": 18.701308488845825
+        "time_elapsed": 18.857553482055664
     },
     {
         "realidx": "58_biomedical_engineer",
@@ -1450,12 +2090,20 @@
         },
         "answer_idx": "A",
         "answer": "Allergy",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the type of hypersensitivity reaction caused by specific memory to implants or biomaterials. The options provided are:\n\n(A) Allergy\n(B) Defense response\n(C) Rejection response\n(D) Autoimmunity response\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is (C) Rejection response. This consistency suggests that the most reliable solution is indeed (C).\n\nTherefore, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 880,
-            "completion_tokens": 1591
+            "completion_tokens": 1606
         },
-        "time_elapsed": 23.428004026412964
+        "time_elapsed": 20.037376880645752
     },
     {
         "realidx": "58_speech_pathologist",
@@ -1468,12 +2116,20 @@
         },
         "answer_idx": "B",
         "answer": "Nasal leakage",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate the answer as \"C\". Therefore, the most reliable solution based on the consistency of the answers is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 904,
-            "completion_tokens": 1644
+            "completion_tokens": 1835
         },
-        "time_elapsed": 18.805347442626953
+        "time_elapsed": 22.613054752349854
     },
     {
         "realidx": "59_speech_pathologist",
@@ -1486,12 +2142,20 @@
         },
         "answer_idx": "C",
         "answer": "Lewy body dementia",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question asks about a type of dementia that typically appears between the ages of 40 and 60, progresses rapidly, and is characterized by personality changes and behavioral problems from the onset. \n\nLet's evaluate the options:\n(A) Parkinson's disease - This is primarily a movement disorder and does not typically present with early personality changes and behavioral problems.\n(B) Frontotemporal dementia - This type of dementia often appears between the ages of 40 and 60, progresses rapidly, and is known for early personality changes and behavioral problems.\n(C) Lewy body dementia - This type of dementia usually presents with visual hallucinations and Parkinsonism, and it typically occurs later in life.\n(D) Alzheimer's disease - This is the most common form of dementia, usually appearing after age 65, and it typically starts with memory loss rather than personality changes and behavioral problems.\n\nGiven the descriptions, Frontotemporal dementia (B) fits the criteria described in the question.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify (B) as the answer.\n\nTherefore, the most reliable solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 934,
-            "completion_tokens": 1545
+            "completion_tokens": 1660
         },
-        "time_elapsed": 22.83735466003418
+        "time_elapsed": 21.652485370635986
     },
     {
         "realidx": "60_speech_pathologist",
@@ -1504,12 +2168,20 @@
         },
         "answer_idx": "B",
         "answer": "In Fry phonation, the glottal closure index is larger than the glottal opening index.",
-        "predicted_answer": "C",
+        "solutions": [
+            "B",
+            "D",
+            "B",
+            "D",
+            "B"
+        ],
+        "ensemble_response": "B",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1324,
-            "completion_tokens": 2355
+            "completion_tokens": 2648
         },
-        "time_elapsed": 30.99543786048889
+        "time_elapsed": 35.43317151069641
     },
     {
         "realidx": "61_biomedical_engineer",
@@ -1522,12 +2194,20 @@
         },
         "answer_idx": "A",
         "answer": "Osmosis",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate the answer as \"B\". \n\nGiven this consistency, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 856,
-            "completion_tokens": 1497
+            "completion_tokens": 1466
         },
-        "time_elapsed": 22.582053899765015
+        "time_elapsed": 18.45807433128357
     },
     {
         "realidx": "62_clinical_laboratory_scientist",
@@ -1540,12 +2220,20 @@
         },
         "answer_idx": "A",
         "answer": "heparin",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most suitable anticoagulant for chromosome testing using peripheral blood, we need to evaluate the consistency of the solutions provided. The solutions are as follows:\n\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate that the answer is \"A.\"\n\nThe anticoagulant heparin is commonly used for chromosome testing (karyotyping) because it preserves the integrity of the chromosomes and prevents clotting without interfering with the cell division process necessary for chromosome analysis.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1455,
-            "completion_tokens": 3340
+            "prompt_tokens": 820,
+            "completion_tokens": 1740
         },
-        "time_elapsed": 25.720320463180542
+        "time_elapsed": 21.244475841522217
     },
     {
         "realidx": "62_speech_pathologist",
@@ -1558,12 +2246,20 @@
         },
         "answer_idx": "D",
         "answer": "Thyroarytenoid muscle",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which muscle is suspected to be paralyzed when high-pitched voice production is difficult after thyroidectomy. The options provided are:\n\n(A) Cricothyroid muscle\n(B) Lateral cricoarytenoid muscle\n(C) Interarytenoid muscle\n(D) Thyroarytenoid muscle\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. All five solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) indicate the answer as \"A\".\n\nGiven that all solutions consistently identify \"A\" as the answer, we can conclude that the most reliable solution is indeed \"A\".\n\nThe cricothyroid muscle is responsible for tension and elongation of the vocal cords, which is crucial for producing high-pitched sounds. Paralysis of this muscle can lead to difficulty in producing high-pitched voice, which aligns with the clinical scenario described in the question.\n\nTherefore, the most consistent and reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 934,
-            "completion_tokens": 1587
+            "completion_tokens": 1582
         },
-        "time_elapsed": 19.832546710968018
+        "time_elapsed": 26.121596574783325
     },
     {
         "realidx": "63_biomedical_engineer",
@@ -1576,12 +2272,20 @@
         },
         "answer_idx": "D",
         "answer": "Orthosis",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks for the device that helps to restore function, directly or indirectly heal, or prevent deterioration in areas where the human body has structural defects or lost/reduced function through artificial apparatus or devices.\n\nThe options provided are:\n(A) Artificial joint\n(B) Stent\n(C) Prosthesis\n(D) Orthosis\n\nLet's analyze each option:\n- (A) Artificial joint: This specifically refers to a device used to replace a joint, such as a hip or knee joint, and is not a general term for all devices that restore function or prevent deterioration.\n- (B) Stent: This is a device used to keep blood vessels open and is specific to cardiovascular applications.\n- (C) Prosthesis: This is a general term for an artificial device that replaces a missing body part, such as a limb, and helps restore function.\n- (D) Orthosis: This is a device used to support or correct the function of a limb or the torso.\n\nGiven the broad nature of the question, the term \"prosthesis\" (C) is the most appropriate as it encompasses a wide range of devices designed to restore function or replace missing body parts.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify (C) Prosthesis as the answer.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\nC",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1399,
-            "completion_tokens": 2388
+            "prompt_tokens": 952,
+            "completion_tokens": 1638
         },
-        "time_elapsed": 27.723239183425903
+        "time_elapsed": 19.500097513198853
     },
     {
         "realidx": "63_speech_pathologist",
@@ -1594,12 +2298,20 @@
         },
         "answer_idx": "A",
         "answer": "Cerebellum",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks which brain area can cause hyperkinetic dysarthria when damaged. The options provided are:\n\n(A) Cerebellum\n(B) Ventricles\n(C) Basal ganglia\n(D) Reticular formation\n\nHyperkinetic dysarthria is a motor speech disorder characterized by excessive involuntary movements. It is commonly associated with damage to the basal ganglia, which are a group of nuclei in the brain involved in coordinating movement.\n\nUpon reviewing the solutions provided:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll solutions consistently identify option (C) as the correct answer. Given this consistency, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 838,
-            "completion_tokens": 1832
+            "completion_tokens": 1972
         },
-        "time_elapsed": 22.10900378227234
+        "time_elapsed": 26.99163794517517
     },
     {
         "realidx": "64_occupational_therapist",
@@ -1612,12 +2324,20 @@
         },
         "answer_idx": "D",
         "answer": "Sweeping indoor floors",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which activity has the lowest metabolic equivalent (MET) among the given options. The options are:\n\n(A) Making the bed\n(B) Shoveling snow\n(C) Moving furniture\n(D) Sweeping indoor floors\n\nMETs are a measure of the energy cost of physical activities. Lower MET values correspond to activities that require less energy expenditure.\n\nLet's evaluate the options based on typical MET values:\n- Making the bed: This activity generally has a low MET value, around 2-3 METs.\n- Shoveling snow: This is a more strenuous activity with a higher MET value, typically around 6-7 METs.\n- Moving furniture: This is also a strenuous activity with a high MET value, usually around 5-6 METs.\n- Sweeping indoor floors: This activity has a moderate MET value, around 3-4 METs.\n\nBased on these typical MET values, making the bed has the lowest MET value among the options provided.\n\nAll the solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify option (A) as the correct answer.\n\nTherefore, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 886,
-            "completion_tokens": 1432
+            "completion_tokens": 1478
         },
-        "time_elapsed": 17.748310804367065
+        "time_elapsed": 19.491739749908447
     },
     {
         "realidx": "64_speech_pathologist",
@@ -1630,12 +2350,20 @@
         },
         "answer_idx": "C",
         "answer": "ASA",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"A\". \n\nExplanation:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nAll solutions consistently indicate \"A\" as the answer. Therefore, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 802,
-            "completion_tokens": 1592
+            "completion_tokens": 1550
         },
-        "time_elapsed": 29.10268473625183
+        "time_elapsed": 25.71523642539978
     },
     {
         "realidx": "66_speech_pathologist",
@@ -1648,12 +2376,20 @@
         },
         "answer_idx": "A",
         "answer": "Select and intervene with subjects based on the ability-achievement discrepancy model.",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The role of a speech-language pathologist (SLP) when applying the response to intervention (RTI) model involves supporting small group and individualized programs. This is because RTI is a multi-tiered approach to early identification and support of students with learning and behavior needs. SLPs play a crucial role in providing targeted interventions and support within the general education setting, rather than separating students from the regular curriculum or solely relying on the ability-achievement discrepancy model.\n\nGiven the solutions provided:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll solutions consistently identify option B as the correct answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1072,
-            "completion_tokens": 1724
+            "completion_tokens": 1979
         },
-        "time_elapsed": 21.63612413406372
+        "time_elapsed": 23.59183168411255
     },
     {
         "realidx": "6_speech_pathologist",
@@ -1666,12 +2402,20 @@
         },
         "answer_idx": "B",
         "answer": "degree of voice breaks (DVB)",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks which acoustic parameter indicates a better voice condition with a higher measurement value. The options provided are:\n\n(A) soft phonation index (SPI)\n(B) degree of voice breaks (DVB)\n(C) cepstral peak prominence (CPP)\n(D) average fundamental frequency (F0)\n\nThe solutions provided are:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the answer is \"C\". \n\nCepstral peak prominence (CPP) is a measure of the degree of harmonic structure in the voice signal and is often used to assess voice quality. A higher CPP value generally indicates a clearer and more stable voice, which is considered a better voice condition.\n\nTherefore, the most consistent and reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 976,
-            "completion_tokens": 1461
+            "completion_tokens": 1647
         },
-        "time_elapsed": 25.691068410873413
+        "time_elapsed": 41.221057176589966
     },
     {
         "realidx": "70_occupational_therapist",
@@ -1684,12 +2428,20 @@
         },
         "answer_idx": "D",
         "answer": "Prone position",
+        "solutions": [
+            "D",
+            "B",
+            "D",
+            "D",
+            "B"
+        ],
+        "ensemble_response": "The solutions provided are as follows:\n- Solution 1: D\n- Solution 2: B\n- Solution 3: D\n- Solution 4: D\n- Solution 5: B\n\nTo determine the most consistent solution, we count the frequency of each option:\n- Option D appears in Solution 1, Solution 3, and Solution 4 (3 times).\n- Option B appears in Solution 2 and Solution 5 (2 times).\n\nOption D appears most frequently across the solutions. Therefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 904,
-            "completion_tokens": 1603
+            "completion_tokens": 2080
         },
-        "time_elapsed": 20.135374307632446
+        "time_elapsed": 27.45885729789734
     },
     {
         "realidx": "7_occupational_therapist",
@@ -1702,12 +2454,20 @@
         },
         "answer_idx": "C",
         "answer": "moderate",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll five solutions consistently indicate the answer as \"B.\" Given this uniformity, the most reliable solution is clearly \"B.\"\n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 814,
-            "completion_tokens": 1708
+            "completion_tokens": 1800
         },
-        "time_elapsed": 23.30441451072693
+        "time_elapsed": 22.750596523284912
     },
     {
         "realidx": "7_speech_pathologist",
@@ -1720,12 +2480,20 @@
         },
         "answer_idx": "C",
         "answer": "Does stuttering appear differently depending on the situation?",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will review the provided solutions and identify the answer that appears most frequently.\n\nThe solutions are as follows:\nSolution 1: D\nSolution 2: D\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nAll the solutions consistently indicate the answer as \"D.\"\n\nTherefore, the most consistent solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1054,
-            "completion_tokens": 1479
+            "completion_tokens": 1516
         },
-        "time_elapsed": 18.071095943450928
+        "time_elapsed": 29.43712615966797
     },
     {
         "realidx": "84_clinical_psychologist",
@@ -1738,12 +2506,20 @@
         },
         "answer_idx": "B",
         "answer": "Pt scale",
+        "solutions": [
+            "B",
+            "C",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: B\n- Solution 2: C\n- Solution 3: B\n- Solution 4: B\n- Solution 5: B\n\nNow, I will count the frequency of each answer:\n- A: 0 times\n- B: 4 times\n- C: 1 time\n- D: 0 times\n\nThe answer that appears most frequently is \"B,\" which is mentioned 4 times.\n\nTherefore, the most consistent solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 874,
-            "completion_tokens": 1607
+            "completion_tokens": 1688
         },
-        "time_elapsed": 22.678205728530884
+        "time_elapsed": 23.595665454864502
     },
     {
         "realidx": "84_occupational_therapist",
@@ -1756,12 +2532,20 @@
         },
         "answer_idx": "D",
         "answer": "6 points",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The Functional Independence Measure (FIM) score is used to assess the level of a patient's disability and how much assistance they require to perform activities of daily living. The FIM scale ranges from 1 to 7, with 1 indicating total assistance and 7 indicating complete independence.\n\n- A score of 4 indicates that the individual requires minimal assistance (the patient performs 75% or more of the task).\n- A score of 5 indicates that the individual requires supervision or setup.\n- A score of 2 indicates that the individual requires maximal assistance (the patient performs 25% to 49% of the task).\n- A score of 6 indicates that the individual requires modified independence (the patient uses a device but does not need physical help).\n\nGiven the question, the individual requires minimal assistance and uses a grab bar to perform a task. This description aligns with a FIM score of 4, as minimal assistance is defined as the patient performing 75% or more of the task, and the use of a grab bar suggests some level of assistance is needed.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) indicate that the correct answer is A.\n\nTherefore, the most consistent and reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 886,
-            "completion_tokens": 1645
+            "completion_tokens": 1562
         },
-        "time_elapsed": 19.760807752609253
+        "time_elapsed": 24.02481985092163
     },
     {
         "realidx": "85_clinical_laboratory_scientist",
@@ -1774,12 +2558,20 @@
         },
         "answer_idx": "D",
         "answer": "Escherichia coli",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question asks for the identification of a bacterium that shows A/AG (acid/acid with gas production), urea negative, positive motility, and IMViC ++-- results on triple sugar iron (TSI) agar.\n\nLet's break down the characteristics:\n- A/AG on TSI agar indicates acid production in both the slant and butt with gas production.\n- Urea negative means the bacterium does not hydrolyze urea.\n- Positive motility indicates the bacterium is motile.\n- IMViC ++-- results indicate:\n  - Indole positive\n  - Methyl red positive\n  - Voges-Proskauer negative\n  - Citrate negative\n\nGiven these characteristics, we can evaluate the options:\n- (A) Shigella sonnei: Typically shows K/A (alkaline slant/acid butt) on TSI, non-motile, urea negative, IMViC -+--.\n- (B) Citrobacter freundii: Typically shows A/A with gas on TSI, urea positive, motile, IMViC -+-+.\n- (C) Salmonella Typhi: Typically shows K/A with H2S production on TSI, urea negative, motile, IMViC -+-+.\n- (D) Escherichia coli: Typically shows A/AG on TSI, urea negative, motile, IMViC ++--.\n\nBased on the characteristics provided, Escherichia coli (D) matches all the given criteria.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently identify the answer as D.\n\nTherefore, the most reliable solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1006,
-            "completion_tokens": 2303
+            "completion_tokens": 2563
         },
-        "time_elapsed": 32.89969277381897
+        "time_elapsed": 29.546508312225342
     },
     {
         "realidx": "9_speech_pathologist",
@@ -1792,11 +2584,19 @@
         },
         "answer_idx": "A",
         "answer": "Descent of the soft palate",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question asks about the correct event that occurs during the pharyngeal phase of swallowing. The options provided are:\n\n(A) Descent of the soft palate\n(B) Opening of the lower esophageal sphincter\n(C) Elevation of the hyoid and larynx\n(D) Opening of the laryngeal vestibule\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll the solutions consistently indicate that the correct answer is (C) Elevation of the hyoid and larynx.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 982,
-            "completion_tokens": 1878
+            "completion_tokens": 1944
         },
-        "time_elapsed": 27.740546703338623
+        "time_elapsed": 50.11007070541382
     }
 ]

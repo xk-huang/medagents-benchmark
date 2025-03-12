@@ -129,10 +129,12 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
     
     rounds_thinking = []  # For storing each agent's thinking per round.
     rounds_answers = []   # For storing each agent's answer per round.
+    raw_responses = []    # For storing raw responses from each agent.
 
     for r in range(num_rounds):
         current_thinking = []
         current_answers = []
+        current_raw_responses = []
         for i, role in enumerate(debate_roles):
             if r == 0:
                 prompt = DEBATE_INITIAL_PROMPT.format(
@@ -168,8 +170,10 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
             thinking, answer = parse_answer(raw_response, options, client_old)
             current_thinking.append(thinking)
             current_answers.append(answer)
+            current_raw_responses.append(raw_response)
         rounds_thinking.append(current_thinking)
         rounds_answers.append(current_answers)
+        raw_responses.append(current_raw_responses)
     
     # Final decision phase using aggregated debate outcomes.
     final_thinking_context = "\n".join([
@@ -209,6 +213,11 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
         "completion_tokens": completion_tokens,
     }
     problem['time_elapsed'] = time_elapsed
+    problem['rounds_thinking'] = rounds_thinking
+    problem['rounds_answers'] = rounds_answers
+    problem['raw_responses'] = raw_responses
+    problem['final_raw_response'] = final_raw
+    problem['final_thinking'] = final_thinking
     return problem
 
 def load_jsonl(file_path: str) -> List[Dict]:

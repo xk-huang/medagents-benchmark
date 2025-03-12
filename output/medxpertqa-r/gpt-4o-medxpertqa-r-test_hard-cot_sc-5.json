@@ -16,12 +16,20 @@
         },
         "answer_idx": "E",
         "answer": "65-year-old female with a glenoid retroversion of 13-degrees undergoing shoulder arthroplasty",
+        "solutions": [
+            "H",
+            "C",
+            "H",
+            "H",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"H\". This answer appears in solutions 1, 3, and 4, making it the most consistent choice.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3754,
-            "completion_tokens": 3421
+            "completion_tokens": 3432
         },
-        "time_elapsed": 39.94230818748474
+        "time_elapsed": 46.237703800201416
     },
     {
         "realidx": "Text-1",
@@ -40,12 +48,20 @@
         },
         "answer_idx": "E",
         "answer": "Iliolumbar ligament",
+        "solutions": [
+            "G",
+            "D",
+            "E",
+            "G",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"D\" (Posterior sacroiliac ligament). This answer appears in solutions 2 and 5, making it the most consistent choice.\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2644,
-            "completion_tokens": 3235
+            "completion_tokens": 3244
         },
-        "time_elapsed": 44.844985485076904
+        "time_elapsed": 38.967570304870605
     },
     {
         "realidx": "Text-10",
@@ -64,12 +80,20 @@
         },
         "answer_idx": "D",
         "answer": "Change diuretics",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is (J) Discontinue lithium therapy.\n\nExplanation:\nThe patient exhibits symptoms that are consistent with lithium toxicity, which can include increased urinary frequency, fine tremor, and bradycardia. Given her recent discharge from a psychiatric unit and the likelihood that she was started on lithium for mood stabilization, these symptoms suggest that she may be experiencing side effects from lithium. Therefore, the most appropriate next step in managing this patient is to discontinue lithium therapy to address these adverse effects.",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 3352,
-            "completion_tokens": 2524
+            "completion_tokens": 2323
         },
-        "time_elapsed": 34.052295207977295
+        "time_elapsed": 27.288888692855835
     },
     {
         "realidx": "Text-101",
@@ -88,12 +112,20 @@
         },
         "answer_idx": "B",
         "answer": "Inferior vena cava filter",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The patient presents with symptoms and signs suggestive of deep vein thrombosis (DVT), including severe leg pain, swelling, warmth, erythema, and a positive Homan's sign (pain in the calf upon dorsiflexion of the foot). Given his recent surgery, immobility, and medical history, he is at high risk for DVT.\n\nThe most appropriate next step in managing a suspected DVT, especially in a patient with significant comorbidities such as diabetes and chronic kidney disease, is to initiate anticoagulation therapy to prevent clot propagation and embolization.\n\nAmong the options provided:\n- Surgical thrombectomy (A) is typically reserved for cases where there is a contraindication to anticoagulation or in cases of massive DVT with significant compromise.\n- Inferior vena cava filter (B) is used when anticoagulation is contraindicated or has failed.\n- Unfractionated heparin therapy (C) is appropriate for immediate anticoagulation, especially in patients with renal impairment.\n- Direct oral anticoagulants (DOACs) (D) are generally not preferred in patients with significant renal impairment.\n- Aspirin therapy only (E) is not sufficient for treating DVT.\n- Prophylactic antibiotics for cellulitis (F) are not indicated as the primary issue is DVT.\n- Oral warfarin therapy (G) requires bridging with heparin initially.\n- Compression stockings and observation (H) are not sufficient for treating DVT.\n- Thrombolytic therapy with tissue plasminogen activator (tPA) (I) is reserved for massive DVT with hemodynamic instability.\n- Low molecular weight heparin therapy (J) is an option but may be less preferred in patients with significant renal impairment.\n\nGiven the patient's renal impairment, unfractionated heparin therapy (C) is the most appropriate initial treatment.\n\nThe most consistent solution across the provided answers is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3346,
-            "completion_tokens": 3159
+            "completion_tokens": 3298
         },
-        "time_elapsed": 35.71933650970459
+        "time_elapsed": 34.38029742240906
     },
     {
         "realidx": "Text-102",
@@ -112,12 +144,20 @@
         },
         "answer_idx": "G",
         "answer": "Vaginal moisturizers",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is (D) Topical estrogen. \n\nThe patient's symptoms of urinary urgency, vaginal itching, urinary incontinence, pain during intercourse, and physical examination findings of atrophic vulvar skin, decreased elasticity, petechiae, loss of vaginal rugae, and friable irritation are indicative of genitourinary syndrome of menopause (GSM). GSM is commonly treated with topical estrogen, which helps to alleviate the symptoms by improving the health of the vaginal and urethral tissues.\n\nTherefore, the most appropriate initial management step is:\n\n(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2464,
-            "completion_tokens": 2583
+            "completion_tokens": 2989
         },
-        "time_elapsed": 33.14448547363281
+        "time_elapsed": 33.355300426483154
     },
     {
         "realidx": "Text-103",
@@ -136,12 +176,20 @@
         },
         "answer_idx": "E",
         "answer": "Marked bilateral hip flexion with ankles crossed and knees out to the sides",
+        "solutions": [
+            "B",
+            "B",
+            "F",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"J\". This is because solutions 4 and 5 both identify \"J\" as the correct answer, making it the most frequently appearing answer among the solutions provided.\n\nTherefore, the answer is:\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 3760,
-            "completion_tokens": 1873
+            "completion_tokens": 2115
         },
-        "time_elapsed": 21.81250023841858
+        "time_elapsed": 25.116873741149902
     },
     {
         "realidx": "Text-104",
@@ -160,12 +208,20 @@
         },
         "answer_idx": "J",
         "answer": "Posterior and inferior sternoclavicular somatic dysfunction",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "J",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2752,
-            "completion_tokens": 3186
+            "completion_tokens": 3059
         },
-        "time_elapsed": 39.61248850822449
+        "time_elapsed": 32.658947467803955
     },
     {
         "realidx": "Text-106",
@@ -184,12 +240,20 @@
         },
         "answer_idx": "D",
         "answer": "Renal ultrasound",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The patient is a 23-year-old female presenting with severe episodic back pain radiating to her abdomen, a positive beta-hCG test indicating pregnancy, and hematuria (red blood cells in urine). Given these symptoms and findings, the most likely condition to consider is an ectopic pregnancy or another pregnancy-related complication.\n\nThe most appropriate diagnostic test in this scenario would be one that can visualize the pregnancy and assess its location and status. Among the options provided, a transvaginal ultrasound (H) is the most suitable test for evaluating a suspected ectopic pregnancy or other pregnancy-related issues in the early stages of pregnancy.\n\nAll the solutions provided (Solution 1 to Solution 5) consistently indicate that the most appropriate diagnostic test is a transvaginal ultrasound.\n\nTherefore, the most reliable solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3220,
-            "completion_tokens": 2121
+            "completion_tokens": 2050
         },
-        "time_elapsed": 30.735421657562256
+        "time_elapsed": 24.645325660705566
     },
     {
         "realidx": "Text-107",
@@ -208,12 +272,20 @@
         },
         "answer_idx": "J",
         "answer": "Truncus arteriosus",
-        "predicted_answer": "B",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"J\". \n\nThe detailed thought process involves analyzing the symptoms and clinical findings described in the question. The neonate presents with signs of heart failure (excessive sleepiness, feeding difficulties, grunting, nasal flaring, costosternal retractions, perioral cyanosis, enlarged liver, bounding pulses) and specific cardiac findings (single S2, systolic ejection murmur, enlarged cardiac silhouette, increased pulmonary vasculature). These findings are consistent with a congenital heart defect that leads to increased pulmonary blood flow and heart failure.\n\nTruncus arteriosus (J) is a congenital heart defect where a single arterial trunk arises from the heart, supplying both systemic and pulmonary circulations, leading to increased pulmonary blood flow and heart failure symptoms. This matches the clinical presentation described.\n\nTherefore, the most consistent and likely correct answer is:\n\nJ",
+        "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2878,
-            "completion_tokens": 2977
+            "completion_tokens": 3201
         },
-        "time_elapsed": 39.290624141693115
+        "time_elapsed": 35.60788440704346
     },
     {
         "realidx": "Text-109",
@@ -232,12 +304,20 @@
         },
         "answer_idx": "G",
         "answer": "Primary metabolic acidosis with concomitant respiratory acidosis",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is (G).\n\nTo determine the correct acid/base disorder, let's analyze the patient's laboratory results and arterial blood gas (ABG) values:\n\n1. **pH**: 7.12 (indicating acidemia, as normal pH is 7.35-7.45)\n2. **PaCO2**: 35 mmHg (normal range is 35-45 mmHg, indicating no primary respiratory acidosis or alkalosis)\n3. **HCO3**: 10 mEq/L (low, normal range is 22-28 mEq/L, indicating metabolic acidosis)\n\nGiven the low pH and low HCO3, the primary disorder is metabolic acidosis. \n\nNext, we need to determine if there is any respiratory compensation or a concomitant respiratory disorder:\n- The expected PaCO2 for compensation in metabolic acidosis can be estimated using Winter's formula: \n  \\[ PaCO2 = 1.5 \\times [HCO3^-] + 8 \\pm 2 \\]\n  \\[ PaCO2 = 1.5 \\times 10 + 8 \\pm 2 \\]\n  \\[ PaCO2 = 15 + 8 \\pm 2 \\]\n  \\[ PaCO2 = 21 \\pm 2 \\]\n  The expected PaCO2 should be around 19-23 mmHg for appropriate respiratory compensation. However, the actual PaCO2 is 35 mmHg, which is higher than expected, indicating a concomitant respiratory acidosis.\n\nTherefore, the best description of this patient's condition is primary metabolic acidosis with concomitant respiratory acidosis.\n\nThus, the correct answer is (G).",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2794,
-            "completion_tokens": 2517
+            "completion_tokens": 2567
         },
-        "time_elapsed": 34.67537260055542
+        "time_elapsed": 28.584402799606323
     },
     {
         "realidx": "Text-11",
@@ -256,12 +336,20 @@
         },
         "answer_idx": "E",
         "answer": "Ventricular septal defect",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2830,
-            "completion_tokens": 2338
+            "completion_tokens": 2684
         },
-        "time_elapsed": 34.05152463912964
+        "time_elapsed": 29.30463171005249
     },
     {
         "realidx": "Text-110",
@@ -280,12 +368,20 @@
         },
         "answer_idx": "G",
         "answer": "Ceftriaxone once; metronidazole and doxycycline for 7 days",
+        "solutions": [
+            "H",
+            "G",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3550,
-            "completion_tokens": 3234
+            "completion_tokens": 4077
         },
-        "time_elapsed": 38.865002393722534
+        "time_elapsed": 45.90240955352783
     },
     {
         "realidx": "Text-111",
@@ -304,12 +400,20 @@
         },
         "answer_idx": "H",
         "answer": "a true rib that primarily moves in a bucket handle motion",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is \"F.\"\n\nTo determine the correct answer, let's analyze the question and the findings:\n\n1. The patient has tenderness and tissue texture changes at the costochondral junction of ribs 4\u20136 on the right.\n2. There is restricted caudad movement of ribs 4\u20136 during exhalation on the right.\n3. The pain intensifies with deep breaths, suggesting a rib dysfunction affecting breathing mechanics.\n\nRibs 4\u20136 are classified as true ribs (ribs 1\u20137 are true ribs). True ribs primarily move in a pump handle motion, which involves the anterior ends of the ribs moving superiorly and anteriorly during inhalation and inferiorly and posteriorly during exhalation.\n\nGiven the restricted caudad movement during exhalation, it indicates an exhalation dysfunction where the ribs are stuck in an inhaled position and cannot move properly during exhalation.\n\nTherefore, the rib type and motion that should be the focus of osteopathic manipulative treatment for this patient's somatic dysfunction is:\n\n(F) a true rib that primarily moves in a pump handle motion\n\nThus, the most consistent and correct answer is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2932,
-            "completion_tokens": 2021
+            "completion_tokens": 2133
         },
-        "time_elapsed": 22.905558109283447
+        "time_elapsed": 24.56046152114868
     },
     {
         "realidx": "Text-114",
@@ -328,12 +432,20 @@
         },
         "answer_idx": "J",
         "answer": "Aspirin",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The patient described in the question presents with symptoms and signs consistent with subacute thyroiditis (also known as De Quervain's thyroiditis). This condition often follows a viral infection and is characterized by neck pain, tenderness of the thyroid gland, and symptoms of hyperthyroidism such as anxiety, palpitations, and fatigue. The laboratory findings of low TSH and elevated T4 and T3 levels, along with an elevated ESR, support this diagnosis.\n\nThe most appropriate treatment for subacute thyroiditis typically includes managing the inflammation and pain. Corticosteroids are often used to reduce inflammation and provide relief from pain and other symptoms. Therefore, the most appropriate treatment in this case would be corticosteroid therapy.\n\nGiven that all the solutions provided (Solution 1 through Solution 5) consistently indicate \"H\" as the answer, the most reliable solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2614,
-            "completion_tokens": 2700
+            "completion_tokens": 2880
         },
-        "time_elapsed": 29.937084197998047
+        "time_elapsed": 31.659749507904053
     },
     {
         "realidx": "Text-117",
@@ -352,12 +464,20 @@
         },
         "answer_idx": "G",
         "answer": "Intramuscular flu vaccine",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is \"G\". \n\nThe reasoning behind this choice is as follows:\n- The patient is pregnant and at 8 weeks of gestation.\n- Live vaccines (such as MMR, live-attenuated influenza, and varicella) are contraindicated during pregnancy.\n- The intramuscular flu vaccine (G) is recommended for pregnant women during the flu season to protect both the mother and the baby from influenza.\n- The other vaccines listed (such as HPV, pneumococcal, hepatitis A, and hepatitis B) are not specifically indicated for this patient based on the information provided.\n\nTherefore, the most consistent and appropriate solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2830,
-            "completion_tokens": 2531
+            "completion_tokens": 2455
         },
-        "time_elapsed": 35.47768425941467
+        "time_elapsed": 27.13564896583557
     },
     {
         "realidx": "Text-119",
@@ -376,12 +496,20 @@
         },
         "answer_idx": "G",
         "answer": "Proceed to end to side vasoepididymostomy",
-        "predicted_answer": "G",
+        "solutions": [
+            "G",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is (D). \n\nExplanation:\n- Solution 1 suggests (G)\n- Solution 2 suggests (D)\n- Solution 3 suggests (D)\n- Solution 4 suggests (D)\n- Solution 5 suggests (D)\n\nSince (D) appears four times out of five solutions, it is the most consistent answer.\n\nTherefore, the single letter ID corresponding to the most reliable solution is:\n(D)",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2512,
-            "completion_tokens": 2618
+            "completion_tokens": 2808
         },
-        "time_elapsed": 27.180558443069458
+        "time_elapsed": 29.28324317932129
     },
     {
         "realidx": "Text-12",
@@ -400,12 +528,20 @@
         },
         "answer_idx": "B",
         "answer": "Streptococcus pneumoniae",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"A\". \n\nThe clinical presentation of a 5-year-old boy with a sore throat, difficulty breathing, high fever, drooling, and leaning forward to breathe is highly suggestive of epiglottitis. Epiglottitis is a medical emergency that typically presents with these symptoms and is most commonly caused by Haemophilus influenzae type b (Hib). Although the child is up to date on vaccinations, which usually include the Hib vaccine, it is still the most likely cause given the classic presentation.\n\nTherefore, the most consistent and reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2578,
-            "completion_tokens": 2531
+            "completion_tokens": 2724
         },
-        "time_elapsed": 32.24347734451294
+        "time_elapsed": 32.811413049697876
     },
     {
         "realidx": "Text-121",
@@ -424,12 +560,20 @@
         },
         "answer_idx": "A",
         "answer": "Initiate terbutaline therapy",
+        "solutions": [
+            "C",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"G.\"\n\nExplanation:\nThe patient is experiencing a severe asthma exacerbation and is not responding adequately to maximum medical therapy, including continuous inhaled albuterol, intravenous glucocorticoids, supplemental oxygen, and a magnesium sulfate bolus. Despite these interventions, she remains in significant respiratory distress, as evidenced by her inability to complete full sentences, severe retractions, minimal air movement on auscultation, and high oxygen requirements.\n\nThe arterial blood gas results show a normal pH and pCO2, which can be misleading in the context of severe asthma. In severe asthma exacerbations, a normal pCO2 can indicate impending respiratory failure because patients typically hyperventilate and have a low pCO2. The normal pCO2 in this case suggests that the patient is tiring and may soon decompensate.\n\nGiven the severity of her symptoms and the lack of response to aggressive medical management, the most appropriate next step is to secure the airway and provide mechanical ventilation to prevent respiratory failure.\n\nTherefore, the most appropriate next step in management is:\n(G) Perform endotracheal intubation, and initiate mechanical ventilation",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 3232,
-            "completion_tokens": 3269
+            "completion_tokens": 3197
         },
-        "time_elapsed": 40.95116209983826
+        "time_elapsed": 33.62105846405029
     },
     {
         "realidx": "Text-122",
@@ -448,12 +592,20 @@
         },
         "answer_idx": "C",
         "answer": "Conductive hearing loss that is greater on the right",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most consistent solution across all provided solutions is (A) Bilateral cerumen impaction with greater severity on the right.\n\nExplanation:\n1. The patient has a history of increasing confusion and social withdrawal, which can be associated with hearing difficulties.\n2. The presence of dark, paste-like debris in both ears, with greater accumulation in the right ear, suggests cerumen impaction.\n3. The Weber test lateralizes to the right side, indicating that the right ear has a conductive hearing loss, which is consistent with cerumen impaction.\n4. The Rinne test being positive bilaterally (air conduction superior to bone conduction) suggests that there is no significant sensorineural hearing loss.\n5. The combination of these findings points towards bilateral cerumen impaction, with the right ear being more affected.\n\nTherefore, the most probable diagnosis is (A) Bilateral cerumen impaction with greater severity on the right.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2782,
-            "completion_tokens": 2286
+            "completion_tokens": 3591
         },
-        "time_elapsed": 34.16246485710144
+        "time_elapsed": 38.02966237068176
     },
     {
         "realidx": "Text-124",
@@ -472,12 +624,20 @@
         },
         "answer_idx": "D",
         "answer": "Chest physiotherapy",
+        "solutions": [
+            "H",
+            "A",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"H\" (Bronchoscopy with lavage). \n\nHere's the detailed thought process:\n\n1. The patient is a 41-year-old male with cerebral palsy, hospitalized for a catheter-associated urinary tract infection.\n2. On the third day, he develops dyspnea with an oxygen saturation of 87% on room air, improving to 98% with 2L oxygen via nasal cannula.\n3. Physical examination reveals tracheal deviation to the right and diminished breath sounds over the right lung field.\n4. Chest imaging shows complete opacification of the right lung.\n5. Laboratory studies, including CBC and BMP, are normal.\n\nGiven these findings, the most likely cause of the complete opacification and the clinical presentation is a large mucus plug or obstruction in the right mainstem bronchus, leading to lung collapse (atelectasis). Bronchoscopy with lavage (H) is the most appropriate next step to both diagnose and potentially treat the obstruction by removing the mucus plug.\n\nTherefore, the most consistent and appropriate answer is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2374,
-            "completion_tokens": 2874
+            "completion_tokens": 3042
         },
-        "time_elapsed": 33.36304187774658
+        "time_elapsed": 31.32224440574646
     },
     {
         "realidx": "Text-126",
@@ -496,12 +656,20 @@
         },
         "answer_idx": "H",
         "answer": "Hypernatremia",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2464,
-            "completion_tokens": 2064
+            "completion_tokens": 1653
         },
-        "time_elapsed": 25.310032606124878
+        "time_elapsed": 19.728904724121094
     },
     {
         "realidx": "Text-127",
@@ -520,12 +688,20 @@
         },
         "answer_idx": "E",
         "answer": "FSH and estrogen levels",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is:\n\nC\n\nExplanation:\nThe patient presents with symptoms of fatigue, constipation, feeling cold, and pale appearance with thinning hair, which are indicative of hypothyroidism. Additionally, the absence of menstruation (amenorrhea) and a history of migraines with aura further support this diagnosis. The most useful test to diagnose hypothyroidism is the TSH (Thyroid Stimulating Hormone) level. Therefore, the answer is C.",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2776,
-            "completion_tokens": 1844
+            "completion_tokens": 1526
         },
-        "time_elapsed": 25.338850498199463
+        "time_elapsed": 19.578498125076294
     },
     {
         "realidx": "Text-128",
@@ -544,12 +720,20 @@
         },
         "answer_idx": "I",
         "answer": "End-stage renal disease",
+        "solutions": [
+            "A",
+            "I",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient described in the question presents with symptoms and laboratory findings suggestive of systemic lupus erythematosus (SLE). The key features include bilateral hand pain, symmetric joint swelling, night sweats, decreased appetite, and laboratory findings of thrombocytopenia, leukopenia, and proteinuria with red blood cell casts, which are indicative of lupus nephritis.\n\nIn patients with SLE, the leading cause of mortality is often related to cardiovascular complications, particularly coronary artery disease (CAD). This is due to the chronic inflammation and increased risk of atherosclerosis associated with SLE.\n\nGiven the solutions provided:\n- Solution 1: A\n- Solution 2: I\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nThe most frequently occurring answer is \"A,\" which corresponds to coronary artery disease.\n\nTherefore, the most consistent and reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2602,
-            "completion_tokens": 2411
+            "completion_tokens": 2406
         },
-        "time_elapsed": 26.592576265335083
+        "time_elapsed": 31.135769844055176
     },
     {
         "realidx": "Text-129",
@@ -568,12 +752,20 @@
         },
         "answer_idx": "C",
         "answer": "Avoid drinking milk or taking antacids while you are on this medication",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The patient described in the question has symptoms consistent with Rocky Mountain spotted fever (RMSF), which is commonly treated with doxycycline. Given his medical history of atrial fibrillation managed with warfarin, it is important to consider the interaction between doxycycline and warfarin.\n\nDoxycycline can potentiate the effects of warfarin, leading to an increased risk of bleeding. Therefore, the patient's blood thinner levels may need to be adjusted while on doxycycline.\n\nThe most consistent solution provided across all generated solutions is:\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2902,
-            "completion_tokens": 1994
+            "completion_tokens": 1912
         },
-        "time_elapsed": 27.16958713531494
+        "time_elapsed": 22.086867809295654
     },
     {
         "realidx": "Text-130",
@@ -592,12 +784,20 @@
         },
         "answer_idx": "H",
         "answer": "improved rate of recovery",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"H\". \n\nThe reasoning behind this is that a smaller incision without dislocation of the patella during a unicondylar knee replacement typically results in less tissue trauma, which can lead to a faster and improved rate of recovery for the patient. This approach minimizes disruption to the quadriceps tendon and other surrounding structures, thereby facilitating a quicker rehabilitation process.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2002,
-            "completion_tokens": 2563
+            "completion_tokens": 2100
         },
-        "time_elapsed": 32.079325914382935
+        "time_elapsed": 24.670921802520752
     },
     {
         "realidx": "Text-137",
@@ -616,12 +816,20 @@
         },
         "answer_idx": "A",
         "answer": "Neonatal genotype",
+        "solutions": [
+            "J",
+            "J",
+            "J",
+            "J",
+            "J"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is \"J\". \n\nExplanation:\nThe patient is a 30-year-old woman who has just delivered a baby and has a blood type of A-negative with a negative antibody screen. Given that she is Rh-negative, the most appropriate next step in her management is to administer Anti-D immune globulin (Rho(D) immune globulin) to prevent Rh sensitization, which can occur if the baby is Rh-positive. This is a standard practice to prevent hemolytic disease of the newborn in future pregnancies.\n\nTherefore, the correct answer is:\n\nJ",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 2500,
-            "completion_tokens": 1742
+            "completion_tokens": 1999
         },
-        "time_elapsed": 39.560757637023926
+        "time_elapsed": 22.796324253082275
     },
     {
         "realidx": "Text-138",
@@ -640,12 +848,20 @@
         },
         "answer_idx": "G",
         "answer": "Lithium",
+        "solutions": [
+            "C",
+            "C",
+            "J",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"C\". \n\nThe patient described in the question is exhibiting symptoms consistent with a manic episode, including agitation, restlessness, decreased need for sleep, inappropriate behavior, delusions, and suicidal ideation. Quetiapine (C) is an atypical antipsychotic that is often used as a first-line treatment for acute mania and can help manage both the psychotic symptoms and mood stabilization.\n\nTherefore, the most appropriate first-line medication for treating her condition, based on the consistency of the solutions provided, is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2128,
-            "completion_tokens": 2344
+            "completion_tokens": 2648
         },
-        "time_elapsed": 30.99415421485901
+        "time_elapsed": 29.745749711990356
     },
     {
         "realidx": "Text-139",
@@ -664,12 +880,20 @@
         },
         "answer_idx": "H",
         "answer": "MR venogram of the brain",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2422,
-            "completion_tokens": 2939
+            "completion_tokens": 2496
         },
-        "time_elapsed": 31.64222264289856
+        "time_elapsed": 28.22462821006775
     },
     {
         "realidx": "Text-140",
@@ -688,12 +912,20 @@
         },
         "answer_idx": "G",
         "answer": "Add amlodipine to current therapy",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is (A) Replace hydrochlorothiazide with dapagliflozin.\n\nExplanation:\n1. The patient has stage 3B chronic kidney disease (CKD) and type 1 diabetes with proteinuria.\n2. Dapagliflozin, a sodium-glucose co-transporter-2 (SGLT2) inhibitor, has been shown to provide renal protection and reduce proteinuria in patients with CKD, including those with diabetes.\n3. Hydrochlorothiazide is a thiazide diuretic, which may be less effective in advanced CKD (stage 3B and beyond) due to reduced renal function.\n4. Replacing hydrochlorothiazide with dapagliflozin can help manage both blood glucose levels and provide renal benefits, making it a suitable choice for this patient.\n\nTherefore, the most appropriate management strategy is (A) Replace hydrochlorothiazide with dapagliflozin.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3004,
-            "completion_tokens": 4154
+            "completion_tokens": 4158
         },
-        "time_elapsed": 45.30061459541321
+        "time_elapsed": 43.98229146003723
     },
     {
         "realidx": "Text-142",
@@ -712,12 +944,20 @@
         },
         "answer_idx": "G",
         "answer": "Cautery of an arteriovenous malformation",
-        "predicted_answer": "D",
+        "solutions": [
+            "I",
+            "A",
+            "A",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"A\" (Oral metronidazole). \n\nHere is the detailed thought process:\n\n1. **Solution 1: I (Mesalamine enema)** - This is used for treating ulcerative colitis, which is in remission for this patient, making it less likely to be the immediate treatment needed.\n2. **Solution 2: A (Oral metronidazole)** - This is an antibiotic that can be used to treat infections, including those that might be contracted from consuming contaminated water or food, which aligns with the patient's recent history.\n3. **Solution 3: A (Oral metronidazole)** - Same reasoning as above.\n4. **Solution 4: D (Colonoscopy with polypectomy)** - This is a procedure to remove polyps, which might be considered if there is suspicion of polyps causing bleeding, but there is no direct indication of polyps in the question.\n5. **Solution 5: D (Colonoscopy with polypectomy)** - Same reasoning as above.\n\nThe most consistent answer across the solutions is \"A\" (Oral metronidazole), appearing in two out of the five solutions. This suggests that the most reliable solution, based on the consistency of the answers, is:\n\n**A**",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2932,
-            "completion_tokens": 3498
+            "completion_tokens": 3411
         },
-        "time_elapsed": 43.953025579452515
+        "time_elapsed": 35.68911552429199
     },
     {
         "realidx": "Text-143",
@@ -736,12 +976,20 @@
         },
         "answer_idx": "A",
         "answer": "Glucose",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The newborn described in the question presents with several clinical features that suggest congenital hypothyroidism. These features include macroglossia, umbilical hernia, hypotonia, and a palpable liver. Congenital hypothyroidism can also present with feeding difficulties, lethargy, and a weak cry. Given these symptoms, the most appropriate intervention would be to administer thyroxine to treat the hypothyroidism.\n\nAll the solutions provided (Solution 1 through Solution 5) consistently indicate that the most appropriate intervention is thyroxine.\n\nTherefore, the most consistent solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2404,
-            "completion_tokens": 2149
+            "completion_tokens": 2042
         },
-        "time_elapsed": 25.257884740829468
+        "time_elapsed": 23.59110140800476
     },
     {
         "realidx": "Text-144",
@@ -760,12 +1008,20 @@
         },
         "answer_idx": "I",
         "answer": "Hypomagnesemia",
-        "predicted_answer": "A",
+        "solutions": [
+            "A",
+            "B",
+            "B",
+            "B",
+            "A"
+        ],
+        "ensemble_response": "The patient presents with pain and swelling in the right ankle joint, which has not improved with NSAIDs. The physical examination reveals tenderness and reduced range of motion, and radiographic imaging shows chondrocalcinosis and joint effusion. Chondrocalcinosis is the deposition of calcium pyrophosphate dihydrate (CPPD) crystals in the cartilage, which is characteristic of a condition known as pseudogout.\n\nPseudogout is often associated with several metabolic and systemic conditions. Among the answer choices provided, the most common associations with pseudogout include hyperparathyroidism and hemochromatosis. \n\nEvaluating the solutions provided:\n- Solution 1: A (Hyperparathyroidism)\n- Solution 2: B (Hemochromatosis)\n- Solution 3: B (Hemochromatosis)\n- Solution 4: B (Hemochromatosis)\n- Solution 5: A (Hyperparathyroidism)\n\nThe most frequently occurring answer among the solutions is B (Hemochromatosis), appearing in three out of five solutions.\n\nTherefore, the most consistent and reliable solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2224,
-            "completion_tokens": 2735
+            "completion_tokens": 2593
         },
-        "time_elapsed": 33.84691786766052
+        "time_elapsed": 28.744727611541748
     },
     {
         "realidx": "Text-146",
@@ -784,12 +1040,20 @@
         },
         "answer_idx": "J",
         "answer": "Needle thoracostomy at the 5th intercostal space, midaxillary line",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 4282,
-            "completion_tokens": 2692
+            "completion_tokens": 2267
         },
-        "time_elapsed": 33.303913593292236
+        "time_elapsed": 28.96970224380493
     },
     {
         "realidx": "Text-147",
@@ -808,12 +1072,20 @@
         },
         "answer_idx": "D",
         "answer": "Central precocious puberty related to a central nervous system lesion",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2764,
-            "completion_tokens": 3197
+            "completion_tokens": 2961
         },
-        "time_elapsed": 36.909234046936035
+        "time_elapsed": 32.548115730285645
     },
     {
         "realidx": "Text-148",
@@ -832,12 +1104,20 @@
         },
         "answer_idx": "A",
         "answer": "Obliterated x descent",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is (G) Prominent v waves.\n\nExplanation:\nThe patient has a history of infective endocarditis with tricuspid valve regurgitation. Tricuspid regurgitation leads to the backflow of blood into the right atrium during systole, which causes an increase in right atrial pressure. This increased pressure is reflected in the jugular venous pulse as prominent v waves. The v wave corresponds to the venous filling of the right atrium when the tricuspid valve is supposed to be closed but is regurgitant, allowing blood to flow back into the atrium.\n\nTherefore, the most likely finding on his jugular venous pulse tracing is (G) Prominent v waves.",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2188,
-            "completion_tokens": 1700
+            "completion_tokens": 1880
         },
-        "time_elapsed": 21.459049224853516
+        "time_elapsed": 23.428070783615112
     },
     {
         "realidx": "Text-15",
@@ -856,12 +1136,20 @@
         },
         "answer_idx": "G",
         "answer": "Rotation at the atlantoaxial joint",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The halo vest is a device used to immobilize the cervical spine, particularly after fractures or surgeries. It is designed to restrict motion in the cervical spine to allow for proper healing. The most effective restriction provided by the halo vest is in the rotation at the atlantoaxial joint, which is the joint between the first and second cervical vertebrae (C1 and C2).\n\nGiven the solutions provided:\nSolution 1: G\nSolution 2: G\nSolution 3: G\nSolution 4: G\nSolution 5: G\n\nAll solutions consistently identify \"G\" as the answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2170,
-            "completion_tokens": 2577
+            "completion_tokens": 2433
         },
-        "time_elapsed": 33.93296432495117
+        "time_elapsed": 29.361701011657715
     },
     {
         "realidx": "Text-16",
@@ -880,12 +1168,20 @@
         },
         "answer_idx": "A",
         "answer": "Pneumococcal vaccine",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". \n\nGiven the patient's travel plans to Taiwan, his medical history, and his current vaccination status, the Hepatitis A vaccine is recommended. Hepatitis A is a common travel-related illness, and vaccination is advised for travelers to regions where the disease is endemic, including parts of Asia such as Taiwan. \n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2290,
-            "completion_tokens": 2641
+            "completion_tokens": 2544
         },
-        "time_elapsed": 28.17386746406555
+        "time_elapsed": 32.61371183395386
     },
     {
         "realidx": "Text-18",
@@ -904,12 +1200,20 @@
         },
         "answer_idx": "G",
         "answer": "Coagulase-negative *Staphylococcus spp.*",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"F\". \n\nTo determine this, I reviewed each solution:\n- Solution 1: F\n- Solution 2: F\n- Solution 3: F\n- Solution 4: F\n- Solution 5: G\n\nThe answer \"F\" appears four times, while \"G\" appears only once. Therefore, the most reliable solution based on consistency is \"F\".\n\nThe correct answer is:\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2728,
-            "completion_tokens": 3157
+            "completion_tokens": 2773
         },
-        "time_elapsed": 35.967469215393066
+        "time_elapsed": 36.031585693359375
     },
     {
         "realidx": "Text-2",
@@ -928,12 +1232,20 @@
         },
         "answer_idx": "C",
         "answer": "This is hard to distinguish from pneumonia and sepsis so empirical antibiotics are given for 48 hours after birth until sepsis is ruled out",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3604,
-            "completion_tokens": 2419
+            "completion_tokens": 2483
         },
-        "time_elapsed": 27.291170597076416
+        "time_elapsed": 33.34684777259827
     },
     {
         "realidx": "Text-20",
@@ -952,12 +1264,20 @@
         },
         "answer_idx": "J",
         "answer": "Bacterial destruction",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"D\". \n\nThe patient's presentation includes a history of IV drug use, hepatitis C, cirrhosis, and recent fever with signs of infection. On admission, he had a high fever, elevated pulse, and signs of liver dysfunction (jaundice, abdominal distension, fluid wave). After treatment with antibiotics, his fever and abdominal tenderness improved, but he developed new bleeding from IV sites and bruising, which suggests a coagulopathy.\n\nDisseminated intravascular coagulation (DIC) is a condition characterized by widespread activation of the coagulation cascade, leading to the formation of blood clots in small blood vessels throughout the body. This can result in multiple organ damage and, paradoxically, bleeding due to the consumption of clotting factors and platelets. The patient's history of liver disease and sepsis increases the risk of DIC.\n\nTherefore, the most likely explanation for the patient's condition is DIC, which is consistent with the answer \"D\".\n\nThe single letter ID corresponding to the most consistent solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3244,
-            "completion_tokens": 3463
+            "completion_tokens": 3764
         },
-        "time_elapsed": 42.59634232521057
+        "time_elapsed": 42.159608364105225
     },
     {
         "realidx": "Text-22",
@@ -976,12 +1296,20 @@
         },
         "answer_idx": "E",
         "answer": "Enclosed muscular floor within the right atrium",
+        "solutions": [
+            "J",
+            "G",
+            "G",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 3088,
-            "completion_tokens": 3336
+            "completion_tokens": 3469
         },
-        "time_elapsed": 37.416471004486084
+        "time_elapsed": 40.519495248794556
     },
     {
         "realidx": "Text-24",
@@ -1000,12 +1328,20 @@
         },
         "answer_idx": "G",
         "answer": "Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for 5 years",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"B\". \n\nThe detailed thought process involves:\n1. Reviewing each solution provided.\n2. Noting that all solutions (Solution 1 through Solution 5) consistently identify \"B\" as the correct answer.\n3. Concluding that the consistency in the answers suggests \"B\" is the most reliable solution.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 4396,
-            "completion_tokens": 1508
+            "completion_tokens": 1684
         },
-        "time_elapsed": 19.794962406158447
+        "time_elapsed": 22.631406784057617
     },
     {
         "realidx": "Text-26",
@@ -1024,12 +1360,20 @@
         },
         "answer_idx": "A",
         "answer": "Age of menopause",
+        "solutions": [
+            "D",
+            "D",
+            "E",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"D\" (History of chronic anovulation). This is indicated by the fact that four out of the five solutions (Solution 1, Solution 2, Solution 4, and Solution 5) identify \"D\" as the answer. Therefore, the most reliable solution based on the consistency of the answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2668,
-            "completion_tokens": 2105
+            "completion_tokens": 2161
         },
-        "time_elapsed": 25.376784086227417
+        "time_elapsed": 34.3850781917572
     },
     {
         "realidx": "Text-27",
@@ -1048,12 +1392,20 @@
         },
         "answer_idx": "C",
         "answer": "Osteoid osteoma",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks which condition is linked to bone enlargement. The answer choices provided are various bone-related conditions. \n\nUpon evaluating the solutions provided:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nAll solutions consistently indicate \"A\" as the answer. \n\nPaget's disease of bone, also known as osteitis deformans, is characterized by the abnormal breakdown and formation of bone tissue, leading to enlarged and misshapen bones. The \"lytic\" phase refers to the initial phase of the disease where there is increased bone resorption.\n\nGiven the consistency across all solutions and the known characteristics of Paget's disease, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1588,
-            "completion_tokens": 1914
+            "completion_tokens": 2005
         },
-        "time_elapsed": 22.857532739639282
+        "time_elapsed": 32.61442708969116
     },
     {
         "realidx": "Text-28",
@@ -1072,12 +1424,20 @@
         },
         "answer_idx": "E",
         "answer": "Decreased serum haptoglobin concentration",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient described in the question presents with symptoms and physical findings suggestive of systemic sclerosis (scleroderma), particularly the diffuse cutaneous subtype. Key features include:\n\n- Progressive pain and stiffness in the fingers\n- Coarse and thickened skin on the arms, chest, and upper back\n- Diffuse hyperpigmentation and hypopigmented patches\n- Contractures of the proximal interphalangeal joints\n- Hypertension and renal involvement (anuria, elevated serum creatinine)\n- Pulmonary involvement (crackles, decreased breath sounds, dullness to percussion)\n\nGiven these clinical features, the most likely diagnosis is diffuse cutaneous systemic sclerosis (dcSSc). This subtype of systemic sclerosis is often associated with the presence of anti-RNA polymerase III antibodies.\n\nThe solutions provided all consistently indicate that the most likely finding in further evaluation would be elevated anti-RNA polymerase III antibodies.\n\nTherefore, the most consistent and reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3478,
-            "completion_tokens": 3051
+            "completion_tokens": 2956
         },
-        "time_elapsed": 37.79353594779968
+        "time_elapsed": 34.85644245147705
     },
     {
         "realidx": "Text-29",
@@ -1096,12 +1456,20 @@
         },
         "answer_idx": "J",
         "answer": "Meta-analysis",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The question asks for the study design that would offer the most robust evidence to support the decision to switch hypertensive and diabetic patients to a new blood pressure medication based on improved outcomes. The answer choices provided include various types of study designs.\n\nTo determine the most reliable solution, we need to identify the answer that appears most frequently across the solutions provided. Here are the solutions:\n\nSolution 1: H\nSolution 2: H\nSolution 3: H\nSolution 4: H\nSolution 5: H\n\nAll the solutions consistently indicate \"H\" as the answer. \n\nThe letter \"H\" corresponds to \"Randomized control trial\" (RCT). RCTs are considered the gold standard in clinical research because they minimize bias, allow for control over confounding variables, and provide the highest level of evidence for determining the efficacy of a treatment.\n\nTherefore, the most consistent and reliable solution is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1756,
-            "completion_tokens": 2669
+            "completion_tokens": 2689
         },
-        "time_elapsed": 31.442957878112793
+        "time_elapsed": 53.098897218704224
     },
     {
         "realidx": "Text-3",
@@ -1120,12 +1488,20 @@
         },
         "answer_idx": "I",
         "answer": "Begin cabergoline 0.25 mg twice weekly",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The patient described in the question has a pituitary adenoma, as evidenced by the MRI findings of an 18-mm sellar mass with suprasellar extension and compression of the optic chiasm. The elevated prolactin level (389 ng/mL) and symptoms of galactorrhea, irregular menses, and reduced libido are consistent with a prolactinoma.\n\nThe most appropriate initial treatment for a prolactinoma is medical therapy with a dopamine agonist, such as cabergoline or bromocriptine. These medications can reduce prolactin levels, decrease tumor size, and alleviate symptoms. \n\nGiven the consistency of the solutions provided (all indicating \"I\"), the most appropriate next step for this patient is to begin cabergoline therapy.\n\nTherefore, the answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3610,
-            "completion_tokens": 3124
+            "completion_tokens": 3100
         },
-        "time_elapsed": 40.33925938606262
+        "time_elapsed": 39.10733604431152
     },
     {
         "realidx": "Text-30",
@@ -1144,12 +1520,20 @@
         },
         "answer_idx": "I",
         "answer": "Referral to craniofacial specialists",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2824,
-            "completion_tokens": 2686
+            "completion_tokens": 2404
         },
-        "time_elapsed": 35.547881841659546
+        "time_elapsed": 41.09355616569519
     },
     {
         "realidx": "Text-31",
@@ -1168,12 +1552,20 @@
         },
         "answer_idx": "D",
         "answer": "Superior vertical strain",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is \"G\". \n\nThe detailed thought process involves understanding the clinical presentation and the osteopathic findings. The patient has a persistent sensation in the head following a fall, with no acute distress or neurological deficits. The osteopathic structural examination reveals the greater wings of the sphenoid as deviated caudad, giving them a posterior feel. This description is consistent with an inferior vertical strain, where the sphenoid bone is displaced inferiorly relative to the occiput.\n\nTherefore, the most likely diagnosis for this patient, based on the consistent solutions and the clinical findings, is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2230,
-            "completion_tokens": 2698
+            "completion_tokens": 2772
         },
-        "time_elapsed": 28.795981884002686
+        "time_elapsed": 58.382221937179565
     },
     {
         "realidx": "Text-32",
@@ -1192,12 +1584,20 @@
         },
         "answer_idx": "F",
         "answer": "Colonoscopy",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The patient is a 70-year-old male with a history of fatigue, shortness of breath, and decreased exercise tolerance over the past 8 months. His medical history includes hypertension and osteoarthritis, and he is on lisinopril, aspirin, and occasional Tylenol. His physical examination reveals conjunctival pallor, pale nail beds, dry skin, and tachycardia. Laboratory results show anemia with a hemoglobin level of 8.5 g/dL, hematocrit of 32%, and a low mean corpuscular volume (MCV) of 72 fL, indicating microcytic anemia. His iron studies reveal low iron (38 \u03bcg/dL) and low ferritin (12 ng/mL), suggesting iron deficiency anemia. The fecal occult blood test is negative.\n\nGiven the patient's presentation and laboratory findings, the most appropriate next step in management is to address the iron deficiency. The most consistent solution across the provided answers is oral iron supplementation (H). This is because the patient has clear signs of iron deficiency anemia, and oral iron supplementation is the first-line treatment for this condition.\n\nTherefore, the most appropriate next step in management is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3250,
-            "completion_tokens": 3098
+            "completion_tokens": 2991
         },
-        "time_elapsed": 35.55924868583679
+        "time_elapsed": 86.21040081977844
     },
     {
         "realidx": "Text-33",
@@ -1216,12 +1616,20 @@
         },
         "answer_idx": "G",
         "answer": "L3-L4",
+        "solutions": [
+            "F",
+            "B",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"F\". \n\nThe detailed thought process involves evaluating the clinical presentation and correlating it with the most likely affected nerve root levels. The patient has chronic low back pain with numbness, tingling, and radiating pain down the right leg, decreased sensation, reduced strength, diminished patellar reflex, and a positive straight leg raise test. These symptoms are indicative of nerve root compression, commonly seen in lumbar radiculopathy.\n\nThe right patellar reflex being diminished (grade 1/4) suggests involvement of the L4 nerve root, as the patellar reflex is mediated by the L4 nerve root. The positive straight leg raise test and radiating pain down the leg further suggest involvement of the lower lumbar nerve roots, particularly L5 and S1.\n\nTherefore, the nerve root levels most likely involved are L4, L5, and S1, which corresponds to option (F) L4-S1.\n\nThus, the most consistent and reliable solution is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2308,
-            "completion_tokens": 2158
+            "completion_tokens": 2319
         },
-        "time_elapsed": 27.142049074172974
+        "time_elapsed": 62.05413460731506
     },
     {
         "realidx": "Text-34",
@@ -1240,12 +1648,20 @@
         },
         "answer_idx": "G",
         "answer": "Synovitis of the metacarpophalangeal joints and subcutaneous nodules",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is (F) Clubbing of the digits.\n\nExplanation:\nThe patient's presentation of a chronic, nonproductive cough, mild shortness of breath, and a pleural effusion with a specific fluid analysis suggests a possible underlying malignancy, particularly mesothelioma. The cytology revealing slender, elongated, spindle-shaped cells is characteristic of mesothelioma. Clubbing of the digits is a common physical examination finding associated with chronic pulmonary conditions, including mesothelioma.\n\nTherefore, the most likely additional physical examination finding in this patient is:\n\n(F) Clubbing of the digits",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3502,
-            "completion_tokens": 2188
+            "completion_tokens": 2529
         },
-        "time_elapsed": 25.41703748703003
+        "time_elapsed": 73.88210487365723
     },
     {
         "realidx": "Text-35",
@@ -1264,12 +1680,20 @@
         },
         "answer_idx": "J",
         "answer": "Diphtheria and tetanus toxoids, acellular pertussis (DTaP) vaccine at 2 months of chronological age",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is \"F\". \n\nThe detailed thought process is as follows:\n- The newborn is preterm, born at 33 weeks' gestation.\n- The Apgar scores are 7 and 8, indicating the baby is in relatively good condition.\n- The mother has a history of smoking, which can affect the baby's health.\n- The most appropriate immunization recommendation for a newborn, especially in the context of the first few hours or days of life, is the Hepatitis B vaccine. This is typically given to all newborns shortly after birth to prevent perinatal transmission of Hepatitis B from mother to child.\n\nTherefore, the correct answer is:\n\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3388,
-            "completion_tokens": 2262
+            "completion_tokens": 2888
         },
-        "time_elapsed": 25.310677528381348
+        "time_elapsed": 44.757553815841675
     },
     {
         "realidx": "Text-36",
@@ -1288,12 +1712,20 @@
         },
         "answer_idx": "D",
         "answer": "Administer hepatitis B vaccine only within 12 hours of birth",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3010,
             "completion_tokens": 1443
         },
-        "time_elapsed": 20.57661509513855
+        "time_elapsed": 19.879512786865234
     },
     {
         "realidx": "Text-37",
@@ -1312,12 +1744,20 @@
         },
         "answer_idx": "G",
         "answer": "Repeat thoracentesis with cytopathologic study",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is (I) Video-assisted thoracoscopic surgery (VATS).\n\nExplanation:\nThe patient presents with a large pleural effusion that is bloody, and the initial diagnostic thoracentesis did not reveal a clear cause (negative for malignancy, low adenosine deaminase level, and negative cultures). Given the patient's history of smoking and the presence of a bloody effusion, malignancy remains a significant concern despite the negative cytopathology from the initial thoracentesis. VATS allows for direct visualization of the pleura and lung, and it enables the collection of larger and more representative tissue samples for histopathological examination, which can help in diagnosing conditions such as malignancy or other pleural diseases that might not be detected with less invasive methods.\n\nTherefore, the most appropriate next step to determine the cause of this patient\u2019s pleural effusion is (I) Video-assisted thoracoscopic surgery (VATS).",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 5194,
-            "completion_tokens": 3381
+            "completion_tokens": 2922
         },
-        "time_elapsed": 41.76153755187988
+        "time_elapsed": 32.41488575935364
     },
     {
         "realidx": "Text-39",
@@ -1336,12 +1776,20 @@
         },
         "answer_idx": "H",
         "answer": "480 mL",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "To determine the total volume of gas in the patient's airways and lungs that does not participate in gas exchange, we need to calculate the anatomical dead space. Anatomical dead space includes the volume of the upper airway and the conducting airway.\n\nGiven data:\n- Upper airway volume: 100 mL\n- Conducting airway volume: 125 mL\n\nAnatomical dead space = Upper airway volume + Conducting airway volume\n= 100 mL + 125 mL\n= 225 mL\n\nThe most consistent solution across all provided solutions is:\nG\n\nTherefore, the correct answer is:\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2770,
-            "completion_tokens": 2125
+            "completion_tokens": 1791
         },
-        "time_elapsed": 25.426663637161255
+        "time_elapsed": 21.857090950012207
     },
     {
         "realidx": "Text-4",
@@ -1360,12 +1808,20 @@
         },
         "answer_idx": "J",
         "answer": "A 9-month-old boy with a 4-mm muscular defect with\u00a0pulmonary hypertension",
-        "predicted_answer": "D",
+        "solutions": [
+            "D",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"C\". \n\nThe detailed thought process involves understanding the clinical indications for surgical repair of congenital heart defects, particularly ventricular septal defects (VSDs). Surgical intervention is typically recommended for larger defects, especially those causing significant hemodynamic compromise, such as severe pulmonary hypertension or bidirectional shunting, which can lead to Eisenmenger syndrome if left untreated.\n\nIn this case, the 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease that is unresponsive to pulmonary vasodilators (Option C) represents a scenario where surgical repair is necessary to prevent further complications and deterioration of the patient's condition.\n\nTherefore, the most consistent and reliable solution is:\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 4060,
-            "completion_tokens": 2841
+            "completion_tokens": 2938
         },
-        "time_elapsed": 34.00355815887451
+        "time_elapsed": 33.22663331031799
     },
     {
         "realidx": "Text-40",
@@ -1384,12 +1840,20 @@
         },
         "answer_idx": "A",
         "answer": "Meta-analysis of prospective cohort studies of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3832,
-            "completion_tokens": 2803
+            "completion_tokens": 2470
         },
-        "time_elapsed": 36.0554735660553
+        "time_elapsed": 29.75024175643921
     },
     {
         "realidx": "Text-41",
@@ -1408,12 +1872,20 @@
         },
         "answer_idx": "J",
         "answer": "Convert it to a full-thickness tear and repair it with suture anchors",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is:\n\nI\n\nExplanation:\nAll five solutions consistently suggest \"I\" as the most appropriate course of action. This indicates a strong consensus that arthroscopic repair of the bursal-sided tear without conversion is the best approach for the described scenario. This consistency suggests that this option is the most reliable and appropriate treatment for the patient's condition.",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2746,
-            "completion_tokens": 3029
+            "completion_tokens": 2944
         },
-        "time_elapsed": 32.85241770744324
+        "time_elapsed": 39.40783953666687
     },
     {
         "realidx": "Text-44",
@@ -1432,12 +1904,20 @@
         },
         "answer_idx": "G",
         "answer": "An activated protein C resistance ratio of 0.3",
+        "solutions": [
+            "F",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is (E). \n\nThe reasoning behind this choice is as follows:\n- The patient has a complex congenital heart disease with a Fontan procedure, which is a palliative surgery used in patients with single ventricle physiology.\n- New-onset cyanosis in a patient with a Fontan procedure can be due to several reasons, including obstruction in the Fontan pathway, thrombus formation, or issues with pulmonary blood flow.\n- A CT angiogram showing a patent Fontan pathway would help diagnose whether there is any obstruction or thrombus in the Fontan circuit, which could be causing the cyanosis.\n\nTherefore, the most reliable solution based on the consistency of the answers is:\n\n(E)",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3226,
-            "completion_tokens": 3101
+            "completion_tokens": 3226
         },
-        "time_elapsed": 33.52190947532654
+        "time_elapsed": 33.51315355300903
     },
     {
         "realidx": "Text-46",
@@ -1456,12 +1936,20 @@
         },
         "answer_idx": "E",
         "answer": "Place an anterior nasal pack",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "G",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 3358,
-            "completion_tokens": 3602
+            "completion_tokens": 3451
         },
-        "time_elapsed": 43.82923984527588
+        "time_elapsed": 35.4168119430542
     },
     {
         "realidx": "Text-47",
@@ -1480,12 +1968,20 @@
         },
         "answer_idx": "J",
         "answer": "Blood culture, lumbar puncture, then administration of antibiotics and dexamethasone",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is:\n\nB\n\nExplanation:\nThe patient presents with symptoms highly suggestive of bacterial meningitis, including severe headache, fever, petechial rash, and nuchal rigidity. In such cases, the immediate priority is to administer antibiotics to prevent further progression of the infection and potential complications. The correct sequence of steps for initial evaluation and treatment in suspected bacterial meningitis typically involves:\n\n1. Blood culture: To identify the causative organism.\n2. Administration of antibiotics and dexamethasone: To start treatment as soon as possible to reduce morbidity and mortality.\n3. Lumbar puncture: To confirm the diagnosis and guide further treatment.\n\nThis sequence ensures that treatment is not delayed while still obtaining necessary diagnostic information. Therefore, the correct answer is B.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 4006,
-            "completion_tokens": 2035
+            "completion_tokens": 2318
         },
-        "time_elapsed": 26.68224263191223
+        "time_elapsed": 28.41857147216797
     },
     {
         "realidx": "Text-49",
@@ -1504,12 +2000,20 @@
         },
         "answer_idx": "G",
         "answer": "Glycogen storage disease type 1",
+        "solutions": [
+            "F",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is F.\n\nThe detailed thought process is as follows:\n- The infant presents with difficulty weaning from nighttime feedings, distress after a few hours without feeding, and is consoled by feeding, which suggests a metabolic issue.\n- The growth assessment shows a decline in length percentile but stable weight percentile, indicating a possible metabolic or storage disorder.\n- Physical examination reveals facial fullness, a significantly distended abdomen, thin limbs, and hepatomegaly without splenomegaly.\n- The blood sample shows a characteristic milky white layer, which is indicative of hyperlipidemia.\n\nGiven these clinical features, the most probable diagnosis is Lipoprotein lipase deficiency (Option F), which is consistent with the presence of hyperlipidemia (milky white blood sample) and the described physical findings.\n\nTherefore, the answer is:\nF",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 2686,
-            "completion_tokens": 3243
+            "completion_tokens": 3330
         },
-        "time_elapsed": 39.40965151786804
+        "time_elapsed": 38.23382377624512
     },
     {
         "realidx": "Text-5",
@@ -1528,12 +2032,20 @@
         },
         "answer_idx": "C",
         "answer": "Three weeks elapse after the onset of symptoms",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"G\". \n\nThe reasoning behind this is that in the context of infectious mononucleosis, which is suggested by the positive heterophile antibody test and Epstein-Barr virus (EBV) serology, the primary concern for athletes returning to sports is the risk of splenic rupture. This risk is associated with splenomegaly, which can occur in mononucleosis. Therefore, confirming the absence of splenomegaly via an abdominal ultrasound is a critical criterion for safely returning to full activity, including sports.\n\nThus, the most consistent and reliable solution is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 2836,
-            "completion_tokens": 2673
+            "completion_tokens": 2473
         },
-        "time_elapsed": 30.13326096534729
+        "time_elapsed": 29.994377374649048
     },
     {
         "realidx": "Text-50",
@@ -1552,12 +2064,20 @@
         },
         "answer_idx": "B",
         "answer": "Axillary lymph nodes",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"D\". \n\nThe detailed thought process involves understanding the clinical presentation and correlating it with the most likely anatomical structure involved. The patient presents with a red, itchy rash over the right breast, which is rough to the touch, and has not improved with emollients. The physical examination reveals redness, swelling, induration, and skin retraction, but no palpable masses. These findings are suggestive of inflammatory breast cancer, which typically involves the dermal lymphatics. The involvement of dermal lymphatics leads to the characteristic skin changes such as redness, swelling, and peau d'orange (orange peel) appearance.\n\nTherefore, the answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2344,
-            "completion_tokens": 2445
+            "completion_tokens": 2564
         },
-        "time_elapsed": 26.08319091796875
+        "time_elapsed": 28.01306176185608
     },
     {
         "realidx": "Text-51",
@@ -1576,12 +2096,20 @@
         },
         "answer_idx": "F",
         "answer": "Mood dysregulation, inattentiveness, and hyperactivity",
-        "predicted_answer": "A",
+        "solutions": [
+            "I",
+            "I",
+            "F",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"I\". \n\nGiven the context of the question, a 15-year-old girl with phenylketonuria (PKU) who is considering an unrestricted vegetarian diet, it is important to understand the potential consequences of such a diet on her condition. PKU is a metabolic disorder where the body cannot properly break down the amino acid phenylalanine, leading to its accumulation in the blood, which can cause brain damage and cognitive impairment if not managed properly.\n\nAn unrestricted vegetarian diet, even though it excludes animal protein, can still contain significant amounts of phenylalanine from plant-based sources. Without proper dietary management and continued use of phenylalanine-free formula, the patient is at risk of elevated phenylalanine levels, which can lead to severe neurological consequences.\n\nThe correct answer, based on the most consistent solution and the understanding of PKU, is:\n\nI",
+        "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2890,
-            "completion_tokens": 2512
+            "completion_tokens": 2322
         },
-        "time_elapsed": 34.37669658660889
+        "time_elapsed": 26.79547357559204
     },
     {
         "realidx": "Text-53",
@@ -1600,12 +2128,20 @@
         },
         "answer_idx": "E",
         "answer": "Fingerstick glucose\u00a0level",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The patient presents with acute onset of neurological symptoms, including difficulty speaking, right facial numbness, and weakness in his right arm and leg. These symptoms are highly suggestive of an acute stroke. The immediate next step in managing a patient with suspected acute stroke is to perform a rapid assessment to determine if the stroke is ischemic or hemorrhagic, as this will guide further treatment.\n\nThe most critical initial diagnostic test in this scenario is a non-contrast computerized tomography (CT) scan of the head. This imaging modality is essential to quickly differentiate between ischemic and hemorrhagic stroke, which is crucial for determining the appropriate treatment, such as the administration of intravenous tissue plasminogen activator (tPA) for ischemic stroke if the patient is within the treatment window and has no contraindications.\n\nGiven the consistency of the solutions provided (all indicating \"B\"), the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2866,
-            "completion_tokens": 1640
+            "completion_tokens": 1711
         },
-        "time_elapsed": 23.25234866142273
+        "time_elapsed": 21.479106187820435
     },
     {
         "realidx": "Text-55",
@@ -1624,12 +2160,20 @@
         },
         "answer_idx": "J",
         "answer": "Fenoldopam",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2170,
-            "completion_tokens": 2843
+            "completion_tokens": 2745
         },
-        "time_elapsed": 30.807581901550293
+        "time_elapsed": 29.63510227203369
     },
     {
         "realidx": "Text-58",
@@ -1648,12 +2192,20 @@
         },
         "answer_idx": "A",
         "answer": "Elevated levels of IL-6",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is:\n\nI\n\nExplanation:\nThe patient presents with symptoms and findings suggestive of nephrotic syndrome, including significant proteinuria, edema, and characteristic findings on renal biopsy. The presence of casts with a cross-like appearance under polarized light is indicative of amyloidosis. Amyloidosis often involves the deposition of abnormal proteins, which can be identified by an altered kappa to lambda ratio. This is consistent with the diagnosis of amyloidosis, which is associated with the likely cause of the patient's edema. Therefore, the most consistent and reliable answer is (I) Altered kappa to lambda ratio.",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2818,
-            "completion_tokens": 2363
+            "completion_tokens": 2856
         },
-        "time_elapsed": 30.33331060409546
+        "time_elapsed": 30.986703634262085
     },
     {
         "realidx": "Text-59",
@@ -1672,12 +2224,20 @@
         },
         "answer_idx": "G",
         "answer": "Fibrosing mediastinitis",
+        "solutions": [
+            "E",
+            "H",
+            "H",
+            "E",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"H\". \n\nHere is the breakdown of the solutions:\n- Solution 1: E\n- Solution 2: H\n- Solution 3: H\n- Solution 4: E\n- Solution 5: H\n\nThe answer \"H\" appears three times, while \"E\" appears twice. Therefore, the most consistent solution is \"H\".\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 1924,
-            "completion_tokens": 2614
+            "completion_tokens": 2617
         },
-        "time_elapsed": 31.894800424575806
+        "time_elapsed": 32.50602459907532
     },
     {
         "realidx": "Text-60",
@@ -1696,12 +2256,20 @@
         },
         "answer_idx": "J",
         "answer": "Cidofovir",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is E. \n\nThe patient described is HIV-positive and presents with severe, recurrent oral ulcers. The genetic testing of the pathogen reveals a mutation in the gene encoding viral phosphotransferases, which suggests resistance to certain antiviral medications. Foscarnet (E) is known to be effective against viruses that have developed resistance to other antiviral drugs, particularly those involving mutations in viral phosphotransferases.\n\nTherefore, the most appropriate treatment in this case is Foscarnet.\n\nThe single letter ID corresponding to the most consistent solution is:\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2290,
-            "completion_tokens": 2406
+            "completion_tokens": 2444
         },
-        "time_elapsed": 27.750464916229248
+        "time_elapsed": 28.10506248474121
     },
     {
         "realidx": "Text-62",
@@ -1720,12 +2288,20 @@
         },
         "answer_idx": "A",
         "answer": "Ischemic segmental resorption",
+        "solutions": [
+            "D",
+            "D",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2584,
-            "completion_tokens": 1674
+            "completion_tokens": 1831
         },
-        "time_elapsed": 21.04845952987671
+        "time_elapsed": 23.739103078842163
     },
     {
         "realidx": "Text-63",
@@ -1744,12 +2320,20 @@
         },
         "answer_idx": "F",
         "answer": "Malrotation of the gut",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"E\". \n\nTo determine the most probable underlying etiology of the child's clinical presentation, we need to consider the symptoms: progressive abdominal pain, history of constipation, vomiting, refusal to eat, and upper abdominal distention with tympany. \n\nVolvulus (E) is a condition where the intestine twists around itself and the mesentery that supports it, leading to bowel obstruction. This can cause symptoms such as abdominal pain, vomiting, constipation, and abdominal distention, which align with the child's presentation. \n\nGiven that all solutions consistently identify \"E\" as the answer, it is reasonable to conclude that the most probable underlying etiology is volvulus.\n\nThus, the answer is:\nE",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2224,
-            "completion_tokens": 3044
+            "completion_tokens": 3179
         },
-        "time_elapsed": 37.427504777908325
+        "time_elapsed": 35.27261257171631
     },
     {
         "realidx": "Text-64",
@@ -1768,12 +2352,20 @@
         },
         "answer_idx": "J",
         "answer": "Cystathionine synthase deficiency",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is (A) Fibrillin 1 deficiency.\n\nThe detailed thought process is as follows:\n- The boy presents with a combination of developmental delays, physical characteristics, and specific clinical findings.\n- The physical characteristics include bilateral inferior lens dislocation, long slender fingers, a high-arched palate, and hyperelastic skin.\n- These features are highly suggestive of a connective tissue disorder.\n- The ability to wrap one hand around the opposite wrist with the thumb and fifth finger overlapping is known as the \"wrist sign\" or \"Walker-Murdoch sign,\" which is indicative of Marfan syndrome.\n- Marfan syndrome is caused by a deficiency in fibrillin-1, a glycoprotein essential for the formation of elastic fibers in connective tissue.\n- Therefore, the most likely cause of these findings is a deficiency in fibrillin-1.\n\nThus, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2728,
-            "completion_tokens": 3501
+            "completion_tokens": 3486
         },
-        "time_elapsed": 37.58285093307495
+        "time_elapsed": 36.61482310295105
     },
     {
         "realidx": "Text-65",
@@ -1792,12 +2384,20 @@
         },
         "answer_idx": "C",
         "answer": "Levofloxacin",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is \"I\".\n\nExplanation:\nThe patient has been experiencing constipation, which is a common side effect of opioid medications. Hydrocodone-acetaminophen, an opioid, is known to cause decreased bowel movement frequency. The other medications listed either do not typically cause constipation or are not relevant to the patient's current medication regimen. Therefore, the most likely culprit for her decreased bowel movement frequency is the hydrocodone-acetaminophen.\n\nThus, the answer is:\n(I) Hydrocodone-acetaminophen",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 2386,
-            "completion_tokens": 2108
+            "completion_tokens": 1917
         },
-        "time_elapsed": 25.803789377212524
+        "time_elapsed": 26.747352361679077
     },
     {
         "realidx": "Text-66",
@@ -1816,12 +2416,20 @@
         },
         "answer_idx": "J",
         "answer": "58\u00ba",
+        "solutions": [
+            "C",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is (A). \n\nTo determine the most likely Cobb angle measurement in this patient, we need to consider the clinical presentation and physical examination findings. The patient has a history of chronic back pain, asymmetric hip movement, and shoulder elevation with scapular asymmetry, which are indicative of scoliosis. The Cobb angle is used to measure the degree of spinal curvature in scoliosis.\n\nGiven the significant physical findings, including shoulder elevation and scapular asymmetry, it is likely that the Cobb angle is substantial. The most frequently suggested answer is (A) 50\u00ba, which aligns with the severity of the clinical presentation.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2368,
-            "completion_tokens": 1989
+            "completion_tokens": 2011
         },
-        "time_elapsed": 26.860296726226807
+        "time_elapsed": 23.664207935333252
     },
     {
         "realidx": "Text-67",
@@ -1840,12 +2448,20 @@
         },
         "answer_idx": "A",
         "answer": "Repeating the urine dipstick test",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is (B) 24-hour urine collection. \n\nGiven the patient's presentation of significant proteinuria (3+ protein) and the presence of red blood cells in the urine, it is important to quantify the amount of protein being excreted over a 24-hour period. This will help in assessing the severity of proteinuria and guiding further management. The 24-hour urine collection is a standard next step in evaluating significant proteinuria detected on a routine urinalysis.\n\nTherefore, the most consistent and reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2374,
-            "completion_tokens": 2730
+            "completion_tokens": 2917
         },
-        "time_elapsed": 29.683663845062256
+        "time_elapsed": 35.069151401519775
     },
     {
         "realidx": "Text-68",
@@ -1864,12 +2480,20 @@
         },
         "answer_idx": "A",
         "answer": "Transverse axis",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is (C) Anteroposterior axis. \n\nThe patient's symptoms and physical examination findings suggest a musculoskeletal issue, likely costochondritis, which involves inflammation of the costal cartilage. The restriction of motion in the ribs, particularly on inhalation, points to a limitation in the anteroposterior axis of movement, which is the primary axis involved in the expansion and contraction of the rib cage during breathing.\n\nTherefore, the answer is:\n\n(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3154,
-            "completion_tokens": 2404
+            "completion_tokens": 2429
         },
-        "time_elapsed": 26.81814956665039
+        "time_elapsed": 28.752297163009644
     },
     {
         "realidx": "Text-69",
@@ -1888,12 +2512,20 @@
         },
         "answer_idx": "H",
         "answer": "Perform liver function testing",
+        "solutions": [
+            "I",
+            "I",
+            "I",
+            "I",
+            "I"
+        ],
+        "ensemble_response": "The patient in question has a history of type II diabetes mellitus and hypertension, and he is currently taking metformin and lisinopril. His LDL cholesterol level is significantly elevated at 190 mg/dL, which places him at high risk for cardiovascular events, especially given his family history of myocardial infarction and his smoking habit.\n\nThe most appropriate next step in managing this patient's elevated LDL cholesterol is to initiate statin therapy. Statins are the first-line treatment for lowering LDL cholesterol and reducing cardiovascular risk in patients with diabetes and other risk factors.\n\nGiven the consistency of the solutions provided, the most frequent and appropriate answer is:\n\nI",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3298,
-            "completion_tokens": 3357
+            "completion_tokens": 3022
         },
-        "time_elapsed": 34.251970529556274
+        "time_elapsed": 33.22512245178223
     },
     {
         "realidx": "Text-7",
@@ -1912,12 +2544,20 @@
         },
         "answer_idx": "F",
         "answer": "Index finger MCP hyperextension",
-        "predicted_answer": "I",
+        "solutions": [
+            "I",
+            "E",
+            "E",
+            "E",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"E\". \n\nHere is the detailed thought process:\n- The question involves a patient with a fractured humeral shaft and symptoms indicative of radial nerve injury, such as wrist drop and inability to extend the fingers and thumb.\n- The radial nerve is responsible for the extension of the wrist and fingers, and its injury typically affects these functions.\n- Among the solutions provided, \"E\" (Extension of the middle finger MCP joint) appears three times, which is the most frequent answer.\n\nTherefore, the most consistent solution is:\n\nE",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 1906,
-            "completion_tokens": 3040
+            "completion_tokens": 2947
         },
-        "time_elapsed": 38.083719968795776
+        "time_elapsed": 38.30236101150513
     },
     {
         "realidx": "Text-70",
@@ -1936,12 +2576,20 @@
         },
         "answer_idx": "J",
         "answer": "Between L3 and L4",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is:\n\nD\n\nExplanation:\nThe patient presents with symptoms indicative of a lumbar radiculopathy, including lower back pain, radiating pain, tingling, and diminished reflexes. The straight leg test being positive and the specific pattern of radiating pain suggest involvement of the L4 or L5 nerve roots. The diminished patellar reflex (L4) and the distribution of pain and tingling further support the involvement of the L4 nerve root. The most likely location of the damaged structure, given these findings, is between L4 and L5. Therefore, the answer is D.",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2668,
-            "completion_tokens": 2041
+            "completion_tokens": 2057
         },
-        "time_elapsed": 22.652824640274048
+        "time_elapsed": 25.066083669662476
     },
     {
         "realidx": "Text-71",
@@ -1960,12 +2608,20 @@
         },
         "answer_idx": "G",
         "answer": "Nifedipine",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is \"A\". \n\nGiven the patient's history of irregular menstrual cycles, well-controlled type 2 diabetes, and a desire for fertility, the most appropriate next intervention would be to address ovulation induction. Letrozole (A) is often used as a first-line treatment for ovulation induction in women with polycystic ovary syndrome (PCOS) or other ovulatory disorders, especially when they have a higher BMI and insulin resistance, which is common in type 2 diabetes. \n\nTherefore, the most consistent and appropriate answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2716,
             "completion_tokens": 2385
         },
-        "time_elapsed": 30.52019453048706
+        "time_elapsed": 25.822109937667847
     },
     {
         "realidx": "Text-72",
@@ -1984,12 +2640,20 @@
         },
         "answer_idx": "J",
         "answer": "Start levofloxacin and observe for 72 hours",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided solutions is (D) Add tiotropium to current regimen. \n\nGiven the patient's history of COPD and the current symptoms of worsening chronic cough and increasing shortness of breath, the addition of a long-acting muscarinic antagonist (LAMA) like tiotropium is appropriate. This medication helps to improve lung function and reduce symptoms in patients with COPD. The patient's normal BNP level and stable echocardiogram suggest that the worsening symptoms are more likely due to COPD rather than heart failure. Therefore, the most appropriate treatment is to optimize the COPD management by adding tiotropium.\n\nThe answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2746,
-            "completion_tokens": 3120
+            "completion_tokens": 2944
         },
-        "time_elapsed": 33.96956205368042
+        "time_elapsed": 31.599830150604248
     },
     {
         "realidx": "Text-73",
@@ -2008,12 +2672,20 @@
         },
         "answer_idx": "B",
         "answer": "Exertional heat stroke",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"B\". \n\nTo determine the most likely diagnosis, let's analyze the patient's presentation and symptoms:\n\n- The patient is a 33-year-old male construction worker, which suggests he works in an environment where physical exertion and exposure to high temperatures are common.\n- He was found unconscious at his worksite, indicating a sudden onset of symptoms.\n- His vital signs show a very high temperature (105\u00b0F or 40.6\u00b0C), tachycardia (heart rate 150/min), and normal oxygen saturation.\n- He is confused, non-communicative, and has sweat-soaked clothing, which are signs of severe hyperthermia and altered mental status.\n- There are no clear focal neurologic deficits, but he lacks purposeful movement of his extremities.\n\nGiven these details, the most likely diagnosis is exertional heat stroke (B), which occurs due to intense physical activity in a hot environment, leading to a rapid increase in body temperature and central nervous system dysfunction.\n\nOther options can be ruled out based on the following:\n- Anticholinergic toxicity (A) typically presents with dry skin, mydriasis, and decreased bowel sounds, which are not mentioned here.\n- Malignant hyperthermia (C) is usually triggered by certain anesthetic agents, which is not indicated in this scenario.\n- Neuroleptic malignant syndrome (D) can present similarly but usually develops over days and is associated with muscle rigidity, which is not described here.\n- Central nervous system infection (E) would likely present with signs of infection and possibly focal neurologic deficits.\n- Drug-induced hyperthermia (F) could be considered but is less likely given the context of the patient's work environment.\n- Septic shock (G) would typically present with hypotension and signs of infection.\n- Nonexertional heat stroke (H) occurs without physical exertion, which is less likely in a construction worker.\n- Thyroid storm (I) would present with additional signs of hyperthyroidism.\n- Status epilepticus (J) would present with continuous or recurrent seizures without recovery between them.\n\nTherefore, the most consistent and likely diagnosis is exertional heat stroke (B).",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2392,
-            "completion_tokens": 3208
+            "completion_tokens": 3514
         },
-        "time_elapsed": 38.60120224952698
+        "time_elapsed": 38.428301095962524
     },
     {
         "realidx": "Text-75",
@@ -2032,12 +2704,20 @@
         },
         "answer_idx": "A",
         "answer": "Wrist/hand tendon transfer surgery",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question asks about the strongest predictor of functional improvement following a specific procedure in individuals with cerebral palsy, with voluntary motion control being the key factor. The answer choices provided include various surgical and non-surgical interventions.\n\nUpon reviewing the solutions provided:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nAll solutions consistently indicate that the answer is (A) Wrist/hand tendon transfer surgery.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1648,
-            "completion_tokens": 2606
+            "completion_tokens": 2594
         },
-        "time_elapsed": 28.8567795753479
+        "time_elapsed": 29.000728130340576
     },
     {
         "realidx": "Text-78",
@@ -2056,12 +2736,20 @@
         },
         "answer_idx": "H",
         "answer": "Mesenteric angiography",
-        "predicted_answer": "G",
+        "solutions": [
+            "C",
+            "C",
+            "G",
+            "G",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"C\" (Colonoscopy). This answer appears in solutions 1, 2, and 5, making it the most consistent choice.\n\nTherefore, the answer is:\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2704,
-            "completion_tokens": 2809
+            "completion_tokens": 2941
         },
-        "time_elapsed": 32.7693874835968
+        "time_elapsed": 32.95607376098633
     },
     {
         "realidx": "Text-79",
@@ -2080,12 +2768,20 @@
         },
         "answer_idx": "B",
         "answer": "Perform the imaging study using a standard contrast medium",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question involves managing a 41-year-old woman with a shellfish allergy who requires intravenous radiocontrast for a CT scan. The concern here is the potential for an allergic reaction to the contrast medium, which is a common issue in patients with a history of allergies, particularly to shellfish.\n\nThe most appropriate approach in such cases typically involves premedication to reduce the risk of an allergic reaction. The options provided include various strategies, but the most consistent and widely accepted approach involves the use of both diphenhydramine (an antihistamine) and prednisone (a corticosteroid) to premedicate the patient before administering a nonionic contrast medium. This combination helps to mitigate the risk of an allergic reaction.\n\nUpon reviewing the solutions provided:\n- Solution 1: A\n- Solution 2: A\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nAll solutions consistently indicate option (A) as the most appropriate approach.\n\nTherefore, the most reliable solution is:\n\n(A) Premedicate with diphenhydramine and prednisone, and then perform the imaging study using a nonionic contrast medium",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2866,
-            "completion_tokens": 1978
+            "completion_tokens": 1880
         },
-        "time_elapsed": 23.082159280776978
+        "time_elapsed": 25.004457473754883
     },
     {
         "realidx": "Text-8",
@@ -2104,12 +2800,20 @@
         },
         "answer_idx": "H",
         "answer": "Repeat blood cultures now",
+        "solutions": [
+            "G",
+            "G",
+            "G",
+            "G",
+            "G"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is (G). \n\nThe patient presents with symptoms and physical exam findings suggestive of infective endocarditis, particularly given his history of intravenous drug use, fever, and a new murmur. Staphylococcus aureus is a common causative organism in such cases. To confirm the diagnosis of infective endocarditis, echocardiography is essential. Transesophageal echocardiography (TEE) is more sensitive than transthoracic echocardiography (TTE) for detecting vegetations, abscesses, and other complications of endocarditis, especially in patients with a high pretest probability of the disease, such as this patient.\n\nTherefore, the most appropriate next step is to perform transesophageal echocardiography immediately.\n\nThe answer is (G).",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 3136,
-            "completion_tokens": 2726
+            "completion_tokens": 2725
         },
-        "time_elapsed": 32.5775682926178
+        "time_elapsed": 33.602224826812744
     },
     {
         "realidx": "Text-80",
@@ -2128,12 +2832,20 @@
         },
         "answer_idx": "I",
         "answer": "Weight loss",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "E",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2524,
-            "completion_tokens": 2972
+            "completion_tokens": 2929
         },
-        "time_elapsed": 32.15019702911377
+        "time_elapsed": 34.069812536239624
     },
     {
         "realidx": "Text-83",
@@ -2152,12 +2864,20 @@
         },
         "answer_idx": "I",
         "answer": "T5 FRRSR",
-        "predicted_answer": "I",
+        "solutions": [
+            "F",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2404,
-            "completion_tokens": 2197
+            "completion_tokens": 1986
         },
-        "time_elapsed": 23.790238857269287
+        "time_elapsed": 23.359067916870117
     },
     {
         "realidx": "Text-84",
@@ -2176,12 +2896,20 @@
         },
         "answer_idx": "G",
         "answer": "Thoracolumbar scoliosis",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "I"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"C\" (Arachnodactyly). \n\nThe patient described in the question has multiple features suggestive of Marfan syndrome, a genetic disorder affecting connective tissue. The key features mentioned include joint hypermobility, pectus excavatum, and a decreased upper-to-lower body segment ratio. These are all characteristic of Marfan syndrome. \n\nArachnodactyly, or long, slender fingers, is another common feature of Marfan syndrome. Given that four out of the five solutions provided identify \"C\" as the answer, it is the most consistent and reliable solution.\n\nTherefore, the answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2326,
-            "completion_tokens": 2727
+            "completion_tokens": 2834
         },
-        "time_elapsed": 34.512207984924316
+        "time_elapsed": 31.403931140899658
     },
     {
         "realidx": "Text-85",
@@ -2200,12 +2928,20 @@
         },
         "answer_idx": "J",
         "answer": "Ibuprofen",
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient described is experiencing symptoms consistent with acute mountain sickness (AMS), which commonly occurs at elevations above 2500 meters. The symptoms of headache, nausea, mild peripheral and facial edema, and normal respiratory and neurological exams are typical of AMS. The most appropriate medication for the prevention and treatment of AMS is acetazolamide, which helps to acclimatize by inducing a mild metabolic acidosis, thereby stimulating ventilation and improving oxygenation.\n\nGiven that all the solutions provided (Solution 1 through Solution 5) consistently identify acetazolamide as the most appropriate medication, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2368,
-            "completion_tokens": 2576
+            "completion_tokens": 2597
         },
-        "time_elapsed": 27.041876554489136
+        "time_elapsed": 30.06386661529541
     },
     {
         "realidx": "Text-87",
@@ -2224,12 +2960,20 @@
         },
         "answer_idx": "H",
         "answer": "Azygos vein",
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is \"C\". \n\nThe reasoning behind this is that Batson's vertebral venous plexus (also known as the vertebral venous plexus) is a network of valveless veins that connect the deep pelvic veins and thoracic veins to the internal vertebral venous plexuses. This plexus provides a route for the spread of cancer cells from the breast to the spine, as it allows for the direct dissemination of metastatic cells to the vertebral bodies. This is consistent with the presentation of osteolytic lesions in the thoracic spine in the context of a confirmed invasive ductal carcinoma of the breast.\n\nTherefore, the correct answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2170,
-            "completion_tokens": 2618
+            "completion_tokens": 2611
         },
-        "time_elapsed": 34.27878141403198
+        "time_elapsed": 29.091408491134644
     },
     {
         "realidx": "Text-88",
@@ -2248,12 +2992,20 @@
         },
         "answer_idx": "C",
         "answer": "Create an action plan to assign responsibilities to prevent similar errors in the future",
-        "predicted_answer": "C",
+        "solutions": [
+            "B",
+            "B",
+            "C",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is (B). \n\nThe reasoning behind this choice is that creating a flowchart to illustrate the sequence of key events in the case is a crucial step in the root cause analysis process. It helps to visually map out the events leading up to the error, identify where the process failed, and understand the context in which the error occurred. This step is essential before moving on to creating action plans or implementing changes, as it provides a clear and comprehensive understanding of the problem.\n\nTherefore, the most consistent and reliable solution is:\n\n(B)",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2812,
-            "completion_tokens": 2095
+            "completion_tokens": 2121
         },
-        "time_elapsed": 24.353784322738647
+        "time_elapsed": 24.085672616958618
     },
     {
         "realidx": "Text-89",
@@ -2272,12 +3024,20 @@
         },
         "answer_idx": "A",
         "answer": "Hydroxyurea and measurement of ristocetin cofactor activity",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"H\". \n\nGiven the patient's diagnosis of essential thrombocythemia, the presence of the JAK2 V617F mutation, and the significantly elevated platelet count, the combination of hydroxyurea and aspirin (option H) is a commonly recommended treatment strategy. Hydroxyurea is used to reduce the platelet count, and low-dose aspirin is used to reduce the risk of thrombotic events, which are common complications in essential thrombocythemia.\n\nTherefore, the most appropriate management strategy for this patient is:\n\nH",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 2656,
-            "completion_tokens": 2732
+            "completion_tokens": 2723
         },
-        "time_elapsed": 31.684070825576782
+        "time_elapsed": 30.014978647232056
     },
     {
         "realidx": "Text-9",
@@ -2296,12 +3056,20 @@
         },
         "answer_idx": "B",
         "answer": "Reassure the patient and schedule a follow-up appointment",
+        "solutions": [
+            "E",
+            "G",
+            "G",
+            "E",
+            "G"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is (G) Repeat platelet count and peripheral smear in 2 weeks. \n\nThis is based on the fact that the patient has a slightly low platelet count (131,000/mm3) which is not critically low but warrants monitoring. Given that her blood pressure is within normal limits and there are no other signs of preeclampsia or other complications, the most appropriate next step is to monitor the platelet count to ensure it does not decrease further, which could indicate a developing condition.\n\nTherefore, the answer is:\n\nG",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 3328,
-            "completion_tokens": 3313
+            "completion_tokens": 3051
         },
-        "time_elapsed": 44.493340253829956
+        "time_elapsed": 34.22098231315613
     },
     {
         "realidx": "Text-92",
@@ -2320,12 +3088,20 @@
         },
         "answer_idx": "G",
         "answer": "Hemolytic anemia and ataxia",
+        "solutions": [
+            "H",
+            "H",
+            "H",
+            "H",
+            "H"
+        ],
+        "ensemble_response": "H",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3004,
-            "completion_tokens": 2771
+            "completion_tokens": 3441
         },
-        "time_elapsed": 29.39725971221924
+        "time_elapsed": 36.94112515449524
     },
     {
         "realidx": "Text-93",
@@ -2344,12 +3120,20 @@
         },
         "answer_idx": "D",
         "answer": "N-acetylcysteine",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2656,
-            "completion_tokens": 1998
+            "completion_tokens": 2206
         },
-        "time_elapsed": 25.343811511993408
+        "time_elapsed": 24.729079246520996
     },
     {
         "realidx": "Text-96",
@@ -2368,12 +3152,20 @@
         },
         "answer_idx": "E",
         "answer": "Staphylococcus aureus",
+        "solutions": [
+            "J",
+            "E",
+            "B",
+            "B",
+            "J"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is (B) Parainfluenza virus type 1. \n\nHere's the detailed thought process:\n\n1. The patient is a 16-year-old female with symptoms of a sore throat, breathing difficulties, cough, congestion, runny nose, low-grade fever, and body aches. These symptoms are consistent with a viral respiratory infection.\n2. The examination findings include a high temperature (39.0\u00b0C), increased heart rate (110 beats per minute), increased respiratory rate (26 breaths per minute), and low oxygen saturation (90% on room air). She also has inspiratory stridor and moderate intercostal retractions, which are signs of upper airway obstruction.\n3. The inspiratory stridor and the fact that her condition does not improve with racemic epinephrine suggest a diagnosis of croup, which is commonly caused by the Parainfluenza virus.\n4. The patient is fully vaccinated, including for Covid-19, and SARS-CoV-2 testing is negative, which helps rule out some other potential causes.\n5. The most common cause of croup, especially in children and adolescents, is the Parainfluenza virus type 1.\n\nGiven these points, the most consistent and likely answer is (B) Parainfluenza virus type 1.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3082,
-            "completion_tokens": 3288
+            "completion_tokens": 3303
         },
-        "time_elapsed": 35.45948553085327
+        "time_elapsed": 33.65392446517944
     },
     {
         "realidx": "Text-99",
@@ -2392,11 +3184,19 @@
         },
         "answer_idx": "F",
         "answer": "Obtain blood cultures, and initiate treatment with vancomycin, ceftriaxone, ampicillin, acyclovir, and dexamethasone",
+        "solutions": [
+            "E",
+            "E",
+            "E",
+            "E",
+            "E"
+        ],
+        "ensemble_response": "The most consistent solution across all provided answers is:\n\nE\n\nExplanation:\nThe patient presents with a history of HIV, recent seizure, fever, confusion, and focal neurological deficits. These symptoms suggest a possible central nervous system (CNS) infection or other intracranial pathology. The initial step in management should be to obtain imaging of the brain to identify any structural abnormalities, such as mass lesions, hemorrhage, or other causes of increased intracranial pressure, before performing a lumbar puncture. Therefore, the most appropriate initial management step is to order a CT of the head.",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 2926,
-            "completion_tokens": 2629
+            "completion_tokens": 2515
         },
-        "time_elapsed": 29.589983463287354
+        "time_elapsed": 27.364641666412354
     }
 ]

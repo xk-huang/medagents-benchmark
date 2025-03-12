@@ -118,6 +118,7 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
     start_time = time.time()
 
     candidate_solutions = []
+    raw_responses = []
     for i in range(num_rounds):
         generate_prompt = MEDPROMPT_GENERATE_PROMPT.format(
             question=question_text,
@@ -134,11 +135,13 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
                 prompt_tokens += usage.prompt_tokens
                 completion_tokens += usage.completion_tokens
             candidate_solutions.append(raw_response)
+            raw_responses.append(raw_response)
         except Exception as e:
             print(f"Error during generation LLM call: {e}")
             continue
 
     counter = Counter()
+    ensemble_raw_responses = []
     for i in range(vote_count):
         shuffled_solutions, answer_mapping = shuffle_answers(candidate_solutions)
         ensemble_solutions_text = ""
@@ -160,9 +163,11 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
                 prompt_tokens += usage.prompt_tokens
                 completion_tokens += usage.completion_tokens
             ensemble_response = raw_response
+            ensemble_raw_responses.append(raw_response)
         except Exception as e:
             print(f"Error during ensemble LLM call: {e}")
             ensemble_response = candidate_solutions[0] if candidate_solutions else ""
+            ensemble_raw_responses.append(ensemble_response)
 
         print(ensemble_response)
         predicted_answer, _ = parse_answer(ensemble_response, answer_mapping, client_old)
@@ -180,6 +185,9 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
         "completion_tokens": completion_tokens,
     }
     problem['time_elapsed'] = time_elapsed
+    problem['raw_responses'] = raw_responses
+    problem['ensemble_raw_responses'] = ensemble_raw_responses
+    problem['final_solution'] = final_solution
     return problem
 
 def load_jsonl(file_path: str) -> List[Dict]:

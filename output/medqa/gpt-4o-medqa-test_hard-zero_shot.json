@@ -42,12 +42,13 @@
             "correct next action",
             "resident to take"
         ],
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 241,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.7221870422363281
+        "time_elapsed": 2.2152585983276367
     },
     {
         "realidx": 5,
@@ -84,12 +85,13 @@
             "first step",
             "management"
         ],
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 209,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.9420421123504639
+        "time_elapsed": 2.0284526348114014
     },
     {
         "realidx": 6,
@@ -122,12 +124,13 @@
             "most likely underlying cause",
             "patient's condition"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 188,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.749913215637207
+        "time_elapsed": 5.911743879318237
     },
     {
         "realidx": 33,
@@ -161,12 +164,13 @@
             "following",
             "most likely underlying cause"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 220,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.776949405670166
+        "time_elapsed": 1.921746015548706
     },
     {
         "realidx": 34,
@@ -241,12 +245,13 @@
             "best next step",
             "management"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 399,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6167349815368652
+        "time_elapsed": 1.4109463691711426
     },
     {
         "realidx": 44,
@@ -309,12 +314,13 @@
             "present",
             "patient"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 331,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.9419968128204346
+        "time_elapsed": 1.1818139553070068
     },
     {
         "realidx": 59,
@@ -366,12 +372,13 @@
             "most consistent with",
             "patients condition"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 283,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6772315502166748
+        "time_elapsed": 1.5554349422454834
     },
     {
         "realidx": 64,
@@ -427,12 +434,13 @@
             "most appropriate",
             "patient"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 295,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7383365631103516
+        "time_elapsed": 1.7192542552947998
     },
     {
         "realidx": 81,
@@ -473,12 +481,13 @@
             "most abnormal",
             "patient"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 208,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.8361556529998779
+        "time_elapsed": 1.149796962738037
     },
     {
         "realidx": 112,
@@ -538,12 +547,13 @@
             "pathophysiology",
             "patient's chief complaint"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 292,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6531281471252441
+        "time_elapsed": 1.453761339187622
     },
     {
         "realidx": 114,
@@ -602,12 +612,13 @@
             "changes seen",
             "patient's labs"
         ],
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 295,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 0.7007930278778076
+        "time_elapsed": 1.2356224060058594
     },
     {
         "realidx": 128,
@@ -667,12 +678,13 @@
             "st likely t  c nfirm t",
             "agnosis?\""
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 368,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7007472515106201
+        "time_elapsed": 1.303037166595459
     },
     {
         "realidx": 145,
@@ -719,12 +731,13 @@
             "most likely to show",
             "following findings"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 304,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5793609619140625
+        "time_elapsed": 1.1134958267211914
     },
     {
         "realidx": 149,
@@ -782,12 +795,13 @@
             "toxins",
             "organism"
         ],
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 291,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5937697887420654
+        "time_elapsed": 1.5580878257751465
     },
     {
         "realidx": 155,
@@ -853,12 +867,13 @@
             "patient",
             "ymptoms?"
         ],
-        "predicted_answer": "D",
+        "completion": "(C)",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 332,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.564784049987793
+        "time_elapsed": 1.5121667385101318
     },
     {
         "realidx": 160,
@@ -919,12 +934,13 @@
             "patient",
             "infections"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 299,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6414997577667236
+        "time_elapsed": 0.5931611061096191
     },
     {
         "realidx": 171,
@@ -976,12 +992,13 @@
             "observed",
             "fetus"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 287,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.852236270904541
+        "time_elapsed": 1.4350450038909912
     },
     {
         "realidx": 178,
@@ -1028,12 +1045,13 @@
             "seen",
             "patient"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 241,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.8027513027191162
+        "time_elapsed": 1.7176635265350342
     },
     {
         "realidx": 196,
@@ -1075,12 +1093,13 @@
             "following anticoagulants",
             "patient most likely"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 212,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.615485668182373
+        "time_elapsed": 1.5055222511291504
     },
     {
         "realidx": 198,
@@ -1129,12 +1148,13 @@
             "treated",
             "drug"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 232,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6731727123260498
+        "time_elapsed": 1.3875961303710938
     },
     {
         "realidx": 202,
@@ -1189,12 +1209,13 @@
             "most likely initial metastatic site",
             "patient"
         ],
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 257,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6720974445343018
+        "time_elapsed": 0.9073324203491211
     },
     {
         "realidx": 203,
@@ -1247,12 +1268,13 @@
             "used to treat",
             "patient's condition"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 277,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.8515729904174805
+        "time_elapsed": 1.8204247951507568
     },
     {
         "realidx": 211,
@@ -1333,12 +1355,13 @@
             "workup",
             "patient"
         ],
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 463,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6681489944458008
+        "time_elapsed": 1.1085381507873535
     },
     {
         "realidx": 212,
@@ -1408,12 +1431,13 @@
             "authors",
             "following reasons"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 302,
             "completion_tokens": 2
         },
-        "time_elapsed": 2.147014856338501
+        "time_elapsed": 0.7373971939086914
     },
     {
         "realidx": 215,
@@ -1459,12 +1483,13 @@
             "management",
             "patient"
         ],
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 236,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6707110404968262
+        "time_elapsed": 1.206022024154663
     },
     {
         "realidx": 222,
@@ -1515,12 +1540,13 @@
             "patient",
             "most likely"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 291,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6253669261932373
+        "time_elapsed": 1.3608624935150146
     },
     {
         "realidx": 231,
@@ -1567,12 +1593,13 @@
             "following",
             "most likely causal organism"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 257,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7080948352813721
+        "time_elapsed": 2.5233147144317627
     },
     {
         "realidx": 234,
@@ -1617,12 +1644,13 @@
             "most likely explanation",
             "patient's laboratory findings"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 292,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.9023733139038086
+        "time_elapsed": 1.4033238887786865
     },
     {
         "realidx": 237,
@@ -1694,12 +1722,13 @@
             "most likely",
             "following findings"
         ],
-        "predicted_answer": "B",
+        "completion": "(D)",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 341,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5969276428222656
+        "time_elapsed": 0.7237188816070557
     },
     {
         "realidx": 238,
@@ -1751,12 +1780,13 @@
             "chosen",
             "specific study"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 277,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.533210039138794
+        "time_elapsed": 1.5052480697631836
     },
     {
         "realidx": 239,
@@ -1809,12 +1839,13 @@
             "most likely to confirm",
             "diagnosis"
         ],
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 282,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 0.6047303676605225
+        "time_elapsed": 1.1583006381988525
     },
     {
         "realidx": 241,
@@ -1890,12 +1921,13 @@
             "found",
             "histology"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 358,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.8258099555969238
+        "time_elapsed": 1.3183987140655518
     },
     {
         "realidx": 243,
@@ -1942,12 +1974,13 @@
             "action to take",
             "control"
         ],
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 240,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.638261079788208
+        "time_elapsed": 1.4607930183410645
     },
     {
         "realidx": 246,
@@ -2004,12 +2037,13 @@
             "most appropriate next step to confirm",
             "diagnosis"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 292,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.81917405128479
+        "time_elapsed": 0.7870080471038818
     },
     {
         "realidx": 258,
@@ -2070,12 +2104,13 @@
             "most likely cause",
             "current symptoms"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 289,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6580290794372559
+        "time_elapsed": 1.3298790454864502
     },
     {
         "realidx": 265,
@@ -2114,12 +2149,13 @@
             "most likely finding",
             "patient's chest CT"
         ],
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 230,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6210777759552002
+        "time_elapsed": 0.9281172752380371
     },
     {
         "realidx": 267,
@@ -2143,12 +2179,13 @@
             "carrier of",
             "disease"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 138,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6926295757293701
+        "time_elapsed": 0.9714603424072266
     },
     {
         "realidx": 271,
@@ -2216,12 +2253,13 @@
             "cause",
             "abnormal dipstick"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 375,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6935231685638428
+        "time_elapsed": 1.6214849948883057
     },
     {
         "realidx": 273,
@@ -2282,12 +2320,13 @@
             "most appropriate next step",
             "diagnosis"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 329,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.7043578624725342
+        "time_elapsed": 1.0640792846679688
     },
     {
         "realidx": 284,
@@ -2355,12 +2394,13 @@
             "mechanism of action",
             "prescribed medication"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 339,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7158522605895996
+        "time_elapsed": 0.9941942691802979
     },
     {
         "realidx": 285,
@@ -2415,12 +2455,13 @@
             "management",
             "patient"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 286,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5133402347564697
+        "time_elapsed": 1.2069721221923828
     },
     {
         "realidx": 303,
@@ -2522,12 +2563,13 @@
             "following",
             "most likely diagnosis"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 555,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7596995830535889
+        "time_elapsed": 1.2112748622894287
     },
     {
         "realidx": 307,
@@ -2603,12 +2645,13 @@
             "most appropriate course",
             "action"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 361,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6821331977844238
+        "time_elapsed": 1.73250150680542
     },
     {
         "realidx": 321,
@@ -2661,12 +2704,13 @@
             "management",
             "time"
         ],
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 284,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 1.1957767009735107
+        "time_elapsed": 1.51792573928833
     },
     {
         "realidx": 329,
@@ -2739,12 +2783,13 @@
             "following therapies",
             "most likely indicated"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 352,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7248821258544922
+        "time_elapsed": 1.1926240921020508
     },
     {
         "realidx": 336,
@@ -2813,12 +2858,13 @@
             "most associated with",
             "patients condition"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 316,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6859619617462158
+        "time_elapsed": 0.9346189498901367
     },
     {
         "realidx": 337,
@@ -2887,12 +2933,13 @@
             "change",
             "patients condition"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 343,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7119312286376953
+        "time_elapsed": 1.243185043334961
     },
     {
         "realidx": 340,
@@ -2962,12 +3009,13 @@
             "most appropriate next step",
             "management"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 319,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.9221422672271729
+        "time_elapsed": 1.139038324356079
     },
     {
         "realidx": 367,
@@ -3041,12 +3089,13 @@
             "management",
             "woman"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 399,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.0490689277648926
+        "time_elapsed": 3.816300392150879
     },
     {
         "realidx": 380,
@@ -3104,12 +3153,13 @@
             "best explanation",
             "patient's current presentation"
         ],
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 331,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 3.0030715465545654
+        "time_elapsed": 1.2065584659576416
     },
     {
         "realidx": 413,
@@ -3170,12 +3220,13 @@
             "best next step",
             "management"
         ],
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 341,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6363451480865479
+        "time_elapsed": 1.8430299758911133
     },
     {
         "realidx": 423,
@@ -3260,12 +3311,13 @@
             "best explanation",
             "patient's laboratory findings"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 453,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7410714626312256
+        "time_elapsed": 1.4713516235351562
     },
     {
         "realidx": 448,
@@ -3363,12 +3415,13 @@
             "treatment",
             "patient"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 449,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7366228103637695
+        "time_elapsed": 1.491506576538086
     },
     {
         "realidx": 452,
@@ -3422,12 +3475,13 @@
             "likely organism responsible",
             "patient's symptoms"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 279,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.6161816120147705
+        "time_elapsed": 0.9117121696472168
     },
     {
         "realidx": 454,
@@ -3479,12 +3533,13 @@
             "region",
             "histology slide shown"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 250,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.7098102569580078
+        "time_elapsed": 1.7893004417419434
     },
     {
         "realidx": 461,
@@ -3551,12 +3606,13 @@
             "most appropriate next step",
             "management"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 334,
             "completion_tokens": 1
         },
-        "time_elapsed": 6.724589586257935
+        "time_elapsed": 2.924330949783325
     },
     {
         "realidx": 477,
@@ -3598,12 +3654,13 @@
             "most likely to show weakness",
             "following actions"
         ],
+        "completion": "A",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 211,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 1.4458067417144775
+        "time_elapsed": 0.6659479141235352
     },
     {
         "realidx": 480,
@@ -3651,12 +3708,13 @@
             "likely present",
             "patient"
         ],
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 242,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.0196914672851562
+        "time_elapsed": 1.4400064945220947
     },
     {
         "realidx": 483,
@@ -3717,12 +3775,13 @@
             "best next treatment",
             "patient"
         ],
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 326,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.8147995471954346
+        "time_elapsed": 1.3341338634490967
     },
     {
         "realidx": 485,
@@ -3775,12 +3834,13 @@
             "most appropriate pharmacotherapy",
             "time"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 257,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.9952023029327393
+        "time_elapsed": 1.0415582656860352
     },
     {
         "realidx": 497,
@@ -3832,12 +3892,13 @@
             "obtained",
             "following"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 261,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.9562852382659912
+        "time_elapsed": 1.1169965267181396
     },
     {
         "realidx": 499,
@@ -3894,12 +3955,13 @@
             "following classes",
             "proteins"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 307,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.8718433380126953
+        "time_elapsed": 1.535043478012085
     },
     {
         "realidx": 501,
@@ -3944,12 +4006,13 @@
             "failure to",
             "antibiotic therapy"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 256,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7877979278564453
+        "time_elapsed": 1.5006754398345947
     },
     {
         "realidx": 514,
@@ -4008,12 +4071,13 @@
             "increased risk",
             "following"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 309,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.3869035243988037
+        "time_elapsed": 1.3620221614837646
     },
     {
         "realidx": 524,
@@ -4056,12 +4120,13 @@
             "most likely underlying cause",
             "patient's condition"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 240,
             "completion_tokens": 2
         },
-        "time_elapsed": 2.3640244007110596
+        "time_elapsed": 1.2738325595855713
     },
     {
         "realidx": 531,
@@ -4137,12 +4202,13 @@
             "management",
             "patient"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 433,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.4794774055480957
+        "time_elapsed": 1.5518386363983154
     },
     {
         "realidx": 560,
@@ -4215,12 +4281,13 @@
             "best explanation",
             "patients laboratory values"
         ],
-        "predicted_answer": "A",
+        "completion": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 399,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.3176000118255615
+        "time_elapsed": 1.3033149242401123
     },
     {
         "realidx": 564,
@@ -4263,12 +4330,13 @@
             "management",
             "patient"
         ],
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 235,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 1.4330978393554688
+        "time_elapsed": 0.7751767635345459
     },
     {
         "realidx": 579,
@@ -4349,12 +4417,13 @@
             "most likely reveal",
             "following"
         ],
-        "predicted_answer": "A",
+        "completion": "(D)",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 459,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7063109874725342
+        "time_elapsed": 1.1211917400360107
     },
     {
         "realidx": 583,
@@ -4409,12 +4478,13 @@
             "patient's",
             "likely diagnosis"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 268,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.3696606159210205
+        "time_elapsed": 1.4914774894714355
     },
     {
         "realidx": 587,
@@ -4451,12 +4521,13 @@
             "most likely congenital abnormality shown",
             "ultrasound"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 202,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.673879861831665
+        "time_elapsed": 1.0025348663330078
     },
     {
         "realidx": 596,
@@ -4506,12 +4577,13 @@
             "most likely cause",
             "infant's cyanosis"
         ],
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 276,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.9804472923278809
+        "time_elapsed": 1.3158130645751953
     },
     {
         "realidx": 616,
@@ -4552,12 +4624,13 @@
             "renal biopsy",
             "patient"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 208,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.636664628982544
+        "time_elapsed": 1.8249571323394775
     },
     {
         "realidx": 627,
@@ -4619,12 +4692,13 @@
             "best next step",
             "management"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 305,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.5876975059509277
+        "time_elapsed": 0.8165934085845947
     },
     {
         "realidx": 634,
@@ -4683,12 +4757,13 @@
             "best treatment",
             "patient"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 313,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7549712657928467
+        "time_elapsed": 1.420121669769287
     },
     {
         "realidx": 651,
@@ -4748,12 +4823,13 @@
             "most likely to show",
             "iron profile"
         ],
+        "completion": "(C)",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 295,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.4026598930358887
+        "time_elapsed": 0.6904048919677734
     },
     {
         "realidx": 659,
@@ -4810,12 +4886,13 @@
             "removal",
             "nodules"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 306,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.7157247066497803
+        "time_elapsed": 0.6921646595001221
     },
     {
         "realidx": 663,
@@ -4857,12 +4934,13 @@
             "most likely impaired",
             "patient"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 230,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.6730961799621582
+        "time_elapsed": 1.322800636291504
     },
     {
         "realidx": 664,
@@ -4902,12 +4980,13 @@
             "most likely diagnosis",
             "patient"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 232,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.6928906440734863
+        "time_elapsed": 1.2864229679107666
     },
     {
         "realidx": 665,
@@ -4951,12 +5030,13 @@
             "entrapment",
             "mass"
         ],
+        "completion": "(B) Flexor pollicis longus tendon",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 235,
             "completion_tokens": 10
         },
-        "time_elapsed": 0.655642032623291
+        "time_elapsed": 0.9925937652587891
     },
     {
         "realidx": 670,
@@ -4990,12 +5070,13 @@
             "mechanism of action",
             "chlorhexidine"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 227,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.9624135494232178
+        "time_elapsed": 1.2473814487457275
     },
     {
         "realidx": 676,
@@ -5039,12 +5120,13 @@
             "cell-type indicated",
             "arrow"
         ],
+        "completion": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 233,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.3823082447052002
+        "time_elapsed": 1.7474102973937988
     },
     {
         "realidx": 677,
@@ -5090,12 +5172,13 @@
             "management",
             "patients condition"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 237,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.7610244750976562
+        "time_elapsed": 1.1259183883666992
     },
     {
         "realidx": 689,
@@ -5143,12 +5226,13 @@
             "most appropriate next step",
             "management"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 299,
             "completion_tokens": 2
         },
-        "time_elapsed": 2.747175931930542
+        "time_elapsed": 1.0410301685333252
     },
     {
         "realidx": 706,
@@ -5220,12 +5304,13 @@
             "best next step",
             "management"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 341,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.5985989570617676
+        "time_elapsed": 1.3932058811187744
     },
     {
         "realidx": 709,
@@ -5257,12 +5342,13 @@
             "plasma ratio",
             "urea"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 154,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6549718379974365
+        "time_elapsed": 1.0084996223449707
     },
     {
         "realidx": 714,
@@ -5331,12 +5417,13 @@
             "found",
             "patient"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 363,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.1402661800384521
+        "time_elapsed": 1.1178102493286133
     },
     {
         "realidx": 720,
@@ -5381,12 +5468,13 @@
             "likely substance",
             "case"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 225,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.8083248138427734
+        "time_elapsed": 1.3357975482940674
     },
     {
         "realidx": 724,
@@ -5458,12 +5546,13 @@
             "patient's",
             "likely diagnosis"
         ],
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 376,
             "completion_tokens": 1
         },
-        "time_elapsed": 0.6200556755065918
+        "time_elapsed": 2.0060172080993652
     },
     {
         "realidx": 748,
@@ -5497,12 +5586,13 @@
             "following pathways to exert",
             "action"
         ],
+        "completion": "(B)",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 190,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.352276086807251
+        "time_elapsed": 1.8125429153442383
     },
     {
         "realidx": 755,
@@ -5571,12 +5661,13 @@
             "likely diagnosis",
             "patient"
         ],
+        "completion": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 339,
-            "completion_tokens": 2
+            "completion_tokens": 1
         },
-        "time_elapsed": 0.6672515869140625
+        "time_elapsed": 1.195786952972412
     },
     {
         "realidx": 758,
@@ -5662,12 +5753,13 @@
             "most likely explanation",
             "cardiac findings"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 462,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6508495807647705
+        "time_elapsed": 0.8303298950195312
     },
     {
         "realidx": 764,
@@ -5723,12 +5815,13 @@
             "most appropriate next step",
             "management"
         ],
-        "predicted_answer": "C",
+        "completion": "(D)",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 294,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.0328762531280518
+        "time_elapsed": 0.6956768035888672
     },
     {
         "realidx": 778,
@@ -5770,12 +5863,13 @@
             "residents moonlighting",
             "patient safety"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 244,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6425786018371582
+        "time_elapsed": 0.9624443054199219
     },
     {
         "realidx": 784,
@@ -5826,12 +5920,13 @@
             "next best step",
             "management"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 268,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.3858296871185303
+        "time_elapsed": 0.9954252243041992
     },
     {
         "realidx": 785,
@@ -5885,12 +5980,13 @@
             "most likely",
             "following"
         ],
+        "completion": "C",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 284,
             "completion_tokens": 1
         },
-        "time_elapsed": 1.8812785148620605
+        "time_elapsed": 1.2422611713409424
     },
     {
         "realidx": 791,
@@ -5940,12 +6036,13 @@
             "associated",
             "viral infection"
         ],
+        "completion": "(D)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 274,
             "completion_tokens": 2
         },
-        "time_elapsed": 0.6441173553466797
+        "time_elapsed": 0.9632487297058105
     },
     {
         "realidx": 803,
@@ -6007,12 +6104,13 @@
             "best next step",
             "management"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 293,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.5274641513824463
+        "time_elapsed": 1.077979564666748
     },
     {
         "realidx": 822,
@@ -6098,12 +6196,13 @@
             "patient's",
             "pathology"
         ],
-        "predicted_answer": "D",
+        "completion": "(B)",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 457,
-            "completion_tokens": 1
+            "completion_tokens": 2
         },
-        "time_elapsed": 0.6602330207824707
+        "time_elapsed": 1.5987706184387207
     },
     {
         "realidx": 829,
@@ -6154,11 +6253,12 @@
             "next best step",
             "management"
         ],
+        "completion": "(A)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 278,
             "completion_tokens": 2
         },
-        "time_elapsed": 1.4717555046081543
+        "time_elapsed": 1.2142772674560547
     }
 ]

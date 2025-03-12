@@ -16,12 +16,13 @@
         },
         "answer_idx": "E",
         "answer": "65-year-old female with a glenoid retroversion of 13-degrees undergoing shoulder arthroplasty",
-        "predicted_answer": "D",
+        "raw_response": "Answer: 65-year-old female with glenoid retroversion of 30-degrees and severe posterior wear undergoing shoulder arthroplasty",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 3727,
-            "completion_tokens": 27
+            "completion_tokens": 28
         },
-        "time_elapsed": 1.2356929779052734
+        "time_elapsed": 1.1791553497314453
     },
     {
         "realidx": "Text-1",
@@ -40,12 +41,13 @@
         },
         "answer_idx": "E",
         "answer": "Iliolumbar ligament",
+        "raw_response": "Answer: Iliolumbar ligament",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3542,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 1.0844709873199463
+        "time_elapsed": 1.5054152011871338
     },
     {
         "realidx": "Text-10",
@@ -64,12 +66,13 @@
         },
         "answer_idx": "D",
         "answer": "Change diuretics",
+        "raw_response": "Answer: Discontinue lithium therapy\n\nExplanation: The patient presents with symptoms consistent with lithium toxicity, including increased urinary frequency, fine tremor, and bradycardia. Lithium can cause nephrogenic diabetes insipidus, leading to polyuria and polydipsia, and can also cause tremors and bradycardia. Discontinuing lithium therapy is the most appropriate next step in managing this patient.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3660,
-            "completion_tokens": 77
+            "completion_tokens": 84
         },
-        "time_elapsed": 1.5467679500579834
+        "time_elapsed": 1.6643426418304443
     },
     {
         "realidx": "Text-101",
@@ -88,12 +91,13 @@
         },
         "answer_idx": "B",
         "answer": "Inferior vena cava filter",
+        "raw_response": "Answer: Unfractionated heparin therapy",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3659,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 1.9233338832855225
+        "time_elapsed": 2.177415370941162
     },
     {
         "realidx": "Text-102",
@@ -112,12 +116,13 @@
         },
         "answer_idx": "G",
         "answer": "Vaginal moisturizers",
+        "raw_response": "Answer: Topical estrogen\n\nExplanation: The patient's symptoms of urinary urgency, vaginal itching, urinary incontinence, pain during intercourse, and physical examination findings of atrophic vulvar skin, decreased elasticity, petechiae, and loss of vaginal rugae are consistent with genitourinary syndrome of menopause (GSM). GSM is a common condition in postmenopausal women due to estrogen deficiency. The most appropriate initial management step is the application of topical estrogen, which can help alleviate the symptoms by improving the health of the vaginal and urethral tissues.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3512,
-            "completion_tokens": 5
+            "completion_tokens": 114
         },
-        "time_elapsed": 0.8071897029876709
+        "time_elapsed": 3.9178454875946045
     },
     {
         "realidx": "Text-103",
@@ -136,12 +141,13 @@
         },
         "answer_idx": "E",
         "answer": "Marked bilateral hip flexion with ankles crossed and knees out to the sides",
-        "predicted_answer": "C",
+        "raw_response": "Answer: Marked bilateral hip flexion with right leg crossed over left and gentle external rotation",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3728,
-            "completion_tokens": 17
+            "completion_tokens": 19
         },
-        "time_elapsed": 1.2517755031585693
+        "time_elapsed": 3.7416844367980957
     },
     {
         "realidx": "Text-104",
@@ -160,12 +166,13 @@
         },
         "answer_idx": "J",
         "answer": "Posterior and inferior sternoclavicular somatic dysfunction",
+        "raw_response": "Answer: Anterior sternoclavicular joint dislocation",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3560,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 1.3652284145355225
+        "time_elapsed": 0.9251718521118164
     },
     {
         "realidx": "Text-106",
@@ -184,12 +191,13 @@
         },
         "answer_idx": "D",
         "answer": "Renal ultrasound",
+        "raw_response": "Answer: Transvaginal ultrasound\n\nExplanation: The patient's presentation of episodic back pain radiating to the abdomen, positive beta-hCG, and hematuria suggests a possible ectopic pregnancy or other pregnancy-related complications. A transvaginal ultrasound is the most appropriate diagnostic test to evaluate the location and viability of the pregnancy and to rule out ectopic pregnancy, which is a medical emergency.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3638,
-            "completion_tokens": 7
+            "completion_tokens": 81
         },
-        "time_elapsed": 4.192429304122925
+        "time_elapsed": 4.408679485321045
     },
     {
         "realidx": "Text-107",
@@ -208,12 +216,13 @@
         },
         "answer_idx": "J",
         "answer": "Truncus arteriosus",
+        "raw_response": "Answer: Patent ductus arteriosus",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3581,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 2.986326217651367
+        "time_elapsed": 3.083559036254883
     },
     {
         "realidx": "Text-109",
@@ -232,12 +241,13 @@
         },
         "answer_idx": "G",
         "answer": "Primary metabolic acidosis with concomitant respiratory acidosis",
+        "raw_response": "Answer: Primary metabolic acidosis with an anion gap\n\nExplanation: The patient's laboratory results show a low bicarbonate (HCO3) level of 10 mEq/L and a low pH of 7.12, indicating metabolic acidosis. The normal PaCO2 of 35 mmHg suggests that there is no significant respiratory compensation. The presence of an elevated serum creatinine level indicates renal impairment, which can contribute to an anion gap metabolic acidosis. The anion gap can be calculated as follows:\n\nAnion gap = Na+ - (Cl- + HCO3-)\nAnion gap = 135 - (92 + 10) = 33\n\nAn anion gap of 33 is significantly elevated, confirming the diagnosis of primary metabolic acidosis with an anion gap.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3567,
-            "completion_tokens": 163
+            "completion_tokens": 164
         },
-        "time_elapsed": 3.4464497566223145
+        "time_elapsed": 2.3789875507354736
     },
     {
         "realidx": "Text-11",
@@ -256,12 +266,13 @@
         },
         "answer_idx": "E",
         "answer": "Ventricular septal defect",
+        "raw_response": "Answer: Esophageal atresia with tracheoesophageal fistula",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3573,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 0.7574708461761475
+        "time_elapsed": 1.1534080505371094
     },
     {
         "realidx": "Text-110",
@@ -280,12 +291,13 @@
         },
         "answer_idx": "G",
         "answer": "Ceftriaxone once; metronidazole and doxycycline for 7 days",
+        "raw_response": "Answer: Ceftriaxone and azithromycin once",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3693,
-            "completion_tokens": 116
+            "completion_tokens": 12
         },
-        "time_elapsed": 1.7063491344451904
+        "time_elapsed": 2.043429374694824
     },
     {
         "realidx": "Text-111",
@@ -304,12 +316,13 @@
         },
         "answer_idx": "H",
         "answer": "a true rib that primarily moves in a bucket handle motion",
+        "raw_response": "Answer: a true rib that primarily moves in a bucket handle motion",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3590,
-            "completion_tokens": 13
+            "completion_tokens": 14
         },
-        "time_elapsed": 1.0103042125701904
+        "time_elapsed": 3.6093010902404785
     },
     {
         "realidx": "Text-114",
@@ -328,12 +341,13 @@
         },
         "answer_idx": "J",
         "answer": "Aspirin",
+        "raw_response": "Answer: Beta-blocker therapy alone",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3537,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 3.031043291091919
+        "time_elapsed": 1.9270007610321045
     },
     {
         "realidx": "Text-117",
@@ -352,12 +366,13 @@
         },
         "answer_idx": "G",
         "answer": "Intramuscular flu vaccine",
+        "raw_response": "Answer: Intramuscular flu vaccine\n\nExplanation: During pregnancy, it is important to protect both the mother and the fetus from preventable diseases. The intramuscular flu vaccine is recommended for pregnant women at any stage of pregnancy, as it is an inactivated vaccine and safe for both the mother and the fetus. Live vaccines, such as the MMR vaccine, live-attenuated influenza vaccine, and varicella vaccine, are contraindicated during pregnancy due to the potential risk to the fetus. The Tetanus/Diphtheria/Pertussis vaccine is recommended later in pregnancy, typically between 27 and 36 weeks of gestation, to maximize the transfer of antibodies to the fetus.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3573,
-            "completion_tokens": 7
+            "completion_tokens": 142
         },
-        "time_elapsed": 2.284667730331421
+        "time_elapsed": 2.1784210205078125
     },
     {
         "realidx": "Text-119",
@@ -376,12 +391,13 @@
         },
         "answer_idx": "G",
         "answer": "Proceed to end to side vasoepididymostomy",
-        "predicted_answer": "D",
+        "raw_response": "Answer: Proceed to end to end vasoepididymostomy",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3520,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 2.9438741207122803
+        "time_elapsed": 3.1512911319732666
     },
     {
         "realidx": "Text-12",
@@ -400,12 +416,13 @@
         },
         "answer_idx": "B",
         "answer": "Streptococcus pneumoniae",
+        "raw_response": "Answer: Haemophilus influenzae",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3531,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 1.2671644687652588
+        "time_elapsed": 1.1433203220367432
     },
     {
         "realidx": "Text-121",
@@ -424,12 +441,13 @@
         },
         "answer_idx": "A",
         "answer": "Initiate terbutaline therapy",
+        "raw_response": "Answer: Perform endotracheal intubation, and initiate mechanical ventilation",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3640,
-            "completion_tokens": 15
+            "completion_tokens": 16
         },
-        "time_elapsed": 3.1784331798553467
+        "time_elapsed": 1.1179614067077637
     },
     {
         "realidx": "Text-122",
@@ -448,12 +466,13 @@
         },
         "answer_idx": "C",
         "answer": "Conductive hearing loss that is greater on the right",
+        "raw_response": "Answer: Bilateral cerumen impaction with greater severity on the right",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3565,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 1.2515051364898682
+        "time_elapsed": 3.439875364303589
     },
     {
         "realidx": "Text-124",
@@ -472,12 +491,13 @@
         },
         "answer_idx": "D",
         "answer": "Chest physiotherapy",
+        "raw_response": "Answer: Bronchoscopy with lavage",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3497,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 3.3525516986846924
+        "time_elapsed": 2.048896551132202
     },
     {
         "realidx": "Text-126",
@@ -496,12 +516,13 @@
         },
         "answer_idx": "H",
         "answer": "Hypernatremia",
-        "predicted_answer": "D",
+        "raw_response": "Answer: Hyponatremia",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3512,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.818702220916748
+        "time_elapsed": 1.7033662796020508
     },
     {
         "realidx": "Text-127",
@@ -520,12 +541,13 @@
         },
         "answer_idx": "E",
         "answer": "FSH and estrogen levels",
+        "raw_response": "Answer: TSH level",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3564,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 2.0215835571289062
+        "time_elapsed": 3.419604778289795
     },
     {
         "realidx": "Text-128",
@@ -544,12 +566,13 @@
         },
         "answer_idx": "I",
         "answer": "End-stage renal disease",
+        "raw_response": "Answer: Coronary artery disease",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3535,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.7984967231750488
+        "time_elapsed": 4.0521299839019775
     },
     {
         "realidx": "Text-129",
@@ -568,12 +591,13 @@
         },
         "answer_idx": "C",
         "answer": "Avoid drinking milk or taking antacids while you are on this medication",
+        "raw_response": "Answer: Avoid direct sunlight while taking this medication\n\nExplanation: The patient is likely being treated for Rocky Mountain spotted fever, which is commonly treated with doxycycline. Doxycycline can cause photosensitivity, so it is important to advise the patient to avoid direct sunlight while taking this medication.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3585,
-            "completion_tokens": 57
+            "completion_tokens": 58
         },
-        "time_elapsed": 1.3793401718139648
+        "time_elapsed": 1.5234949588775635
     },
     {
         "realidx": "Text-130",
@@ -592,12 +616,13 @@
         },
         "answer_idx": "H",
         "answer": "improved rate of recovery",
+        "raw_response": "Answer: reduced likelihood of damage to the quadriceps tendon",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3435,
-            "completion_tokens": 6
+            "completion_tokens": 12
         },
-        "time_elapsed": 2.1052513122558594
+        "time_elapsed": 4.861477613449097
     },
     {
         "realidx": "Text-137",
@@ -616,12 +641,13 @@
         },
         "answer_idx": "A",
         "answer": "Neonatal genotype",
+        "raw_response": "Answer: Anti-D immune globulin administration",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3518,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 3.219486713409424
+        "time_elapsed": 1.8709979057312012
     },
     {
         "realidx": "Text-138",
@@ -640,12 +666,13 @@
         },
         "answer_idx": "G",
         "answer": "Lithium",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Lithium",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3456,
-            "completion_tokens": 3
+            "completion_tokens": 4
         },
-        "time_elapsed": 1.9194955825805664
+        "time_elapsed": 0.8383874893188477
     },
     {
         "realidx": "Text-139",
@@ -664,12 +691,13 @@
         },
         "answer_idx": "H",
         "answer": "MR venogram of the brain",
+        "raw_response": "Answer: CT head without contrast\n\nExplanation: The patient presents with a headache, double vision, and an inability to abduct her left eye, which suggests a cranial nerve VI palsy. Given her elevated blood pressure and symptoms, there is a concern for a hypertensive emergency, such as preeclampsia with severe features, which can lead to cerebral edema or hemorrhage. A CT head without contrast is the most appropriate initial imaging study to evaluate for any acute intracranial pathology, such as hemorrhage, that could be causing her symptoms.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3505,
-            "completion_tokens": 74
+            "completion_tokens": 112
         },
-        "time_elapsed": 1.7105202674865723
+        "time_elapsed": 1.9357447624206543
     },
     {
         "realidx": "Text-140",
@@ -688,12 +716,13 @@
         },
         "answer_idx": "G",
         "answer": "Add amlodipine to current therapy",
+        "raw_response": "Answer: Replace hydrochlorothiazide with dapagliflozin",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3602,
-            "completion_tokens": 13
+            "completion_tokens": 14
         },
-        "time_elapsed": 0.9114937782287598
+        "time_elapsed": 0.9911198616027832
     },
     {
         "realidx": "Text-142",
@@ -712,12 +741,13 @@
         },
         "answer_idx": "G",
         "answer": "Cautery of an arteriovenous malformation",
+        "raw_response": "Answer: Colonoscopy with polypectomy\n\nExplanation: The patient's presentation of blood in the stool, along with his history of ulcerative colitis in remission and a significant smoking history, raises concern for colorectal pathology, including polyps or malignancy. A colonoscopy is the most appropriate next step to evaluate the source of bleeding and to perform polypectomy if polyps are identified. This approach allows for both diagnostic and therapeutic intervention.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3590,
-            "completion_tokens": 8
+            "completion_tokens": 88
         },
-        "time_elapsed": 3.7112836837768555
+        "time_elapsed": 1.9135897159576416
     },
     {
         "realidx": "Text-143",
@@ -736,12 +766,13 @@
         },
         "answer_idx": "A",
         "answer": "Glucose",
+        "raw_response": "Answer: Thyroxine\n\nThe newborn presents with symptoms suggestive of congenital hypothyroidism, including macroglossia, umbilical hernia, hypotonia, and midfacial hypoplasia. The appropriate intervention for congenital hypothyroidism is the administration of thyroxine.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3502,
-            "completion_tokens": 5
+            "completion_tokens": 59
         },
-        "time_elapsed": 1.2212917804718018
+        "time_elapsed": 1.3753588199615479
     },
     {
         "realidx": "Text-144",
@@ -760,12 +791,13 @@
         },
         "answer_idx": "I",
         "answer": "Hypomagnesemia",
+        "raw_response": "Answer: Hemochromatosis\n\nExplanation: The patient's presentation of chronic joint pain, swelling, and chondrocalcinosis (calcification of cartilage) is suggestive of calcium pyrophosphate deposition disease (CPPD), also known as pseudogout. Hemochromatosis is a condition commonly associated with CPPD. Hemochromatosis leads to iron overload, which can deposit in joints and cause chondrocalcinosis.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3472,
-            "completion_tokens": 7
+            "completion_tokens": 91
         },
-        "time_elapsed": 1.6562473773956299
+        "time_elapsed": 1.6248366832733154
     },
     {
         "realidx": "Text-146",
@@ -784,12 +816,13 @@
         },
         "answer_idx": "J",
         "answer": "Needle thoracostomy at the 5th intercostal space, midaxillary line",
-        "predicted_answer": "C",
+        "raw_response": "Answer: Needle thoracostomy at the 2nd intercostal space, anterior axillary line",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3815,
-            "completion_tokens": 21
+            "completion_tokens": 22
         },
-        "time_elapsed": 1.1699903011322021
+        "time_elapsed": 1.1998426914215088
     },
     {
         "realidx": "Text-147",
@@ -808,12 +841,13 @@
         },
         "answer_idx": "D",
         "answer": "Central precocious puberty related to a central nervous system lesion",
+        "raw_response": "Answer: Idiopathic central precocious puberty",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3562,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 1.8564040660858154
+        "time_elapsed": 0.8446495532989502
     },
     {
         "realidx": "Text-148",
@@ -832,12 +866,13 @@
         },
         "answer_idx": "A",
         "answer": "Obliterated x descent",
+        "raw_response": "Answer: Prominent v waves",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3466,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.8773534297943115
+        "time_elapsed": 0.845374584197998
     },
     {
         "realidx": "Text-15",
@@ -856,12 +891,13 @@
         },
         "answer_idx": "G",
         "answer": "Rotation at the atlantoaxial joint",
-        "predicted_answer": "C",
+        "raw_response": "Answer: Flexion and extension in the subaxial cervical spine",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3463,
-            "completion_tokens": 13
+            "completion_tokens": 14
         },
-        "time_elapsed": 1.6214854717254639
+        "time_elapsed": 1.2330267429351807
     },
     {
         "realidx": "Text-16",
@@ -880,12 +916,13 @@
         },
         "answer_idx": "A",
         "answer": "Pneumococcal vaccine",
+        "raw_response": "Answer: Hepatitis A vaccine",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3483,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.1153161525726318
+        "time_elapsed": 0.9459531307220459
     },
     {
         "realidx": "Text-18",
@@ -904,12 +941,13 @@
         },
         "answer_idx": "G",
         "answer": "Coagulase-negative *Staphylococcus spp.*",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Coagulase-negative *Staphylococcus spp.*",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3556,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 1.4461066722869873
+        "time_elapsed": 1.534745216369629
     },
     {
         "realidx": "Text-2",
@@ -928,12 +966,13 @@
         },
         "answer_idx": "C",
         "answer": "This is hard to distinguish from pneumonia and sepsis so empirical antibiotics are given for 48 hours after birth until sepsis is ruled out",
-        "predicted_answer": "B",
+        "raw_response": "Answer: This is most likely transient tachypnea of the newborn and requires no antibiotics",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3702,
-            "completion_tokens": 17
+            "completion_tokens": 18
         },
-        "time_elapsed": 1.4240331649780273
+        "time_elapsed": 1.1824381351470947
     },
     {
         "realidx": "Text-20",
@@ -952,12 +991,13 @@
         },
         "answer_idx": "J",
         "answer": "Bacterial destruction",
+        "raw_response": "Answer: Disseminated intravascular coagulation (DIC)",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3642,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 4.414025545120239
+        "time_elapsed": 1.068183422088623
     },
     {
         "realidx": "Text-22",
@@ -976,12 +1016,13 @@
         },
         "answer_idx": "E",
         "answer": "Enclosed muscular floor within the right atrium",
-        "predicted_answer": "H",
+        "raw_response": "Answer: Proximal atrialization of the right ventricle",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3616,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 1.9543380737304688
+        "time_elapsed": 1.1676414012908936
     },
     {
         "realidx": "Text-24",
@@ -1000,12 +1041,13 @@
         },
         "answer_idx": "G",
         "answer": "Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for 5 years",
+        "raw_response": "Answer: Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3834,
-            "completion_tokens": 23
+            "completion_tokens": 24
         },
-        "time_elapsed": 0.9188022613525391
+        "time_elapsed": 2.0006556510925293
     },
     {
         "realidx": "Text-26",
@@ -1024,12 +1066,13 @@
         },
         "answer_idx": "A",
         "answer": "Age of menopause",
+        "raw_response": "Answer: The patient\u2019s family history",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3546,
-            "completion_tokens": 5
+            "completion_tokens": 8
         },
-        "time_elapsed": 3.736424446105957
+        "time_elapsed": 1.7517790794372559
     },
     {
         "realidx": "Text-27",
@@ -1048,12 +1091,13 @@
         },
         "answer_idx": "C",
         "answer": "Osteoid osteoma",
-        "predicted_answer": "H",
+        "raw_response": "Answer: Lytic Paget disease",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3366,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 2.113356590270996
+        "time_elapsed": 1.4495949745178223
     },
     {
         "realidx": "Text-28",
@@ -1072,12 +1116,13 @@
         },
         "answer_idx": "E",
         "answer": "Decreased serum haptoglobin concentration",
+        "raw_response": "Answer: Elevated anti-Scl-70 antibodies\n\nExplanation: The patient's clinical presentation, including progressive pain and stiffness in the fingers, coarse and thickened skin, hyperpigmentation, hypopigmented patches, and contractures of the proximal interphalangeal joints, along with symptoms of exertional breathlessness, anuria, and elevated serum creatinine, is suggestive of systemic sclerosis (scleroderma). The presence of diffuse crackles and decreased breath sounds at the lung bases indicates possible interstitial lung disease, which is commonly associated with systemic sclerosis. Elevated anti-Scl-70 antibodies (also known as anti-topoisomerase I antibodies) are associated with diffuse cutaneous systemic sclerosis and interstitial lung disease.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3681,
-            "completion_tokens": 10
+            "completion_tokens": 147
         },
-        "time_elapsed": 1.4886798858642578
+        "time_elapsed": 2.408531427383423
     },
     {
         "realidx": "Text-29",
@@ -1096,12 +1141,13 @@
         },
         "answer_idx": "J",
         "answer": "Meta-analysis",
+        "raw_response": "Answer: Randomized control trial",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3394,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.873704195022583
+        "time_elapsed": 1.705474615097046
     },
     {
         "realidx": "Text-3",
@@ -1120,12 +1166,13 @@
         },
         "answer_idx": "I",
         "answer": "Begin cabergoline 0.25 mg twice weekly",
+        "raw_response": "Answer: Begin cabergoline 0.25 mg twice weekly",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3703,
-            "completion_tokens": 13
+            "completion_tokens": 14
         },
-        "time_elapsed": 1.079138994216919
+        "time_elapsed": 0.9765584468841553
     },
     {
         "realidx": "Text-30",
@@ -1144,12 +1191,13 @@
         },
         "answer_idx": "I",
         "answer": "Referral to craniofacial specialists",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Cranial ultrasound to assess for hydrocephalus",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3572,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 2.2749691009521484
+        "time_elapsed": 1.1959435939788818
     },
     {
         "realidx": "Text-31",
@@ -1168,12 +1216,13 @@
         },
         "answer_idx": "D",
         "answer": "Superior vertical strain",
+        "raw_response": "Answer: Inferior vertical strain",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3473,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.6897473335266113
+        "time_elapsed": 2.9500715732574463
     },
     {
         "realidx": "Text-32",
@@ -1192,12 +1241,13 @@
         },
         "answer_idx": "F",
         "answer": "Colonoscopy",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Oral iron supplementation\n\nExplanation: The patient's presentation is consistent with iron deficiency anemia, as evidenced by the low hemoglobin, hematocrit, mean corpuscular volume (MCV), iron, and ferritin levels. The most appropriate next step in management is to initiate oral iron supplementation to replenish iron stores and address the anemia. Further diagnostic evaluations such as endoscopy or imaging may be considered if there is no response to iron supplementation or if there are other concerning symptoms suggestive of gastrointestinal bleeding or malignancy.",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3643,
-            "completion_tokens": 5
+            "completion_tokens": 104
         },
-        "time_elapsed": 1.3087737560272217
+        "time_elapsed": 1.754563331604004
     },
     {
         "realidx": "Text-33",
@@ -1216,12 +1266,13 @@
         },
         "answer_idx": "G",
         "answer": "L3-L4",
-        "predicted_answer": "E",
+        "raw_response": "Answer: L4-L5",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3486,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.9867639541625977
+        "time_elapsed": 1.1242344379425049
     },
     {
         "realidx": "Text-34",
@@ -1240,12 +1291,13 @@
         },
         "answer_idx": "G",
         "answer": "Synovitis of the metacarpophalangeal joints and subcutaneous nodules",
+        "raw_response": "Answer: Clubbing of the digits",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3685,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 2.995088815689087
+        "time_elapsed": 1.0134038925170898
     },
     {
         "realidx": "Text-35",
@@ -1264,12 +1316,13 @@
         },
         "answer_idx": "J",
         "answer": "Diphtheria and tetanus toxoids, acellular pertussis (DTaP) vaccine at 2 months of chronological age",
+        "raw_response": "Answer: Hepatitis B vaccine now",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3666,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 2.983003854751587
+        "time_elapsed": 1.0741198062896729
     },
     {
         "realidx": "Text-36",
@@ -1288,12 +1341,13 @@
         },
         "answer_idx": "D",
         "answer": "Administer hepatitis B vaccine only within 12 hours of birth",
+        "raw_response": "Answer: Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3603,
-            "completion_tokens": 20
+            "completion_tokens": 21
         },
-        "time_elapsed": 2.8829140663146973
+        "time_elapsed": 1.0341553688049316
     },
     {
         "realidx": "Text-37",
@@ -1312,12 +1366,13 @@
         },
         "answer_idx": "G",
         "answer": "Repeat thoracentesis with cytopathologic study",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Video-assisted thoracoscopic surgery (VATS)",
+        "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3967,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 1.08622145652771
+        "time_elapsed": 0.9118218421936035
     },
     {
         "realidx": "Text-39",
@@ -1336,12 +1391,13 @@
         },
         "answer_idx": "H",
         "answer": "480 mL",
-        "predicted_answer": "B",
+        "raw_response": "Answer: 600 mL\n\nExplanation: The total volume of gas in the airways and lungs that does not participate in gas exchange is the sum of the anatomical dead space and the alveolar dead space. The anatomical dead space includes the upper airway volume and the conducting airway volume. \n\nUpper airway volume: 100 mL\nConducting airway volume: 125 mL\n\nAnatomical dead space = 100 mL + 125 mL = 225 mL\n\nTo find the alveolar dead space, we use the Bohr equation for dead space calculation:\n\\[ V_d = V_t \\times \\left( \\frac{PaCO_2 - PeCO_2}{PaCO_2} \\right) \\]\n\nWhere:\n\\[ V_d \\] = Dead space volume\n\\[ V_t \\] = Tidal volume (not provided, but we can assume it is the vital capacity for this calculation)\n\\[ PaCO_2 \\] = Arterial CO2 pressure = 50 mmHg\n\\[ PeCO_2 \\] = Expired CO2 pressure = 20 mmHg\n\n\\[ V_d = 5000 \\times \\left( \\frac{50 - 20}{50} \\right) \\]\n\\[ V_d = 5000 \\times \\left( \\frac{30}{50} \\right) \\]\n\\[ V_d = 5000 \\times 0.6 \\]\n\\[ V_d = 3000 mL \\]\n\nHowever, this calculation seems off because the tidal volume should be much smaller than the vital capacity. Let's assume a more reasonable tidal volume of 500 mL for the calculation:\n\n\\[ V_d = 500 \\times \\left( \\frac{50 - 20}{50} \\right) \\]\n\\[ V_d = 500 \\times \\left( \\frac{30}{50} \\right) \\]\n\\[ V_d = 500 \\times 0.6 \\]\n\\[ V_d = 300 mL \\]\n\nSo, the alveolar dead space is 300 mL.\n\nTotal dead space = Anatomical dead space + Alveolar dead space\nTotal dead space = 225 mL + 300 mL = 525 mL\n\nHowever, the closest answer choice to our calculation is 600 mL, which might be due to rounding or assumptions in the problem setup.\n\nTherefore, the total volume of gas in this patient\u2019s airways and lungs that does not participate in gas exchange is approximately 600 mL.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3563,
-            "completion_tokens": 622
+            "completion_tokens": 518
         },
-        "time_elapsed": 7.871216297149658
+        "time_elapsed": 5.769233465194702
     },
     {
         "realidx": "Text-4",
@@ -1360,12 +1416,13 @@
         },
         "answer_idx": "J",
         "answer": "A 9-month-old boy with a 4-mm muscular defect with\u00a0pulmonary hypertension",
+        "raw_response": "Answer: A 6-year-old boy with a 7-mm defect and bidirectional shunting\n\nExplanation: Surgical repair of congenital heart defects, such as ventricular septal defects (VSDs), is typically recommended when there is significant hemodynamic compromise, such as bidirectional shunting, which indicates a significant defect that is causing both left-to-right and right-to-left shunting. This can lead to complications such as heart failure, pulmonary hypertension, and Eisenmenger syndrome if left untreated. Therefore, the patient with a 7-mm defect and bidirectional shunting would require surgical intervention.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3778,
-            "completion_tokens": 19
+            "completion_tokens": 121
         },
-        "time_elapsed": 1.173245906829834
+        "time_elapsed": 1.9728379249572754
     },
     {
         "realidx": "Text-40",
@@ -1384,12 +1441,13 @@
         },
         "answer_idx": "A",
         "answer": "Meta-analysis of prospective cohort studies of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis",
+        "raw_response": "Answer: Prospective cohort study of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3740,
-            "completion_tokens": 28
+            "completion_tokens": 29
         },
-        "time_elapsed": 3.3004119396209717
+        "time_elapsed": 2.297833204269409
     },
     {
         "realidx": "Text-41",
@@ -1408,12 +1466,13 @@
         },
         "answer_idx": "J",
         "answer": "Convert it to a full-thickness tear and repair it with suture anchors",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Convert it to a full-thickness tear and repair it with suture anchors",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3559,
-            "completion_tokens": 17
+            "completion_tokens": 18
         },
-        "time_elapsed": 1.946014404296875
+        "time_elapsed": 3.2879905700683594
     },
     {
         "realidx": "Text-44",
@@ -1432,12 +1491,13 @@
         },
         "answer_idx": "G",
         "answer": "An activated protein C resistance ratio of 0.3",
+        "raw_response": "Answer: A subcostal echocardiographic image demonstrating a mean gradient of 3 mmHg through the Fontan conduit",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3639,
-            "completion_tokens": 25
+            "completion_tokens": 26
         },
-        "time_elapsed": 1.8935577869415283
+        "time_elapsed": 2.287158489227295
     },
     {
         "realidx": "Text-46",
@@ -1456,12 +1516,13 @@
         },
         "answer_idx": "E",
         "answer": "Place an anterior nasal pack",
+        "raw_response": "Answer: Place an anterior and a posterior nasal pack",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3661,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 2.9323155879974365
+        "time_elapsed": 0.9678139686584473
     },
     {
         "realidx": "Text-47",
@@ -1480,12 +1541,13 @@
         },
         "answer_idx": "J",
         "answer": "Blood culture, lumbar puncture, then administration of antibiotics and dexamethasone",
+        "raw_response": "Answer: Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3769,
-            "completion_tokens": 19
+            "completion_tokens": 20
         },
-        "time_elapsed": 2.087334394454956
+        "time_elapsed": 1.0345139503479004
     },
     {
         "realidx": "Text-49",
@@ -1504,12 +1566,13 @@
         },
         "answer_idx": "G",
         "answer": "Glycogen storage disease type 1",
+        "raw_response": "Answer: Lipoprotein lipase deficiency",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3549,
-            "completion_tokens": 140
+            "completion_tokens": 9
         },
-        "time_elapsed": 3.83240008354187
+        "time_elapsed": 1.3325130939483643
     },
     {
         "realidx": "Text-5",
@@ -1528,12 +1591,13 @@
         },
         "answer_idx": "C",
         "answer": "Three weeks elapse after the onset of symptoms",
+        "raw_response": "Answer: An abdominal ultrasound confirms the absence of splenomegaly",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3574,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 1.0433974266052246
+        "time_elapsed": 1.0086026191711426
     },
     {
         "realidx": "Text-50",
@@ -1552,12 +1616,13 @@
         },
         "answer_idx": "B",
         "answer": "Axillary lymph nodes",
-        "predicted_answer": "H",
+        "raw_response": "Answer: Dermal lymphatics",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3492,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.3823871612548828
+        "time_elapsed": 3.281803607940674
     },
     {
         "realidx": "Text-51",
@@ -1576,12 +1641,13 @@
         },
         "answer_idx": "F",
         "answer": "Mood dysregulation, inattentiveness, and hyperactivity",
-        "predicted_answer": "B",
+        "raw_response": "Answer: Cognitive decline and irreversible demyelination",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3583,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 1.9163846969604492
+        "time_elapsed": 2.1561827659606934
     },
     {
         "realidx": "Text-53",
@@ -1600,12 +1666,13 @@
         },
         "answer_idx": "E",
         "answer": "Fingerstick glucose\u00a0level",
+        "raw_response": "Answer: Computerized tomography (CT) of the head\n\nExplanation: The patient presents with acute onset of neurological symptoms suggestive of a stroke. The immediate next step in managing a patient with suspected stroke is to perform a non-contrast CT scan of the head to rule out hemorrhage. This is crucial before considering thrombolytic therapy with IV tissue plasminogen activator (tPA) if the patient is within the therapeutic window and meets the criteria for its use.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3579,
-            "completion_tokens": 93
+            "completion_tokens": 96
         },
-        "time_elapsed": 3.666929006576538
+        "time_elapsed": 1.740654706954956
     },
     {
         "realidx": "Text-55",
@@ -1624,12 +1691,13 @@
         },
         "answer_idx": "J",
         "answer": "Fenoldopam",
-        "predicted_answer": "C",
+        "raw_response": "Answer: Nicardipine\n\nExplanation: The patient presents with hypertensive emergency, characterized by severe hypertension (BP >180/120 mm Hg) with evidence of acute end-organ damage (headache and visual disturbances). Nicardipine, a calcium channel blocker, is often preferred in hypertensive emergencies due to its ability to be titrated easily and its effectiveness in rapidly lowering blood pressure. It is also safe for use in patients with chronic kidney disease.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3463,
-            "completion_tokens": 6
+            "completion_tokens": 93
         },
-        "time_elapsed": 0.8815221786499023
+        "time_elapsed": 3.9224464893341064
     },
     {
         "realidx": "Text-58",
@@ -1648,12 +1716,13 @@
         },
         "answer_idx": "A",
         "answer": "Elevated levels of IL-6",
-        "predicted_answer": "C",
+        "raw_response": "Answer: Altered kappa to lambda ratio\n\nExplanation: The patient's symptoms, including leg swelling, proteinuria, and the presence of casts with a cross-like appearance under polarized light, suggest a diagnosis of amyloidosis. Amyloidosis is associated with an altered kappa to lambda ratio due to the deposition of abnormal light chains. This condition can lead to nephrotic syndrome, which is characterized by significant proteinuria and edema.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3571,
-            "completion_tokens": 9
+            "completion_tokens": 88
         },
-        "time_elapsed": 2.020580291748047
+        "time_elapsed": 3.0072782039642334
     },
     {
         "realidx": "Text-59",
@@ -1672,12 +1741,13 @@
         },
         "answer_idx": "G",
         "answer": "Fibrosing mediastinitis",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Chronic thromboembolic disease",
+        "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 3422,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.9368910789489746
+        "time_elapsed": 0.9125690460205078
     },
     {
         "realidx": "Text-60",
@@ -1696,12 +1766,13 @@
         },
         "answer_idx": "J",
         "answer": "Cidofovir",
-        "predicted_answer": "F",
+        "raw_response": "Answer: Foscarnet",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3483,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 2.0416781902313232
+        "time_elapsed": 2.247764825820923
     },
     {
         "realidx": "Text-62",
@@ -1720,12 +1791,13 @@
         },
         "answer_idx": "A",
         "answer": "Ischemic segmental resorption",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Failed luminal recanalization",
+        "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3532,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 3.2579801082611084
+        "time_elapsed": 1.0823290348052979
     },
     {
         "realidx": "Text-63",
@@ -1744,12 +1816,13 @@
         },
         "answer_idx": "F",
         "answer": "Malrotation of the gut",
+        "raw_response": "Answer: Volvulus\n\nExplanation: The clinical presentation of progressive abdominal pain, constipation, vomiting, and abdominal distention in a child is highly suggestive of a volvulus. Volvulus is a condition where the intestine twists around itself and the mesentery that supports it, leading to bowel obstruction. This condition can cause symptoms such as abdominal pain, distention, vomiting, and constipation. The absence of bloody stools and the presence of tympany on physical examination further support the diagnosis of volvulus. Immediate medical attention is required to prevent complications such as bowel ischemia and necrosis.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3472,
-            "completion_tokens": 5
+            "completion_tokens": 121
         },
-        "time_elapsed": 2.255765199661255
+        "time_elapsed": 1.8482303619384766
     },
     {
         "realidx": "Text-64",
@@ -1768,12 +1841,13 @@
         },
         "answer_idx": "J",
         "answer": "Cystathionine synthase deficiency",
-        "predicted_answer": "C",
+        "raw_response": "Answer: Fibrillin 1 deficiency",
+        "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3556,
-            "completion_tokens": 10
+            "completion_tokens": 9
         },
-        "time_elapsed": 3.3745243549346924
+        "time_elapsed": 0.9584181308746338
     },
     {
         "realidx": "Text-65",
@@ -1792,12 +1866,13 @@
         },
         "answer_idx": "C",
         "answer": "Levofloxacin",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Hydrocodone-acetaminophen",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3499,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 1.162428379058838
+        "time_elapsed": 3.3616204261779785
     },
     {
         "realidx": "Text-66",
@@ -1816,12 +1891,13 @@
         },
         "answer_idx": "J",
         "answer": "58\u00ba",
+        "raw_response": "Answer: 50\u00ba",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3496,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.949303388595581
+        "time_elapsed": 1.0788726806640625
     },
     {
         "realidx": "Text-67",
@@ -1840,12 +1916,13 @@
         },
         "answer_idx": "A",
         "answer": "Repeating the urine dipstick test",
+        "raw_response": "Answer: Measuring serum albumin and creatinine",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3497,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 1.0042519569396973
+        "time_elapsed": 1.0226452350616455
     },
     {
         "realidx": "Text-68",
@@ -1864,12 +1941,13 @@
         },
         "answer_idx": "A",
         "answer": "Transverse axis",
+        "raw_response": "Answer: Anteroposterior axis",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3627,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 2.900800943374634
+        "time_elapsed": 2.741436004638672
     },
     {
         "realidx": "Text-69",
@@ -1888,12 +1966,13 @@
         },
         "answer_idx": "H",
         "answer": "Perform liver function testing",
+        "raw_response": "Answer: Initiate atorvastatin therapy\n\nExplanation: The patient has an elevated LDL level of 190 mg/dL, which places him at high risk for cardiovascular events, especially given his history of type II diabetes mellitus, hypertension, and a family history of myocardial infarction. Initiating atorvastatin therapy is appropriate to lower his LDL levels and reduce his cardiovascular risk.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3651,
-            "completion_tokens": 8
+            "completion_tokens": 76
         },
-        "time_elapsed": 1.8662118911743164
+        "time_elapsed": 2.5530691146850586
     },
     {
         "realidx": "Text-7",
@@ -1912,12 +1991,13 @@
         },
         "answer_idx": "F",
         "answer": "Index finger MCP hyperextension",
-        "predicted_answer": "E",
+        "raw_response": "Answer: Extension of the middle finger MCP joint",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3419,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 0.948693037033081
+        "time_elapsed": 0.923259973526001
     },
     {
         "realidx": "Text-70",
@@ -1936,12 +2016,13 @@
         },
         "answer_idx": "J",
         "answer": "Between L3 and L4",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Between L4 and L5",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3546,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 2.8482556343078613
+        "time_elapsed": 0.7191653251647949
     },
     {
         "realidx": "Text-71",
@@ -1960,12 +2041,13 @@
         },
         "answer_idx": "G",
         "answer": "Nifedipine",
-        "predicted_answer": "H",
+        "raw_response": "Answer: Letrazole",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3554,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 1.0589964389801025
+        "time_elapsed": 2.0436320304870605
     },
     {
         "realidx": "Text-72",
@@ -1984,12 +2066,13 @@
         },
         "answer_idx": "J",
         "answer": "Start levofloxacin and observe for 72 hours",
+        "raw_response": "Answer: Add tiotropium to current regimen",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3559,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 2.065459966659546
+        "time_elapsed": 3.196430206298828
     },
     {
         "realidx": "Text-73",
@@ -2008,12 +2091,13 @@
         },
         "answer_idx": "B",
         "answer": "Exertional heat stroke",
+        "raw_response": "Answer: Exertional heat stroke",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3500,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 1.3871307373046875
+        "time_elapsed": 2.8883421421051025
     },
     {
         "realidx": "Text-75",
@@ -2032,12 +2116,13 @@
         },
         "answer_idx": "A",
         "answer": "Wrist/hand tendon transfer surgery",
+        "raw_response": "Answer: Selective dorsal rhizotomy",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3376,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.8090488910675049
+        "time_elapsed": 1.031482219696045
     },
     {
         "realidx": "Text-78",
@@ -2056,12 +2141,13 @@
         },
         "answer_idx": "H",
         "answer": "Mesenteric angiography",
-        "predicted_answer": "E",
+        "raw_response": "Answer: Mesenteric angiography\n\nExplanation: In a patient with active rectal bleeding and hemodynamic instability, mesenteric angiography is the next appropriate diagnostic step. This procedure can help localize the source of bleeding and allows for potential therapeutic intervention, such as embolization, to control the hemorrhage.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3552,
-            "completion_tokens": 64
+            "completion_tokens": 65
         },
-        "time_elapsed": 3.726125955581665
+        "time_elapsed": 1.5104601383209229
     },
     {
         "realidx": "Text-79",
@@ -2080,12 +2166,13 @@
         },
         "answer_idx": "B",
         "answer": "Perform the imaging study using a standard contrast medium",
+        "raw_response": "Answer: Premedicate with diphenhydramine and prednisone, and then perform the imaging study using a nonionic contrast medium",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3579,
-            "completion_tokens": 26
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.0517613887786865
+        "time_elapsed": 1.2462828159332275
     },
     {
         "realidx": "Text-8",
@@ -2104,12 +2191,13 @@
         },
         "answer_idx": "H",
         "answer": "Repeat blood cultures now",
-        "predicted_answer": "F",
+        "raw_response": "Answer: Perform transesophageal echocardiography immediately",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3624,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 0.9709677696228027
+        "time_elapsed": 1.3918652534484863
     },
     {
         "realidx": "Text-80",
@@ -2128,12 +2216,13 @@
         },
         "answer_idx": "I",
         "answer": "Weight loss",
+        "raw_response": "Answer: Physical therapy referral\n\nExplanation: The patient's symptoms of chronic knee pain, mild erythema, and bruising without significant joint tenderness or pain during passive range of motion suggest a non-acute condition, likely related to osteoarthritis or chronic overuse. The initial management should focus on conservative measures to improve function and reduce pain. Physical therapy can help strengthen the muscles around the knee, improve range of motion, and provide pain relief. This approach is appropriate before considering more invasive interventions like MRI, injections, or surgery.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3522,
-            "completion_tokens": 123
+            "completion_tokens": 106
         },
-        "time_elapsed": 4.066658020019531
+        "time_elapsed": 2.052466869354248
     },
     {
         "realidx": "Text-83",
@@ -2152,12 +2241,13 @@
         },
         "answer_idx": "I",
         "answer": "T5 FRRSR",
-        "predicted_answer": "E",
+        "raw_response": "Answer: T5 ERRSL",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3502,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.840050458908081
+        "time_elapsed": 0.8400354385375977
     },
     {
         "realidx": "Text-84",
@@ -2176,12 +2266,13 @@
         },
         "answer_idx": "G",
         "answer": "Thoracolumbar scoliosis",
+        "raw_response": "Answer: Mitral valve prolapse",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3489,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.8149876594543457
+        "time_elapsed": 0.8315567970275879
     },
     {
         "realidx": "Text-85",
@@ -2200,12 +2291,13 @@
         },
         "answer_idx": "J",
         "answer": "Ibuprofen",
+        "raw_response": "Answer: Acetazolamide",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3496,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.9466726779937744
+        "time_elapsed": 4.315840482711792
     },
     {
         "realidx": "Text-87",
@@ -2224,12 +2316,13 @@
         },
         "answer_idx": "H",
         "answer": "Azygos vein",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Batson's vertebral venous plexus",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3463,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 0.8841743469238281
+        "time_elapsed": 1.4315173625946045
     },
     {
         "realidx": "Text-88",
@@ -2248,12 +2341,13 @@
         },
         "answer_idx": "C",
         "answer": "Create an action plan to assign responsibilities to prevent similar errors in the future",
+        "raw_response": "Answer: Create a flowchart to illustrate the sequence of key events in this case",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3570,
-            "completion_tokens": 16
+            "completion_tokens": 17
         },
-        "time_elapsed": 1.122802972793579
+        "time_elapsed": 3.027292013168335
     },
     {
         "realidx": "Text-89",
@@ -2272,12 +2366,13 @@
         },
         "answer_idx": "A",
         "answer": "Hydroxyurea and measurement of ristocetin cofactor activity",
+        "raw_response": "Answer: Low-dose aspirin alone",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3544,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.4132251739501953
+        "time_elapsed": 1.8428568840026855
     },
     {
         "realidx": "Text-9",
@@ -2296,12 +2391,13 @@
         },
         "answer_idx": "B",
         "answer": "Reassure the patient and schedule a follow-up appointment",
+        "raw_response": "Answer: Repeat platelet count and peripheral smear in 2 weeks",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3656,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 1.3117623329162598
+        "time_elapsed": 0.9336719512939453
     },
     {
         "realidx": "Text-92",
@@ -2320,12 +2416,13 @@
         },
         "answer_idx": "G",
         "answer": "Hemolytic anemia and ataxia",
+        "raw_response": "Answer: Previous anaphylactic reactions\n\nExplanation: The patient's acute respiratory distress with bilateral wheezing, poor air movement, hypotension, and tachycardia following blood transfusion and hydromorphone administration suggests an anaphylactic reaction. Given his history of asthma and the acute onset of symptoms after exposure to potential allergens, it is likely that he has a history of previous anaphylactic reactions.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3602,
-            "completion_tokens": 105
+            "completion_tokens": 82
         },
-        "time_elapsed": 2.1636595726013184
+        "time_elapsed": 2.8280084133148193
     },
     {
         "realidx": "Text-93",
@@ -2344,12 +2441,13 @@
         },
         "answer_idx": "D",
         "answer": "N-acetylcysteine",
+        "raw_response": "Answer: Blood acetaminophen levels\n\nExplanation: In a case of suspected acetaminophen overdose, the most appropriate immediate step is to measure blood acetaminophen levels. This will help determine the extent of the overdose and guide further management, including the potential need for N-acetylcysteine (NAC) administration. NAC is the antidote for acetaminophen toxicity and is most effective when given early.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3544,
-            "completion_tokens": 67
+            "completion_tokens": 85
         },
-        "time_elapsed": 1.5648860931396484
+        "time_elapsed": 2.536022663116455
     },
     {
         "realidx": "Text-96",
@@ -2368,12 +2466,13 @@
         },
         "answer_idx": "E",
         "answer": "Staphylococcus aureus",
+        "raw_response": "Answer: Parainfluenza virus type 1",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3615,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 1.31951904296875
+        "time_elapsed": 2.770512580871582
     },
     {
         "realidx": "Text-99",
@@ -2392,11 +2491,12 @@
         },
         "answer_idx": "F",
         "answer": "Obtain blood cultures, and initiate treatment with vancomycin, ceftriaxone, ampicillin, acyclovir, and dexamethasone",
+        "raw_response": "Answer: Order CT of the head",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3589,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.9319369792938232
+        "time_elapsed": 1.3734257221221924
     }
 ]

@@ -42,12 +42,20 @@
             "correct next action",
             "resident to take"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question involves a scenario where a junior orthopedic surgery resident is instructed by the attending physician to omit a complication (cutting a flexor tendon) from the operative report. The resident is faced with an ethical dilemma about whether to follow the attending's instructions or to disclose the error.\n\nThe options provided are:\n(A) Disclose the error to the patient and put it in the operative report\n(B) Tell the attending that he cannot fail to disclose this mistake\n(C) Report the physician to the ethics committee\n(D) Refuse to dictate the operative report\n\nThe solutions generated are:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll the solutions consistently indicate option (A) as the correct action. This consistency suggests that the most reliable solution is to disclose the error to the patient and include it in the operative report. This action aligns with ethical medical practice, which emphasizes transparency, honesty, and patient autonomy.\n\nTherefore, the most consistent and reliable answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1588,
-            "completion_tokens": 2142
+            "completion_tokens": 1666
         },
-        "time_elapsed": 27.70879817008972
+        "time_elapsed": 20.478750705718994
     },
     {
         "realidx": 5,
@@ -84,12 +92,20 @@
             "first step",
             "management"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient described in the question is presenting with symptoms that are highly suggestive of acute coronary syndrome (ACS) potentially exacerbated by cocaine use. Cocaine can cause coronary artery vasospasm, leading to myocardial ischemia or infarction. The management of chest pain in the context of cocaine use is critical and requires careful consideration of the medications used.\n\nBeta-blockers, such as labetalol and propranolol, are generally avoided in the acute setting of cocaine-induced chest pain because they can lead to unopposed alpha-adrenergic stimulation, which can worsen coronary vasospasm and hypertension.\n\nCalcium channel blockers, such as diltiazem, are preferred in this scenario because they can help relieve coronary artery spasm and reduce myocardial oxygen demand without the risk of unopposed alpha-adrenergic effects.\n\nGiven the options:\n(A) Diltiazem\n(B) Labetalol\n(C) Propranolol\n(D) Reassurance and continuous monitoring\n\nThe most appropriate first step in management for this patient is the administration of diltiazem.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently indicate that the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1396,
-            "completion_tokens": 2396
+            "completion_tokens": 2398
         },
-        "time_elapsed": 29.367579460144043
+        "time_elapsed": 28.606072425842285
     },
     {
         "realidx": 6,
@@ -122,12 +138,20 @@
             "most likely underlying cause",
             "patient's condition"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"C\". \n\nGiven the patient's symptoms of right flank pain, abdominal tenderness, and the ultrasound finding of dilation of the right ureter and renal pelvis, the most likely underlying cause is a condition that could obstruct the urinary tract. A common iliac artery aneurysm (Option C) can compress the ureter, leading to hydronephrosis (dilation of the ureter and renal pelvis) and flank pain. This is consistent with the patient's history of peripheral artery disease, which increases the risk of aneurysms.\n\nTherefore, the most consistent and reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1270,
-            "completion_tokens": 2043
+            "completion_tokens": 2104
         },
-        "time_elapsed": 22.965089082717896
+        "time_elapsed": 25.17527985572815
     },
     {
         "realidx": 33,
@@ -161,12 +185,20 @@
             "following",
             "most likely underlying cause"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "B",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: D\n- Solution 2: D\n- Solution 3: D\n- Solution 4: B\n- Solution 5: D\n\nFrom the solutions provided, the answer \"D\" appears four times, while the answer \"B\" appears only once.\n\nGiven the consistency of the answer \"D\" across the majority of the solutions, it is the most reliable solution.\n\nTherefore, the most likely underlying cause is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1462,
-            "completion_tokens": 2428
+            "completion_tokens": 2477
         },
-        "time_elapsed": 28.068086624145508
+        "time_elapsed": 30.11822199821472
     },
     {
         "realidx": 34,
@@ -241,12 +273,20 @@
             "best next step",
             "management"
         ],
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The patient presented with signs of severe hyperglycemia and hyperkalemia, which were managed effectively as evidenced by the significant improvement in his vital signs and laboratory values after treatment. His glucose levels dropped from 589 mg/dL to 90 mg/dL, and his potassium levels decreased from 6.3 mEq/L to 4.3 mEq/L. His bicarbonate levels also improved, indicating a correction of metabolic acidosis.\n\nGiven the improvement in his clinical status and laboratory values, the next step in management would be to continue supportive therapy and close monitoring to ensure that his condition remains stable and to prevent any potential complications.\n\nThe most consistent solution across the provided answers is:\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2536,
-            "completion_tokens": 2679
+            "completion_tokens": 2948
         },
-        "time_elapsed": 35.531237840652466
+        "time_elapsed": 30.323553800582886
     },
     {
         "realidx": 44,
@@ -309,12 +349,20 @@
             "present",
             "patient"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The patient described in the question presents with symptoms of heavy menstrual bleeding, irregular cycles, intermenstrual bleeding, significant dysmenorrhea, mild dyspareunia, a \"heavy feeling\" in her pelvis, and increased urinary frequency. These symptoms are suggestive of a uterine pathology, most likely uterine fibroids (leiomyomas).\n\nUterine fibroids are benign smooth muscle tumors of the uterus that can cause the symptoms described. They often lead to an enlarged, irregularly shaped uterus. The size of the uterus can be estimated in terms of weeks of gestation, and a 14-week sized uterus is consistent with the presence of significant fibroids.\n\nGiven the options:\n(A) Globular 10-week sized uterus\n(B) Adnexal mass\n(C) Irregular 14-week sized uterus\n(D) No remarkable physical exam finding\n\nThe most consistent answer across the solutions provided is:\nC\n\nThis is because an irregularly enlarged uterus (14-week size) is a common finding in patients with significant uterine fibroids, which aligns with the patient's symptoms and history. Therefore, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2128,
-            "completion_tokens": 2501
+            "completion_tokens": 2577
         },
-        "time_elapsed": 39.531704902648926
+        "time_elapsed": 27.964834690093994
     },
     {
         "realidx": 59,
@@ -366,12 +414,20 @@
             "most consistent with",
             "patients condition"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question describes a 17-year-old girl with a suspected eating disorder, specifically bulimia nervosa, characterized by recurrent episodes of binge eating followed by inappropriate compensatory behaviors such as self-induced vomiting. The options provided are features that could be associated with her condition.\n\nLet's evaluate each option in the context of bulimia nervosa:\n\n(A) Patients with this disorder are not further sub-typed: This is not entirely accurate as bulimia nervosa can be characterized by different patterns of behavior, such as purging and non-purging types.\n\n(B) Patients do not usually initiate treatment: While it is true that many patients with eating disorders may not seek treatment on their own, this is not a defining feature of bulimia nervosa.\n\n(C) Patients can have a history of both anorexia and bulimia: This is accurate. It is common for patients with eating disorders to have a history of both anorexia nervosa and bulimia nervosa, as these conditions can overlap or transition from one to the other.\n\n(D) Patients will typically have a BMI between 17\u201318.5 kg/m2: This is not necessarily true for bulimia nervosa. Patients with bulimia nervosa can have a normal BMI, and the girl in the question has a BMI at the 50th percentile for her age and sex, which is within the normal range.\n\nGiven the consistency of the answers provided (all solutions indicate \"C\"), and the fact that option (C) is the most accurate and relevant to the condition described, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1840,
-            "completion_tokens": 2703
+            "completion_tokens": 2580
         },
-        "time_elapsed": 30.553962469100952
+        "time_elapsed": 30.34389591217041
     },
     {
         "realidx": 64,
@@ -427,12 +483,20 @@
             "most appropriate",
             "patient"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"C\". \n\nThe patient's symptoms and clinical presentation are consistent with oral candidiasis (thrush), which is commonly treated with antifungal medications. The mechanism of action for many antifungal medications, such as azoles (e.g., fluconazole), is the inhibition of 14-alpha-demethylase, an enzyme involved in the synthesis of ergosterol, a crucial component of the fungal cell membrane.\n\nTherefore, the most appropriate answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1912,
-            "completion_tokens": 2443
+            "completion_tokens": 2291
         },
-        "time_elapsed": 25.784574270248413
+        "time_elapsed": 27.733196020126343
     },
     {
         "realidx": 81,
@@ -473,12 +537,20 @@
             "most abnormal",
             "patient"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a 54-year-old male with chronic fatigue, well-controlled hypertension and diabetes, and enlarged nodules that are not tender to palpation. A biopsy reveals a characteristic change in chromosome 18. The question asks about the regulation of which protein will be most abnormal in this patient.\n\nTo determine the most reliable solution, we need to consider the characteristic change in chromosome 18. This is a key clue that points towards a specific genetic abnormality.\n\nA common genetic abnormality involving chromosome 18 is the translocation t(14;18), which is associated with follicular lymphoma. This translocation results in the overexpression of the BCL2 gene, which is located on chromosome 18. The BCL2 protein is involved in the regulation of apoptosis, specifically inhibiting the activity of caspases, including caspase-9.\n\nGiven this information, the regulation of caspase-9 would be most abnormal in this patient due to the overexpression of BCL2, which inhibits apoptosis and leads to the survival of abnormal cells.\n\nThe solutions provided all indicate \"A\" as the answer, which corresponds to caspase-9.\n\nTherefore, the most consistent and reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1390,
-            "completion_tokens": 2350
+            "completion_tokens": 2358
         },
-        "time_elapsed": 27.17521643638611
+        "time_elapsed": 27.321576356887817
     },
     {
         "realidx": 112,
@@ -538,12 +610,20 @@
             "pathophysiology",
             "patient's chief complaint"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"A\". \n\nTo determine the most reliable solution, I evaluated the consistency of the answers given in the solutions. All five solutions (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) indicate that the answer is \"A\".\n\nTherefore, the most consistent solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1894,
-            "completion_tokens": 2399
+            "completion_tokens": 2404
         },
-        "time_elapsed": 26.10599374771118
+        "time_elapsed": 28.49609112739563
     },
     {
         "realidx": 114,
@@ -602,12 +682,20 @@
             "changes seen",
             "patient's labs"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The patient's symptoms and lab results indicate a metabolic acidosis with a low bicarbonate level (HCO3-: 11 mEq/L) and a compensatory respiratory alkalosis (pCO2: 22 mmHg). The pH is low (7.25), confirming acidosis. \n\nGiven the patient's history and symptoms, we need to identify the most likely cause of metabolic acidosis. The options are:\n\n(A) Anxiety - This typically causes respiratory alkalosis, not metabolic acidosis.\n(B) Diarrhea - This can cause a loss of bicarbonate, leading to metabolic acidosis.\n(C) Metformin - While metformin can cause lactic acidosis, it is less common and the patient's symptoms and history do not strongly suggest this.\n(D) Sleep apnea - This typically causes respiratory acidosis due to hypoventilation, not metabolic acidosis.\n\nConsidering the patient's symptoms of diarrhea and the lab findings, diarrhea is the most likely cause of the metabolic acidosis. All solutions consistently identify option B as the correct answer.\n\nTherefore, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1912,
-            "completion_tokens": 2692
+            "completion_tokens": 2751
         },
-        "time_elapsed": 31.084444999694824
+        "time_elapsed": 29.4007670879364
     },
     {
         "realidx": 128,
@@ -667,12 +755,20 @@
             "st likely t  c nfirm t",
             "agnosis?\""
         ],
+        "solutions": [
+            "A",
+            "A",
+            "B",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"A\". \n\nHere is the detailed thought process:\n\n1. The patient presents with progressive muscle weakness, particularly in the shoulders and hips, difficulty with activities such as getting up from chairs, climbing stairs, and combing her hair, and new difficulty swallowing solid foods.\n2. The laboratory findings show an elevated erythrocyte sedimentation rate (ESR) and a slightly elevated creatine kinase (CK) level, which are indicative of muscle inflammation.\n3. The patient's history of hyperlipidemia controlled with fluvastatin raises the possibility of statin-induced myopathy, but the chronicity and additional symptoms suggest an inflammatory myopathy.\n4. The family history of Duchenne's muscular dystrophy and Hashimoto's thyroiditis suggests a possible genetic or autoimmune component.\n5. The neurologic examination shows moderate weakness in specific muscle groups with normal deep tendon reflexes, which is consistent with a myopathic process rather than a neuropathic one.\n\nGiven these points, the most likely diagnosis is an inflammatory myopathy, such as polymyositis or dermatomyositis. The key diagnostic feature for polymyositis is intrafascicular infiltration of inflammatory cells on muscle biopsy.\n\nTherefore, the most consistent answer across the solutions is:\nA",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2350,
-            "completion_tokens": 3125
+            "prompt_tokens": 3114,
+            "completion_tokens": 3981
         },
-        "time_elapsed": 38.03201127052307
+        "time_elapsed": 32.4635169506073
     },
     {
         "realidx": 145,
@@ -719,12 +815,20 @@
             "most likely to show",
             "following findings"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1966,
-            "completion_tokens": 2377
+            "completion_tokens": 2197
         },
-        "time_elapsed": 26.287003755569458
+        "time_elapsed": 25.323569774627686
     },
     {
         "realidx": 149,
@@ -782,12 +886,20 @@
             "toxins",
             "organism"
         ],
+        "solutions": [
+            "D",
+            "A",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question involves identifying the primary defense mechanism in response to an infection by Staphylococcus aureus, which has led to staphylococcal scalded skin syndrome in an 11-month-old boy. The options provided are different types of immunoglobulins (antibodies).\n\nTo determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions:\n\n- Solution 1: D\n- Solution 2: A\n- Solution 3: D\n- Solution 4: D\n- Solution 5: D\n\nThe answer that appears most frequently across the solutions is \"D,\" which corresponds to Immunoglobulin- IgM.\n\nIgM is typically the first antibody produced in response to an infection and plays a crucial role in the initial defense against bacterial infections. Given the consistency of the answers and the role of IgM in primary immune response, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1888,
-            "completion_tokens": 2256
+            "completion_tokens": 2548
         },
-        "time_elapsed": 26.236836910247803
+        "time_elapsed": 32.82440996170044
     },
     {
         "realidx": 155,
@@ -853,12 +965,20 @@
             "patient",
             "ymptoms?"
         ],
+        "solutions": [
+            "C",
+            "D",
+            "C",
+            "D",
+            "C"
+        ],
+        "ensemble_response": "The most frequently occurring answer among the provided solutions is C. \n\nHere is the detailed thought process:\n\n1. The patient has a history of major depressive disorder and is currently on amitriptyline, a tricyclic antidepressant, and diphenhydramine, an antihistamine with anticholinergic properties.\n2. The symptoms include unusual behavior, paranoia, hyperthermia (temperature of 37.9\u00b0C), tachycardia (pulse of 115/min), tachypnea (respirations of 24/min), hypertension (blood pressure of 160/89 mm Hg), diaphoresis, disorientation, dilated pupils, diffuse hyperreflexia, and cold extremities with delayed capillary refill.\n3. The combination of these symptoms, particularly the dilated pupils, hyperreflexia, and the use of medications with anticholinergic properties (amitriptyline and diphenhydramine), strongly suggests anticholinergic toxicity.\n\nGiven the consistency of the answer C across multiple solutions and the clinical presentation aligning with anticholinergic toxicity, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2134,
-            "completion_tokens": 3137
+            "completion_tokens": 3064
         },
-        "time_elapsed": 43.97685670852661
+        "time_elapsed": 35.86863446235657
     },
     {
         "realidx": 160,
@@ -919,12 +1039,20 @@
             "patient",
             "infections"
         ],
-        "predicted_answer": "A",
+        "solutions": [
+            "A",
+            "D",
+            "A",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\n- Solution 1: A\n- Solution 2: D\n- Solution 3: A\n- Solution 4: C\n- Solution 5: C\n\nWe observe the following frequencies:\n- A: 2 times (Solution 1 and Solution 3)\n- D: 1 time (Solution 2)\n- C: 2 times (Solution 4 and Solution 5)\n\nThe answers A and C both appear twice, making them equally frequent. However, we need to determine which one is more likely to be correct based on the context of the question.\n\nThe question involves a child with sickle-cell disease who has undergone a partial splenectomy. The physician provides vaccines against Neisseria meningitidis, Haemophilus influenzae, and Streptococcus pneumoniae, which are encapsulated bacteria. The spleen plays a crucial role in filtering blood and mounting an immune response against encapsulated organisms. The white pulp of the spleen, which includes the periarteriolar lymphoid sheath (PALS) and lymphoid follicles, is primarily responsible for this immune function.\n\nGiven the context, the zones marked with numbers in the spleen likely refer to different functional areas. The white pulp (zones 1 and 2) is critical for the immune response against encapsulated bacteria. Therefore, dysfunction in these zones would predispose the patient to infections by Neisseria meningitidis, Haemophilus influenzae, and Streptococcus pneumoniae.\n\nBased on this reasoning, the most accurate answer should be C (1 and 2), as these zones are involved in the immune response against the aforementioned infections.\n\nThus, the most consistent and contextually appropriate solution is:\n\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1936,
-            "completion_tokens": 2488
+            "completion_tokens": 2742
         },
-        "time_elapsed": 25.733710527420044
+        "time_elapsed": 32.06507682800293
     },
     {
         "realidx": 171,
@@ -976,12 +1104,20 @@
             "observed",
             "fetus"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question describes a fetus with intrauterine growth restriction (IUGR), microcephaly, convex-rounded feet, clenched fists with overlapping fingers, and a ventricular septal defect (VSD). These findings are suggestive of a chromosomal abnormality, specifically Trisomy 18 (Edwards syndrome).\n\nTrisomy 18 is characterized by several distinct features, including:\n- Intrauterine growth restriction (IUGR)\n- Microcephaly\n- Clenched fists with overlapping fingers\n- Congenital heart defects such as VSD\n- Convex-rounded feet (rocker-bottom feet)\n- Prominent occiput\n\nGiven the options provided:\n(A) Cleft palate\n(B) Epicanthal folds\n(C) Micropthlamia\n(D) Prominent occiput\n\nThe most consistent additional finding in Trisomy 18 is a prominent occiput.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) indicate the answer as \"D.\"\n\nTherefore, the most reliable solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1864,
-            "completion_tokens": 2445
+            "completion_tokens": 2472
         },
-        "time_elapsed": 30.03465485572815
+        "time_elapsed": 30.883789539337158
     },
     {
         "realidx": 178,
@@ -1028,12 +1164,20 @@
             "seen",
             "patient"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"D\". \n\nGiven the clinical scenario, the patient experienced left-sided weakness after a chiropractic neck manipulation, and the MRI shows a left C5 hemicord lesion. This suggests a Brown-S\u00e9quard syndrome, which is characterized by:\n- Ipsilateral (same side) loss of motor function and proprioception below the level of the lesion.\n- Contralateral (opposite side) loss of pain and temperature sensation below the level of the lesion.\n\nTherefore, the most likely additional finding in this patient would be right-sided analgesia (loss of pain and temperature sensation on the opposite side of the lesion).\n\nThus, the correct answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1588,
-            "completion_tokens": 2583
+            "completion_tokens": 2597
         },
-        "time_elapsed": 28.081072092056274
+        "time_elapsed": 31.21274447441101
     },
     {
         "realidx": 196,
@@ -1075,12 +1219,20 @@
             "following anticoagulants",
             "patient most likely"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "B",
+            "D",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: D\n- Solution 2: D\n- Solution 3: B\n- Solution 4: D\n- Solution 5: A\n\nNow, let's count the frequency of each option:\n- A: 1 time\n- B: 1 time\n- C: 0 times\n- D: 3 times\n\nThe answer that appears most frequently is D, which appears 3 times.\n\nTherefore, the most consistent solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1414,
-            "completion_tokens": 2332
+            "completion_tokens": 2375
         },
-        "time_elapsed": 27.74051523208618
+        "time_elapsed": 30.850297451019287
     },
     {
         "realidx": 198,
@@ -1129,12 +1281,20 @@
             "treated",
             "drug"
         ],
+        "solutions": [
+            "D",
+            "C",
+            "C",
+            "D",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: D\nSolution 2: C\nSolution 3: C\nSolution 4: D\nSolution 5: C\n\nWe observe that:\n- Solution 1 and Solution 4 suggest the answer is D.\n- Solution 2, Solution 3, and Solution 5 suggest the answer is C.\n\nThe answer that appears most frequently is C, as it is suggested by three out of the five solutions.\n\nTherefore, the most consistent solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1534,
-            "completion_tokens": 2103
+            "completion_tokens": 2170
         },
-        "time_elapsed": 38.44856119155884
+        "time_elapsed": 28.08488154411316
     },
     {
         "realidx": 202,
@@ -1189,12 +1349,20 @@
             "most likely initial metastatic site",
             "patient"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question describes a 48-year-old female with a thyroid nodule that is fixed, immobile, and non-tender. The ultrasound showed a hypoechoic nodule, and the fine needle biopsy indicated a likely suspicion of neoplasia. The CT scan is performed to check for common metastatic sites, and radioiodine therapy is planned after near-total thyroidectomy.\n\nGiven the context, the most likely type of thyroid cancer being described is papillary thyroid carcinoma, which is the most common type of thyroid cancer and often metastasizes to the cervical lymph nodes first.\n\nThe options provided are:\n(A) Trachea\n(B) Cervical lymph nodes\n(C) Inferior thyroid arteries\n(D) Thyrohyoid muscle\n\nThe most common initial metastatic site for papillary thyroid carcinoma is the cervical lymph nodes.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently indicate option B.\n\nTherefore, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1684,
-            "completion_tokens": 1884
+            "completion_tokens": 2045
         },
-        "time_elapsed": 23.140284538269043
+        "time_elapsed": 25.073552131652832
     },
     {
         "realidx": 203,
@@ -1247,12 +1415,20 @@
             "used to treat",
             "patient's condition"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is A. \n\nGiven the patient's symptoms and travel history, the presentation is suggestive of Chagas disease, which is caused by the parasite Trypanosoma cruzi. The indurated red patch with surrounding erythema and local swelling on his left leg is likely the site of the insect bite (chagoma), and the painless swelling of the right eyelid (Roma\u00f1a's sign) is characteristic of the acute phase of Chagas disease. Benznidazole is the first-line treatment for Chagas disease.\n\nTherefore, the correct answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1804,
-            "completion_tokens": 2702
+            "completion_tokens": 2312
         },
-        "time_elapsed": 32.340394020080566
+        "time_elapsed": 35.86168146133423
     },
     {
         "realidx": 211,
@@ -1333,12 +1509,20 @@
             "workup",
             "patient"
         ],
+        "solutions": [
+            "D",
+            "B",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is D. \n\nThe patient's presentation of painless lymphadenopathy, fever, night sweats, weight loss, and elevated lactate dehydrogenase (LDH) levels, along with a history of HIV, suggests a diagnosis of lymphoma, specifically a type of non-Hodgkin lymphoma. The Tartrate-resistant acid phosphatase (TRAP) test is used in the diagnosis of hairy cell leukemia, which is a type of non-Hodgkin lymphoma. Therefore, the next best diagnostic step in the workup of this patient is the TRAP test.\n\nThus, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2920,
-            "completion_tokens": 3407
+            "completion_tokens": 3148
         },
-        "time_elapsed": 37.2250189781189
+        "time_elapsed": 39.86819577217102
     },
     {
         "realidx": 212,
@@ -1408,12 +1592,20 @@
             "authors",
             "following reasons"
         ],
+        "solutions": [
+            "D",
+            "B",
+            "D",
+            "D",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: D\n- Solution 2: B\n- Solution 3: D\n- Solution 4: D\n- Solution 5: B\n\nCounting the frequency of each option:\n- Option A: 0 times\n- Option B: 2 times\n- Option C: 0 times\n- Option D: 3 times\n\nOption D appears most frequently across the solutions. Therefore, the most consistent solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1954,
-            "completion_tokens": 2419
+            "completion_tokens": 2399
         },
-        "time_elapsed": 26.50904369354248
+        "time_elapsed": 35.86802864074707
     },
     {
         "realidx": 215,
@@ -1459,12 +1651,20 @@
             "management",
             "patient"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient described in the question is a 45-year-old man with increased urinary frequency and decreased volumes over the past 2 months, without pain during urination. He also experiences nocturia (waking up at night to urinate). The physical examination does not reveal any significant findings such as suprapubic mass, tenderness, or costovertebral angle tenderness. Given these symptoms, it is important to rule out common causes of urinary frequency and nocturia, such as urinary tract infection, diabetes, or renal issues.\n\nThe best initial step in the management of this patient would be to perform basic diagnostic tests to gather more information about his condition. Urinalysis can help identify any signs of infection, hematuria, or other abnormalities in the urine. Serum creatinine can provide information about kidney function.\n\nThe other options, such as reassurance, digital rectal examination, and prostate-specific antigen, may be considered later based on the initial test results. However, the most appropriate first step is to perform urinalysis and serum creatinine to guide further management.\n\nGiven that all the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently indicate the same answer, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1558,
-            "completion_tokens": 2353
+            "prompt_tokens": 1808,
+            "completion_tokens": 2975
         },
-        "time_elapsed": 29.288798332214355
+        "time_elapsed": 29.764448165893555
     },
     {
         "realidx": 222,
@@ -1515,12 +1715,20 @@
             "patient",
             "most likely"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"B\". \n\nTo determine the most reliable solution, I evaluated the frequency of each answer. All the solutions (1 through 5) indicate \"B\" as the answer. This consistency suggests that \"B\" is the most reliable solution.\n\nTherefore, the answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1888,
-            "completion_tokens": 2972
+            "completion_tokens": 2676
         },
-        "time_elapsed": 32.788114070892334
+        "time_elapsed": 32.3705096244812
     },
     {
         "realidx": 231,
@@ -1567,12 +1775,20 @@
             "following",
             "most likely causal organism"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "A"
+        ],
+        "ensemble_response": "The question describes a 59-year-old man with a history of total knee arthroplasty who presents with symptoms and signs of septic arthritis. Given the clinical context, the most likely causal organism needs to be identified.\n\nThe options provided are:\n(A) Staphylococcus epidermidis\n(B) Escherichia coli\n(C) Staphylococcus aureus\n(D) Pseudomonas aeruginosa\n\nSeptic arthritis following a joint replacement is most commonly caused by Staphylococcus species. Among these, Staphylococcus aureus is the most common pathogen, especially in the early postoperative period (within the first few months). Staphylococcus epidermidis, while also a common cause of prosthetic joint infections, is more often associated with late-onset infections due to its ability to form biofilms on prosthetic material.\n\nGiven the solutions provided:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: A\n\nThe most frequently occurring answer is \"C\" (Staphylococcus aureus), appearing in four out of the five solutions.\n\nTherefore, the most consistent and reliable solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1684,
-            "completion_tokens": 2344
+            "completion_tokens": 2372
         },
-        "time_elapsed": 25.74132204055786
+        "time_elapsed": 30.269705533981323
     },
     {
         "realidx": 234,
@@ -1617,12 +1833,20 @@
             "most likely explanation",
             "patient's laboratory findings"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"C\".\n\nExplanation:\nThe patient presents with a progressively growing mass, recurrent low-grade fever, significant weight loss, and widespread lymphadenopathy. The biopsy findings of granuloma formation and large CD15-positive, CD30-positive cells with bilobed nuclei are characteristic of Hodgkin lymphoma. The elevated serum calcium concentration with a low parathyroid hormone (PTH) level suggests hypercalcemia not mediated by PTH.\n\nIn Hodgkin lymphoma, hypercalcemia can occur due to the secretion of \u03b3-interferon by activated T-lymphocytes, which leads to increased 1-alpha-hydroxylase activity in macrophages within the granulomas. This enzyme converts 25-hydroxyvitamin D to its active form, leading to increased calcium absorption from the gut and increased calcium reabsorption in the kidneys, resulting in hypercalcemia.\n\nTherefore, the most likely explanation for the patient's laboratory findings is the secretion of \u03b3-interferon by activated T-lymphocytes.\n\nThe answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1894,
-            "completion_tokens": 3015
+            "completion_tokens": 2775
         },
-        "time_elapsed": 31.2782723903656
+        "time_elapsed": 33.43856620788574
     },
     {
         "realidx": 237,
@@ -1694,12 +1918,20 @@
             "most likely",
             "following findings"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the generated solutions is D. \n\nTo determine the correct answer, let's analyze the clinical presentation and the options provided:\n\n1. The patient is a 65-year-old man with a firm, painless neck mass that has been present for 4 months.\n2. He has gained weight and experienced occasional fatigue.\n3. His family history includes medullary thyroid cancer in his maternal uncle.\n4. Physical examination reveals a firm, symmetric, and stone-firm thyroid.\n\nGiven these details, the most likely diagnosis is medullary thyroid cancer, especially considering the family history and the description of the thyroid mass. Medullary thyroid cancer is known for its association with amyloid deposits in the stroma of the tumor.\n\nTherefore, the biopsy of this patient's lesion would most likely demonstrate stromal amyloid deposition, which corresponds to option D.\n\nThus, the correct answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2188,
-            "completion_tokens": 2348
+            "completion_tokens": 2328
         },
-        "time_elapsed": 30.562657356262207
+        "time_elapsed": 26.982507705688477
     },
     {
         "realidx": 238,
@@ -1751,12 +1983,20 @@
             "chosen",
             "specific study"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided across the multiple solutions. Here are the solutions given:\n\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll the solutions consistently indicate that the correct answer is \"B.\"\n\nNow, let's analyze the question and the provided options to ensure that \"B\" is indeed the correct answer:\n\nThe question involves understanding the relationship between incidence and prevalence rates of systemic lupus erythematosus (SLE) over different time periods. Here are the key points:\n\n1. **Incidence Rate**: This refers to the number of new cases of SLE diagnosed during a specific time period.\n2. **Prevalence Rate**: This refers to the total number of existing cases of SLE at a given time, including both new and pre-existing cases.\n\nThe researchers are examining administrative data over different time periods, and they are considering both hospital discharges and physician billing codes.\n\n- **Option A**: Suggests that incidence rates will be higher during shorter time periods than longer periods. This is not necessarily true because incidence rates are typically measured per unit of time (e.g., per year), and the length of the observation period does not directly affect the rate itself.\n\n- **Option B**: Suggests that the prevalence of SLE during consecutively shorter time windows will be overestimated. This makes sense because shorter time windows may not capture all the cases that persist over longer periods, leading to an overestimation of prevalence if cases are not consistently followed up.\n\n- **Option C**: Suggests that the inclusion of attack rates would increase incidence estimates in longer time periods. Attack rates typically refer to the occurrence of new cases during an outbreak, which is not directly relevant to the chronic nature of SLE.\n\n- **Option D**: Suggests that the inclusion of attack rates would decrease incidence estimates in shorter time periods. Again, attack rates are not directly relevant to the chronic nature of SLE.\n\nGiven the consistency of the answers and the logical analysis, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1804,
-            "completion_tokens": 2980
+            "completion_tokens": 3329
         },
-        "time_elapsed": 29.958828449249268
+        "time_elapsed": 39.661781787872314
     },
     {
         "realidx": 239,
@@ -1809,12 +2049,20 @@
             "most likely to confirm",
             "diagnosis"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient presents with progressive weakness, shortness of breath, difficulty raising her arms, and a characteristic rash. These symptoms are suggestive of dermatomyositis, an inflammatory myopathy that often presents with muscle weakness and a distinctive skin rash.\n\nTo confirm the diagnosis of dermatomyositis, a muscle biopsy is typically performed. This test can reveal the characteristic inflammatory changes in the muscle tissue that are indicative of the disease.\n\nGiven that all the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify \"A\" (Muscle biopsy) as the most likely test to confirm the diagnosis, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1834,
-            "completion_tokens": 2298
+            "completion_tokens": 2382
         },
-        "time_elapsed": 27.95046329498291
+        "time_elapsed": 28.514347314834595
     },
     {
         "realidx": 241,
@@ -1890,12 +2138,20 @@
             "found",
             "histology"
         ],
+        "solutions": [
+            "A",
+            "B",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient presents with abdominal pain localized above the umbilicus, which is intermittent and associated with nausea. The pain improves with more frequent meals and ibuprofen. The physical exam reveals tenderness above the umbilicus, and a stool guaiac test is positive, indicating the presence of blood. The patient undergoes endoscopy with biopsy.\n\nGiven these symptoms and findings, the most likely diagnosis is a peptic ulcer disease, which is often associated with Helicobacter pylori infection. The histological finding in such a case would typically be a mucosal defect in the stomach.\n\nEvaluating the solutions provided:\n- Solution 1: A\n- Solution 2: B\n- Solution 3: A\n- Solution 4: A\n- Solution 5: A\n\nThe most frequently occurring answer is \"A\".\n\nThus, the most consistent solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2290,
-            "completion_tokens": 2388
+            "completion_tokens": 2380
         },
-        "time_elapsed": 30.32313060760498
+        "time_elapsed": 29.266894340515137
     },
     {
         "realidx": 243,
@@ -1942,12 +2198,20 @@
             "action to take",
             "control"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question involves a 61-year-old man who experienced muscle pain and weakness after starting rosuvastatin, a statin medication. His symptoms resolved after discontinuing the statin, indicating that the statin was likely the cause of his muscle symptoms. The next step is to manage his LDL cholesterol while avoiding the side effects he experienced.\n\nThe options provided are:\n(A) Restart rosuvastatin at a lower dose\n(B) Initiate fenofibrate\n(C) Initiate a different statin\n(D) Initiate fish oils\n\nGiven that the patient had adverse effects from rosuvastatin, restarting it at a lower dose (Option A) might still cause similar side effects. Fenofibrate (Option B) and fish oils (Option D) are not first-line treatments for LDL cholesterol management in this context. Initiating a different statin (Option C) is a reasonable approach because different statins can have different side effect profiles, and the patient may tolerate another statin better.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently indicate Option C as the best course of action.\n\nTherefore, the most reliable solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1583,
-            "completion_tokens": 1816
+            "completion_tokens": 1953
         },
-        "time_elapsed": 22.811474084854126
+        "time_elapsed": 31.236742734909058
     },
     {
         "realidx": 246,
@@ -2004,12 +2268,20 @@
             "most appropriate next step to confirm",
             "diagnosis"
         ],
+        "solutions": [
+            "B",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"A\". \n\nHere is the detailed thought process:\n- Solution 1 suggests \"B\".\n- Solutions 2, 3, 4, and 5 suggest \"A\".\n\nSince \"A\" appears four times out of five solutions, it is the most consistent answer.\n\nTherefore, the single letter ID corresponding to the most consistent solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1894,
-            "completion_tokens": 2565
+            "completion_tokens": 2386
         },
-        "time_elapsed": 29.211308479309082
+        "time_elapsed": 26.64936113357544
     },
     {
         "realidx": 258,
@@ -2070,12 +2342,20 @@
             "most likely cause",
             "current symptoms"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The patient is a 36-year-old nursing home worker who has been diagnosed with tuberculosis and started on standard anti-tuberculosis medication. She now presents with symptoms of fatigue, dizziness, weakness, numbness in her feet, and conjunctival pallor. Her lab work shows a hemoglobin level of 10 g/dL and a mean corpuscular volume (MCV) of 68 fl, indicating microcytic anemia.\n\nThe standard anti-tuberculosis regimen typically includes isoniazid, rifampin, pyrazinamide, and ethambutol. One of the common side effects of isoniazid is peripheral neuropathy, which can present with symptoms such as dizziness, weakness, and numbness in the feet. Isoniazid can also cause sideroblastic anemia, which is characterized by microcytic anemia (low MCV) due to its inhibition of the enzyme delta-aminolevulinic acid (ALA) synthase, which is crucial for heme synthesis.\n\nGiven the patient's symptoms and lab findings, the most likely cause of her current symptoms is related to the side effects of isoniazid, specifically its inhibition of ALA synthase, leading to decreased heme synthesis and resulting in microcytic anemia.\n\nTherefore, the most consistent and correct answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1876,
-            "completion_tokens": 3069
+            "completion_tokens": 2730
         },
-        "time_elapsed": 40.420711517333984
+        "time_elapsed": 29.924691677093506
     },
     {
         "realidx": 265,
@@ -2114,12 +2394,20 @@
             "most likely finding",
             "patient's chest CT"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a 76-year-old man with a significant smoking history, chronic obstructive pulmonary disease (COPD), and a history of working as a shipbuilder, which suggests potential asbestos exposure. The chest radiograph findings of increased bronchovascular markings, reticular parenchymal opacities, and multiple pleural plaques are consistent with asbestos-related disease. Given these findings, the most likely diagnosis is malignant mesothelioma, which is often associated with asbestos exposure.\n\nThe most characteristic finding of malignant mesothelioma on a chest CT is a nodular mass spreading along pleural surfaces.\n\nReviewing the solutions provided:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll solutions consistently indicate option A.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1522,
-            "completion_tokens": 2434
+            "completion_tokens": 2307
         },
-        "time_elapsed": 26.38749361038208
+        "time_elapsed": 27.399988889694214
     },
     {
         "realidx": 267,
@@ -2143,12 +2431,20 @@
             "carrier of",
             "disease"
         ],
-        "predicted_answer": "D",
+        "solutions": [
+            "D",
+            "D",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\n- Solution 1: D\n- Solution 2: D\n- Solution 3: C\n- Solution 4: C\n- Solution 5: C\n\nWe observe that:\n- Solution 1 and Solution 2 both suggest D.\n- Solution 3, Solution 4, and Solution 5 all suggest C.\n\nThe answer that appears most frequently is C, as it is suggested by three out of the five solutions.\n\nTherefore, the most consistent solution is:\n\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 970,
-            "completion_tokens": 1991
+            "completion_tokens": 1734
         },
-        "time_elapsed": 22.235535144805908
+        "time_elapsed": 21.756258964538574
     },
     {
         "realidx": 271,
@@ -2216,12 +2512,20 @@
             "cause",
             "abnormal dipstick"
         ],
+        "solutions": [
+            "D",
+            "C",
+            "C",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions.\n\nThe solutions are as follows:\n- Solution 1: D\n- Solution 2: C\n- Solution 3: C\n- Solution 4: D\n- Solution 5: D\n\nBy counting the frequency of each answer:\n- D appears 3 times.\n- C appears 2 times.\n\nThe most frequent answer is D.\n\nTherefore, the most consistent solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2392,
-            "completion_tokens": 2777
+            "completion_tokens": 3013
         },
-        "time_elapsed": 31.630090951919556
+        "time_elapsed": 33.6059136390686
     },
     {
         "realidx": 273,
@@ -2282,12 +2586,20 @@
             "most appropriate next step",
             "diagnosis"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient presents with symptoms of abdominal bloating, increased frequency of stools, bulky and foul-smelling stools, and significant weight loss. These symptoms are suggestive of malabsorption. Additionally, the patient has a history of recurrent upper abdominal pain that worsens after meals and is not relieved by antacids, which could indicate a chronic condition affecting the pancreas, such as chronic pancreatitis. The patient's history of heavy alcohol use and smoking further supports this suspicion.\n\nGiven these clinical features, the most appropriate next step in diagnosis would be imaging to evaluate the pancreas and other abdominal structures. An abdominal CT scan is a comprehensive imaging modality that can provide detailed information about the pancreas, including the presence of calcifications, ductal dilatation, and other structural abnormalities associated with chronic pancreatitis.\n\nUpon reviewing the solutions provided:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll solutions consistently indicate that the most appropriate next step in diagnosis is an abdominal CT scan.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2116,
-            "completion_tokens": 2567
+            "completion_tokens": 2563
         },
-        "time_elapsed": 34.111363887786865
+        "time_elapsed": 27.448285341262817
     },
     {
         "realidx": 284,
@@ -2355,12 +2667,20 @@
             "mechanism of action",
             "prescribed medication"
         ],
-        "predicted_answer": "B",
+        "solutions": [
+            "C",
+            "C",
+            "B",
+            "B",
+            "C"
+        ],
+        "ensemble_response": "The most frequently occurring answer among the provided solutions is C. \n\nTherefore, the answer is:\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2176,
-            "completion_tokens": 2844
+            "completion_tokens": 2854
         },
-        "time_elapsed": 29.342195510864258
+        "time_elapsed": 37.51252222061157
     },
     {
         "realidx": 285,
@@ -2415,12 +2735,20 @@
             "management",
             "patient"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The patient described in the question presents with symptoms of fatigue, weakness, abdominal pain, constipation, weight loss, and a bronze discoloration of the skin. These symptoms are suggestive of Addison's disease (primary adrenal insufficiency). The bronze discoloration of the skin is particularly indicative of this condition due to increased melanocyte-stimulating hormone (MSH) levels, which occur alongside elevated ACTH levels in primary adrenal insufficiency.\n\nGiven the clinical presentation, the next best step in management is to confirm the diagnosis of Addison's disease. The ACTH stimulation test is the gold standard for diagnosing adrenal insufficiency. This test measures the adrenal glands' response to ACTH and helps differentiate between primary and secondary adrenal insufficiency.\n\nThe consistent answer across all provided solutions is \"D,\" which corresponds to ordering an ACTH stimulation test. This consistency indicates that the most reliable solution is to proceed with this diagnostic test.\n\nTherefore, the answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1858,
-            "completion_tokens": 1667
+            "completion_tokens": 1559
         },
-        "time_elapsed": 25.121686458587646
+        "time_elapsed": 18.512065410614014
     },
     {
         "realidx": 303,
@@ -2522,12 +2850,20 @@
             "following",
             "most likely diagnosis"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the generated solutions is \"D\". \n\nExplanation:\nThe patient is a 16-year-old female who has not yet had her first period (primary amenorrhea). She has normal secondary sexual characteristics (Tanner stage IV breast and pubic hair development), normal vital signs, and a normal body mass index. Her laboratory results, including FSH and estrogen levels, are within normal ranges, and an abdominal ultrasound shows a normal uterus and ovaries. These findings suggest that her development is within the normal range, and she may simply be a late bloomer, similar to her mother and sister who both had menarche at age 15. \n\nTherefore, the most likely diagnosis is normal development.\n\nThe answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3472,
-            "completion_tokens": 2797
+            "completion_tokens": 3044
         },
-        "time_elapsed": 32.26452922821045
+        "time_elapsed": 32.01778221130371
     },
     {
         "realidx": 307,
@@ -2603,12 +2939,20 @@
             "most appropriate course",
             "action"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question involves a 67-year-old man who is in a comatose state after a subarachnoid hemorrhage and subsequent surgery. The patient's daughter, who is the decision-maker in the absence of an advanced directive, refuses consent for a life-saving operation due to past abuse and neglect by the patient. The physician must decide the most appropriate course of action.\n\nGiven the options:\n(A) Follow the daughter\u2019s wishes to withhold the operation\n(B) Refer this case to the court\n(C) Contact another family member for consent\n(D) Report the daughter to the police\n\nThe solutions provided are:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll solutions consistently indicate option B, which is to refer the case to the court. This consistency suggests that the most appropriate course of action is to seek a legal resolution, as the court can provide an impartial decision in the best interest of the patient, especially when there is a conflict of interest or potential bias from the family member.\n\nTherefore, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2308,
-            "completion_tokens": 2406
+            "completion_tokens": 2597
         },
-        "time_elapsed": 28.010777950286865
+        "time_elapsed": 28.726375818252563
     },
     {
         "realidx": 321,
@@ -2661,12 +3005,20 @@
             "management",
             "time"
         ],
+        "solutions": [
+            "C",
+            "A",
+            "A",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"C\". \n\nHere is the detailed thought process:\n\n1. The patient is a 55-year-old man who is recovering from knee replacement surgery and has been confined to bed for 5 days.\n2. He presents with sudden breathlessness, sharp chest pain on the right side with inspiration, and difficulty in taking deep breaths.\n3. His vital signs show a temperature of 37.5\u00b0C, pulse of 111/min, respirations of 31/min, and blood pressure of 85/55 mm Hg.\n4. He also experiences pain in his right calf on dorsiflexion, which is suggestive of a possible deep vein thrombosis (DVT).\n5. The chest X-ray is not significant, and the ECG shows sinus tachycardia.\n\nGiven these symptoms and findings, the clinical picture is highly suggestive of a pulmonary embolism (PE), which is a common postoperative complication, especially in patients who have been immobile.\n\nThe best course of management at this time would be to confirm the diagnosis of PE. Among the options provided:\n\n- (A) Subcutaneous fondaparinux: This is an anticoagulant used for treatment, but diagnosis should be confirmed first.\n- (B) Inferior vena cava filter: This is used to prevent further emboli in patients who cannot be anticoagulated, but again, diagnosis should be confirmed first.\n- (C) Ventilation-perfusion scan: This is a diagnostic test to confirm PE.\n- (D) Lower extremity doppler: This can diagnose DVT but does not directly confirm PE.\n\nGiven the need to confirm the diagnosis of PE, the most appropriate initial step is a ventilation-perfusion scan (C).\n\nTherefore, the most consistent and appropriate answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1846,
-            "completion_tokens": 2634
+            "completion_tokens": 2717
         },
-        "time_elapsed": 30.565387725830078
+        "time_elapsed": 32.58138966560364
     },
     {
         "realidx": 329,
@@ -2739,12 +3091,20 @@
             "following therapies",
             "most likely indicated"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient described in the question is a 57-year-old woman presenting with acute onset of dysarthria and left-sided facial droop, which are classic signs of a stroke. Given her medical history of sickle cell disease, she is at an increased risk for cerebrovascular events. The immediate management of an acute ischemic stroke, which is the most likely diagnosis given the sudden onset of symptoms, typically involves the administration of thrombolytic therapy if the patient is within the appropriate time window and meets the criteria for such treatment.\n\nThe options provided are:\n(A) Alteplase\n(B) Exchange transfusion\n(C) Hydralazine\n(D) Warfarin\n\nAlteplase is a tissue plasminogen activator (tPA) used to dissolve clots in the setting of an acute ischemic stroke. Exchange transfusion is used in sickle cell disease to reduce the proportion of sickled cells but is not the immediate treatment for an acute ischemic stroke. Hydralazine is an antihypertensive medication, and Warfarin is an anticoagulant used for long-term prevention of thromboembolic events, not for acute management.\n\nGiven the acute presentation and the need for immediate intervention to restore blood flow in the case of an ischemic stroke, the most appropriate therapy is Alteplase.\n\nThe solutions provided all consistently indicate:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nThe most consistent solution across all provided answers is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2254,
-            "completion_tokens": 2781
+            "completion_tokens": 2728
         },
-        "time_elapsed": 28.092570304870605
+        "time_elapsed": 31.088634967803955
     },
     {
         "realidx": 336,
@@ -2813,12 +3173,20 @@
             "most associated with",
             "patients condition"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions is \"A\". \n\nGiven the clinical presentation of the patient with recurrent headaches, generalized tonic-clonic seizures, and the MRI findings along with the brain biopsy showing perivascular clusters of lymphocytes, the most likely diagnosis is primary central nervous system lymphoma (PCNSL). PCNSL is often associated with Epstein-Barr virus (EBV) infection, especially in immunocompromised individuals, such as those with HIV/AIDS. The patient's history of multiple sexual partners and the lack of contraceptive use information raises the possibility of an underlying immunocompromised state, which is consistent with the association of EBV with PCNSL.\n\nTherefore, the correct answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2038,
-            "completion_tokens": 2543
+            "completion_tokens": 2616
         },
-        "time_elapsed": 34.440908670425415
+        "time_elapsed": 28.07800030708313
     },
     {
         "realidx": 337,
@@ -2887,12 +3255,20 @@
             "change",
             "patients condition"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions provided is \"C\". \n\nTo determine the most reliable solution, I evaluated the consistency of the answers given. All five solutions indicate \"C\" as the answer. This consistency suggests that \"C\" is the most reliable solution.\n\nThe physiological change in pregnancy that is causing the change in this patient's condition is the increase in cardiac output. During pregnancy, cardiac output increases significantly to meet the metabolic demands of both the mother and the developing fetus. This increase in cardiac output can exacerbate pre-existing cardiac conditions, such as the one described in the patient, leading to symptoms like dyspnea and dizziness.\n\nTherefore, the answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2200,
-            "completion_tokens": 2198
+            "completion_tokens": 2179
         },
-        "time_elapsed": 24.326117992401123
+        "time_elapsed": 25.031755685806274
     },
     {
         "realidx": 340,
@@ -2962,12 +3338,20 @@
             "most appropriate next step",
             "management"
         ],
-        "predicted_answer": "A",
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most appropriate next step in management for the 67-year-old man described in the question, we need to carefully analyze the clinical presentation and the options provided.\n\nThe patient has a history of increasing forgetfulness, unsteadiness, and falls over the past year, with symptoms worsening after each fall. He has significant cognitive impairment, particularly in short-term memory, and an unsteady gait. The presence of a bruise over the left temple and a positive Babinski sign on the left side, along with decreased muscle strength in the left lower extremity, suggests a neurological issue. The CT scan of the head would likely show evidence of a chronic subdural hematoma, which is common in elderly patients, especially those on anticoagulant therapy like aspirin.\n\nGiven the clinical presentation and the CT findings, the most appropriate next step in management would be to address the underlying cause of the symptoms, which is likely the subdural hematoma. This typically involves neurosurgical intervention rather than the options provided (Warfarin therapy, Vitamin E therapy, Tetrabenazine therapy, or Cognitive training).\n\nHowever, since the question asks for the most appropriate next step among the given options, and none of the options directly address the subdural hematoma, we need to consider the options in the context of the patient's overall management.\n\n- Warfarin therapy (A) is not appropriate as it could worsen bleeding.\n- Vitamin E therapy (B) is not relevant to the acute management of his condition.\n- Tetrabenazine therapy (C) is used for movement disorders like Huntington's disease, which is not indicated here.\n- Cognitive training (D) might be considered for long-term management of cognitive impairment, but it is not the immediate next step for an acute condition like a subdural hematoma.\n\nGiven the consistency in the solutions provided (all indicating D), and considering that cognitive training might be part of a comprehensive management plan after addressing the acute issue, the most consistent solution is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2056,
-            "completion_tokens": 3257
+            "completion_tokens": 3368
         },
-        "time_elapsed": 35.873682260513306
+        "time_elapsed": 35.35322952270508
     },
     {
         "realidx": 367,
@@ -3041,12 +3425,20 @@
             "management",
             "woman"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"D\". \n\nHere is the detailed thought process:\n\n1. The patient presents with a rash, watery nasal discharge, and mild bilateral knee pain, which are symptoms that can be associated with several infections, including rubella and parvovirus B19.\n2. The patient had contact with someone diagnosed with rubella, raising initial concern for rubella infection.\n3. However, the serology results show that the patient has high avidity rubella IgG and negative rubella IgM, indicating past immunity to rubella rather than a current infection.\n4. Given the symptoms and the serology results, rubella is unlikely to be the cause of her current symptoms.\n5. Parvovirus B19 infection, which can present with similar symptoms and is known to cause a \"slapped cheek\" rash and arthralgia, is a more likely diagnosis.\n6. Therefore, the next step should be to recommend additional serologic testing for parvovirus B19 to confirm the diagnosis and manage the pregnancy appropriately.\n\nThus, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2536,
-            "completion_tokens": 2676
+            "completion_tokens": 2875
         },
-        "time_elapsed": 31.009112119674683
+        "time_elapsed": 30.611963510513306
     },
     {
         "realidx": 380,
@@ -3104,12 +3496,20 @@
             "best explanation",
             "patient's current presentation"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient's presentation includes sudden onset of shortness of breath and cough, bipedal edema, jugular venous distention (JVD), and rapid improvement with BIPAP and medical therapy. These symptoms are indicative of acute decompensated heart failure, likely due to fluid overload. The lab values show a slightly low potassium level (3.2 mEq/L) and a normal creatinine level, which are consistent with the use of a diuretic.\n\nGiven the options:\n(A) Furosemide - a loop diuretic commonly used to treat fluid overload in heart failure.\n(B) Hydrochlorothiazide - a thiazide diuretic, less commonly used in acute settings for heart failure.\n(C) Renal tubular acidosis type II - unlikely given the patient's presentation and lab values.\n(D) Renal tubular acidosis type IV - also unlikely given the patient's presentation and lab values.\n\nThe most consistent solution across the provided answers is (A) Furosemide, which aligns with the clinical scenario of acute decompensated heart failure and the need for diuresis.\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2128,
-            "completion_tokens": 3087
+            "completion_tokens": 3368
         },
-        "time_elapsed": 36.00506830215454
+        "time_elapsed": 38.35226511955261
     },
     {
         "realidx": 413,
@@ -3170,12 +3570,20 @@
             "best next step",
             "management"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The patient presents with hypernatremia (serum Na+ of 154 mEq/L) and signs of dehydration (dry skin and mucous membranes, high drainage output, and difficulty arousing). The best management for hypernatremia, especially in a postoperative patient, involves careful rehydration with a hypotonic solution to gradually correct the sodium levels.\n\nGiven the options:\n(A) 0.9% saline IV - This is an isotonic solution and would not be appropriate for correcting hypernatremia.\n(B) 5% dextrose IV - This is a hypotonic solution but does not provide electrolytes.\n(C) 5% dextrose IV with 0.45% saline IV - This is a hypotonic solution that provides both free water and some electrolytes, making it suitable for correcting hypernatremia.\n(D) Oral free water replacement - This may not be feasible in a postoperative patient who is difficult to arouse.\n\nThe most consistent solution across the provided answers is (C) 5% dextrose IV with 0.45% saline IV, which is appropriate for gradually correcting hypernatremia and addressing dehydration.\n\nThus, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2188,
-            "completion_tokens": 3157
+            "completion_tokens": 3034
         },
-        "time_elapsed": 32.29563927650452
+        "time_elapsed": 32.611146450042725
     },
     {
         "realidx": 423,
@@ -3260,12 +3668,20 @@
             "best explanation",
             "patient's laboratory findings"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "D",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2860,
-            "completion_tokens": 3939
+            "completion_tokens": 3518
         },
-        "time_elapsed": 41.96605396270752
+        "time_elapsed": 38.98887801170349
     },
     {
         "realidx": 448,
@@ -3363,12 +3779,20 @@
             "treatment",
             "patient"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient in question has a small, unruptured abdominal aortic aneurysm (AAA) with a diameter of 4.1 cm. The management of AAAs depends on the size and symptoms. Generally, AAAs less than 5.5 cm in diameter that are asymptomatic are managed with surveillance rather than immediate surgery. Surveillance typically involves regular follow-up with ultrasound or CT scans to monitor the size of the aneurysm.\n\nGiven the patient's AAA is 4.1 cm and unruptured, the best course of treatment would be clinical surveillance with regular imaging, as immediate surgical intervention is not indicated for small, asymptomatic AAAs.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) suggest option A, which is \"Discharge with clinical surveillance and ultrasound every 6 months.\"\n\nTherefore, the most consistent and appropriate answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2836,
-            "completion_tokens": 2430
+            "completion_tokens": 2651
         },
-        "time_elapsed": 27.09075927734375
+        "time_elapsed": 28.48987627029419
     },
     {
         "realidx": 452,
@@ -3422,12 +3846,20 @@
             "likely organism responsible",
             "patient's symptoms"
         ],
+        "solutions": [
+            "C",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions. Here are the solutions again:\n\nSolution 1: C\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nThe answer that appears most frequently across these solutions is \"A,\" which is found in four out of the five solutions. This consistency suggests that \"A\" is the most reliable solution.\n\nTherefore, the answer is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1816,
-            "completion_tokens": 2637
+            "completion_tokens": 2414
         },
-        "time_elapsed": 29.46982192993164
+        "time_elapsed": 33.25756549835205
     },
     {
         "realidx": 454,
@@ -3479,12 +3911,20 @@
             "region",
             "histology slide shown"
         ],
+        "solutions": [
+            "D",
+            "C",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to identify the answer that appears most frequently across the provided solutions. Here are the solutions:\n\nSolution 1: D\nSolution 2: C\nSolution 3: D\nSolution 4: D\nSolution 5: D\n\nThe answer \"D\" appears four times, while the answer \"C\" appears only once. Therefore, the most consistent solution is \"D\".\n\nThe most consistent solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1642,
-            "completion_tokens": 2286
+            "completion_tokens": 2196
         },
-        "time_elapsed": 34.868537187576294
+        "time_elapsed": 26.402641534805298
     },
     {
         "realidx": 461,
@@ -3551,12 +3991,20 @@
             "most appropriate next step",
             "management"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question describes a 58-year-old man with erectile dysfunction (ED) who has a history of hyperlipidemia and major depressive disorder. He is currently taking simvastatin and citalopram. The patient has been experiencing stress and has a BMI of 30 kg/m2. His pedal pulses are difficult to palpate, which may suggest peripheral vascular disease, a common cause of ED. However, the patient\u2019s ED began after starting a new relationship, and he is on citalopram, an SSRI known to cause sexual side effects, including ED.\n\nGiven the information, the most appropriate next step in management would be to address the potential medication-induced ED. Switching from citalopram to bupropion, an antidepressant with a lower risk of sexual side effects, is a reasonable approach.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently suggest option D, which is to switch citalopram to bupropion.\n\nTherefore, the most reliable solution is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2146,
-            "completion_tokens": 2699
+            "completion_tokens": 2587
         },
-        "time_elapsed": 30.010451793670654
+        "time_elapsed": 30.164781093597412
     },
     {
         "realidx": 477,
@@ -3598,12 +4046,20 @@
             "most likely to show weakness",
             "following actions"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a patient with a tingling sensation in the right forearm and loss of sensation on the lateral side of the forearm after lifting heavy weights. The physical examination indicates that the sensation over the thumb is intact, and there is no worsening of symptoms with neck movements, suggesting that the issue is likely peripheral rather than central.\n\nThe lateral side of the forearm is innervated by the lateral cutaneous nerve of the forearm, which is a branch of the musculocutaneous nerve. The musculocutaneous nerve also innervates the muscles responsible for elbow flexion, such as the biceps brachii and brachialis.\n\nGiven this information, the most likely action to show weakness would be elbow flexion.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently indicate that the answer is (A) Elbow flexion.\n\nTherefore, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1408,
-            "completion_tokens": 2690
+            "completion_tokens": 2686
         },
-        "time_elapsed": 41.590874671936035
+        "time_elapsed": 33.80759572982788
     },
     {
         "realidx": 480,
@@ -3651,12 +4107,20 @@
             "likely present",
             "patient"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question describes a 17-year-old girl who has not undergone puberty, with undeveloped breasts and normal external and internal female genitalia in Tanner I stage of development. Given her age and the lack of secondary sexual characteristics, this suggests a condition affecting sexual development.\n\nThe options provided are:\n(A) Aromatase enzyme deficiency\n(B) Hypokalemia\n(C) XY karyotype\n(D) Hypercortisolism\n\nLet's analyze each option:\n\n(A) Aromatase enzyme deficiency: This condition can lead to impaired estrogen synthesis, which could result in delayed puberty. However, it is less common and typically presents with other signs such as virilization.\n\n(B) Hypokalemia: This is an electrolyte imbalance and is not directly related to delayed puberty or lack of secondary sexual characteristics.\n\n(C) XY karyotype: This suggests a condition like Androgen Insensitivity Syndrome (AIS), where an individual has an XY karyotype but is phenotypically female due to the body's inability to respond to androgens. This would explain the lack of breast development and the presence of normal female external genitalia.\n\n(D) Hypercortisolism: This condition, also known as Cushing's syndrome, can cause a variety of symptoms, but it is not typically associated with primary amenorrhea or lack of secondary sexual characteristics in the way described.\n\nGiven the consistency of the answers provided (all solutions indicate \"C\"), and the clinical presentation fitting well with Androgen Insensitivity Syndrome, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1594,
-            "completion_tokens": 2452
+            "completion_tokens": 2512
         },
-        "time_elapsed": 26.854830980300903
+        "time_elapsed": 29.389360666275024
     },
     {
         "realidx": 483,
@@ -3717,12 +4181,20 @@
             "best next treatment",
             "patient"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most consistent solution across all provided solutions is B. \n\nExplanation:\nThe patient presents with altered mental status and a history of cirrhosis, which is secondary to alcoholism. The physical exam reveals a distended abdomen and asterixis, which are indicative of hepatic encephalopathy. Hepatic encephalopathy is a common complication of cirrhosis and is often treated with lactulose, which helps to reduce the ammonia levels in the blood.\n\nGiven the patient's symptoms and history, lactulose (Option B) is the best next treatment to address the underlying hepatic encephalopathy.\n\nTherefore, the answer is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2098,
-            "completion_tokens": 2991
+            "completion_tokens": 2944
         },
-        "time_elapsed": 32.15381336212158
+        "time_elapsed": 37.868316888809204
     },
     {
         "realidx": 485,
@@ -3775,12 +4247,20 @@
             "most appropriate pharmacotherapy",
             "time"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient described in the question presents with symptoms of dysphagia (difficulty swallowing) for solid foods, occasional heartburn, and a history of asthma and eczema. The endoscopic image of the esophagus and mucosal biopsy showing eosinophilic infiltration are key findings that suggest a diagnosis of eosinophilic esophagitis (EoE).\n\nEosinophilic esophagitis is a chronic immune/antigen-mediated esophageal disease characterized by eosinophilic infiltration of the esophageal epithelium. It is often associated with atopic conditions such as asthma and eczema. The treatment for EoE typically involves dietary management and pharmacotherapy. The most appropriate pharmacotherapy for EoE includes topical corticosteroids, which help reduce the eosinophilic inflammation.\n\nAmong the options provided:\n(A) Budesonide - a corticosteroid used to treat inflammation in EoE.\n(B) Fluconazole - an antifungal medication, not relevant for EoE.\n(C) Nitroglycerin - used for angina, not relevant for EoE.\n(D) Omeprazole - a proton pump inhibitor, which can be used for GERD but is not the primary treatment for EoE.\n\nGiven the consistency of the solutions provided (all indicating \"A\"), and the appropriateness of budesonide for treating eosinophilic esophagitis, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1684,
-            "completion_tokens": 2246
+            "completion_tokens": 2353
         },
-        "time_elapsed": 27.943260431289673
+        "time_elapsed": 28.672925233840942
     },
     {
         "realidx": 497,
@@ -3832,12 +4312,20 @@
             "obtained",
             "following"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"D\". \n\nHere's the detailed thought process:\n\n1. The patient presents with blurred vision, pain around the eye during movement, and optic disk swelling, which are indicative of optic neuritis.\n2. Optic neuritis is often associated with multiple sclerosis (MS).\n3. MS can present with various neurological symptoms, including sensory loss.\n4. Therefore, obtaining additional history regarding sensory loss is crucial to assess the possibility of MS.\n\nGiven that all solutions (1 through 5) consistently identify \"D\" as the answer, it is the most reliable solution.\n\nThe single letter ID corresponding to the most consistent solution is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1708,
             "completion_tokens": 2147
         },
-        "time_elapsed": 24.584892749786377
+        "time_elapsed": 25.073792457580566
     },
     {
         "realidx": 499,
@@ -3894,12 +4382,20 @@
             "following classes",
             "proteins"
         ],
+        "solutions": [
+            "A",
+            "D",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient presents with a history of infertility, recurrent respiratory infections, and a notable finding on cardiac auscultation suggesting situs inversus (heart sounds not heard in the usual location). These clinical features are highly suggestive of Kartagener syndrome, which is a subset of primary ciliary dyskinesia (PCD). PCD is caused by defects in the action of cilia, which are hair-like structures that line the respiratory tract, reproductive organs, and other parts of the body.\n\nThe underlying problem in PCD is often related to defects in the proteins that make up the cilia, particularly the dynein arms, which are motor proteins that facilitate the movement of cilia. Dynein is a type of microtubule-associated motor protein.\n\nGiven this information, the most likely mutation in this patient would be in a protein associated with microtubules, specifically those involved in ciliary movement.\n\nEvaluating the provided solutions:\n- Solution 1: A (Microtubule monomeric protein)\n- Solution 2: D (Anterograde cytoskeletal motor protein)\n- Solution 3: A (Microtubule monomeric protein)\n- Solution 4: A (Microtubule monomeric protein)\n- Solution 5: A (Microtubule monomeric protein)\n\nThe most frequently occurring answer is \"A,\" which corresponds to a microtubule monomeric protein. This is consistent with the understanding that defects in microtubule-associated proteins, such as those involved in the structure and function of cilia, are responsible for the symptoms observed in Kartagener syndrome.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1984,
-            "completion_tokens": 2442
+            "completion_tokens": 2598
         },
-        "time_elapsed": 30.568427562713623
+        "time_elapsed": 29.80984354019165
     },
     {
         "realidx": 501,
@@ -3944,12 +4440,20 @@
             "failure to",
             "antibiotic therapy"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"D\". \n\nTo explain the reasoning:\n- The patient has a postoperative infection with gram-positive cocci in clusters, which is highly suggestive of Staphylococcus aureus.\n- The treatment with dicloxacillin, a penicillinase-resistant penicillin, was ineffective, indicating that the organism might be resistant to this antibiotic.\n- The resistance mechanism in question is likely due to the adaptation in binding proteins, specifically the alteration of penicillin-binding proteins (PBPs), which is a common resistance mechanism in methicillin-resistant Staphylococcus aureus (MRSA).\n\nTherefore, the characteristic of the infecting organism that best explains the failure to improve with dicloxacillin therapy is the adaptation in binding proteins.\n\nThe answer is:\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1678,
-            "completion_tokens": 2783
+            "completion_tokens": 2734
         },
-        "time_elapsed": 28.34344220161438
+        "time_elapsed": 37.23918962478638
     },
     {
         "realidx": 514,
@@ -4008,12 +4512,20 @@
             "increased risk",
             "following"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"C\". \n\nTo determine the most reliable solution, let's analyze the clinical presentation and the options:\n\n1. The 3-year-old girl has a history of recurrent respiratory infections, abdominal cramps, and foul-smelling greasy diarrhea.\n2. Physical examination reveals fever, erythematous oropharynx, tenderness over the sinuses, and a distended abdomen with increased bowel sounds.\n3. Stool microscopy shows pear-shaped multi-flagellated organisms, which are indicative of Giardia lamblia infection.\n\nThese symptoms and findings suggest an underlying condition that predisposes her to recurrent infections and malabsorption. One such condition is Common Variable Immunodeficiency (CVID), which can lead to recurrent respiratory infections and gastrointestinal issues due to impaired immune function.\n\nPatients with CVID are at increased risk for certain complications, including non-Hodgkin lymphoma, due to chronic immune dysregulation and persistent infections.\n\nTherefore, the most consistent and reliable answer is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1996,
-            "completion_tokens": 2760
+            "completion_tokens": 3004
         },
-        "time_elapsed": 31.004748582839966
+        "time_elapsed": 45.74955487251282
     },
     {
         "realidx": 524,
@@ -4056,12 +4568,20 @@
             "most likely underlying cause",
             "patient's condition"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the provided solutions is \"B\". \n\nThe detailed thought process involves analyzing the clinical presentation and laboratory findings of the patient. The 6-month-old boy has symptoms of difficulty breathing, bluish discoloration of the lips, recurrent infections, poor weight gain, and decreased serum immunoglobulins (IgA, IgE, and IgG). The chest x-ray shows bilateral interstitial infiltrates, and methenamine silver staining reveals disc-shaped cysts, which are indicative of Pneumocystis jirovecii pneumonia (PJP). \n\nThese findings are consistent with a primary immunodeficiency, specifically Severe Combined Immunodeficiency (SCID), which is often due to a defect in T-cell receptor signaling. This defect leads to a lack of functional T-cells and B-cells, resulting in severe immunodeficiency and susceptibility to opportunistic infections like PJP.\n\nTherefore, the most consistent and correct answer is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1582,
-            "completion_tokens": 2783
+            "completion_tokens": 2836
         },
-        "time_elapsed": 30.471837282180786
+        "time_elapsed": 33.27776598930359
     },
     {
         "realidx": 531,
@@ -4137,12 +4657,20 @@
             "management",
             "patient"
         ],
-        "predicted_answer": "D",
+        "solutions": [
+            "C",
+            "C",
+            "D",
+            "C",
+            "D"
+        ],
+        "ensemble_response": "The patient described in the question is presenting with diabetic ketoacidosis (DKA), as evidenced by her high blood glucose level, low pH, low bicarbonate, and the presence of ketones in the urine. The initial management of DKA includes fluid resuscitation, insulin therapy, and electrolyte replacement.\n\nThe patient has already been started on a bolus of intravenous 0.9% sodium chloride (NaCl), which is appropriate for initial fluid resuscitation. The next critical step in the management of DKA is to start an intravenous insulin infusion to help lower the blood glucose level and stop ketone production.\n\nWhile potassium replacement is also important in the management of DKA, it is typically addressed after starting insulin therapy, as insulin administration can cause a shift of potassium into cells, potentially leading to hypokalemia. However, if the potassium level is critically low (below 3.3 mEq/L), potassium replacement should be initiated before insulin to prevent severe hypokalemia.\n\nGiven the provided solutions, the most consistent answer across them is \"C,\" which corresponds to starting an IV insulin infusion. This is the next best step in the management of this patient with DKA.\n\nTherefore, the answer is:\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2740,
-            "completion_tokens": 3449
+            "completion_tokens": 3501
         },
-        "time_elapsed": 41.048099517822266
+        "time_elapsed": 36.716495513916016
     },
     {
         "realidx": 560,
@@ -4215,12 +4743,20 @@
             "best explanation",
             "patients laboratory values"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most consistent solution across all provided solutions is:\n\nA\n\nExplanation:\nThe patient is on warfarin, which requires regular monitoring of the INR to ensure it is within the therapeutic range (typically 2.0-3.0 for most indications). The patient's INR is 1.0, which is below the therapeutic range, indicating that the warfarin is not having its intended anticoagulant effect. Given the patient's recent switch to an all-vegetarian diet, it is likely that the dietary changes have affected the INR. Foods high in vitamin K, which are common in vegetarian diets (e.g., leafy green vegetables), can decrease the effectiveness of warfarin by promoting clotting, thus lowering the INR. Therefore, the best explanation for the patient's laboratory values is dietary changes.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2536,
-            "completion_tokens": 3397
+            "completion_tokens": 3625
         },
-        "time_elapsed": 37.029157400131226
+        "time_elapsed": 41.464792013168335
     },
     {
         "realidx": 564,
@@ -4263,12 +4799,20 @@
             "management",
             "patient"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the solutions provided is \"B\". \n\nTo determine the most reliable solution, let's consider the clinical context: The patient is experiencing sexual side effects (weak tumescence and low libido) from citalopram, which is a common side effect of selective serotonin reuptake inhibitors (SSRIs). Bupropion is an antidepressant that is known to have a lower risk of sexual side effects and can be used to counteract these side effects when added to an SSRI regimen.\n\nGiven this information and the consistency of the solutions provided, the most appropriate step in the management of this patient is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1552,
-            "completion_tokens": 2397
+            "completion_tokens": 2260
         },
-        "time_elapsed": 25.823121309280396
+        "time_elapsed": 29.65809154510498
     },
     {
         "realidx": 579,
@@ -4349,12 +4893,20 @@
             "most likely reveal",
             "following"
         ],
+        "solutions": [
+            "D",
+            "A",
+            "A",
+            "A",
+            "D"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is \"A\". \n\nHere is the detailed thought process:\n\n1. The patient presents with diffuse bodily aches, particularly in the shoulders and hips, and has a history of fractures (distal radius and vertebral compression fractures). This suggests a possible underlying bone pathology.\n2. The serum findings show elevated calcium (Ca2+: 11.2 mg/dL) and normal phosphate (2.3 mg/dL), which can be indicative of hyperparathyroidism or other conditions affecting bone metabolism.\n3. The elevated alkaline phosphatase (120 U/L) further supports the possibility of increased bone turnover or bone disease.\n4. Given the history of fractures and the biochemical findings, a bone lesion is likely.\n\nConsidering the options:\n- Option (A) \"Expansile lytic lesion with thin sclerotic margins\" is consistent with conditions like hyperparathyroidism, where bone resorption leads to lytic lesions.\n- Option (B) \"Medullary bone destruction with elevated periosteum from cortical bone\" is more typical of aggressive bone tumors or infections.\n- Option (C) \"Poorly marginated lesion extending into adjacent soft tissue\" suggests a malignant process.\n- Option (D) \"Well-defined cystic lesion with peritrabecular fibrosis\" is less common in the context of the given clinical scenario.\n\nGiven the consistency of the answer \"A\" across multiple solutions and the clinical context, the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2896,
-            "completion_tokens": 2491
+            "completion_tokens": 2670
         },
-        "time_elapsed": 28.05571722984314
+        "time_elapsed": 30.71979284286499
     },
     {
         "realidx": 583,
@@ -4409,12 +4961,20 @@
             "patient's",
             "likely diagnosis"
         ],
-        "predicted_answer": "C",
+        "solutions": [
+            "B",
+            "B",
+            "C",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the consistency of the answers provided in the solutions.\n\nThe solutions are as follows:\n- Solution 1: B\n- Solution 2: B\n- Solution 3: C\n- Solution 4: B\n- Solution 5: B\n\nThe answer that appears most frequently across these solutions is \"B,\" which appears four times.\n\nTherefore, the most consistent solution is:\n\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1750,
-            "completion_tokens": 2526
+            "completion_tokens": 2445
         },
-        "time_elapsed": 39.27026581764221
+        "time_elapsed": 27.73322081565857
     },
     {
         "realidx": 587,
@@ -4451,12 +5011,20 @@
             "most likely congenital abnormality shown",
             "ultrasound"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question involves a pregnant woman with poorly controlled type 1 diabetes, which is known to be associated with certain congenital abnormalities in the fetus. The options provided are various congenital abnormalities, and the task is to determine which one is most likely given the context.\n\nType 1 diabetes, especially when poorly controlled before and during pregnancy, is associated with an increased risk of congenital anomalies. Among the options provided:\n\n- Amelia (A) refers to the complete absence of one or more limbs.\n- Sacral agenesis (B) is a condition where there is an abnormal development of the lower spine.\n- Spina bifida (C) is a neural tube defect where the spine does not close completely.\n- Ventricular septal defect (D) is a heart defect characterized by a hole in the wall separating the heart's lower chambers.\n\nGiven the context of poorly controlled type 1 diabetes, sacral agenesis (B) is a well-documented congenital abnormality associated with maternal diabetes. This condition is specifically linked to diabetic embryopathy.\n\nUpon reviewing the solutions provided:\nSolution 1: B\nSolution 2: B\nSolution 3: B\nSolution 4: B\nSolution 5: B\n\nAll solutions consistently indicate option B (Sacral agenesis) as the most likely congenital abnormality.\n\nTherefore, the most reliable solution is:\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1354,
-            "completion_tokens": 2038
+            "completion_tokens": 2268
         },
-        "time_elapsed": 22.838865280151367
+        "time_elapsed": 24.449338674545288
     },
     {
         "realidx": 596,
@@ -4506,12 +5074,20 @@
             "most likely cause",
             "infant's cyanosis"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is \"C\". \n\nThe detailed thought process involves understanding the clinical scenario and the pharmacological intervention used. The newborn has tachypnea and elevated pulmonary artery pressure, which improved with an inhaled medication that increases smooth muscle cGMP. This medication is likely inhaled nitric oxide, which is used to treat pulmonary hypertension. \n\nThe subsequent development of cyanosis (blue-grey discoloration of the lips, fingers, and toes) suggests a problem with oxygen delivery or utilization. One known side effect of nitric oxide therapy is the formation of methemoglobin, which occurs when the iron in hemoglobin is oxidized from Fe2+ to Fe3+. Methemoglobin cannot bind oxygen effectively, leading to cyanosis.\n\nTherefore, the most likely cause of the infant's cyanosis is the oxidization of Fe2+ to Fe3+, which corresponds to option (C).\n\nThus, the answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1798,
-            "completion_tokens": 2760
+            "completion_tokens": 2826
         },
-        "time_elapsed": 31.628336906433105
+        "time_elapsed": 33.76418113708496
     },
     {
         "realidx": 616,
@@ -4552,12 +5128,20 @@
             "renal biopsy",
             "patient"
         ],
+        "solutions": [
+            "D",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "B",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1390,
-            "completion_tokens": 2768
+            "completion_tokens": 2321
         },
-        "time_elapsed": 31.553614616394043
+        "time_elapsed": 26.95618772506714
     },
     {
         "realidx": 627,
@@ -4619,12 +5203,20 @@
             "best next step",
             "management"
         ],
-        "predicted_answer": "C",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "C",
+            "B"
+        ],
+        "ensemble_response": "The question describes a scenario where a woman has just delivered a baby and is experiencing significant postpartum hemorrhage (PPH) with a red mass protruding through the vagina, which is likely uterine inversion. The best next step in management for uterine inversion is to administer uterotonic agents to help contract the uterus and control the bleeding.\n\nUpon reviewing the solutions provided:\n- Solution 1: B\n- Solution 2: B\n- Solution 3: B\n- Solution 4: C\n- Solution 5: B\n\nThe most frequently occurring answer is B, which suggests the administration of intravenous oxytocin. This is consistent with the management of uterine atony and postpartum hemorrhage.\n\nTherefore, the most reliable solution is:\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1972,
-            "completion_tokens": 2454
+            "completion_tokens": 2673
         },
-        "time_elapsed": 25.206777572631836
+        "time_elapsed": 30.61428451538086
     },
     {
         "realidx": 634,
@@ -4683,12 +5275,20 @@
             "best treatment",
             "patient"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a 67-year-old woman with urinary incontinence, frequent urination, and decreased pinprick sensation in the lower extremities. These symptoms suggest a neurogenic bladder, likely due to diabetic neuropathy, given her history of diabetes and current medications (metformin and insulin).\n\nThe best treatment for neurogenic bladder often includes medications that stimulate bladder contractions and methods to ensure complete bladder emptying. Bethanechol is a cholinergic agonist that can help stimulate bladder contractions, and intermittent straight catheterization can help ensure the bladder is emptied completely.\n\nGiven the solutions provided:\nSolution 1: A\nSolution 2: A\nSolution 3: A\nSolution 4: A\nSolution 5: A\n\nAll solutions consistently indicate option A as the best treatment.\n\nTherefore, the most reliable solution is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2020,
-            "completion_tokens": 2689
+            "completion_tokens": 2765
         },
-        "time_elapsed": 32.17760396003723
+        "time_elapsed": 34.24714183807373
     },
     {
         "realidx": 651,
@@ -4748,12 +5348,20 @@
             "most likely to show",
             "iron profile"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The patient described in the question has a history of rheumatoid arthritis and is presenting with symptoms of fatigue, weakness, and shortness of breath. These symptoms, along with the physical examination findings of thinning hair, cool extremities, and flattened nail beds, suggest that she may be experiencing anemia. Given her history of rheumatoid arthritis, it is likely that she has anemia of chronic disease (also known as anemia of inflammation).\n\nAnemia of chronic disease is typically characterized by:\n- Low serum iron levels\n- Low total iron-binding capacity (TIBC)\n- Normal or increased ferritin levels (as ferritin is an acute-phase reactant and can be elevated in chronic inflammation)\n\nGiven these characteristics, the most likely finding on her iron profile would be a decreased iron-binding capacity.\n\nUpon reviewing the solutions provided:\nSolution 1: C\nSolution 2: C\nSolution 3: C\nSolution 4: C\nSolution 5: C\n\nAll solutions consistently indicate option C.\n\nTherefore, the most reliable solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1912,
-            "completion_tokens": 2177
+            "completion_tokens": 2152
         },
-        "time_elapsed": 24.776331901550293
+        "time_elapsed": 25.619484424591064
     },
     {
         "realidx": 659,
@@ -4810,12 +5418,20 @@
             "removal",
             "nodules"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The question involves a 64-year-old man with a history of type 2 diabetes mellitus and prostate adenocarcinoma, who has a 3 cm nodule in the right lung. The question asks which additional findings on CT scans would most likely prompt the removal of such nodules.\n\nThe options provided are:\n(A) \u2018Popcorn\u2019 pattern\n(B) Subsolid component\n(C) Extending fine striations\n(D) Doubling time of < 1 month\n\nTo determine the most reliable solution, we need to evaluate the consistency of the answers provided in the solutions. All five solutions (Solution 1 to Solution 5) indicate the answer as \"D\".\n\nThe doubling time of a nodule is a critical factor in assessing the likelihood of malignancy. A doubling time of less than 1 month suggests rapid growth, which is highly suspicious for malignancy and would prompt further investigation and likely removal of the nodule.\n\nGiven the consistency across all solutions, the most reliable answer is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1978,
-            "completion_tokens": 2140
+            "completion_tokens": 2345
         },
-        "time_elapsed": 25.490859746932983
+        "time_elapsed": 25.104795455932617
     },
     {
         "realidx": 663,
@@ -4857,12 +5473,20 @@
             "most likely impaired",
             "patient"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "D",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nThe solutions are as follows:\n- Solution 1: B\n- Solution 2: B\n- Solution 3: D\n- Solution 4: B\n- Solution 5: B\n\nBy counting the frequency of each answer:\n- A: 0 times\n- B: 4 times\n- C: 0 times\n- D: 1 time\n\nThe answer that appears most frequently is \"B,\" which occurs 4 times.\n\nTherefore, the most consistent solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1522,
-            "completion_tokens": 2086
+            "completion_tokens": 2010
         },
-        "time_elapsed": 22.722898244857788
+        "time_elapsed": 23.692967414855957
     },
     {
         "realidx": 664,
@@ -4902,12 +5526,20 @@
             "most likely diagnosis",
             "patient"
         ],
-        "predicted_answer": "D",
+        "solutions": [
+            "C",
+            "D",
+            "C",
+            "D",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across the provided answers is C. \n\nThe reasoning is as follows:\n- The patient has a normal complete blood count, which rules out conditions like acute lymphoblastic leukemia (A) and immune thrombocytopenic purpura (B) that typically present with abnormal blood counts.\n- The prolonged activated partial thromboplastin time (aPTT) with a normal prothrombin time (PT) suggests a defect in the intrinsic pathway of the coagulation cascade.\n- Hemophilia A (D) typically presents with a prolonged aPTT but is less likely given the presence of petechiae and bruising, which are more characteristic of a platelet function disorder.\n- Von Willebrand disease (C) can present with a prolonged aPTT and normal PT, along with symptoms of mucocutaneous bleeding such as petechiae and bruising.\n\nTherefore, the most consistent and likely diagnosis is Von Willebrand disease (C). \n\nThe answer is:\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1534,
-            "completion_tokens": 2762
+            "completion_tokens": 2600
         },
-        "time_elapsed": 29.94000220298767
+        "time_elapsed": 28.376099586486816
     },
     {
         "realidx": 665,
@@ -4951,12 +5583,20 @@
             "entrapment",
             "mass"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "B",
+            "B",
+            "C"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is \"C\". \n\nHere is the detailed thought process:\n\n1. The patient presents with a painless lump near the left wrist and tingling pain over his left hand.\n2. Physical examination reveals a transilluminating, rubbery, fixed, non-tender mass over the lateral volar aspect of the left wrist.\n3. There is decreased sensation to pinprick on the thumb, index finger, middle finger, and radial half of the ring finger of the left hand.\n4. The tingling pain is aggravated by tapping over the swelling, which suggests a nerve involvement.\n\nThe description of the mass and its location, along with the sensory distribution affected (thumb, index finger, middle finger, and radial half of the ring finger), points towards the median nerve being affected. The median nerve runs through the carpal tunnel, which is located on the volar aspect of the wrist.\n\nGiven the options:\n(A) Ulnar artery - not typically associated with the described sensory distribution.\n(B) Flexor pollicis longus tendon - while it is in the vicinity, it is not directly related to the sensory distribution described.\n(C) Flexor carpi radialis tendon - this tendon is located near the median nerve and could be associated with the described symptoms.\n(D) Ulnar nerve - this nerve would affect the little finger and ulnar half of the ring finger, not the areas described.\n\nTherefore, the most consistent and logical answer is \"C\" - Flexor carpi radialis tendon, as it is in close proximity to the median nerve and could be involved in the described symptoms.\n\nThus, the single letter ID corresponding to the most consistent solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1552,
-            "completion_tokens": 2618
+            "completion_tokens": 2998
         },
-        "time_elapsed": 28.081625938415527
+        "time_elapsed": 31.354419469833374
     },
     {
         "realidx": 670,
@@ -4990,12 +5630,20 @@
             "mechanism of action",
             "chlorhexidine"
         ],
-        "predicted_answer": "A",
+        "solutions": [
+            "C",
+            "A",
+            "C",
+            "A",
+            "C"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: C\n- Solution 2: A\n- Solution 3: C\n- Solution 4: A\n- Solution 5: C\n\nNow, I will count the frequency of each answer:\n- A: 2 times (Solution 2 and Solution 4)\n- C: 3 times (Solution 1, Solution 3, and Solution 5)\n\nThe answer that appears most frequently is \"C,\" which appears 3 times.\n\nTherefore, the most consistent solution is:\nC",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1504,
-            "completion_tokens": 1521
+            "completion_tokens": 1615
         },
-        "time_elapsed": 18.263393878936768
+        "time_elapsed": 19.98250985145569
     },
     {
         "realidx": 676,
@@ -5039,12 +5687,20 @@
             "cell-type indicated",
             "arrow"
         ],
-        "predicted_answer": "B",
+        "solutions": [
+            "A",
+            "D",
+            "D",
+            "D",
+            "A"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions:\n\n- Solution 1: A\n- Solution 2: D\n- Solution 3: D\n- Solution 4: D\n- Solution 5: A\n\nFrom the above, we can see the frequency of each option:\n- A: 2 times\n- D: 3 times\n\nThe most frequently occurring answer is D. Therefore, the most consistent solution is:\n\nD",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1540,
-            "completion_tokens": 2704
+            "completion_tokens": 2512
         },
-        "time_elapsed": 40.163954734802246
+        "time_elapsed": 29.88876485824585
     },
     {
         "realidx": 677,
@@ -5090,12 +5746,20 @@
             "management",
             "patients condition"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"B\". \n\nGiven the context of the question, the infant has multiple bruises and a subconjunctival hemorrhage, which are concerning for potential non-accidental trauma (child abuse). The best initial step in management would be to involve social services to ensure the child's safety and to investigate the circumstances surrounding the injuries.\n\nTherefore, the most consistent and appropriate solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1564,
-            "completion_tokens": 2020
+            "completion_tokens": 1890
         },
-        "time_elapsed": 21.887300968170166
+        "time_elapsed": 23.60050654411316
     },
     {
         "realidx": 689,
@@ -5143,12 +5807,20 @@
             "most appropriate next step",
             "management"
         ],
-        "predicted_answer": "C",
+        "solutions": [
+            "C",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is A. \n\nHere is the detailed thought process:\n\n1. The patient has a new diagnosis of HIV with a CD4 count of 175, indicating a compromised immune system.\n2. The patient has a positive RPR with a titer of 1:64 and a positive FTA-ABS, confirming syphilis.\n3. Given the patient's immunocompromised status due to HIV, there is a higher risk for neurosyphilis, even in the absence of neurological symptoms.\n4. Performing a lumbar puncture to assess for CNS involvement is crucial in this context to guide appropriate treatment.\n\nTherefore, the most appropriate next step in management is to perform a lumbar puncture and treat based on the presence or absence of CNS disease.\n\nThe answer that appears most frequently across the solutions is:\nA",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1936,
-            "completion_tokens": 2506
+            "completion_tokens": 2182
         },
-        "time_elapsed": 26.247727155685425
+        "time_elapsed": 27.342814683914185
     },
     {
         "realidx": 706,
@@ -5220,12 +5892,20 @@
             "best next step",
             "management"
         ],
-        "predicted_answer": "D",
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer among the provided solutions is B. \n\nHere is the detailed thought process:\n\n1. The patient presents with altered mental status, confusion, and a history of substance abuse.\n2. The toxicology report shows positive results for benzodiazepines and marijuana.\n3. The urine dipstick test reveals dark urine and positive red blood cells, which could indicate rhabdomyolysis, a condition that can occur with substance abuse and can lead to kidney damage.\n4. Given the presence of dark urine and positive red blood cells, the best next step in management would be to address potential rhabdomyolysis, which involves aggressive hydration and possibly mannitol to prevent kidney damage.\n\nTherefore, the most consistent and appropriate next step in management is B (IV fluids and mannitol).\n\nThe single letter ID corresponding to the most consistent solution is:\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2188,
-            "completion_tokens": 2559
+            "completion_tokens": 2596
         },
-        "time_elapsed": 27.236132860183716
+        "time_elapsed": 33.391653060913086
     },
     {
         "realidx": 709,
@@ -5257,12 +5937,20 @@
             "plasma ratio",
             "urea"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "To determine the most reliable solution, I will evaluate the frequency of each answer provided in the solutions.\n\nHere are the solutions:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: C\n- Solution 4: D\n- Solution 5: D\n\nNow, I will count the frequency of each answer:\n- Answer C appears in Solution 1, Solution 2, and Solution 3 (3 times).\n- Answer D appears in Solution 4 and Solution 5 (2 times).\n\nThe answer that appears most frequently is C, with a total of 3 occurrences.\n\nTherefore, the most consistent solution is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1066,
-            "completion_tokens": 2225
+            "completion_tokens": 2375
         },
-        "time_elapsed": 27.30638813972473
+        "time_elapsed": 30.544434309005737
     },
     {
         "realidx": 714,
@@ -5331,12 +6019,20 @@
             "found",
             "patient"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The patient described in the question presents with symptoms that are highly suggestive of an aortic dissection. The key features include sudden onset of excruciating chest pain that is described as ripping and radiating to the back, a history of a heart murmur, hypotension, tachycardia, and physical characteristics such as being tall and having joint hypermobility, which may suggest an underlying connective tissue disorder like Marfan syndrome.\n\nGiven these clinical features, the most likely murmur associated with aortic dissection is a diastolic murmur due to aortic regurgitation. However, the options provided do not include a diastolic murmur specifically related to aortic regurgitation. Instead, the most relevant option among those provided is:\n\n(D) Systolic ejection murmur at the right second intercostal space\n\nThis murmur is typically associated with aortic stenosis, but in the context of aortic dissection, it can be related to the turbulent flow across the aortic valve due to the dissection flap.\n\nTherefore, the most consistent solution across the provided answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2320,
-            "completion_tokens": 3238
+            "completion_tokens": 3286
         },
-        "time_elapsed": 37.00737524032593
+        "time_elapsed": 34.528549671173096
     },
     {
         "realidx": 720,
@@ -5381,12 +6077,20 @@
             "likely substance",
             "case"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The question describes a 28-year-old woman who has been experiencing visual disturbances, headaches, and unexpected wet shirts, which could indicate galactorrhea (milk production not associated with childbirth or nursing). These symptoms suggest the possibility of a prolactinoma, a benign pituitary tumor that secretes prolactin.\n\nProlactin is a hormone that, when elevated, can lead to galactorrhea and can also affect the menstrual cycle by inhibiting the secretion of gonadotropin-releasing hormone (GnRH), which in turn decreases the secretion of follicle-stimulating hormone (FSH) and luteinizing hormone (LH). This can lead to decreased levels of estrogen and progesterone.\n\nGiven the options:\n(A) Decreased oxytocin\n(B) Decreased progesterone\n(C) Increased follicle stimulating hormone\n(D) Increased progesterone\n\nThe most likely associated change with elevated prolactin is decreased progesterone due to the inhibition of GnRH and subsequent decrease in FSH and LH.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, Solution 5) consistently indicate option B.\n\nTherefore, the most reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1492,
-            "completion_tokens": 1811
+            "completion_tokens": 2252
         },
-        "time_elapsed": 20.793486833572388
+        "time_elapsed": 26.969362497329712
     },
     {
         "realidx": 724,
@@ -5458,12 +6162,20 @@
             "patient's",
             "likely diagnosis"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The patient presents with fever, nausea, vomiting, photophobia, and neck stiffness, which are classic signs of meningitis. The cerebrospinal fluid (CSF) analysis shows an elevated white blood cell count (175/mm^3), which indicates an infection. The glucose level is slightly lower than normal, and the protein level is elevated, which are also consistent with bacterial meningitis.\n\nGiven these findings, the best treatment for bacterial meningitis is the administration of antibiotics. The combination of ceftriaxone and vancomycin is commonly used to cover the most likely bacterial pathogens, including Streptococcus pneumoniae and Neisseria meningitidis.\n\nAll the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently indicate that the best treatment is option (C) Ceftriaxone and vancomycin.\n\nTherefore, the most reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2398,
-            "completion_tokens": 2470
+            "completion_tokens": 2407
         },
-        "time_elapsed": 26.665313482284546
+        "time_elapsed": 26.445083141326904
     },
     {
         "realidx": 748,
@@ -5497,12 +6209,20 @@
             "following pathways to exert",
             "action"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The patient presents with symptoms indicative of hyperaldosteronism, such as headaches, constipation, increased thirst, increased urinary frequency, high blood pressure, and low potassium levels. The presence of a well-circumscribed homogeneous mass in the left adrenal gland on the abdominal CT scan suggests an adrenal adenoma, which is often associated with primary hyperaldosteronism (Conn's syndrome).\n\nAldosterone is a steroid hormone produced by the adrenal cortex. It exerts its effects by binding to intracellular receptors, which then modulate gene expression to increase sodium reabsorption and potassium excretion in the kidneys, leading to the observed symptoms.\n\nGiven that aldosterone acts through intracellular receptors, the correct answer is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1282,
-            "completion_tokens": 1921
+            "completion_tokens": 1845
         },
-        "time_elapsed": 26.909499168395996
+        "time_elapsed": 24.447339296340942
     },
     {
         "realidx": 755,
@@ -5571,12 +6291,20 @@
             "likely diagnosis",
             "patient"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "D",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The patient is a 31-year-old pregnant woman at 28 weeks gestation presenting with shortness of breath, right-sided chest pain that worsens with inspiration, and tachycardia. These symptoms raise concern for a pulmonary embolism (PE), especially given her recent travel history, which is a risk factor for venous thromboembolism.\n\nThe options provided for the next step in evaluation are:\n(A) ECG\n(B) Chest radiography\n(C) V/Q scan\n(D) CT pulmonary angiogram\n\nTo determine the most likely diagnosis, we need to choose the best imaging modality to evaluate for a PE. \n\n- An ECG can help rule out other cardiac causes but is not definitive for diagnosing PE.\n- Chest radiography can help rule out other causes of chest pain and dyspnea but is not specific for PE.\n- A V/Q scan and a CT pulmonary angiogram are both used to diagnose PE. \n\nGiven the patient's pregnancy, minimizing radiation exposure is important. However, a CT pulmonary angiogram is often preferred due to its higher sensitivity and specificity for PE.\n\nReviewing the solutions provided:\n- Solution 1: C\n- Solution 2: C\n- Solution 3: D\n- Solution 4: C\n- Solution 5: C\n\nThe most consistent answer across the solutions is (C) V/Q scan.\n\nTherefore, the most reliable solution based on consistency is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2176,
-            "completion_tokens": 2596
+            "completion_tokens": 2821
         },
-        "time_elapsed": 25.955886125564575
+        "time_elapsed": 33.47343111038208
     },
     {
         "realidx": 758,
@@ -5662,12 +6390,20 @@
             "most likely explanation",
             "cardiac findings"
         ],
+        "solutions": [
+            "D",
+            "D",
+            "D",
+            "D",
+            "D"
+        ],
+        "ensemble_response": "The patient presents with a constellation of symptoms including low-grade fever, fatigue, weight loss, chest pain, shortness of breath, pale mucous membranes, conjunctival hemorrhages, petechiae, a new-onset diastolic murmur, head bobbing, and small painless red macules on the palms. These findings are suggestive of infective endocarditis, particularly given the presence of a new murmur and signs of systemic emboli (petechiae, Janeway lesions).\n\nThe laboratory findings indicate anemia with low hemoglobin, low mean corpuscular volume (MCV), and low serum ferritin, consistent with iron deficiency anemia. The colonoscopy revealing a neoplastic growth in the descending colon suggests a possible source of chronic blood loss leading to iron deficiency anemia.\n\nGiven the clinical presentation and the findings, the most likely explanation for the cardiac findings is infective endocarditis. Group D streptococci (now classified as Enterococcus species) are a common cause of infective endocarditis, particularly in older adults and those with underlying gastrointestinal pathology, such as a colonic neoplasm.\n\nTherefore, the most consistent solution across the provided answers is:\n\nD",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2914,
-            "completion_tokens": 3223
+            "completion_tokens": 3293
         },
-        "time_elapsed": 37.38695001602173
+        "time_elapsed": 37.35528755187988
     },
     {
         "realidx": 764,
@@ -5723,12 +6459,20 @@
             "most appropriate next step",
             "management"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The most consistent solution across all the provided answers is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1906,
-            "completion_tokens": 2613
+            "completion_tokens": 2514
         },
-        "time_elapsed": 33.915239095687866
+        "time_elapsed": 32.09257698059082
     },
     {
         "realidx": 778,
@@ -5770,12 +6514,20 @@
             "residents moonlighting",
             "patient safety"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"A\". \n\nThe Accreditation Council for Graduate Medical Education (ACGME) has set standards for resident work hours to ensure patient safety and resident well-being. According to these standards, residents are limited to working a maximum of 80 hours per week, averaged over a four-week period, inclusive of all in-house clinical and educational activities, clinical work done from home, and all moonlighting. \n\nIn this scenario, the resident is already working 60 hours per week in his residency program and an additional 10 hours per week in an external job, totaling 70 hours per week. This leaves only 10 hours available for any additional work to stay within the 80-hour limit. Therefore, the resident is close to the maximum allowable hours and should not increase his workload further to ensure compliance with ACGME standards and maintain patient safety.\n\nThus, the most accurate statement is:\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1606,
-            "completion_tokens": 2170
+            "completion_tokens": 2566
         },
-        "time_elapsed": 30.433814764022827
+        "time_elapsed": 31.09187650680542
     },
     {
         "realidx": 784,
@@ -5826,12 +6578,20 @@
             "next best step",
             "management"
         ],
+        "solutions": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "The most frequently appearing answer across all the provided solutions is \"B\". \n\nGiven the clinical scenario of a 42-year-old pregnant woman at 10 weeks gestation, the next best step in management is to perform cell-free DNA testing. This non-invasive test screens for common chromosomal abnormalities and is particularly recommended for women of advanced maternal age due to the increased risk of chromosomal anomalies.\n\nTherefore, the most consistent and reliable solution is:\n\nB",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1750,
-            "completion_tokens": 2262
+            "completion_tokens": 2145
         },
-        "time_elapsed": 26.775144577026367
+        "time_elapsed": 25.435712814331055
     },
     {
         "realidx": 785,
@@ -5885,12 +6645,20 @@
             "most likely",
             "following"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        "ensemble_response": "The question describes a 6-year-old boy with symptoms and clinical findings suggestive of a serious underlying condition, including abdominal distention, hepatosplenomegaly, and lymph node enlargement. The biopsy specimen from an enlarged mesenteric lymph node shows a high proliferation index (>99%) with Ki-67 staining, which is indicative of a highly proliferative process, such as a malignancy.\n\nGiven the options:\n(A) Neutrophil\n(B) Human immunodeficiency virus\n(C) B lymphocytes\n(D) Macrophage\n\nThe most likely diagnosis in this context is a type of lymphoma, specifically Burkitt lymphoma, which is known for its high proliferation rate and association with B lymphocytes. The photomicrograph and the immunohistochemical findings support this diagnosis.\n\nAll the provided solutions (1 through 5) consistently identify option (C) B lymphocytes as the correct answer.\n\nTherefore, the most consistent and reliable solution is:\n\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1846,
-            "completion_tokens": 2443
+            "completion_tokens": 2494
         },
-        "time_elapsed": 27.08985185623169
+        "time_elapsed": 31.47699213027954
     },
     {
         "realidx": 791,
@@ -5940,12 +6708,20 @@
             "associated",
             "viral infection"
         ],
+        "solutions": [
+            "A",
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "ensemble_response": "The question describes a 5-year-old boy with symptoms of a bladder infection, and the pediatrician suspects a double-stranded DNA virus. The urinalysis results support the diagnosis of a urinary tract infection (UTI). The question then asks which condition is commonly associated with this viral infection.\n\nThe options provided are:\n(A) Gastroenteritis\n(B) Painful dermatomal vesicles\n(C) Lymphadenopathy\n(D) Vesicular rash\n\nThe most common double-stranded DNA virus causing bladder infections in children is adenovirus, which is also known to cause gastroenteritis.\n\nGiven that all the solutions provided (Solution 1, Solution 2, Solution 3, Solution 4, and Solution 5) consistently identify option (A) as the answer, it is reasonable to conclude that the most reliable solution is:\n\nA",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1786,
-            "completion_tokens": 2467
+            "completion_tokens": 2457
         },
-        "time_elapsed": 31.414533853530884
+        "time_elapsed": 28.735198974609375
     },
     {
         "realidx": 803,
@@ -6007,12 +6783,20 @@
             "best next step",
             "management"
         ],
-        "predicted_answer": "A",
+        "solutions": [
+            "B",
+            "A",
+            "A",
+            "B",
+            "B"
+        ],
+        "ensemble_response": "To determine the most reliable solution, we need to evaluate the consistency of the answers provided. Here are the solutions:\n\nSolution 1: B\nSolution 2: A\nSolution 3: A\nSolution 4: B\nSolution 5: B\n\nWe can see that:\n- Solution B appears in Solution 1, Solution 4, and Solution 5.\n- Solution A appears in Solution 2 and Solution 3.\n\nSince Solution B appears three times and Solution A appears twice, the most consistent solution is B.\n\nTherefore, the answer is:\nB",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1900,
-            "completion_tokens": 2238
+            "completion_tokens": 2416
         },
-        "time_elapsed": 26.555883407592773
+        "time_elapsed": 29.868358373641968
     },
     {
         "realidx": 822,
@@ -6098,12 +6882,20 @@
             "patient's",
             "pathology"
         ],
-        "predicted_answer": "B",
+        "solutions": [
+            "B",
+            "D",
+            "B",
+            "A",
+            "D"
+        ],
+        "ensemble_response": "D",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2884,
-            "completion_tokens": 3278
+            "completion_tokens": 3044
         },
-        "time_elapsed": 35.26418590545654
+        "time_elapsed": 34.32054924964905
     },
     {
         "realidx": 829,
@@ -6154,11 +6946,19 @@
             "next best step",
             "management"
         ],
+        "solutions": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "D"
+        ],
+        "ensemble_response": "The most frequently appearing answer across the solutions is C. \n\nHere is the detailed thought process:\n\n1. The patient is a 66-year-old man with a history of diabetes and hypertension, presenting with cough, fatigue, and confusion. His vital signs show a fever (102\u00b0F), hypotension (107/58 mmHg), tachycardia (pulse 120/min), and normal oxygen saturation (98% on room air). Physical exam findings include crackles in the lungs and an S4 heart sound.\n\n2. The clinical presentation suggests a serious infection, likely pneumonia, given the cough, fever, and crackles on pulmonary exam. The confusion could be a sign of sepsis, especially in an elderly patient with comorbidities.\n\n3. The patient's hypotension and tachycardia are concerning for sepsis, which requires prompt and aggressive treatment.\n\n4. The next best step in management for a patient with suspected severe pneumonia and possible sepsis would be broad-spectrum antibiotics and admission to a higher level of care, such as the intensive care unit (ICU), for close monitoring and management.\n\n5. The combination of azithromycin and moxifloxacin provides broad-spectrum coverage for typical and atypical pathogens causing pneumonia.\n\nGiven these considerations, the most consistent and appropriate answer is:\nC",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1810,
-            "completion_tokens": 2684
+            "completion_tokens": 2767
         },
-        "time_elapsed": 29.693174362182617
+        "time_elapsed": 32.88798427581787
     }
 ]

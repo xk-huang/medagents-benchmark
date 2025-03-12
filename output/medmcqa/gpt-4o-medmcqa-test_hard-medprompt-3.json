@@ -12,10 +12,21 @@
         "answer": "1",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1095,
-            "completion_tokens": 367
+            "prompt_tokens": 792,
+            "completion_tokens": 230
         },
-        "time_elapsed": 6.862252712249756
+        "time_elapsed": 6.0588507652282715,
+        "raw_responses": [
+            "To determine the minimum number of lobes required to form a tooth, we need to understand the basic structure of a tooth. A lobe is a developmental segment of a tooth. Different types of teeth have different numbers of lobes:\n\n1. Incisors typically have 3 lobes.\n2. Canines typically have 4 lobes.\n3. Premolars typically have 4 lobes.\n4. Molars typically have 4 or more lobes.\n\nGiven this information, the minimum number of lobes required to form a tooth is 3.\n\nFinal answer: (C) 3",
+            "(A) 1",
+            "(A) 1"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1. \n\nOption 1 provides a detailed explanation of the different types of teeth and their respective number of lobes, concluding that the minimum number of lobes required to form a tooth is 3. This is a more comprehensive and accurate answer compared to options 0 and 2, which both incorrectly state that the minimum number of lobes is 1 without any supporting explanation.",
+            "The best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "To determine the minimum number of lobes required to form a tooth, we need to understand the basic structure of a tooth. A lobe is a developmental segment of a tooth. Different types of teeth have different numbers of lobes:\n\n1. Incisors typically have 3 lobes.\n2. Canines typically have 4 lobes.\n3. Premolars typically have 4 lobes.\n4. Molars typically have 4 or more lobes.\n\nGiven this information, the minimum number of lobes required to form a tooth is 3.\n\nFinal answer: (C) 3"
     },
     {
         "question": "Fingerprinting (FINDER) involves recording prints of 8 fingers. Which finger pair is excluded?",
@@ -28,12 +39,23 @@
         },
         "answer_idx": "C",
         "answer": "Little finger",
-        "predicted_answer": "C",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 663,
-            "completion_tokens": 222
+            "prompt_tokens": 498,
+            "completion_tokens": 170
         },
-        "time_elapsed": 5.33996319770813
+        "time_elapsed": 5.420526504516602,
+        "raw_responses": [
+            "Option (B) Thumb",
+            "Option (B) Thumb",
+            "Option (B) Thumb"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are all identical, with each one suggesting that the thumb is the excluded finger pair. Since all the solutions are the same, any of them can be chosen as the final answer.\n\nI will choose option 0.\n\nFinal answer: 0",
+            "The solutions provided are all identical, with each one suggesting that the thumb is the excluded finger pair. Since all the solutions are the same, any of them can be chosen as the final answer.\n\nI will choose option 0.\n\nFinal answer: 0",
+            "The solutions provided are all identical, with each one suggesting that the thumb is the excluded finger pair. Since all the solutions are the same, any of them can be chosen as the final answer.\n\nI will choose option 0.\n\n0"
+        ],
+        "final_solution": "Option (B) Thumb"
     },
     {
         "question": "Which of the following appliances is not used for slow maxillary expansion?",
@@ -46,12 +68,23 @@
         },
         "answer_idx": "D",
         "answer": "Hyrax appliance",
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 474,
-            "completion_tokens": 17
+            "prompt_tokens": 483,
+            "completion_tokens": 26
         },
-        "time_elapsed": 3.318610668182373
+        "time_elapsed": 3.8666696548461914,
+        "raw_responses": [
+            "(D) Hyrax appliance",
+            "Option (D) Hyrax appliance",
+            "(D) Hyrax appliance"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "1"
+        ],
+        "final_solution": "(D) Hyrax appliance"
     },
     {
         "question": "In assessing infant deaths, Ploucquet's test involves:",
@@ -67,9 +100,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 534,
-            "completion_tokens": 80
+            "completion_tokens": 186
         },
-        "time_elapsed": 3.8853864669799805
+        "time_elapsed": 5.3845202922821045,
+        "raw_responses": [
+            "(A) Change in specific gravity of lungs",
+            "(A) Change in specific gravity of lungs",
+            "(A) Change in specific gravity of lungs"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) provide the same answer: \"Change in specific gravity of lungs.\" Since they are identical, any of them can be chosen as the best final answer. Therefore, I will choose option 0.\n\n0",
+            "All three candidate solutions are identical, as they all state \"(A) Change in specific gravity of lungs.\" Therefore, any of the options 0, 1, or 2 would be correct. I will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: \"Change in specific gravity of lungs.\" Since they are identical, any of them can be chosen as the best final answer. Therefore, I will choose option 0.\n\n0"
+        ],
+        "final_solution": "(A) Change in specific gravity of lungs"
     },
     {
         "question": "A temporary bridge constructed from a synthetic resin",
@@ -84,10 +128,21 @@
         "answer": "Should restore the occlusion to the same extent as the permanent bridge",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 708,
-            "completion_tokens": 89
+            "prompt_tokens": 702,
+            "completion_tokens": 58
         },
-        "time_elapsed": 3.720316171646118
+        "time_elapsed": 4.313379526138306,
+        "raw_responses": [
+            "(A) Is not required when the missing tooth is provided on a partial denture",
+            "(C) Should have the same buccal and lingual contours as the permanent bridge",
+            "(A) Is not required when the missing tooth is provided on a partial denture"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Should have the same buccal and lingual contours as the permanent bridge"
     },
     {
         "question": "The cells which will proliferate from top to bottom of villi are:",
@@ -103,9 +158,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 483,
-            "completion_tokens": 88
+            "completion_tokens": 135
         },
-        "time_elapsed": 4.39484977722168
+        "time_elapsed": 7.423760175704956,
+        "raw_responses": [
+            "(B) Goblet cells",
+            "(B) Goblet cells",
+            "(B) Goblet cells"
+        ],
+        "ensemble_raw_responses": [
+            "The cells that proliferate from the bottom to the top of the villi are actually the enterocytes, not goblet cells. However, since all the given solutions are the same and incorrect, none of the options provided are correct.\n\nIf I had to choose from the given options, I would say none of them are correct. But since the task is to choose the best final answer from the given options, I will choose option 0, 1, or 2 as they are all the same.\n\nSo, the chosen option number is: 0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Goblet cells"
     },
     {
         "question": "A breast fed child presents with hypernatremia (Serum sodium > 170m Eq/L). His urine sodium is 70 mEq/L. Which of the following is the most likely cause \u2013",
@@ -120,10 +186,21 @@
         "answer": "Excessive intake of sodium",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 660,
-            "completion_tokens": 23
+            "prompt_tokens": 657,
+            "completion_tokens": 28
         },
-        "time_elapsed": 3.301802158355713
+        "time_elapsed": 4.06564998626709,
+        "raw_responses": [
+            "(A) Diabetes insipidus",
+            "(A) Diabetes insipidus",
+            "(D) Excessive intake of sodium"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Excessive intake of sodium"
     },
     {
         "question": "After cleaning and pumicing the tooth surface, plaque formation takes place within",
@@ -139,9 +216,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 510,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.3330345153808594
+        "time_elapsed": 3.9344077110290527,
+        "raw_responses": [
+            "(A) A few minutes",
+            "(A) A few minutes",
+            "(A) A few minutes"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) A few minutes"
     },
     {
         "question": "Name the structure marked with arrow",
@@ -156,10 +244,21 @@
         "answer": "Secretory vesicles",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1431,
-            "completion_tokens": 344
+            "prompt_tokens": 828,
+            "completion_tokens": 149
         },
-        "time_elapsed": 6.7390358448028564
+        "time_elapsed": 4.976691007614136,
+        "raw_responses": [
+            "(D) Rough Endoplasmic reticulum",
+            "To identify the structure marked with an arrow, we need to consider the characteristics of each option:\n\n(A) Mitochondria: These are typically oval-shaped with a double membrane and internal folds called cristae.\n(B) Golgi bodies: These appear as a series of flattened, stacked pouches or sacs.\n(C) Secretory vesicles: These are small, membrane-bound sacs that transport substances within the cell.\n(D) Rough Endoplasmic reticulum: This structure has a network of membranes with ribosomes attached, giving it a rough appearance.\n\nFinal answer: (D) Rough Endoplasmic reticulum",
+            "(D) Rough Endoplasmic reticulum"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "1"
+        ],
+        "final_solution": "To identify the structure marked with an arrow, we need to consider the characteristics of each option:\n\n(A) Mitochondria: These are typically oval-shaped with a double membrane and internal folds called cristae.\n(B) Golgi bodies: These appear as a series of flattened, stacked pouches or sacs.\n(C) Secretory vesicles: These are small, membrane-bound sacs that transport substances within the cell.\n(D) Rough Endoplasmic reticulum: This structure has a network of membranes with ribosomes attached, giving it a rough appearance.\n\nFinal answer: (D) Rough Endoplasmic reticulum"
     },
     {
         "question": "Pulsatile varicose veins in lower limbs is seen in \u2013",
@@ -175,9 +274,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 537,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 3.64804744720459
+        "time_elapsed": 3.9726431369781494,
+        "raw_responses": [
+            "(A) Klippel trenaunay syndrome",
+            "(A) Klippel trenaunay syndrome",
+            "(A) Klippel trenaunay syndrome"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Klippel trenaunay syndrome"
     },
     {
         "question": "Endocarditis is most commonly seen in:",
@@ -192,10 +302,21 @@
         "answer": "Aortic stenosis.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1638,
-            "completion_tokens": 408
+            "prompt_tokens": 492,
+            "completion_tokens": 171
         },
-        "time_elapsed": 8.368377447128296
+        "time_elapsed": 4.846735954284668,
+        "raw_responses": [
+            "(A) Aortic stenosis",
+            "(A) Aortic stenosis.",
+            "(C) Patent ductus arteriosus."
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2.",
+            "None of the provided options directly address the most common cause of endocarditis. Endocarditis is most commonly seen in individuals with pre-existing heart conditions, such as those with damaged or artificial heart valves, congenital heart defects, or a history of endocarditis. Among the options given, none accurately reflect this.\n\nHowever, if I must choose from the given options, I would select option 0 or 2, as aortic stenosis can be associated with an increased risk of endocarditis due to the turbulent blood flow it causes, which can damage the heart lining and make it more susceptible to infection. \n\nTherefore, I will choose option 0.",
+            "0"
+        ],
+        "final_solution": "(C) Patent ductus arteriosus."
     },
     {
         "question": "Which of the following techniques is based on RNA?",
@@ -208,12 +329,23 @@
         },
         "answer_idx": "A",
         "answer": "PCR",
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 447,
-            "completion_tokens": 18
+            "prompt_tokens": 429,
+            "completion_tokens": 192
         },
-        "time_elapsed": 3.1209702491760254
+        "time_elapsed": 7.213846683502197,
+        "raw_responses": [
+            "(A) PCR",
+            "(A) PCR",
+            "(A) PCR"
+        ],
+        "ensemble_raw_responses": [
+            "None of the provided solutions are correct. PCR (Polymerase Chain Reaction) is a technique based on DNA, not RNA. A technique based on RNA would be RT-PCR (Reverse Transcription PCR). Therefore, none of the options 0, 1, or 2 are correct.",
+            "None of the provided solutions are correct. PCR (Polymerase Chain Reaction) is a technique based on DNA, not RNA. A technique based on RNA would be RT-PCR (Reverse Transcription PCR). Therefore, none of the options 0, 1, or 2 are correct.",
+            "None of the provided solutions are correct. PCR (Polymerase Chain Reaction) is a technique based on DNA, not RNA. A technique based on RNA would be RT-PCR (Reverse Transcription PCR). Therefore, none of the options 0, 1, or 2 are correct."
+        ],
+        "final_solution": "(A) PCR"
     },
     {
         "question": "To check objective pain response, which is best used method",
@@ -229,9 +361,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 465,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.160057544708252
+        "time_elapsed": 4.014568567276001,
+        "raw_responses": [
+            "(A) Facial pain scale",
+            "(A) Facial pain scale",
+            "(A) Facial pain scale"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Facial pain scale"
     },
     {
         "question": "Patient with PPF transfusion complaint of breathing difficulty, tachycardic, tachypnia, Had Batwing sign present in X-ray. What will be the possible reason?",
@@ -247,9 +390,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 648,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.5215046405792236
+        "time_elapsed": 4.4390130043029785,
+        "raw_responses": [
+            "(A) Transfusion related lung injury",
+            "(A) Transfusion related lung injury",
+            "(A) Transfusion related lung injury"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Transfusion related lung injury"
     },
     {
         "question": "A young patient is diagnosed to have irreparable tear of the rotator cuff. Treatment of choice will be:",
@@ -265,9 +419,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 531,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.294882297515869
+        "time_elapsed": 4.239030122756958,
+        "raw_responses": [
+            "(A) Tendon transfer",
+            "(A) Tendon transfer",
+            "(A) Tendon transfer"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Tendon transfer"
     },
     {
         "question": "According to instrument formula given by G.V. Black, primary cutting edge angle should be:",
@@ -283,9 +448,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 924,
-            "completion_tokens": 151
+            "completion_tokens": 157
         },
-        "time_elapsed": 4.8906121253967285
+        "time_elapsed": 5.096038103103638,
+        "raw_responses": [
+            "Step 1: Understand the context of the question, which is about the primary cutting edge angle in dental instruments as per G.V. Black's formula.\n\nStep 2: Recall that G.V. Black's formula for dental instruments specifies the angles for effective cutting.\n\nStep 3: The primary cutting edge angle is typically designed to be effective for cutting tooth structure, which generally requires an angle that is not too acute or too obtuse.\n\nStep 4: Based on standard dental instrument design principles, the primary cutting edge angle is usually designed to be less than 90 degrees to ensure effective cutting without excessive force.\n\nFinal Answer: (D) Less than 90 degree",
+            "(A) More than 50 degree",
+            "(A) More than 50 degree"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "0"
+        ],
+        "final_solution": "Step 1: Understand the context of the question, which is about the primary cutting edge angle in dental instruments as per G.V. Black's formula.\n\nStep 2: Recall that G.V. Black's formula for dental instruments specifies the angles for effective cutting.\n\nStep 3: The primary cutting edge angle is typically designed to be effective for cutting tooth structure, which generally requires an angle that is not too acute or too obtuse.\n\nStep 4: Based on standard dental instrument design principles, the primary cutting edge angle is usually designed to be less than 90 degrees to ensure effective cutting without excessive force.\n\nFinal Answer: (D) Less than 90 degree"
     },
     {
         "question": "An un-immunized 13 months old child comes to you in OPD, according to the latest immunizations schedule, what vaccines will you advise??",
@@ -300,10 +476,21 @@
         "answer": "OPV 3 doses, 3 IPV 3 DPI : Hep-B",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 942,
-            "completion_tokens": 78
+            "prompt_tokens": 939,
+            "completion_tokens": 83
         },
-        "time_elapsed": 4.694665431976318
+        "time_elapsed": 4.496920824050903,
+        "raw_responses": [
+            "(B) BCG, OPV 3 doses, 3 IPV, 3 Pentavalent and I measles",
+            "(B) BCG, OPV 3 doses, 3 lPV, 3 Pentavalent and I measles",
+            "(B) BCG, OPV 3 doses, 3 lPV, 3 Pentavalent and I measles"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "2"
+        ],
+        "final_solution": "(B) BCG, OPV 3 doses, 3 IPV, 3 Pentavalent and I measles"
     },
     {
         "question": "Most common mediastinal tumor:",
@@ -316,12 +503,23 @@
         },
         "answer_idx": "A",
         "answer": "Neurogenic tumor",
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 438,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.5946922302246094
+        "time_elapsed": 3.7258946895599365,
+        "raw_responses": [
+            "(A) Neurogenic tumor",
+            "(B) Thymoma",
+            "(A) Neurogenic tumor"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "2"
+        ],
+        "final_solution": "(B) Thymoma"
     },
     {
         "question": "The hormone having the maximum effect on granulation wound healing is:",
@@ -337,9 +535,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 474,
-            "completion_tokens": 50
+            "completion_tokens": 112
         },
-        "time_elapsed": 7.584389686584473
+        "time_elapsed": 4.901745796203613,
+        "raw_responses": [
+            "(A) Thyroxine",
+            "(B) Cortisone",
+            "(A) Thyroxine"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The hormone having the maximum effect on granulation wound healing is not Thyroxine (A) or Cortisone (B). The correct hormone is actually Growth Hormone (GH) or Insulin-like Growth Factor (IGF). However, since the provided options do not include the correct hormone, none of the given solutions are correct.\n\nGiven the options provided, none of the solutions (0, 1, 2) are correct.",
+            "0"
+        ],
+        "final_solution": "(B) Cortisone"
     },
     {
         "question": "Sugar restricted to diet was beneficial in presence of unfavorable hygiene was from which study?",
@@ -354,10 +563,21 @@
         "answer": "Hopewood",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1317,
-            "completion_tokens": 344
+            "prompt_tokens": 1401,
+            "completion_tokens": 332
         },
-        "time_elapsed": 6.226516485214233
+        "time_elapsed": 8.618605613708496,
+        "raw_responses": [
+            "To determine which study concluded that sugar restriction in the diet was beneficial in the presence of unfavorable hygiene, we need to examine the key findings of each study mentioned in the options:\n\n(A) Hopewood Study: This study focused on the dental health of children in an orphanage where they had a diet low in sugar. Despite poor oral hygiene, the children had low levels of dental caries, suggesting that diet played a significant role in dental health.\n\n(B) Experimental Study: This is a general term and does not refer to a specific study related to sugar restriction and dental health.\n\n(C) Vipeholm Study: This study was conducted in Sweden and investigated the relationship between sugar consumption and dental caries. It found that high sugar intake increased the risk of dental caries, but it did not specifically focus on the impact of sugar restriction in the presence of poor hygiene.\n\n(D) Turku Study: This study examined the effects of replacing sucrose with xylitol on dental health. It showed that xylitol reduced dental caries, but it did not specifically address the impact of sugar restriction in the context of poor hygiene.\n\nBased on the descriptions, the Hopewood Study is the one that concluded sugar restriction in the diet was beneficial even in the presence of unfavorable hygiene.\n\nFinal answer: (A) Hopewood",
+            "The study that investigated the effects of sugar restriction in the presence of unfavorable hygiene is the Hopewood study. \n\nFinal answer: (A) Hopewood",
+            "The study that showed sugar restricted to diet was beneficial in the presence of unfavorable hygiene is the Vipeholm study.\n\nFinal answer:\n(C) Vipeholm"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "1"
+        ],
+        "final_solution": "To determine which study concluded that sugar restriction in the diet was beneficial in the presence of unfavorable hygiene, we need to examine the key findings of each study mentioned in the options:\n\n(A) Hopewood Study: This study focused on the dental health of children in an orphanage where they had a diet low in sugar. Despite poor oral hygiene, the children had low levels of dental caries, suggesting that diet played a significant role in dental health.\n\n(B) Experimental Study: This is a general term and does not refer to a specific study related to sugar restriction and dental health.\n\n(C) Vipeholm Study: This study was conducted in Sweden and investigated the relationship between sugar consumption and dental caries. It found that high sugar intake increased the risk of dental caries, but it did not specifically focus on the impact of sugar restriction in the presence of poor hygiene.\n\n(D) Turku Study: This study examined the effects of replacing sucrose with xylitol on dental health. It showed that xylitol reduced dental caries, but it did not specifically address the impact of sugar restriction in the context of poor hygiene.\n\nBased on the descriptions, the Hopewood Study is the one that concluded sugar restriction in the diet was beneficial even in the presence of unfavorable hygiene.\n\nFinal answer: (A) Hopewood"
     },
     {
         "question": "Plastic carrier size of 40-90 in carrier base Gutta percha are made from?",
@@ -373,9 +593,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 510,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.7593679428100586
+        "time_elapsed": 4.2179248332977295,
+        "raw_responses": [
+            "(A) Poly propylene",
+            "(A) Poly propylene",
+            "(A) Poly propylene"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Poly propylene"
     },
     {
         "question": "The ideal instrument that is used to widen the canal is",
@@ -391,9 +622,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 447,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 4.027674198150635
+        "time_elapsed": 5.510371208190918,
+        "raw_responses": [
+            "(A) Broach",
+            "(A) Broach",
+            "(A) Broach"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Broach"
     },
     {
         "question": "Drug adveisement letter is a necessary component of each drug formulation and contains various information about the drug like drug dosing, frequency and half-life. Which of the following information need not be given in the drug adveisement letter?",
@@ -408,10 +650,21 @@
         "answer": "Date of expiry of the drug",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 795,
-            "completion_tokens": 100
+            "prompt_tokens": 798,
+            "completion_tokens": 47
         },
-        "time_elapsed": 4.398753881454468
+        "time_elapsed": 4.337098598480225,
+        "raw_responses": [
+            "(A) Research papers and other aicles proving efficacy of the drug",
+            "(A) Research papers and other articles proving efficacy of the drug",
+            "(A) Research papers and other aicles proving efficacy of the drug"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "0"
+        ],
+        "final_solution": "(A) Research papers and other articles proving efficacy of the drug"
     },
     {
         "question": "Ashley-Howe model analysis is used to predict:",
@@ -427,9 +680,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 489,
-            "completion_tokens": 22
+            "completion_tokens": 28
         },
-        "time_elapsed": 3.387350082397461
+        "time_elapsed": 4.444420099258423,
+        "raw_responses": [
+            "(A) Tooth material excess",
+            "(B) Maxillo-mandibular relationships",
+            "(A) Tooth material excess"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "2"
+        ],
+        "final_solution": "(A) Tooth material excess"
     },
     {
         "question": "Optimal location for intra osseous anesthesia for mandibular second molars is",
@@ -445,9 +709,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 549,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.1938188076019287
+        "time_elapsed": 4.359990835189819,
+        "raw_responses": [
+            "(A) Distal to the molar",
+            "(A) Distal to the molar",
+            "(A) Distal to the molar"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Distal to the molar"
     },
     {
         "question": "A patient believes he is the most impoant person in the world than anyone so his neighbors and family is trying to harm him as they are jealous of him. His wife says otherwise and says he behaves like this recently only before he was working as a school-teacher peacefully and brought to OPD. He is suffering from:",
@@ -463,9 +738,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 864,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 4.401166677474976
+        "time_elapsed": 4.311232328414917,
+        "raw_responses": [
+            "(C) Delusion of grandiosity and persecution",
+            "(C) Delusion of grandiosity and persecution",
+            "(C) Delusion of grandiosity and persecution"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Delusion of grandiosity and persecution"
     },
     {
         "question": "A patient went into shock immediately after normal delivery, likely cause:",
@@ -481,9 +767,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 510,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.3089756965637207
+        "time_elapsed": 4.060277938842773,
+        "raw_responses": [
+            "(A) Amniotic fluid embolism",
+            "(A) Amniotic fluid embolism",
+            "(A) Amniotic fluid embolism"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Amniotic fluid embolism"
     },
     {
         "question": "Major aim of phase 1 clinical trials is:",
@@ -499,9 +796,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 426,
-            "completion_tokens": 12
+            "completion_tokens": 18
         },
-        "time_elapsed": 3.1848690509796143
+        "time_elapsed": 4.007822275161743,
+        "raw_responses": [
+            "(A) Safety",
+            "(A) Safety",
+            "(A) Safety"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Safety"
     },
     {
         "question": "Initial calcification of crown represents Which Nolla's stage:",
@@ -514,12 +822,23 @@
         },
         "answer_idx": "B",
         "answer": "Stage 2",
-        "predicted_answer": "D",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 489,
+            "prompt_tokens": 540,
             "completion_tokens": 49
         },
-        "time_elapsed": 4.2564332485198975
+        "time_elapsed": 5.78714656829834,
+        "raw_responses": [
+            "Stage 4\n\nFinal answer: (D) Stage 4",
+            "Initial calcification of crown represents Nolla's Stage 3.\n\nFinal answer: (C) Stage 3",
+            "(B) Stage 2"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "2"
+        ],
+        "final_solution": "Initial calcification of crown represents Nolla's Stage 3.\n\nFinal answer: (C) Stage 3"
     },
     {
         "question": "Patient with increased PT, APTT & TT and normal fibrinogen and platelet counts, diagnosis is?",
@@ -535,9 +854,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 516,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.1268584728240967
+        "time_elapsed": 4.207473993301392,
+        "raw_responses": [
+            "(C) Liver disease",
+            "(A) DIC",
+            "(A) DIC"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "1"
+        ],
+        "final_solution": "(C) Liver disease"
     },
     {
         "question": "Which of the following series act as the best space\nmaintainer in a child's mouth?",
@@ -553,9 +883,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 546,
-            "completion_tokens": 82
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.966498851776123
+        "time_elapsed": 3.8951728343963623,
+        "raw_responses": [
+            "(A) Restored deciduous tooth",
+            "(A) Restored deciduous tooth",
+            "(A) Restored deciduous tooth"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Restored deciduous tooth"
     },
     {
         "question": "Highest concentration of oxygen is delivered through?",
@@ -570,10 +911,21 @@
         "answer": "Bag and mask",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 678,
-            "completion_tokens": 96
+            "prompt_tokens": 648,
+            "completion_tokens": 92
         },
-        "time_elapsed": 4.22158145904541
+        "time_elapsed": 4.707372665405273,
+        "raw_responses": [
+            "(C) Bag and mask",
+            "(A) Nasal cannula: Delivers low to moderate concentration of oxygen.\n(B) Venturi mask: Delivers precise concentration of oxygen, but not the highest.\n(C) Bag and mask: Can deliver high concentration, but not the highest.\n(D) Mask with reservoir: Delivers the highest concentration of oxygen.\n\nFinal answer: (D) Mask with reservoir",
+            "(D) Mask with reservoir"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Nasal cannula: Delivers low to moderate concentration of oxygen.\n(B) Venturi mask: Delivers precise concentration of oxygen, but not the highest.\n(C) Bag and mask: Can deliver high concentration, but not the highest.\n(D) Mask with reservoir: Delivers the highest concentration of oxygen.\n\nFinal answer: (D) Mask with reservoir"
     },
     {
         "question": "Extraction of disto-angular impaction of mandibular 3rd molar can cause:",
@@ -589,9 +941,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 555,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.6260464191436768
+        "time_elapsed": 4.220473527908325,
+        "raw_responses": [
+            "(A) Slippage in lingual pouch",
+            "(A) Slippage in lingual pouch",
+            "(A) Slippage in lingual pouch"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Slippage in lingual pouch"
     },
     {
         "question": "Median rhomboid glossitis is associated with:",
@@ -607,9 +970,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 498,
-            "completion_tokens": 28
+            "completion_tokens": 34
         },
-        "time_elapsed": 3.6259732246398926
+        "time_elapsed": 4.1612725257873535,
+        "raw_responses": [
+            "(B) Fungal infection",
+            "(B) Fungal infection",
+            "Median rhomboid glossitis is associated with:\n\n(B) Fungal infection"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(B) Fungal infection"
     },
     {
         "question": "Which of the following does not require 5'capping?",
@@ -622,12 +996,23 @@
         },
         "answer_idx": "A",
         "answer": "tRNA of alanine",
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 492,
-            "completion_tokens": 191
+            "prompt_tokens": 501,
+            "completion_tokens": 30
         },
-        "time_elapsed": 5.081232786178589
+        "time_elapsed": 3.91464900970459,
+        "raw_responses": [
+            "(A) tRNA of alanine",
+            "(A) tRNA of alanine",
+            "(A) tRNA of alanine"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) tRNA of alanine"
     },
     {
         "question": "Ceramide is:",
@@ -640,12 +1025,23 @@
         },
         "answer_idx": "A",
         "answer": "Simple lipid",
-        "predicted_answer": "B",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 930,
-            "completion_tokens": 198
+            "prompt_tokens": 408,
+            "completion_tokens": 24
         },
-        "time_elapsed": 4.96004843711853
+        "time_elapsed": 3.6431074142456055,
+        "raw_responses": [
+            "(C) Precursor lipid",
+            "(C) Precursor lipid",
+            "(C) Precursor lipid"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Precursor lipid"
     },
     {
         "question": "A person working in an abattoir presented with a papule on hand, which turned in to an ulcer. Which will best help in diagnosis",
@@ -661,9 +1057,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 624,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.705275058746338
+        "time_elapsed": 3.908902645111084,
+        "raw_responses": [
+            "(A) Polychrome Methylene blue",
+            "(A) Polychrome Methylene blue",
+            "(A) Polychrome Methylene blue"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Polychrome Methylene blue"
     },
     {
         "question": "Kamlesh, a 2 year old girl, has Down's syndrome. Her karyotype is 21/21 translocation. What is the risk ofrecurrence in subsequent pregnancies if the father is a balanced translocation carrier :",
@@ -678,10 +1085,21 @@
         "answer": "100%",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1023,
-            "completion_tokens": 339
+            "prompt_tokens": 1089,
+            "completion_tokens": 222
         },
-        "time_elapsed": 7.439350128173828
+        "time_elapsed": 6.760058879852295,
+        "raw_responses": [
+            "If the father is a balanced translocation carrier for a 21/21 translocation, all of his gametes will carry the translocation. Therefore, any child conceived will inherit the translocation, leading to Down's syndrome.\n\nFinal answer: (A) 100%",
+            "If the father is a balanced translocation carrier for a 21/21 translocation, all of his gametes will carry the translocation. Therefore, any child conceived will inherit the translocation, leading to Down's syndrome.\n\nFinal answer: (A) 100%",
+            "If the father is a balanced translocation carrier of 21/21, all of his gametes will carry the translocation. Therefore, any child conceived will inherit the translocation, leading to Down's syndrome.\n\n(A) 100%"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0. \n\nOption 0 provides a clear and concise explanation, and it includes the final answer explicitly stated as \"Final answer: (A) 100%\". This makes it the most complete and well-presented solution among the three options.",
+            "0",
+            "0"
+        ],
+        "final_solution": "If the father is a balanced translocation carrier for a 21/21 translocation, all of his gametes will carry the translocation. Therefore, any child conceived will inherit the translocation, leading to Down's syndrome.\n\nFinal answer: (A) 100%"
     },
     {
         "question": "Percentage of carbon in carbon steel hand instruments is",
@@ -697,9 +1115,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 555,
-            "completion_tokens": 39
+            "completion_tokens": 45
         },
-        "time_elapsed": 3.7539846897125244
+        "time_elapsed": 4.6967854499816895,
+        "raw_responses": [
+            "(C) 0.6 to 0.8%",
+            "(C) 0.6 to 0.8%",
+            "(C) 0.6 to 0.8%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) 0.6 to 0.8%"
     },
     {
         "question": "Reciprocal arm taper in",
@@ -715,9 +1144,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 432,
-            "completion_tokens": 64
+            "completion_tokens": 24
         },
-        "time_elapsed": 4.31231689453125
+        "time_elapsed": 5.457269906997681,
+        "raw_responses": [
+            "(A) 1 dimension",
+            "(A) 1 dimension",
+            "(A) 1 dimension"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 1 dimension"
     },
     {
         "question": "Bone sounding done in modern times is performed by which method?",
@@ -730,12 +1170,23 @@
         },
         "answer_idx": "C",
         "answer": "CBCT",
-        "predicted_answer": "B",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 450,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.191044569015503
+        "time_elapsed": 4.372995138168335,
+        "raw_responses": [
+            "(A) RVG",
+            "(A) RVG",
+            "(A) RVG"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) RVG"
     },
     {
         "question": "Which of the following blade angle is appropriate for scaling and root planing",
@@ -751,9 +1202,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 435,
-            "completion_tokens": 10
+            "completion_tokens": 16
         },
-        "time_elapsed": 7.432835102081299
+        "time_elapsed": 3.266805648803711,
+        "raw_responses": [
+            "(A) A",
+            "(A) A",
+            "A"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "1"
+        ],
+        "final_solution": "A"
     },
     {
         "question": "Primary Colonization of plaque is dominated by",
@@ -766,12 +1228,23 @@
         },
         "answer_idx": "D",
         "answer": "Facultative Anaerobic Gram + ve cocci",
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 576,
-            "completion_tokens": 37
+            "prompt_tokens": 570,
+            "completion_tokens": 41
         },
-        "time_elapsed": 3.4044926166534424
+        "time_elapsed": 3.99916934967041,
+        "raw_responses": [
+            "(D) Facultative Anaerobic Gram + ve cocci",
+            "(A) Facultative Aerobic Gram + ve rods",
+            "(A) Facultative Aerobic Gram + ve rods"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "2"
+        ],
+        "final_solution": "(D) Facultative Anaerobic Gram + ve cocci"
     },
     {
         "question": "In a child with active liver failure, the most important prognosis factor for death is \u2013",
@@ -787,9 +1260,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 534,
-            "completion_tokens": 23
+            "completion_tokens": 29
         },
-        "time_elapsed": 3.580872058868408
+        "time_elapsed": 3.8713767528533936,
+        "raw_responses": [
+            "(C) Increasing prothrombin time",
+            "(A) Increasing transaminases",
+            "(A) Increasing transaminases"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(C) Increasing prothrombin time"
     },
     {
         "question": "Denominator in perinatal moality rate",
@@ -804,10 +1288,21 @@
         "answer": "Total bihs",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 840,
-            "completion_tokens": 196
+            "prompt_tokens": 816,
+            "completion_tokens": 318
         },
-        "time_elapsed": 5.911202907562256
+        "time_elapsed": 7.6508989334106445,
+        "raw_responses": [
+            "The perinatal mortality rate is calculated by considering the number of perinatal deaths (which includes both stillbirths and early neonatal deaths) in the numerator. The denominator for this rate typically includes the total number of births, which encompasses both live births and stillbirths.\n\nStep-by-step reasoning:\n1. Perinatal mortality includes both stillbirths and early neonatal deaths.\n2. The denominator should reflect the total number of births to account for the risk population.\n3. Total births include both live births and stillbirths.\n\nFinal answer: (C) Live bihs + Still bih",
+            "(A) Total bihs",
+            "(A) Total bihs"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2. \n\nOption 2 provides a detailed explanation and correctly identifies that the denominator for the perinatal mortality rate should include both live births and stillbirths. This is essential to accurately reflect the risk population for perinatal mortality. \n\nTherefore, the chosen option number is: 2.",
+            "2",
+            "The best final answer is option 0. \n\nOption 0 provides a detailed explanation and correctly identifies that the denominator for the perinatal mortality rate should include both live births and stillbirths. This is consistent with the standard definition of the perinatal mortality rate, which considers the total number of births (live births + stillbirths) as the denominator.\n\nOptions 1 and 2 simply state \"Total bihs\" without further clarification, which could be ambiguous. Therefore, option 0 is the most accurate and complete solution.\n\nFinal answer: 0"
+        ],
+        "final_solution": "The perinatal mortality rate is calculated by considering the number of perinatal deaths (which includes both stillbirths and early neonatal deaths) in the numerator. The denominator for this rate typically includes the total number of births, which encompasses both live births and stillbirths.\n\nStep-by-step reasoning:\n1. Perinatal mortality includes both stillbirths and early neonatal deaths.\n2. The denominator should reflect the total number of births to account for the risk population.\n3. Total births include both live births and stillbirths.\n\nFinal answer: (C) Live bihs + Still bih"
     },
     {
         "question": "Isolation period of measles:-",
@@ -823,9 +1318,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 639,
-            "completion_tokens": 90
+            "completion_tokens": 57
         },
-        "time_elapsed": 3.9241225719451904
+        "time_elapsed": 4.932825803756714,
+        "raw_responses": [
+            "(A) Onset of prodromal stage until 7th day of rash",
+            "(A) Onset of prodromal stage until 7th day of rash",
+            "(A) Onset of prodromal stage until 7th day of rash"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Onset of prodromal stage until 7th day of rash"
     },
     {
         "question": "Production and citation impact of published work of a scientist or scholar",
@@ -841,9 +1347,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 447,
-            "completion_tokens": 117
+            "completion_tokens": 21
         },
-        "time_elapsed": 6.19703221321106
+        "time_elapsed": 3.7119812965393066,
+        "raw_responses": [
+            "(C) H index",
+            "(C) H index",
+            "(C) H index"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) H index"
     },
     {
         "question": "Shelf life of colourless, aqueous solution of suxamethonium is",
@@ -859,9 +1376,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 489,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.3228015899658203
+        "time_elapsed": 4.326542854309082,
+        "raw_responses": [
+            "(A) 6 months",
+            "(C) 2 yr",
+            "(A) 6 months"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 6 months"
     },
     {
         "question": "Resin teeth:",
@@ -877,9 +1405,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 486,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.3947486877441406
+        "time_elapsed": 4.506970167160034,
+        "raw_responses": [
+            "(A) Show a high compressive strength",
+            "(A) Show a high compressive strength",
+            "(A) Show a high compressive strength"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Show a high compressive strength"
     },
     {
         "question": "Action of the muscle marked (with arrow) on mandible is",
@@ -895,9 +1434,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 453,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.222989559173584
+        "time_elapsed": 3.776965618133545,
+        "raw_responses": [
+            "(A) Elevation",
+            "(A) Elevation",
+            "(A) Elevation"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Elevation"
     },
     {
         "question": "2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen",
@@ -913,9 +1463,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 522,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.6879732608795166
+        "time_elapsed": 3.5163204669952393,
+        "raw_responses": [
+            "(A) 4, decreases",
+            "(A) 4, decreases",
+            "(A) 4, decreases"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 4, decreases"
     },
     {
         "question": "Gene commonly indicated in congenital cataract:",
@@ -930,10 +1491,21 @@
         "answer": "CRYGS-3",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1341,
-            "completion_tokens": 354
+            "prompt_tokens": 1314,
+            "completion_tokens": 319
         },
-        "time_elapsed": 7.566785573959351
+        "time_elapsed": 6.77016019821167,
+        "raw_responses": [
+            "Step 1: Identify the genes listed in the options and their known associations.\n- PAX-6: Associated with eye development and various ocular conditions, but not specifically congenital cataract.\n- CRYGS-3: CRYGS is a crystallin gene, and mutations in crystallin genes are commonly associated with congenital cataracts.\n- LMX- IB: Not commonly associated with congenital cataracts.\n- PITX-3: Known to be associated with congenital cataracts.\n\nStep 2: Compare the associations of each gene with congenital cataracts.\n- PAX-6: Not specifically linked to congenital cataracts.\n- CRYGS-3: Crystallin genes like CRYGS are linked to congenital cataracts.\n- LMX- IB: Not linked to congenital cataracts.\n- PITX-3: Specifically linked to congenital cataracts.\n\nFinal Answer: (D) PITX-3",
+            "Step 1: Identify the genes listed in the options and their known associations with congenital cataracts.\nStep 2: PAX-6 is associated with eye development but not specifically with congenital cataracts.\nStep 3: CRYGS-3 is a crystallin gene, and crystallins are commonly associated with cataracts.\nStep 4: LMX- IB is not commonly associated with congenital cataracts.\nStep 5: PITX-3 is known to be associated with congenital cataracts.\n\nFinal Answer: (D) PITX-3",
+            "(A) PAX-6"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number 2.",
+            "0",
+            "0"
+        ],
+        "final_solution": "Step 1: Identify the genes listed in the options and their known associations.\n- PAX-6: Associated with eye development and various ocular conditions, but not specifically congenital cataract.\n- CRYGS-3: CRYGS is a crystallin gene, and mutations in crystallin genes are commonly associated with congenital cataracts.\n- LMX- IB: Not commonly associated with congenital cataracts.\n- PITX-3: Known to be associated with congenital cataracts.\n\nStep 2: Compare the associations of each gene with congenital cataracts.\n- PAX-6: Not specifically linked to congenital cataracts.\n- CRYGS-3: Crystallin genes like CRYGS are linked to congenital cataracts.\n- LMX- IB: Not linked to congenital cataracts.\n- PITX-3: Specifically linked to congenital cataracts.\n\nFinal Answer: (D) PITX-3"
     },
     {
         "question": "Bartholins duct is the name of :",
@@ -946,12 +1518,23 @@
         },
         "answer_idx": "C",
         "answer": "Sublingual duct",
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 471,
-            "completion_tokens": 211
+            "prompt_tokens": 825,
+            "completion_tokens": 345
         },
-        "time_elapsed": 5.369953393936157
+        "time_elapsed": 7.071162700653076,
+        "raw_responses": [
+            "(A) Parotid duct",
+            "Bartholin's duct is the name of:\n\nStep 1: Identify the options related to glands and ducts.\n(A) Parotid duct - related to the parotid gland.\n(B) Submandibular gland - related to the submandibular duct.\n(C) Sublingual duct - related to the sublingual gland.\n(D) Lacrimal duct - related to the lacrimal gland.\n\nStep 2: Recall the specific association of Bartholin's duct.\nBartholin's duct is specifically associated with the sublingual gland.\n\nFinal answer: (C) Sublingual duct",
+            "(A) Parotid duct"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0. \n\nOption 0 provides a detailed analysis and correctly identifies the association of Bartholin's duct with the sublingual gland. Options 1 and 2 incorrectly identify the parotid duct, which is not associated with Bartholin's duct. Therefore, option 0 is the most accurate and well-reasoned solution.",
+            "The best final answer is option 2. \n\nOption 2 provides a detailed analysis and correctly identifies that Bartholin's duct is associated with the sublingual gland.",
+            "The correct answer is not provided in any of the solutions. Bartholin's duct is actually associated with the Bartholin's glands, which are located in the female reproductive system and are responsible for secreting mucus to lubricate the vagina. None of the provided options (Parotid duct, Submandibular gland, Sublingual duct, Lacrimal duct) are correct.\n\nTherefore, none of the solutions (0, 1, 2) are correct."
+        ],
+        "final_solution": "Bartholin's duct is the name of:\n\nStep 1: Identify the options related to glands and ducts.\n(A) Parotid duct - related to the parotid gland.\n(B) Submandibular gland - related to the submandibular duct.\n(C) Sublingual duct - related to the sublingual gland.\n(D) Lacrimal duct - related to the lacrimal gland.\n\nStep 2: Recall the specific association of Bartholin's duct.\nBartholin's duct is specifically associated with the sublingual gland.\n\nFinal answer: (C) Sublingual duct"
     },
     {
         "question": "According to WHO classi\ufb01cation of periapical pathology, sinus to oral cavity comes  under:",
@@ -967,9 +1550,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 540,
-            "completion_tokens": 289
+            "completion_tokens": 27
         },
-        "time_elapsed": 5.368536710739136
+        "time_elapsed": 3.9769155979156494,
+        "raw_responses": [
+            "(A) 4.6",
+            "(A) 4.6",
+            "(A) 4.6"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 4.6"
     },
     {
         "question": "Wave patterns of EEF, ECG and EMG are depicted below. The B pattern belongs to (Figure was not provided in the exam):",
@@ -984,10 +1578,21 @@
         "answer": "Wakefulness",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 549,
-            "completion_tokens": 24
+            "prompt_tokens": 546,
+            "completion_tokens": 119
         },
-        "time_elapsed": 3.673147439956665
+        "time_elapsed": 10.463969230651855,
+        "raw_responses": [
+            "(B) REM sleep",
+            "(B) REM sleep",
+            "(B) REM sleep"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (B) REM sleep. Since they are identical, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: (B) REM sleep. Since they are identical, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\n0"
+        ],
+        "final_solution": "(B) REM sleep"
     },
     {
         "question": "Fluoride pit and fissure sealants belong to which\ngeneration?",
@@ -1003,9 +1608,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 441,
-            "completion_tokens": 12
+            "completion_tokens": 18
         },
-        "time_elapsed": 4.754871129989624
+        "time_elapsed": 3.4717750549316406,
+        "raw_responses": [
+            "(A) I",
+            "(A) I",
+            "(C) III"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) III"
     },
     {
         "question": "The current bar clasp design used is:",
@@ -1021,9 +1637,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 519,
-            "completion_tokens": 82
+            "completion_tokens": 135
         },
-        "time_elapsed": 3.959582567214966
+        "time_elapsed": 5.491506099700928,
+        "raw_responses": [
+            "(A) Mesio-occlusal rest",
+            "(A) Mesio-occlusal rest",
+            "(A) Mesio-occlusal rest"
+        ],
+        "ensemble_raw_responses": [
+            "All the candidate solutions provided are identical, each suggesting a \"Mesio-occlusal rest.\" Since there is no difference between the options, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\nThe chosen option number is: 0.",
+            "0",
+            "The solutions provided are identical, as they all suggest a \"Mesio-occlusal rest.\" Since there is no difference between the options, any of them can be chosen. \n\nI will choose option 0."
+        ],
+        "final_solution": "(A) Mesio-occlusal rest"
     },
     {
         "question": "In a child, surgery was done for biliary stricture with hepatojejunal anastomosis. Postoperative bilirubin level after 2 weeks was 6 mg/dL from a preoperative level 12mg/dL. The reason for this could be:",
@@ -1036,12 +1663,23 @@
         },
         "answer_idx": "C",
         "answer": "Delta bilirubin",
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 747,
-            "completion_tokens": 18
+            "prompt_tokens": 759,
+            "completion_tokens": 28
         },
-        "time_elapsed": 3.197721242904663
+        "time_elapsed": 5.43114709854126,
+        "raw_responses": [
+            "(C) Delta bilirubin",
+            "(A) Normal lowering of bilirubin takes time",
+            "(C) Delta bilirubin"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(A) Normal lowering of bilirubin takes time"
     },
     {
         "question": "Centric holding cusp is?",
@@ -1054,12 +1692,23 @@
         },
         "answer_idx": "D",
         "answer": "Mesiopalatal cusp of maxillary 1st molar",
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1218,
-            "completion_tokens": 243
+            "prompt_tokens": 642,
+            "completion_tokens": 57
         },
-        "time_elapsed": 5.330198049545288
+        "time_elapsed": 4.209577322006226,
+        "raw_responses": [
+            "(A) Mesiobuccal cusp of maxillary 1st molar",
+            "(A) Mesiobuccal cusp of maxillary 1st molar",
+            "(A) Mesiobuccal cusp of maxillary 1st molar"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Mesiobuccal cusp of maxillary 1st molar"
     },
     {
         "question": "An absolute indication for LSCS in case of a Heart disease is:",
@@ -1075,9 +1724,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 507,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.548203706741333
+        "time_elapsed": 5.1757237911224365,
+        "raw_responses": [
+            "(B) Eisenmenger syndrome",
+            "(B) Eisenmenger syndrome",
+            "(B) Eisenmenger syndrome"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Eisenmenger syndrome"
     },
     {
         "question": "Halo effect surrounding the root of tooth on IOPA X-Ray is seen with?",
@@ -1093,9 +1753,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 513,
-            "completion_tokens": 148
+            "completion_tokens": 204
         },
-        "time_elapsed": 4.466637134552002
+        "time_elapsed": 7.269923448562622,
+        "raw_responses": [
+            "(A) Horizontal root fracture",
+            "(A) Horizontal root fracture",
+            "(A) Horizontal root fracture"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "None of the provided solutions are correct. The halo effect surrounding the root of a tooth on an IOPA (Intra-Oral Periapical) X-Ray is typically seen with a periapical abscess or a cyst, not a horizontal root fracture. \n\nHowever, since the task is to choose from the given options, and all options are identical, any of them would be equally incorrect. If forced to choose, I would select option 0, 1, or 2, but please note that the correct answer is not among the provided options.",
+            "None of the provided solutions are correct. The halo effect surrounding the root of a tooth on an IOPA (Intra-Oral Periapical) X-Ray is typically seen with a periapical abscess or cyst, not a horizontal root fracture. Therefore, none of the options 0, 1, or 2 are correct."
+        ],
+        "final_solution": "(A) Horizontal root fracture"
     },
     {
         "question": "Concentric teeth bite mark on forearm, what to do next?",
@@ -1111,9 +1782,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 660,
-            "completion_tokens": 54
+            "completion_tokens": 60
         },
-        "time_elapsed": 3.4612536430358887
+        "time_elapsed": 4.333252191543579,
+        "raw_responses": [
+            "(B) Keep scale for measuring below the mark and take photo in the plane of bite",
+            "(B) Keep scale for measuring below the mark and take photo in the plane of bite",
+            "(B) Keep scale for measuring below the mark and take photo in the plane of bite"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Keep scale for measuring below the mark and take photo in the plane of bite"
     },
     {
         "question": "Keyhole-shaped visual field defect is seen in lesion involving which of the following regions?",
@@ -1129,9 +1811,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 516,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.9056038856506348
+        "time_elapsed": 4.369045257568359,
+        "raw_responses": [
+            "(A) Optic disk",
+            "(A) Optic disk",
+            "(A) Optic disk"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Optic disk"
     },
     {
         "question": "In a patient with competent lips together at rest, the lip\nline is opposite the tips of the upper incisors. The lip line is then described as",
@@ -1147,9 +1840,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 546,
-            "completion_tokens": 12
+            "completion_tokens": 18
         },
-        "time_elapsed": 3.6848533153533936
+        "time_elapsed": 4.118674039840698,
+        "raw_responses": [
+            "(A) Average",
+            "(A) Average",
+            "(A) Average"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Average"
     },
     {
         "question": "Tonsils developed from:",
@@ -1164,10 +1868,21 @@
         "answer": "Ventral part of 2nd pouch.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 624,
-            "completion_tokens": 62
+            "prompt_tokens": 555,
+            "completion_tokens": 45
         },
-        "time_elapsed": 4.5212180614471436
+        "time_elapsed": 3.698531150817871,
+        "raw_responses": [
+            "(C) Dorsal part of 2nd pouch.",
+            "(C) Dorsal part of 2nd pouch.",
+            "(C) Dorsal part of 2nd pouch."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Dorsal part of 2nd pouch."
     },
     {
         "question": "First nerve fiber present in vicinity of dental papilla in",
@@ -1180,12 +1895,23 @@
         },
         "answer_idx": "A",
         "answer": "Bud stage",
-        "predicted_answer": "C",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 447,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.2317121028900146
+        "time_elapsed": 3.6248202323913574,
+        "raw_responses": [
+            "(B) Cap stage",
+            "(B) Cap stage",
+            "(B) Cap stage"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Cap stage"
     },
     {
         "question": "Who was associated with second amalgam war?",
@@ -1198,12 +1924,23 @@
         },
         "answer_idx": "D",
         "answer": "Alfred stock",
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1173,
-            "completion_tokens": 262
+            "prompt_tokens": 1791,
+            "completion_tokens": 668
         },
-        "time_elapsed": 8.151443481445312
+        "time_elapsed": 16.058690547943115,
+        "raw_responses": [
+            "The Second Amalgam War refers to a period of controversy and debate over the use of dental amalgam, a material used for dental fillings. \n\n- G V Black is known as the \"father of operative dentistry\" and was a strong advocate for the use of dental amalgam.\n- Charles Bell was a Scottish surgeon, anatomist, and neurologist, not associated with dental amalgam.\n- Huggins is not specifically known in the context of the Second Amalgam War.\n- Alfred Stock was a German chemist who raised concerns about the toxicity of mercury in dental amalgam.\n\nFinal answer: (D) Alfred stock",
+            "The Second Amalgam War refers to a period of controversy and debate over the use of dental amalgam, a material used for dental fillings. \n\n- G V Black is known as the \"father of operative dentistry\" and was a strong advocate for the use of dental amalgam.\n- Charles Bell was a Scottish surgeon, anatomist, and neurologist, not associated with dental amalgam.\n- Huggins is not specifically known in the context of the Second Amalgam War.\n- Alfred Stock was a German chemist who raised concerns about the toxicity of mercury in dental amalgam.\n\nFinal answer: (D) Alfred stock",
+            "The Second Amalgam War refers to a period of controversy and debate over the use of dental amalgam, a material used for dental fillings. \n\n(A) G V Black - G V Black, also known as Greene Vardiman Black, was a prominent figure in dentistry and is known for his work in dental amalgam and for standardizing its formulation. He played a significant role in the acceptance and improvement of dental amalgam.\n\n(B) Charles Bell - Charles Bell was a Scottish surgeon, anatomist, and neurologist, known for his discoveries in the field of neurology, particularly Bell's palsy. He was not associated with dental amalgam.\n\n(C) Huggins - Huggins could refer to several individuals, but none are known for their association with the Second Amalgam War in dentistry.\n\n(D) Alfred Stock - Alfred Stock was a German chemist known for his work with mercury and its compounds, but he was not directly associated with the Second Amalgam War in dentistry.\n\nFinal answer: (A) G V Black"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2. \n\nOption 2 correctly identifies G V Black as a prominent figure in dentistry who played a significant role in the acceptance and improvement of dental amalgam, which aligns with the context of the Second Amalgam War. The other options incorrectly identify Alfred Stock, who, while concerned with mercury toxicity, was not directly associated with the Second Amalgam War in dentistry. \n\nTherefore, the chosen option number is: 2.",
+            "1",
+            "The best final answer is option 2. \n\nOption 2 correctly identifies G V Black as a prominent figure in dentistry who played a significant role in the acceptance and improvement of dental amalgam, which aligns with the context of the Second Amalgam War. \n\nOptions 0 and 1 incorrectly attribute the association to Alfred Stock, who, while concerned about the toxicity of mercury, was not directly associated with the Second Amalgam War in dentistry.\n\nTherefore, the chosen option number is: 2."
+        ],
+        "final_solution": "The Second Amalgam War refers to a period of controversy and debate over the use of dental amalgam, a material used for dental fillings. \n\n(A) G V Black - G V Black, also known as Greene Vardiman Black, was a prominent figure in dentistry and is known for his work in dental amalgam and for standardizing its formulation. He played a significant role in the acceptance and improvement of dental amalgam.\n\n(B) Charles Bell - Charles Bell was a Scottish surgeon, anatomist, and neurologist, known for his discoveries in the field of neurology, particularly Bell's palsy. He was not associated with dental amalgam.\n\n(C) Huggins - Huggins could refer to several individuals, but none are known for their association with the Second Amalgam War in dentistry.\n\n(D) Alfred Stock - Alfred Stock was a German chemist known for his work with mercury and its compounds, but he was not directly associated with the Second Amalgam War in dentistry.\n\nFinal answer: (A) G V Black"
     },
     {
         "question": "Which of these is not a theory of TMJ ankylosis?",
@@ -1216,12 +1953,23 @@
         },
         "answer_idx": "B",
         "answer": "Synovial fluid attracting calcium ions",
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 588,
-            "completion_tokens": 31
+            "prompt_tokens": 594,
+            "completion_tokens": 39
         },
-        "time_elapsed": 7.96396541595459
+        "time_elapsed": 3.767612934112549,
+        "raw_responses": [
+            "(D) Condylar burst",
+            "(A) Calcification in the soft tissues around the joint space",
+            "(A) Calcification in the soft tissues around the joint space"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "1"
+        ],
+        "final_solution": "(D) Condylar burst"
     },
     {
         "question": "Which one of the following is a muscle splitting incision?",
@@ -1237,9 +1985,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 480,
-            "completion_tokens": 21
+            "completion_tokens": 110
         },
-        "time_elapsed": 3.4922683238983154
+        "time_elapsed": 13.231954336166382,
+        "raw_responses": [
+            "(A) Kocher's incision",
+            "(A) Kocher's incision",
+            "(A) Kocher's incision"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "None of the provided solutions are correct. Kocher's incision is not a muscle-splitting incision; it is a muscle-sparing incision typically used for accessing the gallbladder and biliary tract.\n\nA common example of a muscle-splitting incision is the McBurney's incision, used for appendectomies.\n\nSince none of the solutions provided are correct, I cannot choose any of the given options."
+        ],
+        "final_solution": "(A) Kocher's incision"
     },
     {
         "question": "In Mount and Hume classification, what will be the site size of the following lesion?",
@@ -1255,9 +2014,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 522,
-            "completion_tokens": 71
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.0863261222839355
+        "time_elapsed": 3.5420005321502686,
+        "raw_responses": [
+            "(C) 3.1",
+            "(C) 3.1",
+            "(C) 3.1"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) 3.1"
     },
     {
         "question": "A young man was on high protein diet. After 3 days he developed weakness. Blood investigation revealed hypoglycemia. Hypoglycemia is due to inhibition of which of the following enzymes",
@@ -1273,9 +2043,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 693,
-            "completion_tokens": 241
+            "completion_tokens": 153
         },
-        "time_elapsed": 5.3535566329956055
+        "time_elapsed": 5.2757728099823,
+        "raw_responses": [
+            "(B) Glycogen phosphorylase",
+            "(B) Glycogen phosphorylase",
+            "(A) Glucose 6 phosphatase"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0. \n\nHypoglycemia in the context of a high protein diet and subsequent weakness is likely due to the inhibition of glycogen phosphorylase, which is responsible for breaking down glycogen into glucose. This enzyme's inhibition would lead to decreased glucose availability, resulting in hypoglycemia. \n\nTherefore, the correct answer is:\n0",
+            "0",
+            "The best final answer is option 1. \n\nOption 1 and 2 both suggest Glycogen phosphorylase, but option 1 is the first occurrence of this correct answer. Therefore, the chosen option number is:\n\n1"
+        ],
+        "final_solution": "(B) Glycogen phosphorylase"
     },
     {
         "question": "Lenolin is added in ZOE paste to:",
@@ -1290,10 +2071,21 @@
         "answer": "Increase flow",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 570,
-            "completion_tokens": 53
+            "prompt_tokens": 807,
+            "completion_tokens": 138
         },
-        "time_elapsed": 3.645540237426758
+        "time_elapsed": 5.141832113265991,
+        "raw_responses": [
+            "Lenolin is added in ZOE paste to:\n\n(A) Decrease flow - Incorrect, lenolin is not used to decrease flow.\n(B) Increase flow - Incorrect, lenolin is not used to increase flow.\n(C) Accelerate reaction - Incorrect, lenolin does not accelerate the reaction.\n(D) Decrease irritation due to eugenol - Correct, lenolin is used to decrease irritation caused by eugenol.\n\nFinal answer: (D) Decrease irritation due to eugenol",
+            "Lenolin is added in ZOE paste to:\n\n(D) Decrease irritation due to eugenol",
+            "(D) Decrease irritation due to eugenol"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "2"
+        ],
+        "final_solution": "Lenolin is added in ZOE paste to:\n\n(A) Decrease flow - Incorrect, lenolin is not used to decrease flow.\n(B) Increase flow - Incorrect, lenolin is not used to increase flow.\n(C) Accelerate reaction - Incorrect, lenolin does not accelerate the reaction.\n(D) Decrease irritation due to eugenol - Correct, lenolin is used to decrease irritation caused by eugenol.\n\nFinal answer: (D) Decrease irritation due to eugenol"
     },
     {
         "question": "The source of calcium ions of a calcific bridge in a\ntooth in which calcium hydroxide pulpotomy has been\nperformed is:",
@@ -1308,10 +2100,21 @@
         "answer": "Blood vessel borne",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 738,
-            "completion_tokens": 184
+            "prompt_tokens": 966,
+            "completion_tokens": 156
         },
-        "time_elapsed": 4.929375648498535
+        "time_elapsed": 5.26172137260437,
+        "raw_responses": [
+            "Calcium hydroxide is commonly used in pulpotomy procedures because it has the ability to stimulate the formation of a calcific bridge. The primary source of calcium ions for this process is the calcium hydroxide itself, as it releases calcium ions when it comes into contact with tissue fluids.\n\nFinal answer: (D) From the calcium hydroxide",
+            "Calcium hydroxide is commonly used in pulpotomy procedures because it has the ability to induce the formation of a calcific bridge. The calcium ions necessary for this process are derived from the calcium hydroxide itself, as it dissociates into calcium and hydroxide ions when in contact with tissue fluids.\n\nFinal answer: (D) From the calcium hydroxide",
+            "(D) From the calcium hydroxide"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Calcium hydroxide is commonly used in pulpotomy procedures because it has the ability to stimulate the formation of a calcific bridge. The primary source of calcium ions for this process is the calcium hydroxide itself, as it releases calcium ions when it comes into contact with tissue fluids.\n\nFinal answer: (D) From the calcium hydroxide"
     },
     {
         "question": "Easiest 3rd molar surgical extraction is:",
@@ -1326,10 +2129,21 @@
         "answer": "Mesioangular",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 435,
-            "completion_tokens": 12
+            "prompt_tokens": 441,
+            "completion_tokens": 75
         },
-        "time_elapsed": 3.6304192543029785
+        "time_elapsed": 4.198328971862793,
+        "raw_responses": [
+            "(C) Vertical",
+            "(A) Mesioangular",
+            "(C) Vertical"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 1. \n\nOption 1 and option 2 both suggest that the easiest 3rd molar surgical extraction is (C) Vertical. Since both options agree and there is no conflicting information, option 1 is chosen as the final answer.",
+            "0"
+        ],
+        "final_solution": "(C) Vertical"
     },
     {
         "question": "Which marker shows holocrine gland?",
@@ -1344,10 +2158,21 @@
         "answer": "A",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 387,
-            "completion_tokens": 8
+            "prompt_tokens": 393,
+            "completion_tokens": 16
         },
-        "time_elapsed": 3.0555408000946045
+        "time_elapsed": 3.6518514156341553,
+        "raw_responses": [
+            "A",
+            "(A) A",
+            "(A) A"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "1"
+        ],
+        "final_solution": "A"
     },
     {
         "question": "Most effective method of assessing breathing is by measuring:",
@@ -1363,9 +2188,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 459,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.0666589736938477
+        "time_elapsed": 3.80306077003479,
+        "raw_responses": [
+            "(A) Tidal volume",
+            "(A) Tidal volume",
+            "(A) Tidal volume"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Tidal volume"
     },
     {
         "question": "Hammock ligament is present:",
@@ -1381,9 +2217,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 507,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.5475964546203613
+        "time_elapsed": 6.390599966049194,
+        "raw_responses": [
+            "(A) Between temporal and sphenoid bone",
+            "(A) Between temporal and sphenoid bone",
+            "(A) Between temporal and sphenoid bone"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Between temporal and sphenoid bone"
     },
     {
         "question": "When a dentist says that \" I cannot fix your teeth if you do not open your mouth wide:\" He is employing:",
@@ -1398,10 +2245,21 @@
         "answer": "Problem ownership.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 522,
-            "completion_tokens": 17
+            "prompt_tokens": 756,
+            "completion_tokens": 101
         },
-        "time_elapsed": 3.318087577819824
+        "time_elapsed": 4.093499183654785,
+        "raw_responses": [
+            "(A) Problem ownership.",
+            "The dentist is indicating that the patient needs to take an action (opening their mouth wide) in order for the dentist to perform their work (fixing the teeth). This implies that the responsibility for enabling the dentist to do their job lies with the patient. This concept is known as problem ownership, where the responsibility for a problem or task is assigned to the appropriate party.\n\nFinal answer: (A) Problem ownership.",
+            "(A) Problem ownership"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "The dentist is indicating that the patient needs to take an action (opening their mouth wide) in order for the dentist to perform their work (fixing the teeth). This implies that the responsibility for enabling the dentist to do their job lies with the patient. This concept is known as problem ownership, where the responsibility for a problem or task is assigned to the appropriate party.\n\nFinal answer: (A) Problem ownership."
     },
     {
         "question": "What is the name of the given instrument, used for harvesting the graft from healthy area in split thickness skin graft?",
@@ -1417,9 +2275,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 525,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 6.389620780944824
+        "time_elapsed": 4.377010345458984,
+        "raw_responses": [
+            "(A) Dermatome",
+            "(A) Dermatome",
+            "(A) Dermatome"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Dermatome"
     },
     {
         "question": "Most common tumor of lacrimal gland:",
@@ -1435,9 +2304,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 639,
-            "completion_tokens": 77
+            "completion_tokens": 83
         },
-        "time_elapsed": 3.7062692642211914
+        "time_elapsed": 5.859992980957031,
+        "raw_responses": [
+            "None of the provided options are related to tumors of the lacrimal gland. The most common tumor of the lacrimal gland is pleomorphic adenoma.",
+            "None of the provided options are related to tumors of the lacrimal gland. The most common tumor of the lacrimal gland is pleomorphic adenoma.",
+            "(A) Trans-scaphoid perilunate fracture"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "1"
+        ],
+        "final_solution": "(A) Trans-scaphoid perilunate fracture"
     },
     {
         "question": "For how long should NiTi files be submerged in NaOCl at 122-degree F to prevent damage to file corrosion",
@@ -1453,9 +2333,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 543,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.3863608837127686
+        "time_elapsed": 4.277896165847778,
+        "raw_responses": [
+            "(A) 20 mins",
+            "(A) 20 mins",
+            "(A) 20 mins"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 20 mins"
     },
     {
         "question": "Classify the class of recession:",
@@ -1470,10 +2361,21 @@
         "answer": "Class 3",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 825,
-            "completion_tokens": 150
+            "prompt_tokens": 876,
+            "completion_tokens": 173
         },
-        "time_elapsed": 5.032309532165527
+        "time_elapsed": 5.829634189605713,
+        "raw_responses": [
+            "To classify the class of recession, I need more specific information about the criteria or characteristics that define each class. Since the question does not provide these details, I cannot accurately classify the recession. Therefore, I cannot provide a final answer.",
+            "To classify the class of recession, we need to understand the criteria or definitions for each class. However, since the specific criteria for Class 1, Class 2, Class 3, and Class 4 recessions are not provided in the question, it is not possible to determine the correct classification.\n\nFinal answer: (A) Class 1",
+            "To classify the class of recession, I need more specific information about the criteria or characteristics that define each class. Since the question does not provide these details, I cannot accurately classify the recession. Therefore, I cannot provide a final answer."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "1"
+        ],
+        "final_solution": "To classify the class of recession, I need more specific information about the criteria or characteristics that define each class. Since the question does not provide these details, I cannot accurately classify the recession. Therefore, I cannot provide a final answer."
     },
     {
         "question": "Term \"Clean Tooth Never Decays\" given by",
@@ -1489,9 +2391,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 468,
-            "completion_tokens": 22
+            "completion_tokens": 301
         },
-        "time_elapsed": 3.570971965789795
+        "time_elapsed": 6.496372699737549,
+        "raw_responses": [
+            "(A) Perrie Fauchard",
+            "(B) Leon J Williams",
+            "(A) Perrie Fauchard"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are:\n\n0: (A) Perrie Fauchard\n1: (B) Leon J Williams\n2: (A) Perrie Fauchard\n\nSince options 0 and 2 are identical and both suggest (A) Perrie Fauchard, and option 1 suggests (B) Leon J Williams, the best final answer would be the one that is repeated, indicating a higher likelihood of correctness.\n\nTherefore, the chosen option number is: 0",
+            "The solutions provided are:\n\n0: (A) Perrie Fauchard\n1: (B) Leon J Williams\n2: (A) Perrie Fauchard\n\nSince options 0 and 2 are identical, and there is no additional context to differentiate between the candidates, the best final answer would be one of the identical options. Therefore, the chosen option number is:\n\n0",
+            "The solutions provided are:\n\n0: (A) Perrie Fauchard\n1: (B) Leon J Williams\n2: (A) Perrie Fauchard\n\nSince options 0 and 2 are identical and both suggest (A) Perrie Fauchard, and option 1 suggests (B) Leon J Williams, the best final answer would be the one that is repeated, indicating a higher likelihood of being correct.\n\nTherefore, the chosen option number is: 0"
+        ],
+        "final_solution": "(A) Perrie Fauchard"
     },
     {
         "question": "Which primary tooth resemble premolar",
@@ -1507,9 +2420,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 498,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.592414617538452
+        "time_elapsed": 3.726513147354126,
+        "raw_responses": [
+            "(A) Upper 1st molar",
+            "(A) Upper 1st molar",
+            "(A) Upper 1st molar"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Upper 1st molar"
     },
     {
         "question": "Which of the following committees has recommended a 3-year bachelor degree in medical education for rural health service?",
@@ -1524,10 +2448,21 @@
         "answer": "High level expe group of universal health program for india",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 609,
-            "completion_tokens": 36
+            "prompt_tokens": 591,
+            "completion_tokens": 43
         },
-        "time_elapsed": 3.8768303394317627
+        "time_elapsed": 4.306277513504028,
+        "raw_responses": [
+            "(C) Srivastava committee",
+            "(A) High level expe group of universal health program for india",
+            "(C) Srivastava committee"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is 1.",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Srivastava committee"
     },
     {
         "question": "In full tooth borne dentures occlusal rests transmits _________ percentage of occlusal forces to teeth:",
@@ -1540,12 +2475,23 @@
         },
         "answer_idx": "D",
         "answer": "100%",
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 927,
-            "completion_tokens": 265
+            "prompt_tokens": 516,
+            "completion_tokens": 24
         },
-        "time_elapsed": 5.506428956985474
+        "time_elapsed": 3.922652006149292,
+        "raw_responses": [
+            "(A) 50%",
+            "(A) 50%",
+            "(A) 50%"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 50%"
     },
     {
         "question": "A patient comes after a dog bite with hydrophobia, tearing and altered sensorium. You suspect rabies in this patient. Corneal impression has been taken. What test will you do on it for most accurate diagnosis?",
@@ -1561,9 +2507,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 741,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 3.7559804916381836
+        "time_elapsed": 4.134750127792358,
+        "raw_responses": [
+            "(A) Indirect immunofluorescence",
+            "(A) Indirect immunofluorescence",
+            "(A) Indirect immunofluorescence"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Indirect immunofluorescence"
     },
     {
         "question": "plate endings are features of",
@@ -1579,9 +2536,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 429,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 5.009835720062256
+        "time_elapsed": 6.157563209533691,
+        "raw_responses": [
+            "(A) Nuclear chain fibres",
+            "(A) Nuclear chain fibres",
+            "(A) Nuclear chain fibres"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Nuclear chain fibres"
     },
     {
         "question": "Microangiopathic hemolytic anemia",
@@ -1597,9 +2565,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 429,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 4.148488283157349
+        "time_elapsed": 3.660482883453369,
+        "raw_responses": [
+            "(A) TTP",
+            "(A) TTP",
+            "(A) TTP"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) TTP"
     },
     {
         "question": "The necrotising pressure areas, undergoing bone resorption and endosteal bone formation",
@@ -1615,9 +2594,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 537,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 4.021988868713379
+        "time_elapsed": 3.978987693786621,
+        "raw_responses": [
+            "(A) Juvenile periodontitis",
+            "(A) Juvenile periodontitis",
+            "(A) Juvenile periodontitis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Juvenile periodontitis"
     },
     {
         "question": "A 55- year old diabetic patient presents with transient obscuration in vision for 2-3 days followed by sudden loss of vision. Which of the following would be the best test to evaluate the symptoms?",
@@ -1632,10 +2622,21 @@
         "answer": "Serum creatinine levels",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 690,
-            "completion_tokens": 285
+            "prompt_tokens": 696,
+            "completion_tokens": 425
         },
-        "time_elapsed": 5.7357563972473145
+        "time_elapsed": 8.108729839324951,
+        "raw_responses": [
+            "(C) Elevated homocysteine levels",
+            "(C) Elevated homocysteine levels",
+            "(C) Elevated homocysteine levels"
+        ],
+        "ensemble_raw_responses": [
+            "None of the provided solutions (0, 1, 2) are correct. Elevated homocysteine levels are not the best test to evaluate a diabetic patient with transient obscuration in vision followed by sudden loss of vision. The best test in this scenario would likely be a fundoscopic examination or optical coherence tomography (OCT) to evaluate for diabetic retinopathy or other retinal issues. \n\nHowever, since the correct answer is not among the provided options, I cannot choose any of the given options (0, 1, 2).",
+            "None of the provided solutions (0, 1, 2) seem to be appropriate for evaluating the symptoms described in the problem. Elevated homocysteine levels are not typically the best test for a diabetic patient with transient obscuration in vision followed by sudden loss of vision. \n\nThe best test in this scenario would likely be a fundoscopic examination or optical coherence tomography (OCT) to evaluate for diabetic retinopathy or other retinal issues, or possibly an MRI or CT scan if a cerebrovascular event is suspected.\n\nSince none of the options provided are correct, I cannot choose any of the given options (0, 1, 2).",
+            "None of the provided solutions seem to directly address the best test to evaluate the symptoms of a 55-year-old diabetic patient with transient obscuration in vision followed by sudden loss of vision. Elevated homocysteine levels are not typically the primary test for evaluating such symptoms.\n\nThe best test to evaluate these symptoms would likely be an ophthalmologic examination, possibly including fundus photography, fluorescein angiography, or optical coherence tomography (OCT) to assess for diabetic retinopathy or other retinal conditions. Additionally, a carotid Doppler ultrasound might be considered to evaluate for carotid artery stenosis, which can cause transient vision loss.\n\nSince none of the provided solutions are correct, I cannot choose any of the given options (0, 1, 2)."
+        ],
+        "final_solution": "(C) Elevated homocysteine levels"
     },
     {
         "question": "Increase in height of mandible with increase in interdental spaces in elderly man",
@@ -1651,9 +2652,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 510,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.535795450210571
+        "time_elapsed": 4.011144161224365,
+        "raw_responses": [
+            "(A) Hyperpituitarism",
+            "(A) Hyperpituitarism",
+            "(A) Hyperpituitarism"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Hyperpituitarism"
     },
     {
         "question": "A patient is administered 200 mg of a drug. 75 mg of the drug is eliminated from the body in 90 minutes. If the drug follows first order kinetics, how much drug will remain after 6 hours?",
@@ -1668,10 +2680,21 @@
         "answer": "30 mg",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 4086,
-            "completion_tokens": 1157
+            "prompt_tokens": 3777,
+            "completion_tokens": 1419
         },
-        "time_elapsed": 12.556809425354004
+        "time_elapsed": 18.55339741706848,
+        "raw_responses": [
+            "Given:\n- Initial dose (C0) = 200 mg\n- Amount eliminated in 90 minutes = 75 mg\n- Time for elimination (t) = 90 minutes\n\nFirst, calculate the amount remaining after 90 minutes:\nAmount remaining = Initial dose - Amount eliminated\n= 200 mg - 75 mg\n= 125 mg\n\nUsing the first-order kinetics formula:\n\\[ C_t = C_0 \\cdot e^{-kt} \\]\n\nWhere:\n- \\( C_t \\) is the concentration at time t\n- \\( C_0 \\) is the initial concentration\n- k is the elimination rate constant\n- t is the time\n\nWe know:\n\\[ 125 = 200 \\cdot e^{-k \\cdot 90} \\]\n\nSolving for k:\n\\[ \\frac{125}{200} = e^{-90k} \\]\n\\[ 0.625 = e^{-90k} \\]\nTaking the natural logarithm of both sides:\n\\[ \\ln(0.625) = -90k \\]\n\\[ -0.470 = -90k \\]\n\\[ k = \\frac{0.470}{90} \\]\n\\[ k \\approx 0.00522 \\, \\text{min}^{-1} \\]\n\nNow, calculate the amount remaining after 6 hours (360 minutes):\n\\[ C_{360} = 200 \\cdot e^{-0.00522 \\cdot 360} \\]\n\\[ C_{360} = 200 \\cdot e^{-1.8792} \\]\n\\[ C_{360} = 200 \\cdot 0.152 \\]\n\\[ C_{360} \\approx 30.4 \\, \\text{mg} \\]\n\nThe closest option is:\n(C) 30 mg",
+            "Given:\n- Initial dose of the drug: 200 mg\n- Amount eliminated in 90 minutes: 75 mg\n- Time: 6 hours (360 minutes)\n\nFirst, calculate the rate constant (k) using the first-order kinetics formula:\n\\[ C_t = C_0 e^{-kt} \\]\n\nWhere:\n- \\( C_t \\) is the concentration at time t\n- \\( C_0 \\) is the initial concentration\n- k is the rate constant\n- t is the time\n\nAfter 90 minutes, 75 mg is eliminated, so 125 mg remains:\n\\[ 125 = 200 e^{-k \\cdot 90} \\]\n\nSolve for k:\n\\[ \\frac{125}{200} = e^{-90k} \\]\n\\[ 0.625 = e^{-90k} \\]\n\\[ \\ln(0.625) = -90k \\]\n\\[ k = -\\frac{\\ln(0.625)}{90} \\]\n\\[ k \\approx 0.00598 \\, \\text{min}^{-1} \\]\n\nNow, calculate the amount remaining after 360 minutes:\n\\[ C_{360} = 200 e^{-0.00598 \\cdot 360} \\]\n\\[ C_{360} = 200 e^{-2.1528} \\]\n\\[ C_{360} = 200 \\cdot 0.116 \\]\n\\[ C_{360} \\approx 23.2 \\, \\text{mg} \\]\n\nThe closest option is:\n(B) 25 mg",
+            "Given:\n- Initial dose (C0) = 200 mg\n- Amount eliminated in 90 minutes = 75 mg\n- Time for elimination (t) = 90 minutes\n\nFirst, calculate the elimination rate constant (k) using the first-order kinetics formula:\n\\[ C_t = C_0 e^{-kt} \\]\n\nAfter 90 minutes, the remaining drug is:\n\\[ C_{90} = 200 \\text{ mg} - 75 \\text{ mg} = 125 \\text{ mg} \\]\n\nUsing the formula:\n\\[ 125 = 200 e^{-k \\cdot 90} \\]\n\nRearrange to solve for \\( k \\):\n\\[ \\frac{125}{200} = e^{-90k} \\]\n\\[ 0.625 = e^{-90k} \\]\n\nTake the natural logarithm of both sides:\n\\[ \\ln(0.625) = -90k \\]\n\\[ -0.470 = -90k \\]\n\\[ k = \\frac{0.470}{90} \\]\n\\[ k \\approx 0.00522 \\text{ min}^{-1} \\]\n\nNow, calculate the remaining drug after 6 hours (360 minutes):\n\\[ C_{360} = 200 e^{-0.00522 \\cdot 360} \\]\n\nCalculate the exponent:\n\\[ -0.00522 \\cdot 360 = -1.8792 \\]\n\nCalculate the remaining drug:\n\\[ C_{360} = 200 e^{-1.8792} \\]\n\\[ C_{360} = 200 \\cdot 0.152 \\]\n\\[ C_{360} \\approx 30.4 \\text{ mg} \\]\n\nThe closest option is:\n(C) 30 mg"
+        ],
+        "ensemble_raw_responses": [
+            "The correct solution is option 0.\n\nBoth solutions 0 and 1 correctly calculate the elimination rate constant \\( k \\) and the remaining drug amount after 6 hours. They both arrive at the same value for \\( k \\approx 0.00522 \\, \\text{min}^{-1} \\) and the remaining drug amount \\( C_{360} \\approx 30.4 \\, \\text{mg} \\).\n\nSolution 2, however, calculates a different value for \\( k \\approx 0.00598 \\, \\text{min}^{-1} \\), which leads to a different remaining drug amount \\( C_{360} \\approx 23.2 \\, \\text{mg} \\). This discrepancy suggests an error in the calculation of \\( k \\) in solution 2.\n\nTherefore, the best final answer is option 0.",
+            "The best final answer is option number: 2.",
+            "The best final answer is option 0. \n\nBoth solutions 0 and 1 correctly calculate the elimination rate constant \\( k \\) and the remaining drug amount after 6 hours (360 minutes) using the first-order kinetics formula. They both arrive at the same value of approximately 30.4 mg, which is closest to the given option of 30 mg.\n\nSolution 2, however, calculates a different rate constant \\( k \\approx 0.00598 \\, \\text{min}^{-1} \\) and subsequently a different remaining drug amount of approximately 23.2 mg, which is closest to the given option of 25 mg. This discrepancy suggests an error in the calculation of the rate constant in solution 2.\n\nTherefore, the correct and consistent solutions are 0 and 1, and the final answer is option 0."
+        ],
+        "final_solution": "Given:\n- Initial dose (C0) = 200 mg\n- Amount eliminated in 90 minutes = 75 mg\n- Time for elimination (t) = 90 minutes\n\nFirst, calculate the amount remaining after 90 minutes:\nAmount remaining = Initial dose - Amount eliminated\n= 200 mg - 75 mg\n= 125 mg\n\nUsing the first-order kinetics formula:\n\\[ C_t = C_0 \\cdot e^{-kt} \\]\n\nWhere:\n- \\( C_t \\) is the concentration at time t\n- \\( C_0 \\) is the initial concentration\n- k is the elimination rate constant\n- t is the time\n\nWe know:\n\\[ 125 = 200 \\cdot e^{-k \\cdot 90} \\]\n\nSolving for k:\n\\[ \\frac{125}{200} = e^{-90k} \\]\n\\[ 0.625 = e^{-90k} \\]\nTaking the natural logarithm of both sides:\n\\[ \\ln(0.625) = -90k \\]\n\\[ -0.470 = -90k \\]\n\\[ k = \\frac{0.470}{90} \\]\n\\[ k \\approx 0.00522 \\, \\text{min}^{-1} \\]\n\nNow, calculate the amount remaining after 6 hours (360 minutes):\n\\[ C_{360} = 200 \\cdot e^{-0.00522 \\cdot 360} \\]\n\\[ C_{360} = 200 \\cdot e^{-1.8792} \\]\n\\[ C_{360} = 200 \\cdot 0.152 \\]\n\\[ C_{360} \\approx 30.4 \\, \\text{mg} \\]\n\nThe closest option is:\n(C) 30 mg"
     },
     {
         "question": "Which of the following diseases is diagnosed with the help of the flowcytometry pattern?",
@@ -1686,10 +2709,21 @@
         "answer": "Hyper IgM syndrome",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 525,
-            "completion_tokens": 21
+            "prompt_tokens": 1989,
+            "completion_tokens": 515
         },
-        "time_elapsed": 5.679553270339966
+        "time_elapsed": 9.769113302230835,
+        "raw_responses": [
+            "(A) Bruton disease",
+            "Flow cytometry is a technique used to detect and measure physical and chemical characteristics of a population of cells or particles. It is particularly useful in diagnosing immunodeficiency diseases by analyzing the presence and quantity of specific cell surface markers.\n\n(A) Bruton disease (X-linked agammaglobulinemia) is characterized by a lack of mature B cells. Flow cytometry can be used to identify the absence of CD19+ B cells in the blood.\n\n(B) Bare lymphocyte syndrome is a type of major histocompatibility complex (MHC) class II deficiency. Flow cytometry can be used to detect the absence of MHC class II molecules on the surface of cells.\n\n(C) Hyper IgM syndrome is characterized by normal or elevated levels of IgM and low levels of other immunoglobulins. Flow cytometry can be used to identify defects in CD40 ligand expression on T cells.\n\n(D) Severe combined immunodeficiency disease (SCID) involves a severe defect in both T and B lymphocyte systems. Flow cytometry can be used to identify the absence or very low levels of T cells (CD3+), B cells (CD19+), and sometimes NK cells (CD16+/CD56+).\n\nFinal answer: (D) Severe combined immunodeficiency disease",
+            "Flow cytometry is a technique used to detect and measure physical and chemical characteristics of a population of cells or particles. It is particularly useful in diagnosing immunodeficiency diseases by analyzing the presence and quantity of specific cell surface markers.\n\n(A) Bruton disease (X-linked agammaglobulinemia) is characterized by a lack of mature B cells. Flow cytometry can be used to identify the absence of CD19+ B cells in the blood.\n\n(B) Bare lymphocyte syndrome is a type of major histocompatibility complex (MHC) class II deficiency. Flow cytometry can be used to detect the absence of MHC class II molecules on the surface of cells.\n\n(C) Hyper IgM syndrome is characterized by normal or elevated levels of IgM and low levels of other immunoglobulins. Flow cytometry can be used to identify defects in CD40 ligand on T cells.\n\n(D) Severe combined immunodeficiency disease (SCID) involves a severe defect in both T and B lymphocyte systems. Flow cytometry can be used to identify the absence or very low levels of T cells, B cells, and NK cells.\n\nFinal answer: (D) Severe combined immunodeficiency disease"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "Flow cytometry is a technique used to detect and measure physical and chemical characteristics of a population of cells or particles. It is particularly useful in diagnosing immunodeficiency diseases by analyzing the presence and quantity of specific cell surface markers.\n\n(A) Bruton disease (X-linked agammaglobulinemia) is characterized by a lack of mature B cells. Flow cytometry can be used to identify the absence of CD19+ B cells in the blood.\n\n(B) Bare lymphocyte syndrome is a type of major histocompatibility complex (MHC) class II deficiency. Flow cytometry can be used to detect the absence of MHC class II molecules on the surface of cells.\n\n(C) Hyper IgM syndrome is characterized by normal or elevated levels of IgM and low levels of other immunoglobulins. Flow cytometry can be used to identify defects in CD40 ligand expression on T cells.\n\n(D) Severe combined immunodeficiency disease (SCID) involves a severe defect in both T and B lymphocyte systems. Flow cytometry can be used to identify the absence or very low levels of T cells (CD3+), B cells (CD19+), and sometimes NK cells (CD16+/CD56+).\n\nFinal answer: (D) Severe combined immunodeficiency disease"
     },
     {
         "question": "Thyroglossal fistula is:",
@@ -1705,9 +2739,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 522,
-            "completion_tokens": 33
+            "completion_tokens": 39
         },
-        "time_elapsed": 3.7739787101745605
+        "time_elapsed": 4.498197793960571,
+        "raw_responses": [
+            "(B) Causes a bulge in neck",
+            "(A) Lined by squamous epithelium",
+            "(A) Lined by squamous epithelium"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "2"
+        ],
+        "final_solution": "(B) Causes a bulge in neck"
     },
     {
         "question": "Which of the following conditions is associated with polyhy dramnios?",
@@ -1722,10 +2767,21 @@
         "answer": "Cleft palate",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 540,
-            "completion_tokens": 114
+            "prompt_tokens": 534,
+            "completion_tokens": 35
         },
-        "time_elapsed": 5.645579099655151
+        "time_elapsed": 12.513844013214111,
+        "raw_responses": [
+            "(C) Congenital diaphragmatic hernia",
+            "(A) Posterior urethral valve",
+            "(A) Posterior urethral valve"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Congenital diaphragmatic hernia"
     },
     {
         "question": "The best finish line for anterior metal ceramic crown is",
@@ -1738,12 +2794,23 @@
         },
         "answer_idx": "D",
         "answer": "Shoulder with bevel",
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 465,
-            "completion_tokens": 21
+            "prompt_tokens": 801,
+            "completion_tokens": 139
         },
-        "time_elapsed": 3.573054313659668
+        "time_elapsed": 5.3594419956207275,
+        "raw_responses": [
+            "1. Anterior metal ceramic crowns require a finish line that provides adequate support for the porcelain and metal components.\n2. Chamfer with bevel may not provide sufficient support for the porcelain.\n3. Heavy chamfer can provide good support but may not be ideal for the esthetic requirements of anterior teeth.\n4. Shoulder provides a definitive finish line with a 90-degree angle, offering excellent support for the porcelain.\n5. Shoulder with bevel combines the advantages of a shoulder finish line with a beveled edge to reduce stress concentration and improve marginal adaptation.\n\nFinal answer: (D) Shoulder with bevel",
+            "(A) Chamfer with bevel",
+            "(A) Chamfer with bevel"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "2"
+        ],
+        "final_solution": "1. Anterior metal ceramic crowns require a finish line that provides adequate support for the porcelain and metal components.\n2. Chamfer with bevel may not provide sufficient support for the porcelain.\n3. Heavy chamfer can provide good support but may not be ideal for the esthetic requirements of anterior teeth.\n4. Shoulder provides a definitive finish line with a 90-degree angle, offering excellent support for the porcelain.\n5. Shoulder with bevel combines the advantages of a shoulder finish line with a beveled edge to reduce stress concentration and improve marginal adaptation.\n\nFinal answer: (D) Shoulder with bevel"
     },
     {
         "question": "Sensitivity in gingival area of class II light cured composite restoration after 2 months is due to:",
@@ -1759,9 +2826,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 618,
-            "completion_tokens": 33
+            "completion_tokens": 39
         },
-        "time_elapsed": 3.362935781478882
+        "time_elapsed": 3.993373394012451,
+        "raw_responses": [
+            "(A) Improper cavity preparation at gingival margin",
+            "(A) Improper cavity preparation at gingival margin",
+            "(A) Improper cavity preparation at gingival margin"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Improper cavity preparation at gingival margin"
     },
     {
         "question": "A study was conducted to find average intra-ocular pressure. IOP was measured in 400 people and the mean was found to be 25 mm Hg with a standard detion of 10 mm Hg. What is the range in which 10P of 95% of the population would be lying?",
@@ -1774,12 +2852,23 @@
         },
         "answer_idx": "C",
         "answer": "24-26 mm Hg",
-        "predicted_answer": "C",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 3072,
-            "completion_tokens": 1088
+            "prompt_tokens": 3132,
+            "completion_tokens": 1064
         },
-        "time_elapsed": 12.837429523468018
+        "time_elapsed": 14.572628498077393,
+        "raw_responses": [
+            "To find the range in which 95% of the population's intra-ocular pressure (IOP) would lie, we use the concept of the confidence interval for a normal distribution. The formula for the 95% confidence interval is:\n\n\\[ \\text{Mean} \\pm 1.96 \\times \\text{Standard Deviation} \\]\n\nGiven:\n- Mean (\u03bc) = 25 mm Hg\n- Standard Deviation (\u03c3) = 10 mm Hg\n\nCalculating the interval:\n\\[ 25 \\pm 1.96 \\times 10 \\]\n\\[ 25 \\pm 19.6 \\]\n\nSo, the range is:\n\\[ 25 - 19.6 \\text{ to } 25 + 19.6 \\]\n\\[ 5.4 \\text{ to } 44.6 \\]\n\nHowever, this range does not match any of the provided options. It seems there might be a misunderstanding in the problem statement or the options provided. The correct calculation for a 95% confidence interval is as shown above, but none of the options fit this range. \n\nGiven the options, none of them are correct based on the standard calculation for a 95% confidence interval.",
+            "To find the range in which 95% of the population would be lying, we use the concept of the confidence interval for the mean. For a normal distribution, 95% of the data lies within 1.96 standard deviations from the mean.\n\nGiven:\n- Mean (\u03bc) = 25 mm Hg\n- Standard deviation (\u03c3) = 10 mm Hg\n\nThe range can be calculated as:\nMean \u00b1 1.96 * Standard deviation\n\nCalculating the lower limit:\n25 - 1.96 * 10 = 25 - 19.6 = 5.4\n\nCalculating the upper limit:\n25 + 1.96 * 10 = 25 + 19.6 = 44.6\n\nTherefore, the range in which 95% of the population would be lying is approximately 5.4 mm Hg to 44.6 mm Hg.\n\nNone of the provided options match this range exactly. However, if we consider the closest range provided in the options, the answer would be:\n\n(B) 20-30 mm Hg",
+            "To find the range in which 95% of the population's intra-ocular pressure (IOP) would lie, we use the concept of the confidence interval for a normal distribution. The formula for the 95% confidence interval is:\n\n\\[ \\text{Mean} \\pm 1.96 \\times \\text{Standard Deviation} \\]\n\nGiven:\n- Mean (\u03bc) = 25 mm Hg\n- Standard Deviation (\u03c3) = 10 mm Hg\n\nCalculating the interval:\n\\[ 25 \\pm 1.96 \\times 10 \\]\n\\[ 25 \\pm 19.6 \\]\n\nSo, the range is:\n\\[ 25 - 19.6 \\text{ to } 25 + 19.6 \\]\n\\[ 5.4 \\text{ to } 44.6 \\]\n\nHowever, this range does not match any of the provided options. It seems there might be a misunderstanding in the question or options provided. The correct calculation for a 95% confidence interval should be:\n\n\\[ 25 \\pm 1.96 \\times \\left(\\frac{10}{\\sqrt{400}}\\right) \\]\n\\[ 25 \\pm 1.96 \\times 0.5 \\]\n\\[ 25 \\pm 0.98 \\]\n\nSo, the range is:\n\\[ 24.02 \\text{ to } 25.98 \\]\n\nThis also does not match any of the provided options. Given the options, the closest reasonable range based on the standard deviation and mean provided would be:\n\n(B) 20-30 mm Hg"
+        ],
+        "ensemble_raw_responses": [
+            "The correct approach to solving this problem involves calculating the range in which 95% of the population's intra-ocular pressure (IOP) would lie using the concept of the confidence interval for a normal distribution. The correct formula to use is:\n\n\\[ \\text{Mean} \\pm 1.96 \\times \\text{Standard Deviation} \\]\n\nGiven:\n- Mean (\u03bc) = 25 mm Hg\n- Standard Deviation (\u03c3) = 10 mm Hg\n\nCalculating the interval:\n\\[ 25 \\pm 1.96 \\times 10 \\]\n\\[ 25 \\pm 19.6 \\]\n\nSo, the range is:\n\\[ 25 - 19.6 \\text{ to } 25 + 19.6 \\]\n\\[ 5.4 \\text{ to } 44.6 \\]\n\nNone of the provided options match this range exactly. However, the closest range provided in the options is:\n\n(B) 20-30 mm Hg\n\nAll three solutions (0, 1, and 2) correctly calculate the range but note that none of the provided options match the calculated range. Solution 2 correctly identifies that the closest provided option is (B) 20-30 mm Hg.\n\nTherefore, the best final answer is:\n\n2",
+            "1",
+            "2"
+        ],
+        "final_solution": "To find the range in which 95% of the population would be lying, we use the concept of the confidence interval for the mean. For a normal distribution, 95% of the data lies within 1.96 standard deviations from the mean.\n\nGiven:\n- Mean (\u03bc) = 25 mm Hg\n- Standard deviation (\u03c3) = 10 mm Hg\n\nThe range can be calculated as:\nMean \u00b1 1.96 * Standard deviation\n\nCalculating the lower limit:\n25 - 1.96 * 10 = 25 - 19.6 = 5.4\n\nCalculating the upper limit:\n25 + 1.96 * 10 = 25 + 19.6 = 44.6\n\nTherefore, the range in which 95% of the population would be lying is approximately 5.4 mm Hg to 44.6 mm Hg.\n\nNone of the provided options match this range exactly. However, if we consider the closest range provided in the options, the answer would be:\n\n(B) 20-30 mm Hg"
     },
     {
         "question": "For >10 mm setback of mandible, which of these surgeries is most suitable:",
@@ -1795,8 +2884,19 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 588,
-            "completion_tokens": 33
+            "completion_tokens": 39
         },
-        "time_elapsed": 4.003618240356445
+        "time_elapsed": 4.019995212554932,
+        "raw_responses": [
+            "(A) Sagittal split ramus osteotomy",
+            "(A) Sagittal split ramus osteotomy",
+            "(A) Sagittal split ramus osteotomy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Sagittal split ramus osteotomy"
     }
 ]

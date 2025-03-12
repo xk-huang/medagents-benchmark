@@ -12,10 +12,21 @@
         "answer": "If the airflow velocity between the vocal folds decreases, the air pressure decreases.",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 867,
-            "completion_tokens": 84
+            "prompt_tokens": 855,
+            "completion_tokens": 78
         },
-        "time_elapsed": 7.560751676559448
+        "time_elapsed": 4.943623781204224,
+        "raw_responses": [
+            "(D) The vocal folds are brought together by the reduced air pressure between them and the elasticity of the vocal folds.",
+            "(D) The vocal folds are brought together by the reduced air pressure between them and the elasticity of the vocal folds.",
+            "(D) The vocal folds are brought together by the reduced air pressure between them and the elasticity of the vocal folds."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) The vocal folds are brought together by the reduced air pressure between them and the elasticity of the vocal folds."
     },
     {
         "realidx": "101_biomedical_engineer",
@@ -31,9 +42,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 402,
-            "completion_tokens": 12
+            "completion_tokens": 62
         },
-        "time_elapsed": 4.248594522476196
+        "time_elapsed": 3.778198480606079,
+        "raw_responses": [
+            "(B) Bone",
+            "(B) Bone",
+            "(B) Bone"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The solutions provided are all identical, with each one stating that bone has the highest viscosity. Since they are all the same, any of the options can be chosen as the final answer.\n\nI will choose option 0.\n\n0",
+            "0"
+        ],
+        "final_solution": "(B) Bone"
     },
     {
         "realidx": "103_biomedical_engineer",
@@ -49,9 +71,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 543,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 4.276173830032349
+        "time_elapsed": 5.08755898475647,
+        "raw_responses": [
+            "(C) Fundus sphygmomanometer",
+            "(C) Fundus sphygmomanometer",
+            "(C) Fundus sphygmomanometer"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Fundus sphygmomanometer"
     },
     {
         "realidx": "108_biomedical_engineer",
@@ -66,10 +99,21 @@
         "answer": "Type CF part",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1740,
-            "completion_tokens": 417
+            "prompt_tokens": 1902,
+            "completion_tokens": 435
         },
-        "time_elapsed": 8.273505449295044
+        "time_elapsed": 13.46798324584961,
+        "raw_responses": [
+            "The classification of medical device parts based on patient leakage current is as follows:\n\n- Type B: Basic protection against electric shock.\n- Type BF: Body floating, applied parts with additional protection against electric shock.\n- Type CF: Cardiac floating, applied parts with the highest level of protection against electric shock.\n\nGiven the patient leakage current:\n- 0.01mA under normal conditions\n- Less than 0.05mA under a single fault condition\n\nThese values are within the limits for Type CF parts, which have the strictest requirements for patient leakage current.\n\nFinal answer: (D) Type CF part",
+            "The classification of medical device parts based on patient leakage current is as follows:\n\n- Type B: Basic protection against electric shock.\n- Type BF: Body floating, applied parts with additional protection against electric shock.\n- Type CF: Cardiac floating, applied parts with the highest level of protection against electric shock.\n\nGiven the patient leakage current:\n- 0.01mA under normal conditions\n- Less than 0.05mA under a single fault condition\n\nThese values are within the limits for Type CF parts, which have the strictest requirements for patient leakage current.\n\nFinal answer: (D) Type CF part",
+            "The classification of medical device parts based on patient leakage current is as follows:\n\n- Type B: No direct contact with the heart, patient leakage current is less than 0.1mA under normal conditions and less than 0.5mA under single fault conditions.\n- Type BF: Direct contact with the patient, but not the heart, patient leakage current is less than 0.1mA under normal conditions and less than 0.5mA under single fault conditions.\n- Type CF: Direct contact with the heart, patient leakage current is less than 0.01mA under normal conditions and less than 0.05mA under single fault conditions.\n\nGiven the patient leakage current is 0.01mA under normal conditions and less than 0.05mA under a single fault condition, the correct classification is:\n\n(D) Type CF part"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "2"
+        ],
+        "final_solution": "The classification of medical device parts based on patient leakage current is as follows:\n\n- Type B: No direct contact with the heart, patient leakage current is less than 0.1mA under normal conditions and less than 0.5mA under single fault conditions.\n- Type BF: Direct contact with the patient, but not the heart, patient leakage current is less than 0.1mA under normal conditions and less than 0.5mA under single fault conditions.\n- Type CF: Direct contact with the heart, patient leakage current is less than 0.01mA under normal conditions and less than 0.05mA under single fault conditions.\n\nGiven the patient leakage current is 0.01mA under normal conditions and less than 0.05mA under a single fault condition, the correct classification is:\n\n(D) Type CF part"
     },
     {
         "realidx": "115_biomedical_engineer",
@@ -82,12 +126,23 @@
         },
         "answer_idx": "C",
         "answer": "They have a low specific gravity and a metallic luster.",
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 621,
-            "completion_tokens": 43
+            "prompt_tokens": 633,
+            "completion_tokens": 53
         },
-        "time_elapsed": 4.391598463058472
+        "time_elapsed": 3.9959588050842285,
+        "raw_responses": [
+            "(A) They have high strength and are easily deformable.",
+            "Option (C) They have a low specific gravity and a metallic luster.",
+            "Option (C) They have a low specific gravity and a metallic luster."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) They have high strength and are easily deformable."
     },
     {
         "realidx": "11_occupational_therapist",
@@ -102,10 +157,21 @@
         "answer": "A point to the left of the spine center",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1161,
-            "completion_tokens": 214
+            "prompt_tokens": 618,
+            "completion_tokens": 39
         },
-        "time_elapsed": 6.909938812255859
+        "time_elapsed": 3.958552122116089,
+        "raw_responses": [
+            "(D) Directly in the center of the spine",
+            "(D) Directly in the center of the spine",
+            "(D) Directly in the center of the spine"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Directly in the center of the spine"
     },
     {
         "realidx": "11_speech_pathologist",
@@ -120,10 +186,21 @@
         "answer": "Secondary behaviors are measured on a 4-point scale.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 505,
-            "completion_tokens": 35
+            "prompt_tokens": 618,
+            "completion_tokens": 42
         },
-        "time_elapsed": 5.329463481903076
+        "time_elapsed": 3.9529573917388916,
+        "raw_responses": [
+            "(A) It places emphasis on abnormal nonfluency.",
+            "(A) It places emphasis on abnormal nonfluency.",
+            "(A) It places emphasis on abnormal nonfluency."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) It places emphasis on abnormal nonfluency."
     },
     {
         "realidx": "126_occupational_therapist",
@@ -139,9 +216,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 525,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.5548861026763916
+        "time_elapsed": 4.520570278167725,
+        "raw_responses": [
+            "(A) Radial styloid process",
+            "(A) Radial styloid process",
+            "(A) Radial styloid process"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Radial styloid process"
     },
     {
         "realidx": "12_speech_pathologist",
@@ -156,10 +244,21 @@
         "answer": "Humming using nasal resonance.",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 542,
-            "completion_tokens": 65
+            "prompt_tokens": 681,
+            "completion_tokens": 72
         },
-        "time_elapsed": 6.6919026374816895
+        "time_elapsed": 4.1712563037872314,
+        "raw_responses": [
+            "(C) Producing voiceless fricatives at a slow tempo in 3/4 time.",
+            "(C) Producing voiceless fricatives at a slow tempo in 3/4 time.",
+            "(C) Producing voiceless fricatives at a slow tempo in 3/4 time."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Producing voiceless fricatives at a slow tempo in 3/4 time."
     },
     {
         "realidx": "130_biomedical_engineer",
@@ -174,10 +273,21 @@
         "answer": "The biomaterial should have sufficient mechanical strength to perform its function",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 756,
-            "completion_tokens": 158
+            "prompt_tokens": 684,
+            "completion_tokens": 54
         },
-        "time_elapsed": 5.539654970169067
+        "time_elapsed": 4.257951974868774,
+        "raw_responses": [
+            "(A) The biomaterial should not cause inflammation or allergies in the surrounding tissues",
+            "(A) The biomaterial should not cause inflammation or allergies in the surrounding tissues",
+            "(A) The biomaterial should not cause inflammation or allergies in the surrounding tissues"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) The biomaterial should not cause inflammation or allergies in the surrounding tissues"
     },
     {
         "realidx": "131_clinical_laboratory_scientist",
@@ -193,9 +303,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 567,
-            "completion_tokens": 35
+            "completion_tokens": 74
         },
-        "time_elapsed": 5.112795352935791
+        "time_elapsed": 4.3940629959106445,
+        "raw_responses": [
+            "(B) The radioactive isotope is labeled on the antigen.",
+            "(B) The radioactive isotope is labeled on the antigen.",
+            "(A) It is a non-competitive method."
+        ],
+        "ensemble_raw_responses": [
+            "The correct answer is option 1. \n\nOption 1 and 2 are identical, but since we need to choose only one, we can select option 1.",
+            "1",
+            "0"
+        ],
+        "final_solution": "(B) The radioactive isotope is labeled on the antigen."
     },
     {
         "realidx": "134_biomedical_engineer",
@@ -211,9 +332,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1059,
-            "completion_tokens": 283
+            "completion_tokens": 287
         },
-        "time_elapsed": 7.22601580619812
+        "time_elapsed": 6.180216073989868,
+        "raw_responses": [
+            "(A) Ball-and-socket joint: The head of the joint is ball-shaped and the socket is deep and concave, allowing for the greatest range of motion in various planes.",
+            "(A) Ball-and-socket joint: The head of the joint is ball-shaped and the socket is deep and concave, allowing for the greatest range of motion in various planes.",
+            "(A) Ball-and-socket joint: The head of the joint is ball-shaped and the socket is deep and concave, allowing for the greatest range of motion in various planes."
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) provide the same description for the ball-and-socket joint. Since they are identical, any of them can be chosen as the correct answer. Therefore, I will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) are identical in their descriptions of the ball-and-socket joint. Since they are the same, any of them can be chosen as the correct answer. Therefore, I will choose option 0.\n\nThe chosen option number is: 0",
+            "All three candidate solutions (0, 1, and 2) provide the same description for the ball-and-socket joint. Since they are identical, any of them can be chosen as the correct answer. Therefore, I will choose option 0.\n\nThe chosen option number is: 0."
+        ],
+        "final_solution": "(A) Ball-and-socket joint: The head of the joint is ball-shaped and the socket is deep and concave, allowing for the greatest range of motion in various planes."
     },
     {
         "realidx": "136_occupational_therapist",
@@ -229,9 +361,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 639,
-            "completion_tokens": 372
+            "completion_tokens": 353
         },
-        "time_elapsed": 7.849424123764038
+        "time_elapsed": 7.351446151733398,
+        "raw_responses": [
+            "(A) Number of deaths at age 80 and above",
+            "(A) Number of deaths at age 80 and above",
+            "(A) Number of deaths at age 80 and above"
+        ],
+        "ensemble_raw_responses": [
+            "None of the provided solutions correctly identify the numerator for calculating the proportional mortality ratio (PMR). The PMR is calculated by dividing the number of deaths from a specific cause by the total number of deaths, and then multiplying by 100 to get a percentage.\n\nSince none of the options correctly address the specific cause of death, I cannot choose any of the given options. The correct numerator should be the number of deaths from the specific cause of interest, not the number of deaths at age 80 and above.",
+            "None of the provided solutions correctly identify the numerator for calculating the proportional mortality ratio (PMR). The PMR is calculated by dividing the number of deaths from a specific cause by the total number of deaths, and then multiplying by 100 to get a percentage.\n\nSince none of the options correctly address the specific cause of death, I cannot choose any of the given options. The correct numerator should be the number of deaths from the specific cause of interest, not the number of deaths at age 80 and above.",
+            "None of the provided solutions correctly address the problem of calculating the proportional mortality ratio (PMR). The PMR is calculated by dividing the number of deaths from a specific cause by the total number of deaths, not by the number of deaths at a specific age.\n\nTherefore, the correct numerator for the PMR should be the number of deaths from the specific cause of interest, not the number of deaths at age 80 and above.\n\nSince none of the options 0, 1, or 2 are correct, I cannot choose any of them."
+        ],
+        "final_solution": "(A) Number of deaths at age 80 and above"
     },
     {
         "realidx": "137_biomedical_engineer",
@@ -244,12 +387,23 @@
         },
         "answer_idx": "D",
         "answer": "Diffusion, Convection",
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 579,
-            "completion_tokens": 143
+            "prompt_tokens": 588,
+            "completion_tokens": 39
         },
-        "time_elapsed": 4.756428241729736
+        "time_elapsed": 4.274125337600708,
+        "raw_responses": [
+            "(A) Convection, Ultrafiltration",
+            "(C) Diffusion, Convection, Ultrafiltration",
+            "(C) Diffusion, Convection, Ultrafiltration"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "2"
+        ],
+        "final_solution": "(A) Convection, Ultrafiltration"
     },
     {
         "realidx": "13_speech_pathologist",
@@ -264,10 +418,21 @@
         "answer": "Rapid speech rate",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 397,
-            "completion_tokens": 194
+            "prompt_tokens": 1131,
+            "completion_tokens": 240
         },
-        "time_elapsed": 20.168495178222656
+        "time_elapsed": 6.671982288360596,
+        "raw_responses": [
+            "(A) Prosodic impairment",
+            "Agrammatism is a symptom of aphasia characterized by difficulty in constructing grammatically correct sentences. This often involves omitting small function words and inflections, leading to telegraphic speech. \n\n(A) Prosodic impairment refers to difficulties with the rhythm, stress, and intonation of speech, which can be associated with aphasia but is not directly related to agrammatism.\n(B) Echolalia is the unsolicited repetition of another person's spoken words, which is more commonly associated with conditions like autism or certain types of dementia, rather than agrammatism.\n(C) Rapid speech rate is not typically associated with agrammatism, as patients with agrammatism often have non-fluent speech.\n(D) Motor neglect refers to a lack of awareness or attention to one side of the body, which is more related to neurological conditions affecting motor function and spatial awareness, not directly related to agrammatism.\n\nThe most relevant symptom that can accompany agrammatism in aphasia is (A) Prosodic impairment.\n\nFinal answer: (A) Prosodic impairment",
+            "(A) Prosodic impairment"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "0"
+        ],
+        "final_solution": "Agrammatism is a symptom of aphasia characterized by difficulty in constructing grammatically correct sentences. This often involves omitting small function words and inflections, leading to telegraphic speech. \n\n(A) Prosodic impairment refers to difficulties with the rhythm, stress, and intonation of speech, which can be associated with aphasia but is not directly related to agrammatism.\n(B) Echolalia is the unsolicited repetition of another person's spoken words, which is more commonly associated with conditions like autism or certain types of dementia, rather than agrammatism.\n(C) Rapid speech rate is not typically associated with agrammatism, as patients with agrammatism often have non-fluent speech.\n(D) Motor neglect refers to a lack of awareness or attention to one side of the body, which is more related to neurological conditions affecting motor function and spatial awareness, not directly related to agrammatism.\n\nThe most relevant symptom that can accompany agrammatism in aphasia is (A) Prosodic impairment.\n\nFinal answer: (A) Prosodic impairment"
     },
     {
         "realidx": "158_occupational_therapist",
@@ -283,9 +448,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 519,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 5.085163831710815
+        "time_elapsed": 3.5511484146118164,
+        "raw_responses": [
+            "(B) Once a week",
+            "(B) Once a week",
+            "(B) Once a week"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Once a week"
     },
     {
         "realidx": "162_occupational_therapist",
@@ -301,9 +477,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 639,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 5.320796966552734
+        "time_elapsed": 4.334363222122192,
+        "raw_responses": [
+            "(D) At the height of the greater trochanter",
+            "(D) At the height of the greater trochanter",
+            "(D) At the height of the greater trochanter"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) At the height of the greater trochanter"
     },
     {
         "realidx": "166_occupational_therapist",
@@ -319,9 +506,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 510,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.751471996307373
+        "time_elapsed": 4.027701139450073,
+        "raw_responses": [
+            "(B) Duodenum",
+            "(B) Duodenum",
+            "(B) Duodenum"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Duodenum"
     },
     {
         "realidx": "169_occupational_therapist",
@@ -337,9 +535,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 633,
-            "completion_tokens": 48
+            "completion_tokens": 139
         },
-        "time_elapsed": 5.700472354888916
+        "time_elapsed": 4.698350667953491,
+        "raw_responses": [
+            "(A) Lift the cane and the paralyzed leg at the same time.",
+            "(A) Lift the cane and the paralyzed leg at the same time.",
+            "(A) Lift the cane and the paralyzed leg at the same time."
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are identical. Therefore, any of the options (0, 1, or 2) would be equally valid. I will choose option 0.\n\n0",
+            "All three candidate solutions are identical, stating: \"Lift the cane and the paralyzed leg at the same time.\" Therefore, any of the options (0, 1, or 2) would be equally valid. \n\nI will choose option 0.",
+            "0"
+        ],
+        "final_solution": "(A) Lift the cane and the paralyzed leg at the same time."
     },
     {
         "realidx": "172_occupational_therapist",
@@ -355,9 +564,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 507,
-            "completion_tokens": 15
+            "completion_tokens": 87
         },
-        "time_elapsed": 4.002021312713623
+        "time_elapsed": 5.714007377624512,
+        "raw_responses": [
+            "(A) P-",
+            "(A) P-",
+            "(A) P-"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are all identical, with each one indicating that the manual muscle test grade is \"P-\" when only a portion of the range of motion is possible in a gravity-minimized position. Since all solutions are the same, any of them can be chosen as the best final answer.\n\nI will choose option number: 0.",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) P-"
     },
     {
         "realidx": "177_occupational_therapist",
@@ -373,9 +593,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 504,
-            "completion_tokens": 33
+            "completion_tokens": 39
         },
-        "time_elapsed": 4.04924201965332
+        "time_elapsed": 4.155029296875,
+        "raw_responses": [
+            "(A) Modifying the size of food bolus",
+            "(A) Modifying the size of food bolus",
+            "(A) Modifying the size of food bolus"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Modifying the size of food bolus"
     },
     {
         "realidx": "17_biomedical_engineer",
@@ -391,9 +622,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 798,
-            "completion_tokens": 132
+            "completion_tokens": 101
         },
-        "time_elapsed": 4.939929246902466
+        "time_elapsed": 4.658597469329834,
+        "raw_responses": [
+            "(A) Capillary dilation \u2192 Cell infiltration \u2192 Extraction \u2192 Disintegration \u2192 Epithelialization",
+            "(A) Capillary dilation \u2192 Cell infiltration \u2192 Extraction \u2192 Disintegration \u2192 Epithelialization",
+            "(A) Capillary dilation \u2192 Cell infiltration \u2192 Extraction \u2192 Disintegration \u2192 Epithelialization"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "All the provided solutions (0, 1, and 2) are identical. Therefore, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\n0",
+            "0"
+        ],
+        "final_solution": "(A) Capillary dilation \u2192 Cell infiltration \u2192 Extraction \u2192 Disintegration \u2192 Epithelialization"
     },
     {
         "realidx": "180_occupational_therapist",
@@ -409,9 +651,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 588,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.311842679977417
+        "time_elapsed": 3.7045223712921143,
+        "raw_responses": [
+            "(A) Optimum Population Theory",
+            "(A) Optimum Population Theory",
+            "(A) Optimum Population Theory"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Optimum Population Theory"
     },
     {
         "realidx": "18_speech_pathologist",
@@ -426,10 +679,21 @@
         "answer": "Central auditory processing disorder",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 326,
-            "completion_tokens": 110
+            "prompt_tokens": 1095,
+            "completion_tokens": 265
         },
-        "time_elapsed": 19.250430822372437
+        "time_elapsed": 5.954956769943237,
+        "raw_responses": [
+            "(D) Conductive hearing loss",
+            "(A) Sensorineural hearing loss - This type of hearing loss occurs due to problems in the inner ear or the auditory nerve.\n(B) Central auditory processing disorder - This disorder involves difficulties in processing auditory information in the brain.\n(C) Psychogenic hearing loss - This type of hearing loss is related to psychological factors rather than physical problems in the ear.\n(D) Conductive hearing loss - This type of hearing loss occurs due to problems in the outer or middle ear.\n\nFinal answer: (D) Conductive hearing loss",
+            "(A) Sensorineural hearing loss - This type of hearing loss occurs due to problems in the inner ear or the auditory nerve.\n(B) Central auditory processing disorder - This disorder involves difficulties in processing auditory information in the brain.\n(C) Psychogenic hearing loss - This type of hearing loss is related to psychological factors rather than physical problems in the ear.\n(D) Conductive hearing loss - This type of hearing loss occurs due to problems in the outer or middle ear.\n\nFinal answer: (D) Conductive hearing loss"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0. \n\nOption 0 directly and concisely provides the correct answer without additional unnecessary information. Options 1 and 2 include extra details that are not required to answer the question.",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Conductive hearing loss"
     },
     {
         "realidx": "195_clinical_laboratory_scientist",
@@ -444,10 +708,21 @@
         "answer": "MI",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 543,
-            "completion_tokens": 17
+            "prompt_tokens": 630,
+            "completion_tokens": 52
         },
-        "time_elapsed": 4.368488550186157
+        "time_elapsed": 3.7466166019439697,
+        "raw_responses": [
+            "The method of evaluating the endocrine status of the female reproductive system that represents the ratio of basal cells : intermediate cells : superficial cells as a percentage (%) is:\n\n(B) CCI",
+            "(B) CCI",
+            "(B) CCI"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "2"
+        ],
+        "final_solution": "The method of evaluating the endocrine status of the female reproductive system that represents the ratio of basal cells : intermediate cells : superficial cells as a percentage (%) is:\n\n(B) CCI"
     },
     {
         "realidx": "196_clinical_laboratory_scientist",
@@ -462,10 +737,21 @@
         "answer": "exodus cell",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1533,
-            "completion_tokens": 437
+            "prompt_tokens": 846,
+            "completion_tokens": 203
         },
-        "time_elapsed": 8.562896728515625
+        "time_elapsed": 5.485145568847656,
+        "raw_responses": [
+            "(A) superficial cell",
+            "The endometrial cells observed around the 6th to 10th day of the menstrual cycle are typically involved in the proliferative phase, where the endometrium is regenerating and thickening after menstruation. The cells characteristic of this phase are not superficial, intermediate, or parabasal cells, which are more commonly associated with the vaginal epithelium. The correct answer is the exodus cell, which is a type of endometrial cell observed during this phase.\n\nFinal answer: (D) exodus cell",
+            "(A) superficial cell"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "Option 2 provides a detailed explanation of the endometrial cells observed during the 6th to 10th day of the menstrual cycle, identifying the correct type of cell as the exodus cell. Options 0 and 1 incorrectly identify the cell as a superficial cell, which is not characteristic of the endometrial cells during this phase.\n\nTherefore, the best final answer is option 2.",
+            "0"
+        ],
+        "final_solution": "The endometrial cells observed around the 6th to 10th day of the menstrual cycle are typically involved in the proliferative phase, where the endometrium is regenerating and thickening after menstruation. The cells characteristic of this phase are not superficial, intermediate, or parabasal cells, which are more commonly associated with the vaginal epithelium. The correct answer is the exodus cell, which is a type of endometrial cell observed during this phase.\n\nFinal answer: (D) exodus cell"
     },
     {
         "realidx": "1_occupational_therapist",
@@ -481,9 +767,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 600,
-            "completion_tokens": 249
+            "completion_tokens": 260
         },
-        "time_elapsed": 9.481969833374023
+        "time_elapsed": 6.689454078674316,
+        "raw_responses": [
+            "(A) Pot-shaped",
+            "(A) Pot-shaped",
+            "(A) Pot-shaped"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are all the same, indicating that the type of population pyramid in urban areas where a large population of working-age is moving in, and the working-age population makes up more than 50% of the total population, is \"Pot-shaped.\"\n\nSince all solutions are identical, any of them can be chosen. I will choose option 0.\n\nThe chosen option number is: 0",
+            "The candidate solutions provided are all the same, indicating that the type of population pyramid in urban areas where a large population of working-age is moving in, and the working-age population makes up more than 50% of the total population, is \"Pot-shaped.\"\n\nSince all solutions are identical, any of them can be chosen as the final answer. I will choose option 0.\n\nThe chosen option number is: 0",
+            "The solutions provided are all the same, indicating that the type of population pyramid in urban areas where a large population of working-age is moving in, and the working-age population makes up more than 50% of the total population, is \"Pot-shaped.\"\n\nSince all solutions are identical, any of them can be chosen. I will choose option 0.\n\nThe chosen option number is: 0"
+        ],
+        "final_solution": "(A) Pot-shaped"
     },
     {
         "realidx": "1_speech_pathologist",
@@ -499,9 +796,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 615,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 6.57265830039978
+        "time_elapsed": 4.506441354751587,
+        "raw_responses": [
+            "(B) Use a high pillow when sleeping.",
+            "(B) Use a high pillow when sleeping.",
+            "(B) Use a high pillow when sleeping."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Use a high pillow when sleeping."
     },
     {
         "realidx": "20_clinical_laboratory_scientist",
@@ -514,12 +822,23 @@
         },
         "answer_idx": "B",
         "answer": "7",
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 717,
-            "completion_tokens": 80
+            "prompt_tokens": 1311,
+            "completion_tokens": 284
         },
-        "time_elapsed": 5.429174184799194
+        "time_elapsed": 6.174555063247681,
+        "raw_responses": [
+            "(A) 5",
+            "To determine the number of electrodes used in the 3-channel method of a 24-hour (Holter) electrocardiogram, we need to understand the setup of a 3-channel Holter monitor. Each channel typically requires two electrodes to measure the electrical activity between two points. Additionally, there is usually one ground electrode to stabilize the readings.\n\nFor a 3-channel Holter monitor:\n- Each channel requires 2 electrodes.\n- Therefore, 3 channels require 3 x 2 = 6 electrodes.\n- Plus 1 ground electrode.\n\nSo, the total number of electrodes used is 6 + 1 = 7.\n\nFinal answer: (B) 7",
+            "To determine the number of electrodes used in the 3-channel method of a 24-hour (Holter) electrocardiogram, we need to understand the setup of a 3-channel Holter monitor. Each channel typically requires two electrodes to measure the electrical activity between two points. Additionally, there is usually one ground electrode to stabilize the readings.\n\nFor a 3-channel Holter monitor:\n- Each channel requires 2 electrodes.\n- Therefore, 3 channels require 3 x 2 = 6 electrodes.\n- Adding 1 ground electrode, the total number of electrodes is 6 + 1 = 7.\n\nFinal answer: (B) 7"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "To determine the number of electrodes used in the 3-channel method of a 24-hour (Holter) electrocardiogram, we need to understand the setup of a 3-channel Holter monitor. Each channel typically requires two electrodes to measure the electrical activity between two points. Additionally, there is usually one ground electrode to stabilize the readings.\n\nFor a 3-channel Holter monitor:\n- Each channel requires 2 electrodes.\n- Therefore, 3 channels require 3 x 2 = 6 electrodes.\n- Plus 1 ground electrode.\n\nSo, the total number of electrodes used is 6 + 1 = 7.\n\nFinal answer: (B) 7"
     },
     {
         "realidx": "20_speech_pathologist",
@@ -534,10 +853,21 @@
         "answer": "Temporal association area",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 387,
-            "completion_tokens": 61
+            "prompt_tokens": 483,
+            "completion_tokens": 27
         },
-        "time_elapsed": 15.64293360710144
+        "time_elapsed": 3.875278949737549,
+        "raw_responses": [
+            "(A) Frontal association area",
+            "(A) Frontal association area",
+            "(A) Frontal association area"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Frontal association area"
     },
     {
         "realidx": "211_clinical_laboratory_scientist",
@@ -552,10 +882,21 @@
         "answer": "Decrease in ketone bodies",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 615,
-            "completion_tokens": 25
+            "prompt_tokens": 621,
+            "completion_tokens": 33
         },
-        "time_elapsed": 4.195343494415283
+        "time_elapsed": 4.080323219299316,
+        "raw_responses": [
+            "(A) Increase in cells and casts",
+            "Option (D) Decrease in ketone bodies",
+            "(A) Increase in cells and casts"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "0"
+        ],
+        "final_solution": "Option (D) Decrease in ketone bodies"
     },
     {
         "realidx": "21_speech_pathologist",
@@ -570,10 +911,21 @@
         "answer": "Deficits in using grammatical morphemes",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 372,
-            "completion_tokens": 34
+            "prompt_tokens": 606,
+            "completion_tokens": 42
         },
-        "time_elapsed": 12.265647888183594
+        "time_elapsed": 3.7525346279144287,
+        "raw_responses": [
+            "(C) Deficits in turn-taking and maintaining the topic",
+            "(C) Deficits in turn-taking and maintaining the topic",
+            "(C) Deficits in turn-taking and maintaining the topic"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Deficits in turn-taking and maintaining the topic"
     },
     {
         "realidx": "22_speech_pathologist",
@@ -588,10 +940,21 @@
         "answer": "Wearing tight clothes",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1341,
-            "completion_tokens": 312
+            "prompt_tokens": 459,
+            "completion_tokens": 24
         },
-        "time_elapsed": 12.196244716644287
+        "time_elapsed": 3.660304307937622,
+        "raw_responses": [
+            "(B) Maintaining appropriate humidity",
+            "(B) Maintaining appropriate humidity",
+            "(B) Maintaining appropriate humidity"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Maintaining appropriate humidity"
     },
     {
         "realidx": "238_clinical_laboratory_scientist",
@@ -607,9 +970,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 561,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 4.662637948989868
+        "time_elapsed": 4.042785406112671,
+        "raw_responses": [
+            "(B) orthochromatic normoblast",
+            "(B) orthochromatic normoblast",
+            "(B) orthochromatic normoblast"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) orthochromatic normoblast"
     },
     {
         "realidx": "23_speech_pathologist",
@@ -625,9 +999,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 747,
-            "completion_tokens": 95
+            "completion_tokens": 66
         },
-        "time_elapsed": 9.005982875823975
+        "time_elapsed": 4.552857875823975,
+        "raw_responses": [
+            "(A) The lower the cognitive ability, the fewer the number of sub-behaviors performed.",
+            "(A) The lower the cognitive ability, the fewer the number of sub-behaviors performed.",
+            "(A) The lower the cognitive ability, the fewer the number of sub-behaviors performed."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) The lower the cognitive ability, the fewer the number of sub-behaviors performed."
     },
     {
         "realidx": "24_occupational_therapist",
@@ -642,10 +1027,21 @@
         "answer": "three-jaw chuck pinch",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 849,
-            "completion_tokens": 443
+            "prompt_tokens": 1095,
+            "completion_tokens": 332
         },
-        "time_elapsed": 10.350185632705688
+        "time_elapsed": 7.06384539604187,
+        "raw_responses": [
+            "A patient with a complete C6 spinal cord injury typically retains wrist extension but loses finger flexion and extension. A wrist-driven wrist-hand orthosis (WDWHO) utilizes the tenodesis effect, where wrist extension causes passive finger flexion, allowing for a functional grasp. The type of grasp facilitated by this orthosis is primarily a hook grasp, which is useful for holding objects like handles or straps.\n\nFinal answer: (A) hook grasp",
+            "A patient with a complete C6 spinal cord injury typically retains wrist extension but loses finger function. A wrist-driven wrist-hand orthosis (WDWHO) can utilize the tenodesis effect, where wrist extension causes passive finger flexion, allowing for a functional grasp. The type of grasp facilitated by this orthosis is primarily a hook grasp, which is useful for holding objects like handles or straps.\n\nFinal answer: (A) hook grasp",
+            "(A) hook grasp"
+        ],
+        "ensemble_raw_responses": [
+            "Option 0 is the best final answer. It provides a clear and complete explanation of the mechanism (tenodesis effect) and the type of grasp (hook grasp) facilitated by the wrist-driven wrist-hand orthosis for a patient with a complete C6 spinal cord injury.\n\nFinal answer: 0",
+            "The best final answer is option 0. \n\nOption 0 provides a detailed explanation of the mechanism behind the wrist-driven wrist-hand orthosis and how it facilitates a hook grasp, making it the most comprehensive and informative solution. \n\nOption 1 is too brief and lacks explanation, while option 2 is similar to option 0 but slightly less clear in its wording.\n\nTherefore, the chosen option number is: 0.",
+            "0"
+        ],
+        "final_solution": "A patient with a complete C6 spinal cord injury typically retains wrist extension but loses finger function. A wrist-driven wrist-hand orthosis (WDWHO) can utilize the tenodesis effect, where wrist extension causes passive finger flexion, allowing for a functional grasp. The type of grasp facilitated by this orthosis is primarily a hook grasp, which is useful for holding objects like handles or straps.\n\nFinal answer: (A) hook grasp"
     },
     {
         "realidx": "24_speech_pathologist",
@@ -661,9 +1057,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 588,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 5.512492895126343
+        "time_elapsed": 4.060975790023804,
+        "raw_responses": [
+            "(D) Repetition and prolongation observed after cerebral damage",
+            "(D) Repetition and prolongation observed after cerebral damage",
+            "(D) Repetition and prolongation observed after cerebral damage"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Repetition and prolongation observed after cerebral damage"
     },
     {
         "realidx": "252_clinical_laboratory_scientist",
@@ -679,9 +1086,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 534,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 4.22608208656311
+        "time_elapsed": 3.673336982727051,
+        "raw_responses": [
+            "(A) During an acute bacterial infection",
+            "(A) During an acute bacterial infection",
+            "(A) During an acute bacterial infection"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) During an acute bacterial infection"
     },
     {
         "realidx": "25_speech_pathologist",
@@ -696,10 +1114,21 @@
         "answer": "Parallel Teaching",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 484,
-            "completion_tokens": 29
+            "prompt_tokens": 606,
+            "completion_tokens": 36
         },
-        "time_elapsed": 11.540205955505371
+        "time_elapsed": 4.152340412139893,
+        "raw_responses": [
+            "(A) Lead-Teach, Support-Teach",
+            "(A) Lead-Teach, Support-Teach",
+            "(A) Lead-Teach, Support-Teach"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Lead-Teach, Support-Teach"
     },
     {
         "realidx": "266_clinical_laboratory_scientist",
@@ -715,9 +1144,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 519,
-            "completion_tokens": 70
+            "completion_tokens": 24
         },
-        "time_elapsed": 4.53203272819519
+        "time_elapsed": 3.867100954055786,
+        "raw_responses": [
+            "(A) 64-fold",
+            "(A) 64-fold",
+            "(A) 64-fold"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) 64-fold"
     },
     {
         "realidx": "269_clinical_laboratory_scientist",
@@ -733,9 +1173,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 519,
-            "completion_tokens": 15
+            "completion_tokens": 122
         },
-        "time_elapsed": 4.785265922546387
+        "time_elapsed": 4.6477179527282715,
+        "raw_responses": [
+            "(C) Effective temperature",
+            "(C) Effective temperature",
+            "(C) Effective temperature"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions are identical, each suggesting \"(C) Effective temperature\" as the most appropriate temperature for body temperature regulation. Since they are all the same, any of them can be chosen as the final answer.\n\nI will choose option 0.\n\n0",
+            "All three candidate solutions are identical, each suggesting \"(C) Effective temperature\" as the most appropriate temperature for body temperature regulation. Since they are all the same, any of them can be chosen as the final answer. \n\nI will choose option 0.\n\n0",
+            "0"
+        ],
+        "final_solution": "(C) Effective temperature"
     },
     {
         "realidx": "26_speech_pathologist",
@@ -750,10 +1201,21 @@
         "answer": "For esophageal speech, lung breath is used for phonation.",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 685,
-            "completion_tokens": 85
+            "prompt_tokens": 834,
+            "completion_tokens": 104
         },
-        "time_elapsed": 8.971364736557007
+        "time_elapsed": 12.142752885818481,
+        "raw_responses": [
+            "Option (D) Tracheoesophageal speech requires a tracheoesophageal puncture procedure.",
+            "Option (D) Tracheoesophageal speech requires a tracheoesophageal puncture procedure.",
+            "Option (D) Tracheoesophageal speech requires a tracheoesophageal puncture procedure."
+        ],
+        "ensemble_raw_responses": [
+            "All the provided solutions are identical. Therefore, any of the options (0, 1, or 2) can be chosen as the correct answer. I will choose option 0.\n\n0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Option (D) Tracheoesophageal speech requires a tracheoesophageal puncture procedure."
     },
     {
         "realidx": "275_clinical_laboratory_scientist",
@@ -768,10 +1230,21 @@
         "answer": "Ovulatory phase",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1758,
-            "completion_tokens": 512
+            "prompt_tokens": 2322,
+            "completion_tokens": 855
         },
-        "time_elapsed": 10.041131258010864
+        "time_elapsed": 11.92046070098877,
+        "raw_responses": [
+            "To determine the phase of the menstrual cycle, we need to calculate the number of days between the last menstrual period (LMP) and the specimen collection date.\n\n1. LMP: December 24th\n2. Specimen collection date: January 6th\n\nCalculate the number of days between these dates:\n- December 24th to December 31st: 7 days\n- January 1st to January 6th: 6 days\n- Total: 7 + 6 = 13 days\n\nThe menstrual cycle is typically divided into the following phases:\n- Menstrual phase: Days 1-5\n- Proliferative phase: Days 6-14\n- Ovulatory phase: Around day 14\n- Secretory phase: Days 15-28\n\nSince the specimen collection date is on day 13 of the cycle, it falls within the proliferative phase.\n\nFinal answer: (A) Proliferative phase",
+            "To determine the phase of the menstrual cycle, we need to calculate the number of days from the last menstrual period (LMP) to the specimen collection date.\n\n1. LMP: December 24th\n2. Specimen collection date: January 6th\n\nCalculate the number of days between these dates:\n- December 24th to December 31st: 7 days\n- January 1st to January 6th: 6 days\n- Total: 7 + 6 = 13 days\n\nThe menstrual cycle is typically divided into the following phases:\n- Menstrual phase: Days 1-5\n- Proliferative phase: Days 6-14\n- Ovulatory phase: Around day 14\n- Secretory phase: Days 15-28\n\nSince the specimen collection date is on day 13 of the cycle, it falls within the proliferative phase.\n\nFinal answer: (A) Proliferative phase",
+            "To determine the phase of the menstrual cycle, we need to calculate the number of days from the last menstrual period (LMP) to the specimen collection date.\n\n1. LMP: December 24th\n2. Specimen collection date: January 6th\n\nCalculate the number of days between these dates:\n- December 24th to December 31st: 7 days\n- January 1st to January 6th: 6 days\n- Total: 7 + 6 = 13 days\n\nThe menstrual cycle is typically divided into the following phases:\n- Menstrual phase: Days 1-5\n- Proliferative phase: Days 6-14\n- Ovulatory phase: Around day 14\n- Secretory phase: Days 15-28\n\nSince the specimen collection date is on day 13 of the cycle, it falls within the proliferative phase.\n\nFinal answer: (A) Proliferative phase"
+        ],
+        "ensemble_raw_responses": [
+            "All three solutions (0, 1, and 2) are identical in their calculations and reasoning. They all correctly determine that the specimen collection date of January 6th is 13 days after the last menstrual period on December 24th, and they all correctly identify that day 13 falls within the proliferative phase of the menstrual cycle.\n\nTherefore, any of the solutions can be chosen as the best final answer. I will choose option 0.\n\nFinal answer: 0",
+            "All three solutions (0, 1, and 2) are identical in their calculations and reasoning. They all correctly calculate the number of days between the last menstrual period (LMP) and the specimen collection date, and they all correctly identify the phase of the menstrual cycle as the proliferative phase.\n\nTherefore, any of the solutions can be chosen as the best final answer. I will choose option 0.\n\nFinal answer: 0",
+            "All three solutions (0, 1, and 2) are identical in their approach and calculations. They all correctly determine that the specimen collection date is on day 13 of the menstrual cycle, which falls within the proliferative phase.\n\nSince all solutions are the same, any of them can be chosen as the best final answer. I will choose option 0.\n\nFinal answer: 0"
+        ],
+        "final_solution": "To determine the phase of the menstrual cycle, we need to calculate the number of days from the last menstrual period (LMP) to the specimen collection date.\n\n1. LMP: December 24th\n2. Specimen collection date: January 6th\n\nCalculate the number of days between these dates:\n- December 24th to December 31st: 7 days\n- January 1st to January 6th: 6 days\n- Total: 7 + 6 = 13 days\n\nThe menstrual cycle is typically divided into the following phases:\n- Menstrual phase: Days 1-5\n- Proliferative phase: Days 6-14\n- Ovulatory phase: Around day 14\n- Secretory phase: Days 15-28\n\nSince the specimen collection date is on day 13 of the cycle, it falls within the proliferative phase.\n\nFinal answer: (A) Proliferative phase"
     },
     {
         "realidx": "28_clinical_laboratory_scientist",
@@ -784,12 +1257,23 @@
         },
         "answer_idx": "B",
         "answer": "ERV (Expiratory Reserve Volume)",
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 732,
-            "completion_tokens": 243
+            "prompt_tokens": 1104,
+            "completion_tokens": 336
         },
-        "time_elapsed": 6.9124979972839355
+        "time_elapsed": 7.4545934200286865,
+        "raw_responses": [
+            "(A) IRV (Inspiratory Reserve Volume) (B) ERV (Expiratory Reserve Volume) (D) TV (Tidal Volume)",
+            "(A) IRV (Inspiratory Reserve Volume) (B) ERV (Expiratory Reserve Volume) (D) TV (Tidal Volume)",
+            "Vital Capacity (VC) is the maximum amount of air a person can exhale after a maximum inhalation. It is calculated by adding together the volumes of air involved in different phases of breathing. Specifically, VC includes:\n\n1. Inspiratory Reserve Volume (IRV) - the additional air that can be inhaled after a normal inhalation.\n2. Tidal Volume (TV) - the amount of air inhaled or exhaled during normal breathing.\n3. Expiratory Reserve Volume (ERV) - the additional air that can be exhaled after a normal exhalation.\n\nTherefore, the correct answer is:\n\n(A) IRV (Inspiratory Reserve Volume)\n(B) ERV (Expiratory Reserve Volume)\n(D) TV (Tidal Volume)"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "The best final answer is option 0. \n\nOption 0 provides a comprehensive explanation of what Vital Capacity (VC) is and details the components that make up VC, which are the Inspiratory Reserve Volume (IRV), Tidal Volume (TV), and Expiratory Reserve Volume (ERV). This explanation ensures clarity and understanding of the concept. \n\nOptions 1 and 2 simply list the components without any explanation, which might not be as helpful for someone trying to understand the concept fully. \n\nTherefore, the chosen option number is 0."
+        ],
+        "final_solution": "Vital Capacity (VC) is the maximum amount of air a person can exhale after a maximum inhalation. It is calculated by adding together the volumes of air involved in different phases of breathing. Specifically, VC includes:\n\n1. Inspiratory Reserve Volume (IRV) - the additional air that can be inhaled after a normal inhalation.\n2. Tidal Volume (TV) - the amount of air inhaled or exhaled during normal breathing.\n3. Expiratory Reserve Volume (ERV) - the additional air that can be exhaled after a normal exhalation.\n\nTherefore, the correct answer is:\n\n(A) IRV (Inspiratory Reserve Volume)\n(B) ERV (Expiratory Reserve Volume)\n(D) TV (Tidal Volume)"
     },
     {
         "realidx": "29_biomedical_engineer",
@@ -804,10 +1288,21 @@
         "answer": "It uses mnemonic codes.",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 609,
-            "completion_tokens": 29
+            "prompt_tokens": 603,
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.7918808460235596
+        "time_elapsed": 3.8480136394500732,
+        "raw_responses": [
+            "(B) Combination products cannot be included.",
+            "(B) Combination products cannot be included.",
+            "(B) Combination products cannot be included."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Combination products cannot be included."
     },
     {
         "realidx": "29_speech_pathologist",
@@ -823,9 +1318,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 627,
-            "completion_tokens": 48
+            "completion_tokens": 54
         },
-        "time_elapsed": 8.806658506393433
+        "time_elapsed": 4.063320636749268,
+        "raw_responses": [
+            "(D) It remains non-fluent even under conditions that enhance fluency.",
+            "(D) It remains non-fluent even under conditions that enhance fluency.",
+            "(D) It remains non-fluent even under conditions that enhance fluency."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) It remains non-fluent even under conditions that enhance fluency."
     },
     {
         "realidx": "2_speech_pathologist",
@@ -840,10 +1346,21 @@
         "answer": "Engage in high-intensity exercise immediately after eating.",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 624,
-            "completion_tokens": 25
+            "prompt_tokens": 618,
+            "completion_tokens": 29
         },
-        "time_elapsed": 6.128368377685547
+        "time_elapsed": 3.796847105026245,
+        "raw_responses": [
+            "(D) Reduce caffeine intake.",
+            "Option (D) Reduce caffeine intake.",
+            "(D) Reduce caffeine intake."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(D) Reduce caffeine intake."
     },
     {
         "realidx": "30_clinical_psychologist",
@@ -856,12 +1373,23 @@
         },
         "answer_idx": "C",
         "answer": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 257,
-            "completion_tokens": 29
+            "prompt_tokens": 957,
+            "completion_tokens": 87
         },
-        "time_elapsed": 17.299760818481445
+        "time_elapsed": 4.882373332977295,
+        "raw_responses": [
+            "(A) If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest.",
+            "(A) If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest.",
+            "(A) If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest."
     },
     {
         "realidx": "30_speech_pathologist",
@@ -876,10 +1404,21 @@
         "answer": "supraglottic swallow",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 472,
-            "completion_tokens": 17
+            "prompt_tokens": 597,
+            "completion_tokens": 30
         },
-        "time_elapsed": 11.286350965499878
+        "time_elapsed": 3.910169839859009,
+        "raw_responses": [
+            "(A) Mendelsohn maneuver",
+            "(A) Mendelsohn maneuver",
+            "(A) Mendelsohn maneuver"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Mendelsohn maneuver"
     },
     {
         "realidx": "31_clinical_psychologist",
@@ -894,10 +1433,21 @@
         "answer": "Naive but open attitude",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1227,
-            "completion_tokens": 530
+            "prompt_tokens": 2754,
+            "completion_tokens": 839
         },
-        "time_elapsed": 18.94688129425049
+        "time_elapsed": 12.694138050079346,
+        "raw_responses": [
+            "A negative (-) slope in the validity scales (L, F, K) of the MMPI suggests that the scores on these scales decrease from L to F to K. This pattern can be interpreted as follows:\n\n1. L Scale (Lie Scale): A high score on the L scale indicates a tendency to present oneself in an overly favorable manner, often associated with unsophisticated or naive attempts to appear virtuous.\n2. F Scale (Frequency Scale): A high score on the F scale indicates unusual or atypical responses, often associated with distress or an attempt to appear worse than one is.\n3. K Scale (Correction Scale): A high score on the K scale indicates a more sophisticated and subtle form of defensiveness, suggesting a more controlled and guarded approach to self-presentation.\n\nGiven the negative slope (L > F > K), the individual starts with a higher score on the L scale, indicating a naive attempt to present themselves favorably, followed by a lower score on the F scale, and the lowest score on the K scale, indicating a lack of sophisticated defensiveness.\n\nTherefore, the most appropriate interpretation is:\n(B) Naive but open attitude",
+            "A negative (-) slope in the validity scales (L, F, K) of the MMPI suggests that the scores on these scales decrease from L to F to K. This pattern can be interpreted as follows:\n\n1. L Scale (Lie Scale): A high score on the L scale indicates a tendency to present oneself in an overly favorable manner, often by denying minor faults. A low score suggests a more open and honest approach.\n2. F Scale (Frequency Scale): A high score on the F scale indicates unusual or atypical responses, often associated with distress or an attempt to appear worse than one is. A low score suggests typical or expected responses.\n3. K Scale (Correction Scale): A high score on the K scale indicates a defensive approach, often by minimizing problems and presenting oneself in a favorable light. A low score suggests a lack of defensiveness and a more open attitude.\n\nGiven the negative slope (L > F > K), the individual starts with a higher tendency to present themselves favorably (L), shows less unusual or atypical responses (F), and ends with a lower tendency to be defensive (K). This pattern is consistent with a naive but open attitude, as the individual is not overly defensive and is relatively open in their responses.\n\nFinal answer: (B) Naive but open attitude",
+            "A negative (-) slope in the validity scales (L, F, K) of the MMPI suggests that the scores on these scales decrease from L to F to K. This pattern can be interpreted as follows:\n\n1. L Scale (Lie Scale): A high score on the L scale indicates a tendency to present oneself in an overly favorable manner, often associated with unsophisticated or naive attempts to appear virtuous.\n2. F Scale (Frequency Scale): A high score on the F scale indicates unusual or atypical responses, often associated with distress or an attempt to appear worse than one is.\n3. K Scale (Correction Scale): A high score on the K scale indicates defensiveness and a tendency to present oneself in a controlled and favorable manner, often associated with psychological sophistication.\n\nGiven a negative slope (L > F > K), the individual starts with a higher score on the L scale, indicating a naive attempt to present themselves favorably, followed by a lower score on the F scale, indicating less distress or unusual responses, and the lowest score on the K scale, indicating a lack of sophisticated defensiveness.\n\nTherefore, the most appropriate interpretation is:\n(B) Naive but open attitude"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "The best final answer is option 1. \n\nOption 1 provides a clear and accurate interpretation of the negative slope in the validity scales (L, F, K) of the MMPI, explaining the implications of each scale and how the pattern (L > F > K) suggests a naive attempt to present oneself favorably, less distress or unusual responses, and a lack of sophisticated defensiveness. This aligns well with the interpretation of a \"naive but open attitude.\""
+        ],
+        "final_solution": "A negative (-) slope in the validity scales (L, F, K) of the MMPI suggests that the scores on these scales decrease from L to F to K. This pattern can be interpreted as follows:\n\n1. L Scale (Lie Scale): A high score on the L scale indicates a tendency to present oneself in an overly favorable manner, often by denying minor faults. A low score suggests a more open and honest approach.\n2. F Scale (Frequency Scale): A high score on the F scale indicates unusual or atypical responses, often associated with distress or an attempt to appear worse than one is. A low score suggests typical or expected responses.\n3. K Scale (Correction Scale): A high score on the K scale indicates a defensive approach, often by minimizing problems and presenting oneself in a favorable light. A low score suggests a lack of defensiveness and a more open attitude.\n\nGiven the negative slope (L > F > K), the individual starts with a higher tendency to present themselves favorably (L), shows less unusual or atypical responses (F), and ends with a lower tendency to be defensive (K). This pattern is consistent with a naive but open attitude, as the individual is not overly defensive and is relatively open in their responses.\n\nFinal answer: (B) Naive but open attitude"
     },
     {
         "realidx": "322_clinical_laboratory_scientist",
@@ -912,10 +1462,21 @@
         "answer": "Excessive centrifugation",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 555,
-            "completion_tokens": 28
+            "prompt_tokens": 549,
+            "completion_tokens": 32
         },
-        "time_elapsed": 3.951870918273926
+        "time_elapsed": 4.046631097793579,
+        "raw_responses": [
+            "(C) Excessive centrifugation",
+            "(C) Excessive centrifugation",
+            "(A) No addition of antiglobulin reagent"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(C) Excessive centrifugation"
     },
     {
         "realidx": "32_clinical_laboratory_scientist",
@@ -931,9 +1492,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 501,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.159473419189453
+        "time_elapsed": 3.7772111892700195,
+        "raw_responses": [
+            "(B) Coefficient of Variation",
+            "(B) Coefficient of Variation",
+            "(B) Coefficient of Variation"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Coefficient of Variation"
     },
     {
         "realidx": "32_speech_pathologist",
@@ -949,9 +1521,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 624,
-            "completion_tokens": 36
+            "completion_tokens": 42
         },
-        "time_elapsed": 8.10401725769043
+        "time_elapsed": 4.10787558555603,
+        "raw_responses": [
+            "(D) Waveforms represent changes in amplitude over time.",
+            "(D) Waveforms represent changes in amplitude over time.",
+            "(D) Waveforms represent changes in amplitude over time."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Waveforms represent changes in amplitude over time."
     },
     {
         "realidx": "338_clinical_laboratory_scientist",
@@ -967,9 +1550,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 504,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.660970687866211
+        "time_elapsed": 3.9453959465026855,
+        "raw_responses": [
+            "(A) Salting \u2013 Sugaring",
+            "(A) Salting \u2013 Sugaring",
+            "(A) Salting \u2013 Sugaring"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Salting \u2013 Sugaring"
     },
     {
         "realidx": "33_speech_pathologist",
@@ -984,10 +1578,21 @@
         "answer": "It corresponds to a convenience facility for local residents.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 636,
-            "completion_tokens": 42
+            "prompt_tokens": 609,
+            "completion_tokens": 39
         },
-        "time_elapsed": 3.9386723041534424
+        "time_elapsed": 3.842226266860962,
+        "raw_responses": [
+            "(A) It promotes projects centered on the needs of the users.",
+            "(A) It promotes projects centered on the needs of the users.",
+            "Option (A)"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "(A) It promotes projects centered on the needs of the users."
     },
     {
         "realidx": "340_clinical_laboratory_scientist",
@@ -1002,10 +1607,21 @@
         "answer": "Secondary antibody",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 390,
-            "completion_tokens": 14
+            "prompt_tokens": 483,
+            "completion_tokens": 21
         },
-        "time_elapsed": 9.76545763015747
+        "time_elapsed": 3.995105266571045,
+        "raw_responses": [
+            "(D) Secondary antibody",
+            "(D) Secondary antibody",
+            "(D) Secondary antibody"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Secondary antibody"
     },
     {
         "realidx": "341_clinical_laboratory_scientist",
@@ -1020,10 +1636,21 @@
         "answer": "Reticular fibers",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 532,
-            "completion_tokens": 349
+            "prompt_tokens": 807,
+            "completion_tokens": 122
         },
-        "time_elapsed": 12.09563136100769
+        "time_elapsed": 5.418005704879761,
+        "raw_responses": [
+            "In Masson's trichrome (MT) staining:\n- Collagen fibers are stained by aniline blue dye.\n- Reticular fibers are not specifically stained by aniline blue in MT staining.\n- Muscle fibers are stained red by Biebrich scarlet-acid fuchsin.\n- Elastic fibers are not specifically stained by aniline blue in MT staining.\n\nFinal answer: (A) Collagen fibers",
+            "In Masson's trichrome staining, the aniline blue dye stains collagen fibers.\n\nFinal answer: (A) Collagen fibers",
+            "(A) Collagen fibers"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "2"
+        ],
+        "final_solution": "In Masson's trichrome staining, the aniline blue dye stains collagen fibers.\n\nFinal answer: (A) Collagen fibers"
     },
     {
         "realidx": "35_clinical_laboratory_scientist",
@@ -1038,10 +1665,21 @@
         "answer": "IRMA",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 453,
-            "completion_tokens": 15
+            "prompt_tokens": 726,
+            "completion_tokens": 112
         },
-        "time_elapsed": 5.61023473739624
+        "time_elapsed": 4.5049889087677,
+        "raw_responses": [
+            "(B) RIA",
+            "(A) FIA - Fluorescent Immunoassay does not involve radioactive isotopes.\n(B) RIA - Radioimmunoassay involves labeling antibodies with radioactive isotopes.\n(C) CPBA - Competitive Protein Binding Assay does not specifically involve labeling antibodies with radioactive isotopes.\n(D) IRMA - Immunoradiometric Assay involves labeling antibodies with radioactive isotopes, but it is a specific type of RIA.\n\nFinal answer: (B) RIA",
+            "(B) RIA"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "0"
+        ],
+        "final_solution": "(A) FIA - Fluorescent Immunoassay does not involve radioactive isotopes.\n(B) RIA - Radioimmunoassay involves labeling antibodies with radioactive isotopes.\n(C) CPBA - Competitive Protein Binding Assay does not specifically involve labeling antibodies with radioactive isotopes.\n(D) IRMA - Immunoradiometric Assay involves labeling antibodies with radioactive isotopes, but it is a specific type of RIA.\n\nFinal answer: (B) RIA"
     },
     {
         "realidx": "35_speech_pathologist",
@@ -1056,10 +1694,21 @@
         "answer": "Imaginative function",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1761,
+            "prompt_tokens": 1743,
             "completion_tokens": 443
         },
-        "time_elapsed": 12.632704734802246
+        "time_elapsed": 9.994673252105713,
+        "raw_responses": [
+            "Providing yogurt without a spoon to eat can prompt the individual to request a spoon. This action targets the communicative function of requesting an object to fulfill a need.\n\n(A) Imaginative function - This involves using language to create a world of imagination, which is not relevant in this context.\n(B) Personal function - This involves expressing personal feelings or opinions, which is not the primary focus here.\n(C) Interactive function - This involves using language to interact socially, which is not the primary focus here.\n(D) Instrumental function - This involves using language to fulfill a need or obtain something, which is relevant in this context.\n\nFinal answer: (D) Instrumental function",
+            "Providing yogurt without a spoon to eat can prompt the individual to request a spoon. This action targets the communicative function of asking for something needed to accomplish a task.\n\n(A) Imaginative function - This involves using language to create a world of fantasy or pretend, which is not relevant in this context.\n(B) Personal function - This involves expressing personal feelings, opinions, and individual identity, which is not the primary focus here.\n(C) Interactive function - This involves using language to interact and maintain social relationships, which is not the primary focus here.\n(D) Instrumental function - This involves using language to fulfill a need or get something done, which is relevant in this context.\n\nFinal answer: (D) Instrumental function",
+            "Providing yogurt without a spoon to eat can target the communicative function where the individual needs to request or ask for a spoon to be able to eat the yogurt. This involves using language to fulfill a need or obtain something necessary.\n\n(A) Imaginative function - This involves using language to create a world of imagination, which is not relevant in this context.\n(B) Personal function - This involves expressing personal feelings or opinions, which is not the primary focus here.\n(C) Interactive function - This involves using language to interact socially, which is not the main goal in this scenario.\n(D) Instrumental function - This involves using language to get something done or to obtain something, which fits the context of needing to ask for a spoon.\n\nFinal answer: (D) Instrumental function"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Providing yogurt without a spoon to eat can prompt the individual to request a spoon. This action targets the communicative function of requesting an object to fulfill a need.\n\n(A) Imaginative function - This involves using language to create a world of imagination, which is not relevant in this context.\n(B) Personal function - This involves expressing personal feelings or opinions, which is not the primary focus here.\n(C) Interactive function - This involves using language to interact socially, which is not the primary focus here.\n(D) Instrumental function - This involves using language to fulfill a need or obtain something, which is relevant in this context.\n\nFinal answer: (D) Instrumental function"
     },
     {
         "realidx": "36_speech_pathologist",
@@ -1074,10 +1723,21 @@
         "answer": "Abuse removal",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 582,
-            "completion_tokens": 24
+            "prompt_tokens": 585,
+            "completion_tokens": 31
         },
-        "time_elapsed": 6.453466415405273
+        "time_elapsed": 5.738169431686401,
+        "raw_responses": [
+            "(B) Continuous positive airway pressure training",
+            "(A) Posterior positioning of the tongue",
+            "(B) Continuous positive airway pressure training"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "(B) Continuous positive airway pressure training"
     },
     {
         "realidx": "37_speech_pathologist",
@@ -1093,9 +1753,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 447,
-            "completion_tokens": 77
+            "completion_tokens": 81
         },
-        "time_elapsed": 4.374919891357422
+        "time_elapsed": 4.237082004547119,
+        "raw_responses": [
+            "(A) CN 5",
+            "(A) CN 5",
+            "(A) CN 5"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions provide the same answer, which is CN 5 (Cranial Nerve 5, also known as the Trigeminal Nerve). Since they are identical, any of them can be chosen as the best final answer. I will choose option 0.\n\n0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) CN 5"
     },
     {
         "realidx": "38_speech_pathologist",
@@ -1110,10 +1781,21 @@
         "answer": "Accent Method",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 828,
-            "completion_tokens": 95
+            "prompt_tokens": 933,
+            "completion_tokens": 128
         },
-        "time_elapsed": 5.797544479370117
+        "time_elapsed": 6.295082092285156,
+        "raw_responses": [
+            "The comprehensive approach that consists of four stages: preparatory exercises, vocal fold stretching exercises, vocal fold adduction exercises, and strengthening exercises to treat hyperfunctional voice disorders is:\n\n(C) Vocal Function Exercises",
+            "The comprehensive approach consisting of four stages: preparatory exercises, vocal fold stretching exercises, vocal fold adduction exercises, and strengthening exercises to treat hyperfunctional voice disorders is:\n\n(C) Vocal Function Exercises",
+            "The comprehensive approach that consists of four stages: preparatory exercises, vocal fold stretching exercises, vocal fold adduction exercises, and strengthening exercises to treat hyperfunctional voice disorders is:\n\n(C) Vocal Function Exercises"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "The comprehensive approach consisting of four stages: preparatory exercises, vocal fold stretching exercises, vocal fold adduction exercises, and strengthening exercises to treat hyperfunctional voice disorders is:\n\n(C) Vocal Function Exercises"
     },
     {
         "realidx": "39_speech_pathologist",
@@ -1128,10 +1810,21 @@
         "answer": "Screening test \u2013 Establishing a treatment plan for different types of aphasia",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 723,
-            "completion_tokens": 55
+            "prompt_tokens": 717,
+            "completion_tokens": 59
         },
-        "time_elapsed": 6.895297288894653
+        "time_elapsed": 4.054728031158447,
+        "raw_responses": [
+            "(B) In-depth examination \u2013 Understanding the characteristics of aphasia in different language domains",
+            "Option (B) In-depth examination \u2013 Understanding the characteristics of aphasia in different language domains",
+            "(B) In-depth examination \u2013 Understanding the characteristics of aphasia in different language domains"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "1"
+        ],
+        "final_solution": "(B) In-depth examination \u2013 Understanding the characteristics of aphasia in different language domains"
     },
     {
         "realidx": "3_speech_pathologist",
@@ -1147,9 +1840,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 525,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 5.765295505523682
+        "time_elapsed": 3.777193784713745,
+        "raw_responses": [
+            "(A) Judging grammatical errors",
+            "(A) Judging grammatical errors",
+            "(A) Judging grammatical errors"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Judging grammatical errors"
     },
     {
         "realidx": "40_speech_pathologist",
@@ -1162,12 +1866,23 @@
         },
         "answer_idx": "B",
         "answer": "Induce vocal fold adduction with strong vocal fold contact.",
-        "predicted_answer": "B",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 630,
-            "completion_tokens": 39
+            "prompt_tokens": 621,
+            "completion_tokens": 42
         },
-        "time_elapsed": 3.9666850566864014
+        "time_elapsed": 3.6884102821350098,
+        "raw_responses": [
+            "(D) Induce relaxation with yawn-sigh.",
+            "(D) Induce relaxation with yawn-sigh.",
+            "(D) Induce relaxation with yawn-sigh."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Induce relaxation with yawn-sigh."
     },
     {
         "realidx": "41_speech_pathologist",
@@ -1183,9 +1898,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 486,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.3085877895355225
+        "time_elapsed": 3.64788818359375,
+        "raw_responses": [
+            "(B) silent aspiration",
+            "(B) silent aspiration",
+            "(B) silent aspiration"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) silent aspiration"
     },
     {
         "realidx": "42_speech_pathologist",
@@ -1201,9 +1927,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 591,
-            "completion_tokens": 37
+            "completion_tokens": 43
         },
-        "time_elapsed": 5.547744035720825
+        "time_elapsed": 4.003139019012451,
+        "raw_responses": [
+            "(D) Traumatic laryngitis \u2013 Elimination of abuse",
+            "(A) Muscle tension dysphonia \u2013 Pushing approach",
+            "(A) Muscle tension dysphonia \u2013 Pushing approach"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "1"
+        ],
+        "final_solution": "(D) Traumatic laryngitis \u2013 Elimination of abuse"
     },
     {
         "realidx": "43_clinical_laboratory_scientist",
@@ -1219,9 +1956,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 597,
-            "completion_tokens": 57
+            "completion_tokens": 63
         },
-        "time_elapsed": 7.374634742736816
+        "time_elapsed": 4.506624937057495,
+        "raw_responses": [
+            "The excitation conduction velocity is the fastest in the cardiac conduction system in the Bundle branches.\n\nFinal answer: (C) Bundle branches",
+            "(C) Bundle branches",
+            "The excitation conduction velocity is the fastest in the cardiac conduction system in the Bundle branches.\n\nFinal answer: (C) Bundle branches"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "The excitation conduction velocity is the fastest in the cardiac conduction system in the Bundle branches.\n\nFinal answer: (C) Bundle branches"
     },
     {
         "realidx": "47_biomedical_engineer",
@@ -1237,9 +1985,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 567,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.8977935314178467
+        "time_elapsed": 3.988995313644409,
+        "raw_responses": [
+            "(B) Learning computer operation methods",
+            "(B) Learning computer operation methods",
+            "(B) Learning computer operation methods"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Learning computer operation methods"
     },
     {
         "realidx": "47_clinical_laboratory_scientist",
@@ -1255,9 +2014,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 567,
-            "completion_tokens": 54
+            "completion_tokens": 60
         },
-        "time_elapsed": 4.11313009262085
+        "time_elapsed": 4.714308261871338,
+        "raw_responses": [
+            "(A) Macrophages (C) Mast cells (D) Fibroblasts",
+            "(A) Macrophages (C) Mast cells (D) Fibroblasts",
+            "(A) Macrophages (C) Mast cells (D) Fibroblasts"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Macrophages (C) Mast cells (D) Fibroblasts"
     },
     {
         "realidx": "49_speech_pathologist",
@@ -1273,9 +2043,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 663,
-            "completion_tokens": 135
+            "completion_tokens": 174
         },
-        "time_elapsed": 8.863557577133179
+        "time_elapsed": 5.9889960289001465,
+        "raw_responses": [
+            "(A) Tasks with visual cues \u2192 Tasks without visual cues",
+            "(A) Tasks with visual cues \u2192 Tasks without visual cues",
+            "(A) Tasks with visual cues \u2192 Tasks without visual cues"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) are identical. They all suggest that tasks with visual cues are easier and should come before tasks without visual cues. Since they are the same, any of them can be chosen as the correct answer.\n\nI will choose option 0.\n\n0",
+            "All the provided solutions are identical. Therefore, any of the options (0, 1, or 2) can be chosen as the correct answer. \n\nI will choose option 0.\n\n0",
+            "The solutions provided are identical. Therefore, any of the options (0, 1, or 2) would be correct. I will choose option 0.\n\n0"
+        ],
+        "final_solution": "(A) Tasks with visual cues \u2192 Tasks without visual cues"
     },
     {
         "realidx": "4_speech_pathologist",
@@ -1291,9 +2072,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 702,
-            "completion_tokens": 51
+            "completion_tokens": 57
         },
-        "time_elapsed": 6.174537658691406
+        "time_elapsed": 4.213948965072632,
+        "raw_responses": [
+            "(A) CAPE-V uses a 0-100 mm equal interval scale.",
+            "(A) CAPE-V uses a 0-100 mm equal interval scale.",
+            "(A) CAPE-V uses a 0-100 mm equal interval scale."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) CAPE-V uses a 0-100 mm equal interval scale."
     },
     {
         "realidx": "50_speech_pathologist",
@@ -1308,10 +2100,21 @@
         "answer": "Voice Handicap Index",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1251,
-            "completion_tokens": 276
+            "prompt_tokens": 1686,
+            "completion_tokens": 557
         },
-        "time_elapsed": 8.156948566436768
+        "time_elapsed": 9.268334150314331,
+        "raw_responses": [
+            "The Voice Handicap Index (A) is a self-assessment tool used to measure the psychological and social impacts of voice disorders on a person's life. It does not measure glottal closure rate.\n\nThe Voice Range Profile (B) is a method used to measure the range of pitches and volumes a person can produce. It does not measure glottal closure rate.\n\nQuality of Life Related to Voice (C) is a subjective assessment of how voice disorders affect a person's quality of life. It does not measure glottal closure rate.\n\nElectroglottography (D) is a method that measures the electrical conductance across the larynx to assess vocal fold contact during phonation. This method can measure glottal closure rate.\n\nFinal answer: (D) Electroglottography",
+            "(A) Voice Handicap Index - This is a self-assessment tool used to measure the psychological and social impacts of voice disorders, not glottal closure rate.\n\n(B) Voice Range Profile - This measures the range of pitches and volumes a person can produce, not glottal closure rate.\n\n(C) Quality of Life Related to Voice - This assesses the impact of voice disorders on a person's quality of life, not glottal closure rate.\n\n(D) Electroglottography - This method measures the electrical conductance across the larynx, which can be used to assess glottal closure rate.\n\nFinal answer: (D) Electroglottography",
+            "(A) Voice Handicap Index - This method assesses the psychological and social impacts of voice disorders but does not measure glottal closure rate.\n\n(B) Voice Range Profile - This method measures the range of pitches and volumes a person can produce but does not measure glottal closure rate.\n\n(C) Quality of Life Related to Voice - This method evaluates the impact of voice disorders on a person's quality of life but does not measure glottal closure rate.\n\n(D) Electroglottography - This method measures the electrical conductance across the vocal folds, which can be used to assess glottal closure rate.\n\nFinal answer: (D) Electroglottography"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "All three solutions correctly identify Electroglottography (D) as the method that can measure glottal closure rate. However, solution 1 provides a slightly more detailed explanation of how Electroglottography works, mentioning that it measures the electrical conductance across the larynx to assess vocal fold contact during phonation.\n\nTherefore, the best final answer is option 1.",
+            "All three solutions correctly identify Electroglottography as the method that can measure glottal closure rate. However, solution 2 provides the most detailed and clear explanation of each option, making it the most comprehensive and informative.\n\nTherefore, the best final answer is: 2."
+        ],
+        "final_solution": "The Voice Handicap Index (A) is a self-assessment tool used to measure the psychological and social impacts of voice disorders on a person's life. It does not measure glottal closure rate.\n\nThe Voice Range Profile (B) is a method used to measure the range of pitches and volumes a person can produce. It does not measure glottal closure rate.\n\nQuality of Life Related to Voice (C) is a subjective assessment of how voice disorders affect a person's quality of life. It does not measure glottal closure rate.\n\nElectroglottography (D) is a method that measures the electrical conductance across the larynx to assess vocal fold contact during phonation. This method can measure glottal closure rate.\n\nFinal answer: (D) Electroglottography"
     },
     {
         "realidx": "51_speech_pathologist",
@@ -1327,9 +2130,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 711,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 5.607464790344238
+        "time_elapsed": 4.332451581954956,
+        "raw_responses": [
+            "(A) Categorizing pictures semantically",
+            "(A) Categorizing pictures semantically",
+            "(A) Categorizing pictures semantically"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Categorizing pictures semantically"
     },
     {
         "realidx": "52_speech_pathologist",
@@ -1345,9 +2159,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 573,
-            "completion_tokens": 121
+            "completion_tokens": 200
         },
-        "time_elapsed": 7.554257392883301
+        "time_elapsed": 5.799214601516724,
+        "raw_responses": [
+            "(A) Putting a hat on one's head.",
+            "(A) Putting a hat on one's head.",
+            "(A) Putting a hat on one's head."
+        ],
+        "ensemble_raw_responses": [
+            "The candidate solutions provided are identical. Each solution suggests that \"putting a hat on one's head\" corresponds to the level of simple symbolic behavior. Since all solutions are the same, any of them can be chosen as the best final answer.\n\nI will choose option 0.\n\n0",
+            "The candidate solutions provided are all identical, with each one suggesting that \"putting a hat on one's head\" corresponds to the level of simple symbolic behavior. Since all solutions are the same, any of them can be chosen as the best final answer.\n\nI will choose option 0.\n\n0",
+            "All three candidate solutions (0, 1, and 2) provide the same answer: \"Putting a hat on one's head.\" Since they are identical, any of them can be chosen as the best final answer. \n\nI will choose option 0.\n\n0"
+        ],
+        "final_solution": "(A) Putting a hat on one's head."
     },
     {
         "realidx": "53_occupational_therapist",
@@ -1363,9 +2188,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 504,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 4.349215030670166
+        "time_elapsed": 4.032599210739136,
+        "raw_responses": [
+            "(B) 9",
+            "(B) 9",
+            "(B) 9"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) 9"
     },
     {
         "realidx": "55_biomedical_engineer",
@@ -1381,9 +2217,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 492,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.7146637439727783
+        "time_elapsed": 3.8121631145477295,
+        "raw_responses": [
+            "(A) EMR",
+            "(A) EMR",
+            "(A) EMR"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) EMR"
     },
     {
         "realidx": "55_speech_pathologist",
@@ -1399,9 +2246,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 513,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 4.000675439834595
+        "time_elapsed": 3.5154080390930176,
+        "raw_responses": [
+            "(A) FM system",
+            "(A) FM system",
+            "(A) FM system"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) FM system"
     },
     {
         "realidx": "56_speech_pathologist",
@@ -1416,10 +2274,21 @@
         "answer": "Oral pressure gauge",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 144,
-            "completion_tokens": 428
+            "prompt_tokens": 1260,
+            "completion_tokens": 321
         },
-        "time_elapsed": 21.23779296875
+        "time_elapsed": 7.441122770309448,
+        "raw_responses": [
+            "Hypokinetic dysarthria is a motor speech disorder commonly associated with Parkinson's disease, characterized by reduced movement in the muscles used for speech production. This can lead to issues such as reduced loudness, monotone pitch, and imprecise articulation, which affect speech intelligibility.\n\n(A) Oral pressure gauge: This device is used to measure the pressure exerted by the tongue or lips and is not typically used to improve speech intelligibility in hypokinetic dysarthria.\n\n(B) Artificial larynx: This device is used to produce sound for speech in individuals who have had their larynx removed, such as in cases of laryngectomy, and is not specifically used for hypokinetic dysarthria.\n\n(C) Pacing board: This device helps individuals with speech disorders to pace their speech by pointing to each word or syllable as they speak. It can be useful for improving speech rate and rhythm, which can be beneficial for individuals with hypokinetic dysarthria.\n\n(D) Voice amplifier: This device amplifies the speaker's voice, making it louder and easier to hear. It can be particularly helpful for individuals with hypokinetic dysarthria who have reduced vocal loudness.\n\nFinal answer: (D) Voice amplifier",
+            "(A) Oral pressure gauge",
+            "(A) Oral pressure gauge"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "The best final answer is provided in solution 1, which gives a detailed explanation of why the voice amplifier is the most appropriate assistive device for improving the speech intelligibility of patients with hypokinetic dysarthria. Therefore, the chosen option number is:\n\n1"
+        ],
+        "final_solution": "Hypokinetic dysarthria is a motor speech disorder commonly associated with Parkinson's disease, characterized by reduced movement in the muscles used for speech production. This can lead to issues such as reduced loudness, monotone pitch, and imprecise articulation, which affect speech intelligibility.\n\n(A) Oral pressure gauge: This device is used to measure the pressure exerted by the tongue or lips and is not typically used to improve speech intelligibility in hypokinetic dysarthria.\n\n(B) Artificial larynx: This device is used to produce sound for speech in individuals who have had their larynx removed, such as in cases of laryngectomy, and is not specifically used for hypokinetic dysarthria.\n\n(C) Pacing board: This device helps individuals with speech disorders to pace their speech by pointing to each word or syllable as they speak. It can be useful for improving speech rate and rhythm, which can be beneficial for individuals with hypokinetic dysarthria.\n\n(D) Voice amplifier: This device amplifies the speaker's voice, making it louder and easier to hear. It can be particularly helpful for individuals with hypokinetic dysarthria who have reduced vocal loudness.\n\nFinal answer: (D) Voice amplifier"
     },
     {
         "realidx": "57_speech_pathologist",
@@ -1434,10 +2303,21 @@
         "answer": "Cepstrum",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 384,
-            "completion_tokens": 17
+            "prompt_tokens": 480,
+            "completion_tokens": 24
         },
-        "time_elapsed": 7.160143136978149
+        "time_elapsed": 3.5786662101745605,
+        "raw_responses": [
+            "(B) Voice Range Profile",
+            "(B) Voice Range Profile",
+            "(B) Voice Range Profile"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Voice Range Profile"
     },
     {
         "realidx": "58_biomedical_engineer",
@@ -1453,9 +2333,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 531,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.878286838531494
+        "time_elapsed": 3.568018674850464,
+        "raw_responses": [
+            "(C) Rejection response",
+            "(C) Rejection response",
+            "(C) Rejection response"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Rejection response"
     },
     {
         "realidx": "58_speech_pathologist",
@@ -1470,10 +2361,21 @@
         "answer": "Nasal leakage",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 391,
-            "completion_tokens": 162
+            "prompt_tokens": 1422,
+            "completion_tokens": 331
         },
-        "time_elapsed": 16.82927966117859
+        "time_elapsed": 6.494676113128662,
+        "raw_responses": [
+            "(A) Fronting of velar sounds: This is not typically a compensatory articulation error seen in children with cleft palate. It is more commonly associated with phonological disorders.\n\n(B) Nasal leakage: This is a symptom of velopharyngeal insufficiency, not a compensatory articulation error.\n\n(C) Pharyngeal fricative: This is a compensatory articulation error often seen in children with cleft palate. They may use pharyngeal fricatives to compensate for the inability to produce certain sounds due to the structural abnormalities.\n\n(D) Reduced oral pressure: This is a symptom of velopharyngeal insufficiency, not a compensatory articulation error.\n\nFinal answer: (C) Pharyngeal fricative",
+            "(A) Fronting of velar sounds: This is not typically a compensatory articulation error seen in children with cleft palate. It is more commonly associated with phonological disorders.\n\n(B) Nasal leakage: This is a symptom of velopharyngeal insufficiency, not a compensatory articulation error.\n\n(C) Pharyngeal fricative: This is a compensatory articulation error often seen in children with cleft palate. They may use pharyngeal fricatives to compensate for the inability to produce certain sounds due to the structural abnormalities.\n\n(D) Reduced oral pressure: This is a symptom of velopharyngeal insufficiency, not a compensatory articulation error.\n\nFinal answer: (C) Pharyngeal fricative",
+            "(C) Pharyngeal fricative"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "The best final answer is option number 2."
+        ],
+        "final_solution": "(A) Fronting of velar sounds: This is not typically a compensatory articulation error seen in children with cleft palate. It is more commonly associated with phonological disorders.\n\n(B) Nasal leakage: This is a symptom of velopharyngeal insufficiency, not a compensatory articulation error.\n\n(C) Pharyngeal fricative: This is a compensatory articulation error often seen in children with cleft palate. They may use pharyngeal fricatives to compensate for the inability to produce certain sounds due to the structural abnormalities.\n\n(D) Reduced oral pressure: This is a symptom of velopharyngeal insufficiency, not a compensatory articulation error.\n\nFinal answer: (C) Pharyngeal fricative"
     },
     {
         "realidx": "59_speech_pathologist",
@@ -1488,10 +2390,21 @@
         "answer": "Lewy body dementia",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 162,
-            "completion_tokens": 12
+            "prompt_tokens": 930,
+            "completion_tokens": 142
         },
-        "time_elapsed": 17.692384243011475
+        "time_elapsed": 4.764750957489014,
+        "raw_responses": [
+            "(B) Frontotemporal dementia",
+            "(A) Parkinson's disease typically appears later in life and is characterized by motor symptoms rather than early personality changes and behavioral problems.\n(B) Frontotemporal dementia typically appears between the ages of 40 and 60, progresses rapidly, and shows personality changes and behavioral problems from the onset.\n(C) Lewy body dementia often appears later in life and is characterized by visual hallucinations, motor symptoms, and fluctuating cognition.\n(D) Alzheimer's disease typically appears later in life and is characterized by memory loss and cognitive decline rather than early personality changes and behavioral problems.\n\nFinal answer: (B) Frontotemporal dementia",
+            "(B) Frontotemporal dementia"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "2"
+        ],
+        "final_solution": "(A) Parkinson's disease typically appears later in life and is characterized by motor symptoms rather than early personality changes and behavioral problems.\n(B) Frontotemporal dementia typically appears between the ages of 40 and 60, progresses rapidly, and shows personality changes and behavioral problems from the onset.\n(C) Lewy body dementia often appears later in life and is characterized by visual hallucinations, motor symptoms, and fluctuating cognition.\n(D) Alzheimer's disease typically appears later in life and is characterized by memory loss and cognitive decline rather than early personality changes and behavioral problems.\n\nFinal answer: (B) Frontotemporal dementia"
     },
     {
         "realidx": "60_speech_pathologist",
@@ -1506,10 +2419,21 @@
         "answer": "In Fry phonation, the glottal closure index is larger than the glottal opening index.",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 538,
-            "completion_tokens": 48
+            "prompt_tokens": 894,
+            "completion_tokens": 138
         },
-        "time_elapsed": 15.738719940185547
+        "time_elapsed": 4.878372430801392,
+        "raw_responses": [
+            "(A) In vocal fold paralysis, the glottal closure index is smaller than the glottal opening index.",
+            "(B) In Fry phonation, the glottal closure index is larger than the glottal opening index.",
+            "(A) In vocal fold paralysis, the glottal closure index is smaller than the glottal opening index."
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "The correct interpretation of the results of an electroglottographic waveform test is:\n\n(A) In vocal fold paralysis, the glottal closure index is smaller than the glottal opening index.\n\nBoth solutions 1 and 2 provide the same correct interpretation. Therefore, the best final answer is:\n\n1"
+        ],
+        "final_solution": "(A) In vocal fold paralysis, the glottal closure index is smaller than the glottal opening index."
     },
     {
         "realidx": "61_biomedical_engineer",
@@ -1524,10 +2448,21 @@
         "answer": "Osmosis",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 561,
-            "completion_tokens": 35
+            "prompt_tokens": 501,
+            "completion_tokens": 21
         },
-        "time_elapsed": 4.227066516876221
+        "time_elapsed": 4.219700574874878,
+        "raw_responses": [
+            "(B) Active transport",
+            "(B) Active transport",
+            "(B) Active transport"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Active transport"
     },
     {
         "realidx": "62_clinical_laboratory_scientist",
@@ -1543,9 +2478,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 468,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.9663031101226807
+        "time_elapsed": 3.8985633850097656,
+        "raw_responses": [
+            "(A) heparin",
+            "(A) heparin",
+            "(A) heparin"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) heparin"
     },
     {
         "realidx": "62_speech_pathologist",
@@ -1560,10 +2506,21 @@
         "answer": "Thyroarytenoid muscle",
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 315,
-            "completion_tokens": 9
+            "prompt_tokens": 555,
+            "completion_tokens": 27
         },
-        "time_elapsed": 11.562564373016357
+        "time_elapsed": 4.015275239944458,
+        "raw_responses": [
+            "(A) Cricothyroid muscle",
+            "(A) Cricothyroid muscle",
+            "(A) Cricothyroid muscle"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Cricothyroid muscle"
     },
     {
         "realidx": "63_biomedical_engineer",
@@ -1578,10 +2535,21 @@
         "answer": "Orthosis",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1347,
-            "completion_tokens": 264
+            "prompt_tokens": 1350,
+            "completion_tokens": 271
         },
-        "time_elapsed": 6.270374536514282
+        "time_elapsed": 6.490932941436768,
+        "raw_responses": [
+            "(C) Prosthesis",
+            "(A) Artificial joint - This is a device used to replace a damaged joint, typically to restore function and reduce pain, but it is specific to joints.\n\n(B) Stent - This is a device used to keep blood vessels open, typically to prevent blockages, but it is specific to blood vessels.\n\n(C) Prosthesis - This is an artificial device that replaces a missing body part, such as a limb, to restore function.\n\n(D) Orthosis - This is a device used to support, align, prevent, or correct deformities, or to improve the function of movable parts of the body.\n\nFinal answer: (C) Prosthesis",
+            "(A) Artificial joint - This is a device used to replace a damaged joint, typically to restore function and reduce pain, but it is specific to joints.\n\n(B) Stent - This is a device used to keep blood vessels open, typically to prevent blockages, but it is specific to blood vessels.\n\n(C) Prosthesis - This is an artificial device that replaces a missing body part, such as a limb, to restore function.\n\n(D) Orthosis - This is a device used to support, align, prevent, or correct deformities, or to improve the function of movable parts of the body.\n\nFinal answer: (C) Prosthesis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(A) Artificial joint - This is a device used to replace a damaged joint, typically to restore function and reduce pain, but it is specific to joints.\n\n(B) Stent - This is a device used to keep blood vessels open, typically to prevent blockages, but it is specific to blood vessels.\n\n(C) Prosthesis - This is an artificial device that replaces a missing body part, such as a limb, to restore function.\n\n(D) Orthosis - This is a device used to support, align, prevent, or correct deformities, or to improve the function of movable parts of the body.\n\nFinal answer: (C) Prosthesis"
     },
     {
         "realidx": "63_speech_pathologist",
@@ -1597,9 +2565,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 483,
-            "completion_tokens": 19
+            "completion_tokens": 25
         },
-        "time_elapsed": 7.747690439224243
+        "time_elapsed": 3.5195107460021973,
+        "raw_responses": [
+            "(A) Cerebellum",
+            "(C) Basal ganglia",
+            "(A) Cerebellum"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "2"
+        ],
+        "final_solution": "(C) Basal ganglia"
     },
     {
         "realidx": "64_occupational_therapist",
@@ -1615,9 +2594,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 528,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 6.248582601547241
+        "time_elapsed": 7.228593826293945,
+        "raw_responses": [
+            "(A) Making the bed",
+            "(A) Making the bed",
+            "(A) Making the bed"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Making the bed"
     },
     {
         "realidx": "64_speech_pathologist",
@@ -1633,9 +2623,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 447,
-            "completion_tokens": 12
+            "completion_tokens": 18
         },
-        "time_elapsed": 6.3217997550964355
+        "time_elapsed": 3.8446085453033447,
+        "raw_responses": [
+            "(A) MCA",
+            "(A) MCA",
+            "(A) MCA"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) MCA"
     },
     {
         "realidx": "66_speech_pathologist",
@@ -1651,9 +2652,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 648,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 7.731641530990601
+        "time_elapsed": 3.8231096267700195,
+        "raw_responses": [
+            "(B) Support small group and individualized programs.",
+            "(B) Support small group and individualized programs.",
+            "(B) Support small group and individualized programs."
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Support small group and individualized programs."
     },
     {
         "realidx": "6_speech_pathologist",
@@ -1668,10 +2680,21 @@
         "answer": "degree of voice breaks (DVB)",
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1389,
-            "completion_tokens": 294
+            "prompt_tokens": 1326,
+            "completion_tokens": 341
         },
-        "time_elapsed": 7.250370264053345
+        "time_elapsed": 7.470707178115845,
+        "raw_responses": [
+            "(A) soft phonation index (SPI) - Higher SPI indicates a breathier voice, which is generally not considered a better voice condition.\n(B) degree of voice breaks (DVB) - Higher DVB indicates more frequent voice breaks, which is generally not considered a better voice condition.\n(C) cepstral peak prominence (CPP) - Higher CPP indicates a clearer and more harmonic voice, which is generally considered a better voice condition.\n(D) average fundamental frequency (F0) - Higher F0 does not necessarily indicate a better voice condition as it varies with gender and age.\n\nFinal answer: (C) cepstral peak prominence (CPP)",
+            "(C) cepstral peak prominence (CPP)",
+            "(A) soft phonation index (SPI) - Higher SPI indicates a breathier voice, which is generally not considered a better voice condition.\n(B) degree of voice breaks (DVB) - Higher DVB indicates more frequent voice breaks, which is generally not considered a better voice condition.\n(C) cepstral peak prominence (CPP) - Higher CPP indicates a clearer and more harmonic voice, which is generally considered a better voice condition.\n(D) average fundamental frequency (F0) - Higher F0 does not necessarily indicate a better voice condition as it varies with gender and age.\n\nFinal answer: (C) cepstral peak prominence (CPP)"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 0. \n\nOption 0 provides a detailed explanation for each candidate solution, making it clear why (C) cepstral peak prominence (CPP) is considered to indicate a better voice condition with a higher measurement value. This thorough analysis helps in understanding the reasoning behind the choice.",
+            "0"
+        ],
+        "final_solution": "(A) soft phonation index (SPI) - Higher SPI indicates a breathier voice, which is generally not considered a better voice condition.\n(B) degree of voice breaks (DVB) - Higher DVB indicates more frequent voice breaks, which is generally not considered a better voice condition.\n(C) cepstral peak prominence (CPP) - Higher CPP indicates a clearer and more harmonic voice, which is generally considered a better voice condition.\n(D) average fundamental frequency (F0) - Higher F0 does not necessarily indicate a better voice condition as it varies with gender and age.\n\nFinal answer: (C) cepstral peak prominence (CPP)"
     },
     {
         "realidx": "70_occupational_therapist",
@@ -1687,9 +2710,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 555,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 5.286557912826538
+        "time_elapsed": 5.559727191925049,
+        "raw_responses": [
+            "(D) Prone position",
+            "(D) Prone position",
+            "(D) Prone position"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Prone position"
     },
     {
         "realidx": "7_occupational_therapist",
@@ -1704,10 +2738,21 @@
         "answer": "moderate",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1155,
-            "completion_tokens": 370
+            "prompt_tokens": 1164,
+            "completion_tokens": 357
         },
-        "time_elapsed": 13.397774457931519
+        "time_elapsed": 7.726013660430908,
+        "raw_responses": [
+            "The severity of injury according to the duration of posttraumatic amnesia is as follows:\n\n- Very mild: less than 5 minutes\n- Mild: 5-60 minutes\n- Moderate: 1-24 hours\n- Severe: 1-7 days\n- Very severe: more than 7 days\n\nFinal answer: (B) very severe",
+            "The severity of injury according to the duration of posttraumatic amnesia is as follows:\n\n- Very mild: less than 5 minutes\n- Mild: 5-60 minutes\n- Moderate: 1-24 hours\n- Severe: 1-7 days\n- Very severe: more than 7 days\n\nFinal answer: (B) very severe",
+            "The severity of injury according to the duration of posttraumatic amnesia (PTA) is classified as follows:\n\n- Very mild: PTA less than 5 minutes\n- Mild: PTA 5-60 minutes\n- Moderate: PTA 1-24 hours\n- Severe: PTA 1-7 days\n- Very severe: PTA more than 7 days\n\nGiven these classifications, the severity of injury according to the duration of posttraumatic amnesia is:\n\n(A) severe"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "The best final answer is option 0. \n\nOption 0 correctly lists the classifications for the severity of injury according to the duration of posttraumatic amnesia and provides the final answer as \"very severe,\" which aligns with the classification for more than 7 days of posttraumatic amnesia. \n\nOption 1 incorrectly concludes with \"severe\" instead of \"very severe,\" and option 2 is identical to option 0. Therefore, the chosen option number is:\n\n0",
+            "The best final answer is option 1."
+        ],
+        "final_solution": "The severity of injury according to the duration of posttraumatic amnesia is as follows:\n\n- Very mild: less than 5 minutes\n- Mild: 5-60 minutes\n- Moderate: 1-24 hours\n- Severe: 1-7 days\n- Very severe: more than 7 days\n\nFinal answer: (B) very severe"
     },
     {
         "realidx": "7_speech_pathologist",
@@ -1722,10 +2767,21 @@
         "answer": "Does stuttering appear differently depending on the situation?",
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 702,
-            "completion_tokens": 176
+            "prompt_tokens": 708,
+            "completion_tokens": 69
         },
-        "time_elapsed": 7.955867052078247
+        "time_elapsed": 4.1884520053863525,
+        "raw_responses": [
+            "Option (D) Do you practice words that you think you might stutter on before saying them?",
+            "Option (D) Do you practice words that you think you might stutter on before saying them?",
+            "Option (D) Do you practice words that you think you might stutter on before saying them?"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "Option (D) Do you practice words that you think you might stutter on before saying them?"
     },
     {
         "realidx": "84_clinical_psychologist",
@@ -1740,10 +2796,21 @@
         "answer": "Pt scale",
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1087,
-            "completion_tokens": 507
+            "prompt_tokens": 1521,
+            "completion_tokens": 504
         },
-        "time_elapsed": 14.839294910430908
+        "time_elapsed": 9.681064367294312,
+        "raw_responses": [
+            "The K score correction is used in the MMPI to adjust certain clinical scales to account for defensiveness or underreporting of symptoms. This correction is applied to enhance the reliability and validity of the test results. The scales that typically involve the K score correction are the clinical scales that measure psychological distress and psychopathology.\n\nStep-by-step reasoning:\n1. The Si scale (Social Introversion) measures introversion and social withdrawal. It does not typically involve K score correction.\n2. The Pt scale (Psychasthenia) measures anxiety and obsessive-compulsive symptoms. It does involve K score correction.\n3. The D scale (Depression) measures depressive symptoms. It does involve K score correction.\n4. The L scale (Lie) measures the tendency to present oneself in an overly favorable manner. It does not involve K score correction.\n\nFinal answer: (B) Pt scale",
+            "(B) Pt scale",
+            "The K score correction is used in the MMPI to adjust certain clinical scales to account for a respondent's tendency to underreport or overreport psychological symptoms. This correction is particularly relevant for scales that measure aspects of psychopathology where defensiveness or exaggeration might distort the results. \n\nThe K score correction is most commonly applied to the following scales:\n- Hypochondriasis (Hs)\n- Depression (D)\n- Hysteria (Hy)\n- Psychopathic Deviate (Pd)\n- Paranoia (Pa)\n- Psychasthenia (Pt)\n- Schizophrenia (Sc)\n- Hypomania (Ma)\n\nAmong the given options, the Pt scale (Psychasthenia) is one of the scales that involves the statistical manipulation of the K score correction.\n\nFinal answer: (B) Pt scale"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2. \n\nOption 2 provides a clear and accurate explanation of the K score correction and its application to the relevant clinical scales in the MMPI. It correctly identifies that the Pt scale (Psychasthenia) involves the statistical manipulation of the K score correction, and it also explains why other scales do or do not involve this correction. This thorough reasoning makes option 2 the most comprehensive and reliable choice.",
+            "The best final answer is option 2. \n\nOption 2 provides a comprehensive explanation of the K score correction and lists the scales to which it is commonly applied, including the Pt scale. This detailed reasoning supports the conclusion that the Pt scale involves the statistical manipulation of the K score correction.\n\nFinal answer: 2",
+            "2"
+        ],
+        "final_solution": "The K score correction is used in the MMPI to adjust certain clinical scales to account for a respondent's tendency to underreport or overreport psychological symptoms. This correction is particularly relevant for scales that measure aspects of psychopathology where defensiveness or exaggeration might distort the results. \n\nThe K score correction is most commonly applied to the following scales:\n- Hypochondriasis (Hs)\n- Depression (D)\n- Hysteria (Hy)\n- Psychopathic Deviate (Pd)\n- Paranoia (Pa)\n- Psychasthenia (Pt)\n- Schizophrenia (Sc)\n- Hypomania (Ma)\n\nAmong the given options, the Pt scale (Psychasthenia) is one of the scales that involves the statistical manipulation of the K score correction.\n\nFinal answer: (B) Pt scale"
     },
     {
         "realidx": "84_occupational_therapist",
@@ -1759,9 +2826,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 531,
-            "completion_tokens": 18
+            "completion_tokens": 302
         },
-        "time_elapsed": 7.015794038772583
+        "time_elapsed": 6.386018753051758,
+        "raw_responses": [
+            "(B) 5 points",
+            "(A) 4 points",
+            "(B) 5 points"
+        ],
+        "ensemble_raw_responses": [
+            "The Functional Independence Measure (FIM) score for an individual who requires minimal assistance and uses a grab bar to perform a task is typically 4 points. Minimal assistance usually means the individual can perform 75% or more of the task on their own, which corresponds to a FIM score of 4.\n\nTherefore, the best final answer is option 2.",
+            "The Functional Independence Measure (FIM) score for an individual who requires minimal assistance is typically 4 points. Minimal assistance means the individual can perform 75% or more of the task on their own, but still requires some help.\n\nGiven the candidate solutions:\n0: (B) 5 points\n1: (A) 4 points\n2: (B) 5 points\n\nThe correct FIM score for minimal assistance is 4 points. Therefore, the best final answer is option 1.\n\n1",
+            "The Functional Independence Measure (FIM) score for an individual who requires minimal assistance is typically 4 points. Minimal assistance means the individual can perform 75% or more of the task on their own, but still requires some help.\n\nGiven the candidate solutions:\n0: (B) 5 points\n1: (A) 4 points\n2: (B) 5 points\n\nThe correct FIM score for minimal assistance is 4 points. Therefore, the best final answer is option 1.\n\n1"
+        ],
+        "final_solution": "(A) 4 points"
     },
     {
         "realidx": "85_clinical_laboratory_scientist",
@@ -1774,12 +2852,23 @@
         },
         "answer_idx": "D",
         "answer": "Escherichia coli",
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 891,
-            "completion_tokens": 113
+            "prompt_tokens": 648,
+            "completion_tokens": 337
         },
-        "time_elapsed": 4.176567554473877
+        "time_elapsed": 6.421278715133667,
+        "raw_responses": [
+            "(A) Shigella sonnei",
+            "(A) Shigella sonnei",
+            "(A) Shigella sonnei"
+        ],
+        "ensemble_raw_responses": [
+            "The given problem describes a bacterium with specific biochemical characteristics: A/AG on TSI agar, urea negative, positive motility, and IMViC ++-- results. \n\nShigella sonnei typically shows the following characteristics:\n- TSI: K/A (alkaline slant/acid butt), no gas production (not A/AG)\n- Urea: Negative\n- Motility: Negative\n- IMViC: -+--\n\nGiven that Shigella sonnei does not match the described characteristics (especially A/AG on TSI agar and positive motility), none of the provided solutions (0, 1, 2) are correct.\n\nTherefore, the best final answer is none of the provided options. However, since the instructions ask to choose from the given options, and all options are the same, I will return option 0.\n\n0",
+            "The bacterium that shows A/AG (acid/acid with gas production), urea negative, positive motility, and IMViC ++-- results on triple sugar iron (TSI) agar is not Shigella sonnei. Shigella sonnei typically shows K/A (alkaline/acid) on TSI agar, is urea negative, non-motile, and has IMViC results of -+--.\n\nGiven that all the candidate solutions provided are the same and incorrect, none of the options (0, 1, 2) are correct. Therefore, the best final answer cannot be chosen from the given options.",
+            "0"
+        ],
+        "final_solution": "(A) Shigella sonnei"
     },
     {
         "realidx": "9_speech_pathologist",
@@ -1795,8 +2884,19 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1707,
-            "completion_tokens": 410
+            "completion_tokens": 407
         },
-        "time_elapsed": 7.810783863067627
+        "time_elapsed": 7.853057146072388,
+        "raw_responses": [
+            "(A) Descent of the soft palate\n- Incorrect. During the pharyngeal phase of swallowing, the soft palate elevates to close off the nasopharynx, preventing food from entering the nasal cavity.\n\n(B) Opening of the lower esophageal sphincter\n- Incorrect. The lower esophageal sphincter opens during the esophageal phase of swallowing, not the pharyngeal phase.\n\n(C) Elevation of the hyoid and larynx\n- Correct. During the pharyngeal phase of swallowing, the hyoid bone and larynx elevate to help close the airway and direct the food bolus towards the esophagus.\n\n(D) Opening of the laryngeal vestibule\n- Incorrect. The laryngeal vestibule closes during the pharyngeal phase to protect the airway from aspiration.\n\nFinal answer: (C) Elevation of the hyoid and larynx",
+            "(C) Elevation of the hyoid and larynx",
+            "(A) Descent of the soft palate\n- Incorrect. During the pharyngeal phase of swallowing, the soft palate elevates to close off the nasopharynx, preventing food from entering the nasal cavity.\n\n(B) Opening of the lower esophageal sphincter\n- Incorrect. The lower esophageal sphincter opens during the esophageal phase of swallowing, not the pharyngeal phase.\n\n(C) Elevation of the hyoid and larynx\n- Correct. During the pharyngeal phase of swallowing, the hyoid bone and larynx elevate to help close the airway and direct the food bolus towards the esophagus.\n\n(D) Opening of the laryngeal vestibule\n- Incorrect. The laryngeal vestibule closes during the pharyngeal phase to protect the airway from food entering the trachea.\n\nFinal answer: (C) Elevation of the hyoid and larynx"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "0"
+        ],
+        "final_solution": "(A) Descent of the soft palate\n- Incorrect. During the pharyngeal phase of swallowing, the soft palate elevates to close off the nasopharynx, preventing food from entering the nasal cavity.\n\n(B) Opening of the lower esophageal sphincter\n- Incorrect. The lower esophageal sphincter opens during the esophageal phase of swallowing, not the pharyngeal phase.\n\n(C) Elevation of the hyoid and larynx\n- Correct. During the pharyngeal phase of swallowing, the hyoid bone and larynx elevate to help close the airway and direct the food bolus towards the esophagus.\n\n(D) Opening of the laryngeal vestibule\n- Incorrect. The laryngeal vestibule closes during the pharyngeal phase to protect the airway from aspiration.\n\nFinal answer: (C) Elevation of the hyoid and larynx"
     }
 ]

@@ -10,11 +10,13 @@
 LOGS_DIR=logs
 DATA_DIR=../../data
 
-for model in claude-3-5-haiku claude-3-5-sonnet o1-mini o3-mini gpt-4o-mini gpt-4o Qwen/QwQ-32B-Preview deepseek-ai/DeepSeek-R1 deepseek-ai/DeepSeek-V3 meta-llama/Llama-3.3-70B-Instruct-Turbo; do
+# for model in claude-3-5-haiku claude-3-5-sonnet o1-mini o3-mini gpt-4o-mini gpt-4o Qwen/QwQ-32B deepseek-ai/DeepSeek-R1 deepseek-ai/DeepSeek-V3 meta-llama/Llama-3.3-70B-Instruct-Turbo; do
+for model in Qwen/QwQ-32B; do
     {
-        for dataset in medexqa medxpertqa-r medxpertqa-u; do
+        for dataset in medqa medbullets medmcqa pubmedqa mmlu mmlu-pro medexqa medxpertqa-r medxpertqa-u; do
             mkdir -p $LOGS_DIR/$dataset 
-            for split in test_hard; do
+            # for split in test_hard; do
+            for split in test_hard test; do
                 echo "Running $model on $dataset $split"
                 model_filename=$(echo $model | tr '/' '_')
                 log_file=$LOGS_DIR/$dataset/${model_filename}_${dataset}_${split}.log

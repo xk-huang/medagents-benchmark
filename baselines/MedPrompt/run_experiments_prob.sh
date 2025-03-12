@@ -10,9 +10,9 @@
 LOGS_DIR=logs
 DATA_DIR=../../data
 
-for model in gpt-35-turbo gpt-4 claude-3-5-haiku claude-3-5-sonnet o1-mini o3-mini gpt-4o-mini gpt-4o Qwen/QwQ-32B-Preview deepseek-ai/DeepSeek-R1 deepseek-ai/DeepSeek-V3 meta-llama/Llama-3.3-70B-Instruct-Turbo; do
+for model in Qwen/QwQ-32B; do
     {
-        for dataset in 'medqa' 'pubmedqa' 'medmcqa' 'medbullets' 'mmlu' 'mmlu-pro'; do
+        for dataset in 'medqa' 'pubmedqa' 'medmcqa' 'medbullets' 'mmlu' 'mmlu-pro' 'medexqa' 'medxpertqa-r' 'medxpertqa-u'; do
         mkdir -p $LOGS_DIR/$dataset 
             for split in test; do
                 echo "Running $model on $dataset $split"

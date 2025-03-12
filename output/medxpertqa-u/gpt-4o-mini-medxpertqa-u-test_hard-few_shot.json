@@ -16,12 +16,13 @@
         },
         "answer_idx": "D",
         "answer": "B cells",
+        "raw_response": "Answer: B cells",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3391,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 0.8491461277008057
+        "time_elapsed": 1.0038414001464844
     },
     {
         "realidx": "Text-113",
@@ -40,12 +41,13 @@
         },
         "answer_idx": "B",
         "answer": "Increases carpal tunnel pressure",
-        "predicted_answer": "F",
+        "raw_response": "The correct answer is: **Decreases carpal tunnel pressure**. \n\nPositioning the wrist in a cock-up splint at 30 degrees of extension helps to maintain the wrist in a neutral position, which can reduce pressure on the median nerve within the carpal tunnel. This position minimizes the tension on the transverse carpal ligament and helps alleviate symptoms associated with carpal tunnel syndrome.",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3459,
-            "completion_tokens": 72
+            "completion_tokens": 78
         },
-        "time_elapsed": 2.089622735977173
+        "time_elapsed": 2.2473957538604736
     },
     {
         "realidx": "Text-116",
@@ -64,12 +66,13 @@
         },
         "answer_idx": "C",
         "answer": "45-year-old woman that had a propane tank explode near her thigh undergoing a transfemoral amputation",
+        "raw_response": "The patient at the greatest risk of developing heterotopic ossification at the site of the procedure is:\n\n**(B) 25-year-old army captain with a complex blast injury to his shin undergoing transfemoral amputation.**\n\nHeterotopic ossification is more likely to occur in patients with severe trauma, particularly those with complex injuries such as blast injuries, which can lead to significant soft tissue damage and inflammation. The nature of the injury and the surgical procedure involved increases the risk of this complication.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3647,
-            "completion_tokens": 84
+            "completion_tokens": 103
         },
-        "time_elapsed": 1.4863767623901367
+        "time_elapsed": 1.8408029079437256
     },
     {
         "realidx": "Text-118",
@@ -88,12 +91,13 @@
         },
         "answer_idx": "C",
         "answer": "The earliest radiographic finding is loss of normal lumbar lordosis, followed by disc space narrowing and endplate erosion.",
+        "raw_response": "The correct answer is: (A) The earliest radiographic finding is endplate erosion, followed by loss of normal lumbar lordosis and disc space narrowing.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3693,
-            "completion_tokens": 31
+            "completion_tokens": 32
         },
-        "time_elapsed": 0.9945850372314453
+        "time_elapsed": 1.3069095611572266
     },
     {
         "realidx": "Text-123",
@@ -112,12 +116,13 @@
         },
         "answer_idx": "C",
         "answer": "Carboplatin and paclitaxel",
+        "raw_response": "The most suitable concurrent chemotherapy regimen for preoperative chemoradiotherapy (chemoRT) to 50.4 Gy in a patient with HER2-positive T3N1 adenocarcinoma of the distal esophagus is:\n\n**Answer: (B) Carboplatin, paclitaxel, and trastuzumab**\n\nThis regimen is appropriate as it combines chemotherapy with trastuzumab, which targets the HER2 receptor, making it effective for HER2-positive cancers.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3570,
             "completion_tokens": 96
         },
-        "time_elapsed": 1.4131505489349365
+        "time_elapsed": 1.7050199508666992
     },
     {
         "realidx": "Text-125",
@@ -136,12 +141,13 @@
         },
         "answer_idx": "F",
         "answer": "Nimorazole",
+        "raw_response": "Answer: Tirapazamine",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3375,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.8875219821929932
+        "time_elapsed": 1.2862496376037598
     },
     {
         "realidx": "Text-13",
@@ -160,12 +166,13 @@
         },
         "answer_idx": "I",
         "answer": "High tibial osteotomy",
+        "raw_response": "Answer: Total knee arthroplasty (TKA)",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3417,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 0.8952772617340088
+        "time_elapsed": 1.1339545249938965
     },
     {
         "realidx": "Text-131",
@@ -184,12 +191,13 @@
         },
         "answer_idx": "I",
         "answer": "Normal kidneys",
-        "predicted_answer": "D",
+        "raw_response": "Answer: Multiple visible cysts in both kidneys",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3399,
-            "completion_tokens": 9
+            "completion_tokens": 10
         },
-        "time_elapsed": 0.8001127243041992
+        "time_elapsed": 0.9757661819458008
     },
     {
         "realidx": "Text-134",
@@ -208,12 +216,13 @@
         },
         "answer_idx": "H",
         "answer": "Dependent",
+        "raw_response": "Answer: Avoidant",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3416,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 0.7812914848327637
+        "time_elapsed": 0.983588457107544
     },
     {
         "realidx": "Text-141",
@@ -232,12 +241,13 @@
         },
         "answer_idx": "A",
         "answer": "Hemorrhage",
-        "predicted_answer": "E",
+        "raw_response": "Answer: Cardiac malformations",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3487,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.009850263595581
+        "time_elapsed": 1.1544599533081055
     },
     {
         "realidx": "Text-150",
@@ -256,12 +266,13 @@
         },
         "answer_idx": "A",
         "answer": "| **Diameter** | **Degree of Myelination** |\n| --- | --- |\n| 2 \u00b5m | ++++ |",
-        "predicted_answer": "E",
+        "raw_response": "The type of nerve fibers that are most susceptible to blockade by local anesthetics like xylocaine are the smaller diameter fibers, particularly those that are less myelinated. In this case, the fibers that are most likely to be affected are the C fibers, which are unmyelinated and have a small diameter (around 0.5-1.5 \u00b5m). \n\nAmong the options provided, the closest match for the smallest diameter and degree of myelination would be:\n\n(I) **Diameter** | **Degree of Myelination** |\n| --- | --- |\n| .5 \u00b5m | - |\n\nThus, the answer is (I) .5 \u00b5m | - (unmyelinated fibers).",
+        "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3913,
-            "completion_tokens": 188
+            "completion_tokens": 147
         },
-        "time_elapsed": 2.7696170806884766
+        "time_elapsed": 1.9761900901794434
     },
     {
         "realidx": "Text-152",
@@ -280,12 +291,13 @@
         },
         "answer_idx": "I",
         "answer": "*Campylobacter*",
+        "raw_response": "The clinical presentation of the 33-year-old female patient, including her recent camping trip, consumption of water from local streams, and symptoms of abdominal pain and bloody diarrhea, suggests a gastrointestinal infection. The presence of bloody diarrhea is particularly indicative of certain pathogens.\n\nAmong the options provided, the most likely pathogen responsible for her symptoms is:\n\n**(B) *E. coli* 0157:H7**\n\nThis strain of *E. coli* is known to cause bloody diarrhea and is often associated with undercooked meat or contaminated water, which aligns with her recent camping experience. Other pathogens listed, such as *Shigella* and *Entamoeba histolytica*, could also cause bloody diarrhea, but the context of her exposure makes *E. coli* 0157:H7 the most likely cause in this scenario.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3563,
-            "completion_tokens": 168
+            "completion_tokens": 169
         },
-        "time_elapsed": 1.9819750785827637
+        "time_elapsed": 2.2491958141326904
     },
     {
         "realidx": "Text-154",
@@ -304,12 +316,13 @@
         },
         "answer_idx": "D",
         "answer": "Pantothenic acid",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Thiamine",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3511,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.7650153636932373
+        "time_elapsed": 1.0754303932189941
     },
     {
         "realidx": "Text-158",
@@ -328,12 +341,13 @@
         },
         "answer_idx": "B",
         "answer": "Neurokinin A",
+        "raw_response": "The correct answer is: (H) Substance P. \n\nSubstance P is a neuropeptide that plays a significant role in neurogenic inflammation and is involved in the transmission of pain signals. It is associated with the sympathetic nervous system and is often implicated in conditions like bladder pain syndrome.",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3372,
-            "completion_tokens": 58
+            "completion_tokens": 59
         },
-        "time_elapsed": 1.3020451068878174
+        "time_elapsed": 1.5050950050354004
     },
     {
         "realidx": "Text-160",
@@ -352,12 +366,13 @@
         },
         "answer_idx": "I",
         "answer": "Sorbitol dehydrogenase",
+        "raw_response": "The clinical manifestations in this patient, including progressive blurring of vision and findings of retinal artery narrowing and microaneurysms, are indicative of diabetic retinopathy, which is a common complication of long-standing diabetes. The underlying mechanism involves the conversion of glucose to sorbitol via the enzyme aldose reductase, which is particularly active in tissues such as the retina, lens, and nerves. This process leads to osmotic and oxidative stress, contributing to the complications seen in diabetes.\n\nTherefore, the correct answer is:\n\n**(F) Aldose reductase**",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3484,
-            "completion_tokens": 114
+            "completion_tokens": 115
         },
-        "time_elapsed": 1.5321581363677979
+        "time_elapsed": 1.857205867767334
     },
     {
         "realidx": "Text-17",
@@ -376,12 +391,13 @@
         },
         "answer_idx": "B",
         "answer": "Covalent bonds between carboxyl and amino groups",
-        "predicted_answer": "C",
+        "raw_response": "The extract is most likely disrupting **disulfide bonds formed during protein folding**. \n\nDisulfide bonds are covalent bonds that form between the sulfur atoms of cysteine residues in proteins, contributing to the protein's tertiary structure. The fact that the function of the specific protein cannot be restored even with the addition of chaperones suggests that the extract is causing irreversible damage to the protein's structure, which is consistent with the disruption of disulfide bonds.",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3524,
-            "completion_tokens": 97
+            "completion_tokens": 94
         },
-        "time_elapsed": 1.5420098304748535
+        "time_elapsed": 4.940096139907837
     },
     {
         "realidx": "Text-176",
@@ -400,12 +416,13 @@
         },
         "answer_idx": "D",
         "answer": "Trim the frayed tendon edges and begin early range of motion",
+        "raw_response": "Answer: Primary tendon repair with 3/0 braided suture",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3551,
-            "completion_tokens": 13
+            "completion_tokens": 14
         },
-        "time_elapsed": 1.1018805503845215
+        "time_elapsed": 1.014805793762207
     },
     {
         "realidx": "Text-19",
@@ -424,12 +441,13 @@
         },
         "answer_idx": "I",
         "answer": "Lateral to the patella with knee in extension",
-        "predicted_answer": "A",
+        "raw_response": "The most precise site for needle placement when performing a knee aspiration or intra-articular injection is:\n\n**(B) Suprapatellar approach with knee in neutral position.**\n\nThis approach allows for direct access to the suprapatellar bursa, which is the most common site for fluid accumulation in the knee joint.",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3486,
-            "completion_tokens": 12
+            "completion_tokens": 64
         },
-        "time_elapsed": 1.333038568496704
+        "time_elapsed": 1.5669548511505127
     },
     {
         "realidx": "Text-197",
@@ -448,12 +466,13 @@
         },
         "answer_idx": "D",
         "answer": "0.9 cm grade 3 DCIS s/p lumpectomy with negative margin",
+        "raw_response": "The patient most likely to achieve the greatest local control benefit from radiation therapy (RT) is:\n\n**(A) 4.5 cm DCIS s/p mastectomy with a positive margin.**\n\nThis patient has a larger tumor size and a positive margin, indicating a higher risk of local recurrence, which radiation therapy can help mitigate.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3624,
-            "completion_tokens": 68
+            "completion_tokens": 69
         },
-        "time_elapsed": 1.377863883972168
+        "time_elapsed": 1.5659115314483643
     },
     {
         "realidx": "Text-198",
@@ -472,12 +491,13 @@
         },
         "answer_idx": "J",
         "answer": "Tobacco use",
+        "raw_response": "Answer: Diabetes mellitus",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3344,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 0.8117215633392334
+        "time_elapsed": 1.4431488513946533
     },
     {
         "realidx": "Text-212",
@@ -496,12 +516,13 @@
         },
         "answer_idx": "B",
         "answer": "Hip extension and abduction",
+        "raw_response": "Answer: Hip adduction and internal rotation",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3399,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 1.0424470901489258
+        "time_elapsed": 1.335512399673462
     },
     {
         "realidx": "Text-215",
@@ -520,12 +541,13 @@
         },
         "answer_idx": "G",
         "answer": "CN IX",
+        "raw_response": "The symptoms described in the patient, including muscle weakness, excessive salivation, constricted pupils, and cheilosis, suggest a possible case of organophosphate poisoning, which is associated with cholinergic symptoms due to the inhibition of acetylcholinesterase. \n\nThe excessive salivation and constricted pupils (miosis) are indicative of increased parasympathetic activity, which is mediated by the cranial nerves. Specifically, the facial nerve (CN VII) is responsible for the innervation of the muscles of facial expression and also contributes to the control of salivation through the submandibular and sublingual glands.\n\nGiven the presence of cheilosis (inflammation at the corners of the mouth), which can be associated with excessive salivation and possibly a lack of proper oral care due to muscle weakness, the unbalanced activity primarily responsible for this condition is related to the facial nerve (CN VII).\n\nTherefore, the correct answer is:\n\n**(E) CN VII**",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3452,
-            "completion_tokens": 154
+            "completion_tokens": 199
         },
-        "time_elapsed": 2.3656058311462402
+        "time_elapsed": 2.747446060180664
     },
     {
         "realidx": "Text-216",
@@ -544,12 +566,13 @@
         },
         "answer_idx": "D",
         "answer": "Alanine aminotransferase",
+        "raw_response": "Answer: Alpha-fetoprotein",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3456,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 1.3440148830413818
+        "time_elapsed": 0.8908801078796387
     },
     {
         "realidx": "Text-225",
@@ -568,12 +591,13 @@
         },
         "answer_idx": "F",
         "answer": "For patients with a mild opioid use disorder in whom medication therapy is chosen, naltrexone is considered the first-line treatment.",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Methadone requires daily administration in a supervised clinical setting.",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3701,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 0.7982754707336426
+        "time_elapsed": 1.0699880123138428
     },
     {
         "realidx": "Text-229",
@@ -592,12 +616,13 @@
         },
         "answer_idx": "D",
         "answer": "At the same dose, vilazodone will always have a submaximal effect.",
+        "raw_response": "The correct answer is: **(E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor.** \n\nThis statement accurately describes the pharmacological profiles of vortioxetine and vilazodone in relation to the 5-HT1A receptor.",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3769,
-            "completion_tokens": 69
+            "completion_tokens": 70
         },
-        "time_elapsed": 1.7510905265808105
+        "time_elapsed": 1.4383423328399658
     },
     {
         "realidx": "Text-230",
@@ -616,12 +641,13 @@
         },
         "answer_idx": "J",
         "answer": "Stimulation of release of insulin-like growth factor",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Stimulation of enterocyte differentiation and proliferation",
+        "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3533,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 1.0164637565612793
+        "time_elapsed": 9.369804382324219
     },
     {
         "realidx": "Text-231",
@@ -640,12 +666,13 @@
         },
         "answer_idx": "G",
         "answer": "Autosomal recessive",
+        "raw_response": "Based on the family history provided, where the great-great-grandmother had a condition characterized by splenomegaly and joint pain, and considering that the condition is on the maternal side, the most likely inheritance pattern that would explain the genetic transmission of this condition is:\n\n**Answer: (I) X-linked recessive**\n\nThis is because X-linked recessive conditions are often passed down through maternal lines, and males are typically affected more severely than females. The symptoms described (anemia and splenomegaly) could be consistent with conditions such as certain hemolytic anemias or other blood disorders that can have X-linked inheritance patterns.",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3448,
-            "completion_tokens": 101
+            "completion_tokens": 132
         },
-        "time_elapsed": 1.4985723495483398
+        "time_elapsed": 2.023521900177002
     },
     {
         "realidx": "Text-240",
@@ -664,12 +691,13 @@
         },
         "answer_idx": "H",
         "answer": "Naked, positive-sense, single-stranded RNA virus",
+        "raw_response": "The clinical presentation of the 6-year-old boy, including recent camping trip exposure and symptoms of diarrhea and vomiting, suggests a possible infection with a waterborne pathogen. Given the context, the most likely causative pathogen is Giardia lamblia, which is characterized as a trophozoite with 4 pairs of flagella.\n\nTherefore, the best characterization of the causative pathogen is:\n\n**Answer: (F) Trophozoite with 4 pairs of flagella**",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3618,
-            "completion_tokens": 90
+            "completion_tokens": 97
         },
-        "time_elapsed": 1.3777589797973633
+        "time_elapsed": 1.6135883331298828
     },
     {
         "realidx": "Text-242",
@@ -688,12 +716,13 @@
         },
         "answer_idx": "G",
         "answer": "5'-CGC-3'",
+        "raw_response": "To determine the correct anticodon sequence that would bind to the mRNA codon sequence of 5'-GCA-3', we need to consider the base pairing rules between mRNA codons and tRNA anticodons. \n\nThe codon 5'-GCA-3' corresponds to the following base pairing:\n- G (guanine) pairs with C (cytosine)\n- C (cytosine) pairs with G (guanine)\n- A (adenine) pairs with U (uracil)\n\nThus, the anticodon that would bind to the mRNA codon 5'-GCA-3' would be complementary and antiparallel, which results in the sequence 3'-CGU-5'.\n\nTherefore, the correct answer is:\n(H) 3'-CGU-5'",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3477,
-            "completion_tokens": 164
+            "completion_tokens": 168
         },
-        "time_elapsed": 1.8915483951568604
+        "time_elapsed": 2.1955809593200684
     },
     {
         "realidx": "Text-247",
@@ -712,12 +741,13 @@
         },
         "answer_idx": "J",
         "answer": "Procarbazine",
+        "raw_response": "Answer: Etoposide",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3481,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.8283023834228516
+        "time_elapsed": 1.180452823638916
     },
     {
         "realidx": "Text-251",
@@ -736,12 +766,13 @@
         },
         "answer_idx": "H",
         "answer": "Obturator",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Obturator",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3416,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.815737247467041
+        "time_elapsed": 1.0628564357757568
     },
     {
         "realidx": "Text-258",
@@ -760,12 +791,13 @@
         },
         "answer_idx": "I",
         "answer": "Familial adenomatous polyposis",
+        "raw_response": "Answer: Gardner syndrome",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3378,
-            "completion_tokens": 7
+            "completion_tokens": 5
         },
-        "time_elapsed": 1.3026270866394043
+        "time_elapsed": 1.139178991317749
     },
     {
         "realidx": "Text-261",
@@ -784,12 +816,13 @@
         },
         "answer_idx": "E",
         "answer": "Absence of an organ that is not needed in adulthood",
+        "raw_response": "Based on the clinical presentation of the 2-year-old boy, the most likely finding is:\n\n**(D) Decreased serum immunoglobulin levels with absent B cells.**\n\nThis child exhibits signs suggestive of an immunodeficiency, particularly with the history of recurrent viral infections, delayed umbilical cord separation, and family history of unspecified immunodeficiency. The combination of these factors points towards a possible condition such as X-linked agammaglobulinemia (Bruton\u2019s agammaglobulinemia), which is characterized by the absence of B cells and low immunoglobulin levels, leading to increased susceptibility to infections.",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3660,
-            "completion_tokens": 189
+            "completion_tokens": 130
         },
-        "time_elapsed": 2.265117883682251
+        "time_elapsed": 1.90700364112854
     },
     {
         "realidx": "Text-267",
@@ -808,12 +841,13 @@
         },
         "answer_idx": "I",
         "answer": "4 strand core suture technique and cast immobilization for 4 weeks",
+        "raw_response": "The most appropriate surgical approach and post-operative rehabilitation protocol for a laceration of the flexor tendon in Zone 2 of the fourth digit in a 4-year-old male patient is:\n\n**Answer: (C) 4 strand core suture technique and early active motion protocol with wrist in neutral.**\n\nThis approach allows for optimal healing of the tendon while promoting mobility and function in the affected digit. Early active motion is crucial in preventing adhesions and maintaining tendon gliding.",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3618,
-            "completion_tokens": 96
+            "completion_tokens": 97
         },
-        "time_elapsed": 1.4753201007843018
+        "time_elapsed": 3.1877191066741943
     },
     {
         "realidx": "Text-269",
@@ -832,12 +866,13 @@
         },
         "answer_idx": "C",
         "answer": "Estrogen",
+        "raw_response": "Answer: Cancer antigen-125",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3552,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.7787365913391113
+        "time_elapsed": 1.1170265674591064
     },
     {
         "realidx": "Text-271",
@@ -856,12 +891,13 @@
         },
         "answer_idx": "I",
         "answer": "Unfavorable Intermediate",
-        "predicted_answer": "A",
+        "raw_response": "Answer: High risk",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3347,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 0.8832168579101562
+        "time_elapsed": 1.2364482879638672
     },
     {
         "realidx": "Text-277",
@@ -880,12 +916,13 @@
         },
         "answer_idx": "E",
         "answer": "L1",
+        "raw_response": "Answer: T12",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3369,
-            "completion_tokens": 4
+            "completion_tokens": 5
         },
-        "time_elapsed": 0.9498090744018555
+        "time_elapsed": 1.137113094329834
     },
     {
         "realidx": "Text-278",
@@ -904,12 +941,13 @@
         },
         "answer_idx": "J",
         "answer": "10-20%",
+        "raw_response": "The percentage of patients undergoing adult spinal deformity surgery who experience major complications is typically reported to be in the range of 10-20%. Therefore, the correct answer is:\n\nAnswer: (J) 10-20%",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 3378,
-            "completion_tokens": 45
+            "completion_tokens": 46
         },
-        "time_elapsed": 1.2496697902679443
+        "time_elapsed": 6.209265232086182
     },
     {
         "realidx": "Text-298",
@@ -928,12 +966,13 @@
         },
         "answer_idx": "C",
         "answer": "Fryette\u2019s third law",
+        "raw_response": "The correct answer is: **Fryette\u2019s first law**. \n\nFryette's first law states that when the spine is in a neutral position, sidebending and rotation occur in opposite directions. In this case, the restriction in extension and limited mobility in rotation and sidebending at the T5 vertebral segment suggests that the segment is not functioning normally, which aligns with the principles of Fryette's first law.",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3452,
-            "completion_tokens": 85
+            "completion_tokens": 88
         },
-        "time_elapsed": 1.2599401473999023
+        "time_elapsed": 1.3819196224212646
     },
     {
         "realidx": "Text-304",
@@ -952,12 +991,13 @@
         },
         "answer_idx": "I",
         "answer": "CN VII",
+        "raw_response": "The correct answer is: (H) Superior vestibular nerve. \n\nThe superior vestibular nerve is located superior to the transverse crest and anterior to Bill's Bar within the internal auditory canal.",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3369,
-            "completion_tokens": 38
+            "completion_tokens": 39
         },
-        "time_elapsed": 1.2080748081207275
+        "time_elapsed": 1.3191463947296143
     },
     {
         "realidx": "Text-315",
@@ -976,12 +1016,13 @@
         },
         "answer_idx": "F",
         "answer": "Midshaft of the left femur",
+        "raw_response": "Answer: Left lower rib cage",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3526,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.8371624946594238
+        "time_elapsed": 1.0262463092803955
     },
     {
         "realidx": "Text-317",
@@ -1000,12 +1041,13 @@
         },
         "answer_idx": "C",
         "answer": "Granulomatous mastitis",
-        "predicted_answer": "D",
+        "raw_response": "The most likely diagnosis for the 36-year-old female presenting with right breast inflammation, purulent nipple discharge, and a tender mass in the upper outer quadrant of the breast is:\n\n**(I) Periductal mastitis**\n\nThis condition is characterized by inflammation of the ducts beneath the nipple, often leading to discharge and sometimes the formation of a mass. The patient's history of recurrent episodes and the presence of a draining sinus tract with purulent discharge further support this diagnosis.",
+        "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3554,
-            "completion_tokens": 89
+            "completion_tokens": 96
         },
-        "time_elapsed": 1.511333703994751
+        "time_elapsed": 1.583620309829712
     },
     {
         "realidx": "Text-320",
@@ -1024,12 +1066,13 @@
         },
         "answer_idx": "F",
         "answer": "Decreased contractility",
-        "predicted_answer": "E",
+        "raw_response": "The most probable immediate cardiac response to ketamine during anesthetic induction is:\n\n**Answer: Increased heart rate (H)**\n\nKetamine is known to have sympathomimetic effects, which can lead to an increase in heart rate. It can also cause an increase in blood pressure due to its effects on the sympathetic nervous system.",
+        "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3384,
-            "completion_tokens": 108
+            "completion_tokens": 67
         },
-        "time_elapsed": 1.7584974765777588
+        "time_elapsed": 2.0175602436065674
     },
     {
         "realidx": "Text-325",
@@ -1048,12 +1091,13 @@
         },
         "answer_idx": "I",
         "answer": "Tip of the right 12th\u00a0rib",
-        "predicted_answer": "A",
+        "raw_response": "Answer: McBurney's point",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3530,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 4.494430303573608
+        "time_elapsed": 1.5279664993286133
     },
     {
         "realidx": "Text-331",
@@ -1072,12 +1116,13 @@
         },
         "answer_idx": "J",
         "answer": "Prevents depolarization of Na+ channels",
+        "raw_response": "The symptoms described in the scenario, including severe nausea, diarrhea, weakness, and tingling in the extremities, suggest a possible case of ciguatera poisoning, which is associated with the consumption of certain types of fish. Ciguatera toxin primarily affects the nervous system and can lead to gastrointestinal and neurological symptoms.\n\nThe mechanism of action of ciguatoxin involves the promotion of depolarization of sodium channels, leading to increased neuronal excitability and the symptoms observed.\n\nTherefore, the correct answer is:\n\n**(A) Promotes depolarization of Na+ channels**",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3564,
-            "completion_tokens": 115
+            "completion_tokens": 116
         },
-        "time_elapsed": 2.1568024158477783
+        "time_elapsed": 1.7786836624145508
     },
     {
         "realidx": "Text-335",
@@ -1096,12 +1141,13 @@
         },
         "answer_idx": "E",
         "answer": "Vitamin E",
+        "raw_response": "Answer: Omega-3 fatty acids",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3598,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 1.3699686527252197
+        "time_elapsed": 1.327469825744629
     },
     {
         "realidx": "Text-337",
@@ -1120,12 +1166,13 @@
         },
         "answer_idx": "A",
         "answer": "Mesoderm",
+        "raw_response": "The inflamed gastrointestinal lining involved in appendicitis originates from the embryological layer known as the **splanchnic mesoderm**. This layer gives rise to the mesodermal components of the gastrointestinal tract, including the appendiceal lining.\n\nAnswer: (I) Splanchnic mesoderm",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3401,
-            "completion_tokens": 60
+            "completion_tokens": 65
         },
-        "time_elapsed": 2.9544124603271484
+        "time_elapsed": 1.5076589584350586
     },
     {
         "realidx": "Text-339",
@@ -1144,12 +1191,13 @@
         },
         "answer_idx": "J",
         "answer": "Rifampin monotherapy",
+        "raw_response": "Answer: Isoniazid with pyridoxine supplementation",
         "predicted_answer": "I",
         "token_usage": {
             "prompt_tokens": 3532,
-            "completion_tokens": 12
+            "completion_tokens": 13
         },
-        "time_elapsed": 1.0502781867980957
+        "time_elapsed": 1.240859031677246
     },
     {
         "realidx": "Text-344",
@@ -1168,12 +1216,13 @@
         },
         "answer_idx": "A",
         "answer": "Union",
-        "predicted_answer": "F",
+        "raw_response": "Answer: Fat embolism syndrome",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3363,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.9058563709259033
+        "time_elapsed": 1.2011771202087402
     },
     {
         "realidx": "Text-350",
@@ -1192,12 +1241,13 @@
         },
         "answer_idx": "A",
         "answer": "Short course RT (25 Gy in 5 Fx without concurrent 5-FU) followed by surgery within 1 week",
+        "raw_response": "The appropriate treatment regimen for patients diagnosed with resectable non-metastatic rectal adenocarcinoma is:\n\n**(B) Short course chemoRT (25 Gy in 5 Fx with concurrent capecitabine) followed by surgery after 2-3 weeks.**\n\nThis approach is commonly used in clinical practice for managing non-metastatic rectal cancer, as it combines radiation therapy with chemotherapy to improve outcomes before surgical intervention.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3802,
-            "completion_tokens": 102
+            "completion_tokens": 89
         },
-        "time_elapsed": 2.2096476554870605
+        "time_elapsed": 1.8937792778015137
     },
     {
         "realidx": "Text-353",
@@ -1216,12 +1266,13 @@
         },
         "answer_idx": "G",
         "answer": "Blurry vision",
-        "predicted_answer": "D",
+        "raw_response": "Answer: Increased susceptibility to encapsulated bacterial infections",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3558,
-            "completion_tokens": 169
+            "completion_tokens": 10
         },
-        "time_elapsed": 1.7991313934326172
+        "time_elapsed": 4.375098466873169
     },
     {
         "realidx": "Text-355",
@@ -1240,12 +1291,13 @@
         },
         "answer_idx": "I",
         "answer": "Women with low anger expression and hostility have less pain.",
-        "predicted_answer": "B",
+        "raw_response": "Answer: Anger can stimulate endogenous opioid release.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3520,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 1.1324548721313477
+        "time_elapsed": 1.0857536792755127
     },
     {
         "realidx": "Text-362",
@@ -1264,12 +1316,13 @@
         },
         "answer_idx": "E",
         "answer": "Enteral nutrition can be initiated but should be discontinued if gastrointestinal output is >1500 mL/24 hours.",
+        "raw_response": "Answer: Enteral nutrition can be initiated but should be discontinued if gastrointestinal output is >1500 mL/24 hours.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3707,
-            "completion_tokens": 25
+            "completion_tokens": 26
         },
-        "time_elapsed": 1.2076482772827148
+        "time_elapsed": 3.3156068325042725
     },
     {
         "realidx": "Text-364",
@@ -1288,12 +1341,13 @@
         },
         "answer_idx": "F",
         "answer": "Type IIIB intra-articular distal tibia fracture",
+        "raw_response": "The type of tibial injury that is most frequently managed with staged open reduction and internal fixation combined with free flap soft tissue reconstruction is:\n\n**(B) Type IIIB distal tibia fracture with soft tissue avulsion.**\n\nType IIIB fractures are characterized by significant soft tissue injury and are often associated with extensive exposure of the fracture site, making them suitable candidates for complex management strategies that include both surgical fixation and soft tissue reconstruction.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3479,
-            "completion_tokens": 89
+            "completion_tokens": 87
         },
-        "time_elapsed": 1.6552824974060059
+        "time_elapsed": 1.9217572212219238
     },
     {
         "realidx": "Text-371",
@@ -1312,12 +1366,13 @@
         },
         "answer_idx": "I",
         "answer": "CD2",
-        "predicted_answer": "J",
+        "raw_response": "Based on the clinical presentation of the 15-year-old boy, who has a significantly elevated white blood cell count (84,000 cells/mL) and symptoms suggestive of a hematological disorder (fever, malaise, shortness of breath, and facial swelling), the most likely diagnosis is acute leukemia, particularly acute lymphoblastic leukemia (ALL) or acute myeloid leukemia (AML).\n\nIn the context of acute leukemia, the majority of leukocytes would express specific cell surface markers. \n\n- **CD19** is a pan-B-cell marker and is typically expressed in B-cell acute lymphoblastic leukemia (ALL).\n- **CD13/CD33** are myeloid markers and are typically expressed in acute myeloid leukemia (AML).\n\nGiven that the question does not specify whether the leukemia is lymphoblastic or myeloid, but considering the age of the patient and the commonality of ALL in this age group, the most likely cell surface marker expressed by the majority of leukocytes in this case would be **CD19**.\n\nTherefore, the answer is:\n**Answer: CD19**",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3408,
-            "completion_tokens": 185
+            "completion_tokens": 225
         },
-        "time_elapsed": 2.714320659637451
+        "time_elapsed": 2.606147289276123
     },
     {
         "realidx": "Text-38",
@@ -1336,12 +1391,13 @@
         },
         "answer_idx": "B",
         "answer": "Isoflurane set at a concentration of 1% has the same clinical effect at sea level and at higher altitude.",
+        "raw_response": "The correct answer regarding the clinical effects of inhaled anesthetics when administered at high altitudes is:\n\n(H) The partial pressure of isoflurane decreases at higher altitude, reducing its clinical effect.\n\nAt higher altitudes, the atmospheric pressure is lower, which results in a decrease in the partial pressure of inhaled anesthetics. This can lead to a reduced clinical effect of the anesthetic, as the effectiveness of inhaled anesthetics is dependent on their partial pressure in the alveoli.",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3737,
-            "completion_tokens": 88
+            "completion_tokens": 99
         },
-        "time_elapsed": 1.2224490642547607
+        "time_elapsed": 1.735525131225586
     },
     {
         "realidx": "Text-383",
@@ -1360,12 +1416,13 @@
         },
         "answer_idx": "I",
         "answer": "Dysfunction of thermoregulation in the body",
+        "raw_response": "The most likely cause of the symptoms in this 52-year-old woman, who is experiencing episodes of warmth over her face and trunk along with night sweats, is:\n\n**(B) Increased peripheral vasodilation secondary to hormonal shifts.**\n\nThis is consistent with the physiological changes that occur during menopause, where decreased estrogen levels lead to changes in thermoregulation and increased vasodilation, resulting in hot flashes and night sweats.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3571,
-            "completion_tokens": 81
+            "completion_tokens": 88
         },
-        "time_elapsed": 2.9714243412017822
+        "time_elapsed": 1.6751980781555176
     },
     {
         "realidx": "Text-384",
@@ -1384,12 +1441,13 @@
         },
         "answer_idx": "J",
         "answer": "Sodium channels of respiratory epithelial cells",
-        "predicted_answer": "F",
+        "raw_response": "The genetic defect described in the question is associated with cystic fibrosis, which is caused by a mutation in the CFTR gene located on chromosome 7. This mutation leads to improper folding of the CFTR protein, which is a chloride channel. As a result, the activity of other channels may be affected due to the imbalance of ions.\n\nIn cystic fibrosis, the malfunctioning CFTR chloride channels in epithelial cells lead to decreased chloride secretion and increased sodium absorption, which can result in elevated sodium channel activity in sweat glands. This is why patients with cystic fibrosis often have salty sweat.\n\nGiven this context, the most likely channel's activity that would be elevated as a consequence of the genetic defect is:\n\n**Answer: (E) Sodium channels of sweat gland epithelial cells**",
+        "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3497,
-            "completion_tokens": 171
+            "completion_tokens": 156
         },
-        "time_elapsed": 2.069488048553467
+        "time_elapsed": 2.265942096710205
     },
     {
         "realidx": "Text-387",
@@ -1408,12 +1466,13 @@
         },
         "answer_idx": "J",
         "answer": "Granular eosinophilic cells",
-        "predicted_answer": "A",
+        "raw_response": "Answer: Ground-glass hepatocytes with cytoplasmic inclusions",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3587,
-            "completion_tokens": 13
+            "completion_tokens": 14
         },
-        "time_elapsed": 0.8506090641021729
+        "time_elapsed": 1.3030331134796143
     },
     {
         "realidx": "Text-391",
@@ -1432,12 +1491,13 @@
         },
         "answer_idx": "F",
         "answer": "Extent of soft-tissue release",
+        "raw_response": "Answer: Subtalar joint function",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3391,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.7401900291442871
+        "time_elapsed": 1.1825535297393799
     },
     {
         "realidx": "Text-393",
@@ -1456,12 +1516,13 @@
         },
         "answer_idx": "I",
         "answer": "Bicuspid aortic valve",
+        "raw_response": "Answer: (A) Ventricular septal defect",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3394,
-            "completion_tokens": 11
+            "completion_tokens": 12
         },
-        "time_elapsed": 0.834956169128418
+        "time_elapsed": 1.1734647750854492
     },
     {
         "realidx": "Text-397",
@@ -1480,12 +1541,13 @@
         },
         "answer_idx": "D",
         "answer": "Bradycardia",
+        "raw_response": "The correct answer is: (A) Decreased venous return\n\nRapid insufflation of carbon dioxide (CO2) into the abdominal cavity can lead to increased intra-abdominal pressure, which may compress the inferior vena cava and decrease venous return to the heart. This can result in hemodynamic changes, including hypotension and decreased cardiac output.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3358,
-            "completion_tokens": 64
+            "completion_tokens": 71
         },
-        "time_elapsed": 1.643399715423584
+        "time_elapsed": 1.6764349937438965
     },
     {
         "realidx": "Text-400",
@@ -1504,12 +1566,13 @@
         },
         "answer_idx": "B",
         "answer": "HBsAg",
+        "raw_response": "Based on the clinical presentation of the 45-year-old male with rectal bleeding, crampy abdominal pain, recent weight loss, fever, elevated blood urea nitrogen and creatinine, and the presence of cutaneous ischemic ulcers, there is a strong suspicion of a systemic vasculitis or a related condition. The elevated ESR and C-reactive protein further support an inflammatory process.\n\nGiven these findings, the most likely additional laboratory test to yield a positive result would be:\n\n**(E) p-ANCA**\n\np-ANCA (perinuclear anti-neutrophil cytoplasmic antibodies) is often associated with conditions such as microscopic polyangiitis and other forms of vasculitis, which could explain the patient's symptoms and laboratory findings.",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3596,
-            "completion_tokens": 150
+            "completion_tokens": 153
         },
-        "time_elapsed": 1.9001257419586182
+        "time_elapsed": 2.618614673614502
     },
     {
         "realidx": "Text-402",
@@ -1528,12 +1591,13 @@
         },
         "answer_idx": "J",
         "answer": "Acute papillary necrosis",
+        "raw_response": "The clinical presentation of the 47-year-old woman includes fever, chills, back pain, and left-sided costovertebral angle tenderness, along with urinalysis findings of leukocytes, nitrites, protein, and red blood cells. Given her history of type 2 diabetes, the most likely underlying cause of her condition is:\n\n**Answer: (H) Xanthogranulomatous pyelonephritis**\n\nXanthogranulomatous pyelonephritis is a rare form of chronic pyelonephritis characterized by the presence of a large inflammatory mass in the kidney, often associated with obstruction and infection. It is more common in patients with diabetes and can present with similar symptoms as described.",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3512,
-            "completion_tokens": 228
+            "completion_tokens": 147
         },
-        "time_elapsed": 2.38631010055542
+        "time_elapsed": 2.1560933589935303
     },
     {
         "realidx": "Text-404",
@@ -1552,12 +1616,13 @@
         },
         "answer_idx": "E",
         "answer": "60 - 90%",
+        "raw_response": "The correct answer is (A) 40 - 55%. \n\nStudies indicate that approximately 40% to 55% of patients with solitary bone plasmacytoma will progress to multiple myeloma within a 10-year period.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3403,
-            "completion_tokens": 48
+            "completion_tokens": 49
         },
-        "time_elapsed": 1.7471668720245361
+        "time_elapsed": 1.3750722408294678
     },
     {
         "realidx": "Text-405",
@@ -1576,12 +1641,13 @@
         },
         "answer_idx": "B",
         "answer": "Topiramate",
+        "raw_response": "Answer: (A) Zonisamide",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3357,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.946932315826416
+        "time_elapsed": 1.3040101528167725
     },
     {
         "realidx": "Text-413",
@@ -1600,12 +1666,13 @@
         },
         "answer_idx": "A",
         "answer": "100% intermediate squamous cells",
-        "predicted_answer": "H",
+        "raw_response": "The most characteristic cytological pattern of the pap smear findings during pregnancy is:\n\n**Answer: Decidual cells with prominent nucleoli** \n\nDuring pregnancy, the presence of decidual cells, which are modified endometrial stromal cells, is typical due to the changes in the endometrium in response to the implantation of the embryo. These cells often exhibit prominent nucleoli, which can be a distinguishing feature in pap smear findings during this time.",
+        "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3572,
-            "completion_tokens": 72
+            "completion_tokens": 90
         },
-        "time_elapsed": 1.329416036605835
+        "time_elapsed": 1.7329180240631104
     },
     {
         "realidx": "Text-42",
@@ -1624,12 +1691,13 @@
         },
         "answer_idx": "C",
         "answer": "Prostate cancer",
+        "raw_response": "Based on the information provided, the patient is likely being treated with a medication that is commonly used for conditions related to hormonal regulation, such as a gonadotropin-releasing hormone (GnRH) agonist or antagonist, or possibly a hormonal contraceptive. \n\nGiven the context of her infertility and the mention of a treatment that is administered intermittently, it is reasonable to assume that the medication could be a GnRH agonist, which is often used to treat conditions like uterine fibroids or endometriosis. \n\nIf this medication were to be administered using a different dosing regimen, it could potentially treat:\n\n**Answer: (D) Uterine fibroids**\n\nThis is because GnRH agonists can be used to reduce the size of uterine fibroids and manage symptoms associated with them.",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3452,
-            "completion_tokens": 132
+            "completion_tokens": 162
         },
-        "time_elapsed": 2.2545905113220215
+        "time_elapsed": 2.0906217098236084
     },
     {
         "realidx": "Text-423",
@@ -1648,12 +1716,13 @@
         },
         "answer_idx": "A",
         "answer": "Acute angle branching fungus",
+        "raw_response": "Based on the provided clinical scenario, the patient is a 67-year-old man with significant weight loss, jaundice, and elevated alpha-fetoprotein levels, which raises suspicion for a hepatobiliary condition, possibly related to a parasitic infection given his history of emigration from Malaysia.\n\nThe most likely organism implicated in the development of the patient's condition, particularly considering the context of liver disease and the geographical background, is:\n\n**(B) Trematode from undercooked fish.**\n\nThis is consistent with infections such as those caused by *Clonorchis sinensis* or *Opisthorchis viverrini*, which are trematodes associated with liver fluke infections that can lead to cholangiocarcinoma and elevated alpha-fetoprotein levels.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3541,
-            "completion_tokens": 174
+            "completion_tokens": 158
         },
-        "time_elapsed": 2.0410025119781494
+        "time_elapsed": 2.0789613723754883
     },
     {
         "realidx": "Text-425",
@@ -1672,12 +1741,13 @@
         },
         "answer_idx": "J",
         "answer": "Fat malabsorption",
-        "predicted_answer": "A",
+        "raw_response": "The medication that promotes cholesterol consumption by the liver for bile salt synthesis is likely a bile acid sequestrant, such as cholestyramine or colesevelam. One of the known adverse effects of these medications is the formation of gallstones due to increased cholesterol saturation in the bile.\n\nTherefore, the most likely adverse effect this patient may experience after starting the medication is:\n\n**Answer: Gallstones (B)**",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3492,
-            "completion_tokens": 80
+            "completion_tokens": 84
         },
-        "time_elapsed": 3.5735559463500977
+        "time_elapsed": 1.774996280670166
     },
     {
         "realidx": "Text-433",
@@ -1696,12 +1766,13 @@
         },
         "answer_idx": "H",
         "answer": "Indomethacin",
+        "raw_response": "The patient's symptoms are suggestive of cluster headaches, characterized by severe unilateral pain around the eye, associated with autonomic symptoms such as redness and watering of the eye. The drug of choice for acute treatment of cluster headaches is **Sumatriptan** (option J), which is a triptan that effectively alleviates the pain during an attack.\n\nAnswer: Sumatriptan",
         "predicted_answer": "J",
         "token_usage": {
             "prompt_tokens": 3472,
-            "completion_tokens": 108
+            "completion_tokens": 77
         },
-        "time_elapsed": 2.4905147552490234
+        "time_elapsed": 3.8555898666381836
     },
     {
         "realidx": "Text-440",
@@ -1720,12 +1791,13 @@
         },
         "answer_idx": "H",
         "answer": "20% for both daily and BID",
+        "raw_response": "The observed rates of grade 3 or higher esophagitis in the CONVERT phase III randomized trial comparing the two radiotherapy regimens for limited-stage small cell lung cancer (SCLC) were:\n\n**Answer: (D) 30% for daily, 25% for BID**",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3547,
-            "completion_tokens": 59
+            "completion_tokens": 60
         },
-        "time_elapsed": 1.6493821144104004
+        "time_elapsed": 1.7542142868041992
     },
     {
         "realidx": "Text-450",
@@ -1744,12 +1816,13 @@
         },
         "answer_idx": "J",
         "answer": "Primary neuronal dysfunction.",
+        "raw_response": "Answer: Cortical spreading depression",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3453,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.3265702724456787
+        "time_elapsed": 1.0790255069732666
     },
     {
         "realidx": "Text-451",
@@ -1768,12 +1841,13 @@
         },
         "answer_idx": "D",
         "answer": "L2 neutral, sidebent right, rotated left",
+        "raw_response": "To determine the appropriate position for the Still technique in this patient with somatic dysfunction, we need to consider the findings from the physical exam. The patient is restricted in right sidebending, and the transverse processes of L1-L3 are more anterior on the left. This suggests that the dysfunction involves a left sidebent and right rotated position.\n\nIn the Still technique, the goal is to place the segment in a position of ease before returning to neutral. Given that the patient is restricted in right sidebending, we would want to position the lumbar spine in a way that allows for the left sidebending and right rotation to be addressed.\n\nTherefore, the correct position before returning to neutral would be:\n\n**(A) L2 neutral, sidebent left, rotated right.**\n\nThis position allows for the correction of the somatic dysfunction by facilitating the movement back to neutral.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3617,
-            "completion_tokens": 222
+            "completion_tokens": 179
         },
-        "time_elapsed": 2.1382999420166016
+        "time_elapsed": 2.213534355163574
     },
     {
         "realidx": "Text-458",
@@ -1792,12 +1866,13 @@
         },
         "answer_idx": "F",
         "answer": "Sargramostim",
+        "raw_response": "The symptoms described in the scenario, including difficulty breathing, severe muscle pain, vomiting, tachycardia, and hypotension, suggest a severe allergic reaction or anaphylaxis. Given the context of the patient's condition (AIDS and low blood cell counts) and the medication likely administered to improve her blood cell counts, the most probable medication given is **Oprelvekin** (option D), which is used to stimulate platelet production and can cause such severe side effects in some patients.\n\nAnswer: (D) Oprelvekin",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3616,
-            "completion_tokens": 102
+            "completion_tokens": 110
         },
-        "time_elapsed": 1.8457303047180176
+        "time_elapsed": 1.9026997089385986
     },
     {
         "realidx": "Text-459",
@@ -1816,12 +1891,13 @@
         },
         "answer_idx": "C",
         "answer": "Ischemic heart disease",
+        "raw_response": "Answer: Diabetic nephropathy",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3451,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.8097703456878662
+        "time_elapsed": 1.115006446838379
     },
     {
         "realidx": "Text-464",
@@ -1840,12 +1916,13 @@
         },
         "answer_idx": "E",
         "answer": "Flex to C6, rotate to the right, sidebend to the right",
+        "raw_response": "To treat the patient with neck pain and hypertonicity in the neck muscles, the most appropriate setup for treatment would be to flex to C6, rotate to the left, and sidebend to the left. This positioning would help alleviate the tension and pain in the area of the left transverse process of C6, where the patient is experiencing tenderness.\n\nAnswer: (C) Flex to C6, rotate to the left, sidebend to the left",
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 3695,
             "completion_tokens": 91
         },
-        "time_elapsed": 1.5917251110076904
+        "time_elapsed": 1.8827672004699707
     },
     {
         "realidx": "Text-467",
@@ -1864,12 +1941,13 @@
         },
         "answer_idx": "C",
         "answer": "Long-term use causes symptomatic relief in soft tissue injury mainly by a strong placebo effect",
+        "raw_response": "The most accurate statement regarding topical NSAID preparations is:\n\n(F) They cause fewer gastrointestinal side effects than oral NSAIDs due to minimal systemic absorption.",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3656,
-            "completion_tokens": 29
+            "completion_tokens": 30
         },
-        "time_elapsed": 1.0590038299560547
+        "time_elapsed": 1.4911253452301025
     },
     {
         "realidx": "Text-472",
@@ -1888,12 +1966,13 @@
         },
         "answer_idx": "E",
         "answer": "Lack of empathy by provider",
+        "raw_response": "Answer: Long waits for patient visits",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3413,
-            "completion_tokens": 7
+            "completion_tokens": 8
         },
-        "time_elapsed": 0.8540871143341064
+        "time_elapsed": 1.1905577182769775
     },
     {
         "realidx": "Text-479",
@@ -1912,12 +1991,13 @@
         },
         "answer_idx": "A",
         "answer": "10 cm proximal to radiocapitellar joint",
+        "raw_response": "The radial nerve transitions from the posterior compartment of the arm to the anterior compartment at the **lateral intermuscular septum**. \n\nTherefore, the correct answer is:\n**(F) At the lateral intermuscular septum**.",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3439,
-            "completion_tokens": 41
+            "completion_tokens": 50
         },
-        "time_elapsed": 1.5839436054229736
+        "time_elapsed": 3.3060879707336426
     },
     {
         "realidx": "Text-489",
@@ -1936,12 +2016,13 @@
         },
         "answer_idx": "F",
         "answer": "It describes the formation of a lethal lesion that results from the interaction of two proximate  sublesions formed by the same charged particle track",
+        "raw_response": "The correct answer is: **(F) It describes the formation of a lethal lesion that results from the interaction of two proximate sublesions formed by the same charged particle track.** \n\nIn the context of high dose rate low LET radiation, the \u03b1D component in the linear quadratic model represents the interaction of sublesions that occur due to the close proximity of damage caused by a single charged particle track, leading to lethal lesions.",
         "predicted_answer": "F",
         "token_usage": {
             "prompt_tokens": 3809,
-            "completion_tokens": 36
+            "completion_tokens": 89
         },
-        "time_elapsed": 2.169954776763916
+        "time_elapsed": 1.7571208477020264
     },
     {
         "realidx": "Text-491",
@@ -1960,12 +2041,13 @@
         },
         "answer_idx": "H",
         "answer": "SBRT followed by chemotherapy",
+        "raw_response": "The appropriate treatment option for a patient diagnosed with stage IA small cell lung cancer (SCLC) is:\n\n**(B) Surgery followed by adjuvant chemotherapy.**\n\nIn stage IA SCLC, surgical resection is often considered if the tumor is localized and the patient is a suitable candidate for surgery. Following surgery, adjuvant chemotherapy is typically recommended to reduce the risk of recurrence.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3436,
-            "completion_tokens": 77
+            "completion_tokens": 79
         },
-        "time_elapsed": 1.3954732418060303
+        "time_elapsed": 1.714315414428711
     },
     {
         "realidx": "Text-505",
@@ -1984,12 +2066,13 @@
         },
         "answer_idx": "E",
         "answer": "Two",
+        "raw_response": "The minimum number of screw holes required in the side plate to ensure successful fixation when stabilizing a 2-part intertrochanteric hip fracture using a sliding hip screw construct is typically **four**. This allows for adequate stability and load distribution across the fracture site.\n\nAnswer: (D) Four",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3350,
-            "completion_tokens": 81
+            "completion_tokens": 61
         },
-        "time_elapsed": 2.3333847522735596
+        "time_elapsed": 1.3882033824920654
     },
     {
         "realidx": "Text-513",
@@ -2008,12 +2091,13 @@
         },
         "answer_idx": "A",
         "answer": "no difference in outcomes",
+        "raw_response": "Answer: higher rates of post-operative stiffness",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3409,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 1.1135618686676025
+        "time_elapsed": 1.1636717319488525
     },
     {
         "realidx": "Text-52",
@@ -2032,12 +2116,13 @@
         },
         "answer_idx": "D",
         "answer": "Stems that are precoated with polymethylmethacrylate",
+        "raw_response": "Answer: Thin cement mantles less than 1 millimeter in thickness",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3478,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 0.9645118713378906
+        "time_elapsed": 1.0555522441864014
     },
     {
         "realidx": "Text-522",
@@ -2056,12 +2141,13 @@
         },
         "answer_idx": "J",
         "answer": "Simple ulnar nerve decompression at the cubital tunnel",
+        "raw_response": "Answer: Simple ulnar nerve decompression at the cubital tunnel",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3612,
-            "completion_tokens": 14
+            "completion_tokens": 15
         },
-        "time_elapsed": 0.9179110527038574
+        "time_elapsed": 1.0793542861938477
     },
     {
         "realidx": "Text-523",
@@ -2080,12 +2166,13 @@
         },
         "answer_idx": "F",
         "answer": "Glycopyrrolate",
+        "raw_response": "The scenario describes a 12-year-old boy with breathing difficulties, likely due to asthma, and mentions that the medication prescribed works by inhibiting a specific receptor on smooth muscle. Given the context, the medication is likely a bronchodilator that acts on beta-adrenergic receptors, which are found on smooth muscle in the airways.\n\nAmong the options provided, the medication that shares a similar mechanism of action (beta-agonist) with the likely prescribed medication (which could be a short-acting beta-agonist like albuterol) is:\n\n**Answer: (E) Salbutamol**\n\nSalbutamol (also known as albuterol) is a short-acting beta-2 adrenergic agonist that relaxes bronchial smooth muscle and is commonly used in the treatment of asthma and other conditions with bronchospasm.",
         "predicted_answer": "E",
         "token_usage": {
             "prompt_tokens": 3497,
-            "completion_tokens": 432
+            "completion_tokens": 171
         },
-        "time_elapsed": 7.886573553085327
+        "time_elapsed": 4.774477243423462
     },
     {
         "realidx": "Text-530",
@@ -2104,12 +2191,13 @@
         },
         "answer_idx": "J",
         "answer": "Eosinophilic casts",
+        "raw_response": "Answer: Tubular atrophy with interstitial fibrosis",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3580,
-            "completion_tokens": 10
+            "completion_tokens": 11
         },
-        "time_elapsed": 0.9306328296661377
+        "time_elapsed": 1.2966172695159912
     },
     {
         "realidx": "Text-534",
@@ -2128,12 +2216,13 @@
         },
         "answer_idx": "J",
         "answer": "Comminuted fracture at or above the level of the syndesmosis",
-        "predicted_answer": "H",
+        "raw_response": "The characteristic pattern of fibular fracture observed in a pronation-abduction type ankle injury according to the Lauge-Hansen classification system is:\n\n**Answer: Short oblique fracture extending proximally**",
+        "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3500,
-            "completion_tokens": 50
+            "completion_tokens": 40
         },
-        "time_elapsed": 1.7611052989959717
+        "time_elapsed": 1.7346174716949463
     },
     {
         "realidx": "Text-54",
@@ -2152,12 +2241,13 @@
         },
         "answer_idx": "G",
         "answer": "Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide",
+        "raw_response": "The correct answer is: **Addition of a cytotoxic alkylating chemotherapeutic agent, such as cyclophosphamide**. \n\nThis intervention is likely to decrease the therapeutic ratio of radiation treatment because it can increase the toxicity to normal tissues while potentially not enhancing the tumor response to radiation, thus reducing the overall effectiveness of the treatment.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3532,
-            "completion_tokens": 64
+            "completion_tokens": 69
         },
-        "time_elapsed": 1.1287925243377686
+        "time_elapsed": 1.3528072834014893
     },
     {
         "realidx": "Text-543",
@@ -2176,12 +2266,13 @@
         },
         "answer_idx": "A",
         "answer": "Elevation of liver enzymes",
+        "raw_response": "The chemotherapeutic agent described in the scenario is likely to be actinomycin D (also known as dactinomycin), which is commonly used in the treatment of Wilms tumor. Actinomycin D binds to DNA and inhibits RNA synthesis, and it does not affect topoisomerase activity.\n\nThe most commonly associated adverse effect of actinomycin D is myelosuppression, which can lead to decreased blood cell counts, including anemia, leukopenia, and thrombocytopenia.\n\nTherefore, the answer is:\n\n**G) Myelosuppression**",
         "predicted_answer": "G",
         "token_usage": {
             "prompt_tokens": 3466,
-            "completion_tokens": 81
+            "completion_tokens": 119
         },
-        "time_elapsed": 1.5523860454559326
+        "time_elapsed": 2.4225552082061768
     },
     {
         "realidx": "Text-57",
@@ -2200,12 +2291,13 @@
         },
         "answer_idx": "I",
         "answer": "Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar",
+        "raw_response": "The optimal configuration for the surgical fixation of subcapital femoral neck fractures is:\n\n**Answer: Inverted triangle pattern with the inferior screw posterior to midline and adjacent to the calcar.** \n\nThis configuration provides optimal stability and load distribution across the fracture site, which is crucial for proper healing and prevention of complications.",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3587,
-            "completion_tokens": 64
+            "completion_tokens": 65
         },
-        "time_elapsed": 1.7966387271881104
+        "time_elapsed": 1.527726650238037
     },
     {
         "realidx": "Text-6",
@@ -2224,12 +2316,13 @@
         },
         "answer_idx": "H",
         "answer": "66 Gy",
+        "raw_response": "The recommended postoperative radiation therapy (RT) dose for a high-grade malignant peripheral nerve sheath tumor (MPNST) following R1 resection is typically in the range of 60-66 Gy. Given the options provided, the most appropriate choice would be:\n\n**Answer: (H) 66 Gy**",
         "predicted_answer": "H",
         "token_usage": {
             "prompt_tokens": 3353,
-            "completion_tokens": 61
+            "completion_tokens": 62
         },
-        "time_elapsed": 2.511715888977051
+        "time_elapsed": 1.4379043579101562
     },
     {
         "realidx": "Text-61",
@@ -2248,12 +2341,13 @@
         },
         "answer_idx": "D",
         "answer": "Great toe dorsiflexion",
+        "raw_response": "Answer: Hip external rotation",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3367,
-            "completion_tokens": 5
+            "completion_tokens": 6
         },
-        "time_elapsed": 0.9079627990722656
+        "time_elapsed": 1.0997207164764404
     },
     {
         "realidx": "Text-76",
@@ -2272,12 +2366,13 @@
         },
         "answer_idx": "F",
         "answer": "Activation of ATM",
+        "raw_response": "The phosphorylation of \u03b3H2AX is a key event in the DNA damage response, particularly in the context of double-strand breaks (DSBs). When DNA is damaged, \u03b3H2AX is rapidly phosphorylated at the site of the break, which serves as a signal for the recruitment of repair proteins to the site of damage.\n\nThe most appropriate answer to the question regarding what the phosphorylation of \u03b3H2AX signifies is:\n\n**(D) Recruitment of MRN complex** \n\nThis is because the phosphorylation of \u03b3H2AX is an early marker for the recruitment of the MRN (Mre11-Rad50-Nbs1) complex, which is essential for the detection and repair of double-strand breaks.",
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3392,
-            "completion_tokens": 149
+            "completion_tokens": 146
         },
-        "time_elapsed": 2.6194117069244385
+        "time_elapsed": 1.9287683963775635
     },
     {
         "realidx": "Text-77",
@@ -2296,12 +2391,13 @@
         },
         "answer_idx": "D",
         "answer": "Patients with a laterally bowed fifth metatarsal, no keratotic lesions, and a normal 4-5 intermetatarsal angle",
+        "raw_response": "The most appropriate scenario for distal chevron osteotomies in the context of a bunionette deformity is:\n\n**(B) Type II deformity with a significantly increased 4-5 intermetatarsal angle and painful callus formation.**\n\nThis option indicates a significant deformity that would benefit from surgical correction, specifically with a distal chevron osteotomy, which is designed to address the alignment of the metatarsal and alleviate pain associated with the deformity.",
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 3739,
-            "completion_tokens": 89
+            "completion_tokens": 98
         },
-        "time_elapsed": 2.6613519191741943
+        "time_elapsed": 1.890181303024292
     },
     {
         "realidx": "Text-81",
@@ -2320,12 +2416,13 @@
         },
         "answer_idx": "F",
         "answer": "L1 anterior lumbar tender point",
+        "raw_response": "Answer: Iliacus tender point",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3534,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 1.3569226264953613
+        "time_elapsed": 0.9718503952026367
     },
     {
         "realidx": "Text-82",
@@ -2344,12 +2441,13 @@
         },
         "answer_idx": "B",
         "answer": "5-FU and mitomycin",
-        "predicted_answer": "A",
+        "raw_response": "The appropriate radiosensitizing chemotherapy regimen for patients with muscle-invasive bladder cancer (MIBC) undergoing chemo-radiotherapy (chemoRT) and no other significant comorbidities is:\n\n**Answer: (D) Gemcitabine and cisplatin**",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3466,
-            "completion_tokens": 10
+            "completion_tokens": 55
         },
-        "time_elapsed": 0.7875416278839111
+        "time_elapsed": 1.2458305358886719
     },
     {
         "realidx": "Text-90",
@@ -2368,12 +2466,13 @@
         },
         "answer_idx": "G",
         "answer": "Basaloid carcinoma",
+        "raw_response": "Answer: Cloacogenic carcinoma",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3563,
-            "completion_tokens": 6
+            "completion_tokens": 7
         },
-        "time_elapsed": 0.9683620929718018
+        "time_elapsed": 1.483400821685791
     },
     {
         "realidx": "Text-94",
@@ -2392,11 +2491,12 @@
         },
         "answer_idx": "E",
         "answer": "Annual echocardiogram",
+        "raw_response": "Answer: One-time echocardiogram",
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 3501,
-            "completion_tokens": 8
+            "completion_tokens": 9
         },
-        "time_elapsed": 0.7932276725769043
+        "time_elapsed": 1.064406394958496
     }
 ]

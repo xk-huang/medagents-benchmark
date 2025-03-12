@@ -45,9 +45,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1251,
-            "completion_tokens": 51
+            "completion_tokens": 57
         },
-        "time_elapsed": 9.171206951141357
+        "time_elapsed": 4.997133493423462,
+        "raw_responses": [
+            "(A) Disclose the error to the patient and put it in the operative report",
+            "(A) Disclose the error to the patient and put it in the operative report",
+            "(A) Disclose the error to the patient and put it in the operative report"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Disclose the error to the patient and put it in the operative report"
     },
     {
         "realidx": 5,
@@ -86,10 +97,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2580,
-            "completion_tokens": 537
+            "prompt_tokens": 2517,
+            "completion_tokens": 522
         },
-        "time_elapsed": 9.920260906219482
+        "time_elapsed": 9.117947816848755,
+        "raw_responses": [
+            "The patient presents with chest pain, a history of untreated hypertension, smoking, and recent cocaine abuse. Cocaine can cause vasospasm and increase the risk of myocardial infarction. The first step in management should address the potential for myocardial ischemia and the effects of cocaine.\n\n1. Cocaine use can lead to increased sympathetic activity, causing hypertension and tachycardia.\n2. Beta-blockers (such as labetalol and propranolol) are generally avoided in cocaine-induced chest pain because they can lead to unopposed alpha-adrenergic stimulation, worsening vasospasm.\n3. Calcium channel blockers (such as diltiazem) can help relieve coronary vasospasm and are preferred in this scenario.\n4. Reassurance and continuous monitoring alone are not sufficient as the patient is in marked distress and symptomatic.\n\nFinal answer: (A) Diltiazem",
+            "The patient's symptoms of chest pain, nausea, diaphoresis, and distress, along with a history of untreated hypertension, smoking, and recent cocaine abuse, suggest a possible acute coronary syndrome (ACS) or cocaine-induced myocardial ischemia.\n\n1. Cocaine use can cause coronary artery vasoconstriction, leading to myocardial ischemia or infarction.\n2. Beta-blockers (e.g., propranolol, labetalol) are generally contraindicated in cocaine-induced chest pain because they can lead to unopposed alpha-adrenergic stimulation, worsening coronary vasoconstriction.\n3. Calcium channel blockers (e.g., diltiazem) are preferred in this scenario as they can help relieve coronary vasospasm.\n\nFinal answer: (A) Diltiazem",
+            "The patient presents with chest pain, a history of untreated hypertension, smoking, and recent cocaine abuse. Cocaine can cause vasospasm and increase the risk of myocardial infarction. The first step in management should address the potential for myocardial ischemia and the effects of cocaine.\n\n1. Cocaine use can lead to increased sympathetic activity, causing hypertension and tachycardia.\n2. Beta-blockers (such as labetalol and propranolol) are generally avoided in cocaine-induced chest pain because they can lead to unopposed alpha-adrenergic stimulation, worsening vasospasm.\n3. Calcium channel blockers (such as diltiazem) can help relieve coronary vasospasm and are preferred in this scenario.\n4. Reassurance and continuous monitoring alone are not sufficient as the patient is in marked distress and symptomatic.\n\nFinal answer: (A) Diltiazem"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "0"
+        ],
+        "final_solution": "The patient's symptoms of chest pain, nausea, diaphoresis, and distress, along with a history of untreated hypertension, smoking, and recent cocaine abuse, suggest a possible acute coronary syndrome (ACS) or cocaine-induced myocardial ischemia.\n\n1. Cocaine use can cause coronary artery vasoconstriction, leading to myocardial ischemia or infarction.\n2. Beta-blockers (e.g., propranolol, labetalol) are generally contraindicated in cocaine-induced chest pain because they can lead to unopposed alpha-adrenergic stimulation, worsening coronary vasoconstriction.\n3. Calcium channel blockers (e.g., diltiazem) are preferred in this scenario as they can help relieve coronary vasospasm.\n\nFinal answer: (A) Diltiazem"
     },
     {
         "realidx": 6,
@@ -124,10 +146,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 2184,
-            "completion_tokens": 451
+            "prompt_tokens": 912,
+            "completion_tokens": 33
         },
-        "time_elapsed": 9.497752904891968
+        "time_elapsed": 4.508605003356934,
+        "raw_responses": [
+            "(C) Common iliac artery aneurysm",
+            "(C) Common iliac artery aneurysm",
+            "(C) Common iliac artery aneurysm"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Common iliac artery aneurysm"
     },
     {
         "realidx": 33,
@@ -164,9 +197,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1104,
-            "completion_tokens": 50
+            "completion_tokens": 42
         },
-        "time_elapsed": 3.539243698120117
+        "time_elapsed": 4.875564813613892,
+        "raw_responses": [
+            "(B) Proliferation of gastric mucus-producing cells",
+            "(B) Proliferation of gastric mucus-producing cells",
+            "(B) Proliferation of gastric mucus-producing cells"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Proliferation of gastric mucus-producing cells"
     },
     {
         "realidx": 34,
@@ -243,10 +287,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2175,
-            "completion_tokens": 27
+            "prompt_tokens": 2187,
+            "completion_tokens": 61
         },
-        "time_elapsed": 4.706634521484375
+        "time_elapsed": 5.005028009414673,
+        "raw_responses": [
+            "(D) Supportive therapy and close monitoring",
+            "(D) Supportive therapy and close monitoring",
+            "(A) Insulin, potassium, IV fluids, and glucose"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0.",
+            "The best final answer is option 1."
+        ],
+        "final_solution": "(D) Supportive therapy and close monitoring"
     },
     {
         "realidx": 44,
@@ -312,9 +367,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1773,
-            "completion_tokens": 30
+            "completion_tokens": 145
         },
-        "time_elapsed": 4.449889421463013
+        "time_elapsed": 6.199207782745361,
+        "raw_responses": [
+            "(A) Globular 10-week sized uterus",
+            "(A) Globular 10-week sized uterus",
+            "(A) Globular 10-week sized uterus"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are all identical, with each suggesting the physical exam finding of a \"Globular 10-week sized uterus.\" Given the patient's symptoms of heavy menstrual bleeding, irregular cycles, dysmenorrhea, dyspareunia, pelvic heaviness, and increased urinary frequency, these are consistent with a condition such as uterine fibroids, which can cause an enlarged, globular uterus.\n\nSince all solutions are the same and correctly identify the likely physical exam finding, any of the options can be chosen. I will choose option 0.\n\n0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Globular 10-week sized uterus"
     },
     {
         "realidx": 59,
@@ -368,10 +434,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1452,
-            "completion_tokens": 39
+            "prompt_tokens": 1470,
+            "completion_tokens": 51
         },
-        "time_elapsed": 4.4277732372283936
+        "time_elapsed": 4.490674018859863,
+        "raw_responses": [
+            "(C) Patients can have a history of both anorexia and bulimia",
+            "(C) Patients can have a history of both anorexia and bulimia",
+            "(C) Patients can have a history of both anorexia and bulimia"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Patients can have a history of both anorexia and bulimia"
     },
     {
         "realidx": 64,
@@ -429,10 +506,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1533,
-            "completion_tokens": 30
+            "prompt_tokens": 2889,
+            "completion_tokens": 596
         },
-        "time_elapsed": 3.9797749519348145
+        "time_elapsed": 11.082539558410645,
+        "raw_responses": [
+            "(A) Disruption of cell membrane permeability",
+            "The patient presents with white patches in the mouth that can be wiped away, revealing erythematous mucosa, which is characteristic of oral candidiasis (thrush). The treatment for oral candidiasis involves antifungal medications. \n\n- Option (A) Disruption of cell membrane permeability: This is the mechanism of action of polyene antifungals like nystatin and amphotericin B.\n- Option (B) Disruption of microtubule formation: This is the mechanism of action of griseofulvin, which is used for dermatophyte infections, not candidiasis.\n- Option (C) Inhibition of 14-alpha-demethylase: This is the mechanism of action of azole antifungals like fluconazole, which are commonly used to treat candidiasis.\n- Option (D) Inhibition of beta-glucan synthase: This is the mechanism of action of echinocandins like caspofungin, which are used for systemic candidiasis.\n\nThe most appropriate medication for oral candidiasis in this patient is an azole antifungal.\n\nFinal answer: (C) Inhibition of 14-alpha-demethylase",
+            "The patient's symptoms and clinical findings are consistent with oral candidiasis (thrush), which is characterized by white patches in the mouth that can be wiped away to reveal red, inflamed tissue underneath. The treatment for oral candidiasis typically involves antifungal medications.\n\n(A) Disruption of cell membrane permeability - This mechanism is associated with polyene antifungals like nystatin and amphotericin B.\n(B) Disruption of microtubule formation - This mechanism is associated with griseofulvin, which is used for dermatophyte infections, not candidiasis.\n(C) Inhibition of 14-alpha-demethylase - This mechanism is associated with azole antifungals like fluconazole, which are commonly used to treat candidiasis.\n(D) Inhibition of beta-glucan synthase - This mechanism is associated with echinocandins like caspofungin, which are used for systemic fungal infections.\n\nThe most appropriate medication for treating oral candidiasis in this patient would be an azole antifungal, which works by inhibiting 14-alpha-demethylase.\n\nFinal answer: (C) Inhibition of 14-alpha-demethylase"
+        ],
+        "ensemble_raw_responses": [
+            "Option 0 provides a comprehensive analysis of the patient's condition, correctly identifies the symptoms as oral candidiasis, and explains the mechanisms of action of the different antifungal medications. It concludes that the most appropriate treatment is an azole antifungal, which works by inhibiting 14-alpha-demethylase.\n\nOption 1 only provides the mechanism of action without any explanation or context, making it less informative.\n\nOption 2 is similar to Option 0 but is slightly less detailed in its explanation.\n\nTherefore, the best final answer is Option 0.",
+            "0",
+            "1"
+        ],
+        "final_solution": "The patient's symptoms and clinical findings are consistent with oral candidiasis (thrush), which is characterized by white patches in the mouth that can be wiped away to reveal red, inflamed tissue underneath. The treatment for oral candidiasis typically involves antifungal medications.\n\n(A) Disruption of cell membrane permeability - This mechanism is associated with polyene antifungals like nystatin and amphotericin B.\n(B) Disruption of microtubule formation - This mechanism is associated with griseofulvin, which is used for dermatophyte infections, not candidiasis.\n(C) Inhibition of 14-alpha-demethylase - This mechanism is associated with azole antifungals like fluconazole, which are commonly used to treat candidiasis.\n(D) Inhibition of beta-glucan synthase - This mechanism is associated with echinocandins like caspofungin, which are used for systemic fungal infections.\n\nThe most appropriate medication for treating oral candidiasis in this patient would be an azole antifungal, which works by inhibiting 14-alpha-demethylase.\n\nFinal answer: (C) Inhibition of 14-alpha-demethylase"
     },
     {
         "realidx": 81,
@@ -475,10 +563,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1992,
-            "completion_tokens": 664
+            "prompt_tokens": 1878,
+            "completion_tokens": 451
         },
-        "time_elapsed": 9.393673181533813
+        "time_elapsed": 8.12783145904541,
+        "raw_responses": [
+            "The patient's symptoms and biopsy findings suggest a diagnosis of follicular lymphoma, which is associated with a characteristic translocation involving chromosome 18, specifically t(14;18). This translocation leads to overexpression of the BCL-2 gene, which is located on chromosome 18. BCL-2 is an anti-apoptotic protein that inhibits caspase-9, thereby preventing apoptosis.\n\nTherefore, the regulation of which of the following proteins will be most abnormal in this patient?\n\n(A) Caspase-9",
+            "The characteristic change in chromosome 18 suggests a diagnosis of follicular lymphoma, which is associated with the t(14;18) translocation. This translocation leads to overexpression of the BCL2 gene, which inhibits apoptosis by regulating caspase-9.\n\nFinal answer: (A) Caspase-9",
+            "The patient presents with chronic fatigue and enlarged nodules, and a biopsy shows a characteristic change in chromosome 18. This suggests a diagnosis of follicular lymphoma, which is associated with a translocation involving chromosome 18, specifically t(14;18). This translocation leads to overexpression of the BCL-2 gene, which is located on chromosome 18.\n\nBCL-2 is an anti-apoptotic protein that inhibits caspase-9, a key protein in the apoptosis pathway. Therefore, the regulation of caspase-9 will be most abnormal in this patient.\n\nThe correct answer is:\n(A) Caspase-9"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "Option 2 is the best final answer. It clearly explains the diagnosis of follicular lymphoma, the characteristic translocation t(14;18), and the role of BCL-2 in inhibiting caspase-9, which is the protein whose regulation will be most abnormal in this patient.\n\nSo, the chosen option number is:\n2",
+            "All three solutions correctly identify the diagnosis as follicular lymphoma associated with the t(14;18) translocation, which leads to overexpression of the BCL-2 gene. This gene inhibits apoptosis by regulating caspase-9. However, solution 2 provides a clear and concise explanation without unnecessary repetition.\n\nTherefore, the best final answer is option 2."
+        ],
+        "final_solution": "The patient's symptoms and biopsy findings suggest a diagnosis of follicular lymphoma, which is associated with a characteristic translocation involving chromosome 18, specifically t(14;18). This translocation leads to overexpression of the BCL-2 gene, which is located on chromosome 18. BCL-2 is an anti-apoptotic protein that inhibits caspase-9, thereby preventing apoptosis.\n\nTherefore, the regulation of which of the following proteins will be most abnormal in this patient?\n\n(A) Caspase-9"
     },
     {
         "realidx": 112,
@@ -540,10 +639,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2295,
-            "completion_tokens": 343
+            "prompt_tokens": 1911,
+            "completion_tokens": 374
         },
-        "time_elapsed": 6.9888081550598145
+        "time_elapsed": 7.824693918228149,
+        "raw_responses": [
+            "(B) Esophageal fibrosis",
+            "The patient's chief complaint is retrosternal burning associated with eating, which is suggestive of gastroesophageal reflux disease (GERD). GERD is commonly caused by decreased lower esophageal sphincter (LES) tone, which allows stomach acid to reflux into the esophagus, causing the burning sensation.\n\n(A) Decreased lower esophageal tone\n\nFinal answer: (A) Decreased lower esophageal tone",
+            "The patient's chief complaint is retrosternal burning associated with eating, which is suggestive of gastroesophageal reflux disease (GERD). GERD is commonly caused by decreased lower esophageal sphincter (LES) tone, allowing stomach acid to reflux into the esophagus.\n\n(A) Decreased lower esophageal tone"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2. \n\nOption 2 correctly identifies the pathophysiology of the patient's chief complaint as decreased lower esophageal sphincter (LES) tone, which is a common cause of gastroesophageal reflux disease (GERD). This explanation is clear and concise, making it the most appropriate choice.\n\nOption number: 2",
+            "0",
+            "Option 1 is the best final answer. \n\nOption 1 provides a clear and concise explanation of the patient's chief complaint, which is retrosternal burning associated with eating, and correctly identifies it as suggestive of gastroesophageal reflux disease (GERD). It also accurately describes the pathophysiology of GERD as being caused by decreased lower esophageal sphincter (LES) tone, allowing stomach acid to reflux into the esophagus, causing the burning sensation. \n\nOption 0 is similar but less detailed in its explanation. \n\nOption 2 incorrectly identifies the pathophysiology as esophageal fibrosis, which does not align with the patient's symptoms and presentation.\n\nTherefore, the chosen option number is 1."
+        ],
+        "final_solution": "The patient's chief complaint is retrosternal burning associated with eating, which is suggestive of gastroesophageal reflux disease (GERD). GERD is commonly caused by decreased lower esophageal sphincter (LES) tone, which allows stomach acid to reflux into the esophagus, causing the burning sensation.\n\n(A) Decreased lower esophageal tone\n\nFinal answer: (A) Decreased lower esophageal tone"
     },
     {
         "realidx": 114,
@@ -605,9 +715,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1569,
-            "completion_tokens": 18
+            "completion_tokens": 177
         },
-        "time_elapsed": 4.55980658531189
+        "time_elapsed": 5.235207557678223,
+        "raw_responses": [
+            "(B) Diarrhea",
+            "(B) Diarrhea",
+            "(B) Diarrhea"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The patient's lab results show a low bicarbonate level (HCO3-: 11 mEq/L), a low pH (7.25), and a low pCO2 (22 mmHg), which are indicative of metabolic acidosis with respiratory compensation. Given the history of diarrhea, which can cause a loss of bicarbonate, the most likely cause of the metabolic acidosis is indeed diarrhea.\n\nAll three candidate solutions (0, 1, and 2) correctly identify diarrhea as the most likely cause of the changes seen in the patient's labs.\n\nTherefore, any of the options 0, 1, or 2 would be correct. Since they are all the same, I will choose option 0.\n\n0",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) Diarrhea"
     },
     {
         "realidx": 128,
@@ -670,9 +791,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2001,
-            "completion_tokens": 45
+            "completion_tokens": 51
         },
-        "time_elapsed": 4.009845495223999
+        "time_elapsed": 4.470176458358765,
+        "raw_responses": [
+            "(B) Perifascicular and perivascular infiltration on muscle biopsy",
+            "(B) Perifascicular and perivascular infiltration on muscle biopsy",
+            "(B) Perifascicular and perivascular infiltration on muscle biopsy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Perifascicular and perivascular infiltration on muscle biopsy"
     },
     {
         "realidx": 145,
@@ -721,10 +853,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2445,
-            "completion_tokens": 325
+            "prompt_tokens": 1941,
+            "completion_tokens": 163
         },
-        "time_elapsed": 5.879916667938232
+        "time_elapsed": 6.717524766921997,
+        "raw_responses": [
+            "(D) Normal light microscopy findings",
+            "(D) Normal light microscopy findings",
+            "The boy presents with facial swelling, pitting edema, and periorbital edema, which are indicative of nephrotic syndrome. The laboratory findings support this diagnosis, showing hypoalbuminemia (albumin 2.1 g/dL), hyperlipidemia (total cholesterol 270 mg/dL, triglycerides 175 mg/dL), and significant proteinuria (urine protein 4+).\n\nGiven the patient's age and clinical presentation, the most likely cause of nephrotic syndrome is minimal change disease (MCD). MCD is the most common cause of nephrotic syndrome in children and typically presents with normal findings on light microscopy.\n\nFinal answer: (D) Normal light microscopy findings"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "0"
+        ],
+        "final_solution": "The boy presents with facial swelling, pitting edema, and periorbital edema, which are indicative of nephrotic syndrome. The laboratory findings support this diagnosis, showing hypoalbuminemia (albumin 2.1 g/dL), hyperlipidemia (total cholesterol 270 mg/dL, triglycerides 175 mg/dL), and significant proteinuria (urine protein 4+).\n\nGiven the patient's age and clinical presentation, the most likely cause of nephrotic syndrome is minimal change disease (MCD). MCD is the most common cause of nephrotic syndrome in children and typically presents with normal findings on light microscopy.\n\nFinal answer: (D) Normal light microscopy findings"
     },
     {
         "realidx": 149,
@@ -784,10 +927,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1524,
-            "completion_tokens": 104
+            "prompt_tokens": 2343,
+            "completion_tokens": 306
         },
-        "time_elapsed": 4.502275466918945
+        "time_elapsed": 6.490655899047852,
+        "raw_responses": [
+            "(A) Immunoglobulin- IgG",
+            "The primary defense against bacteria and toxins produced by Staphylococcus aureus involves the immune system's response to the pathogen. Immunoglobulins (antibodies) play a crucial role in this defense. \n\n1. **IgG**: This is the most abundant antibody in the blood and extracellular fluid, and it plays a significant role in the immune response to bacterial infections by neutralizing toxins and opsonizing bacteria for phagocytosis.\n2. **IgD**: This antibody is primarily found on the surface of immature B-lymphocytes and has a role in initiating B-cell activation, but it is not a major player in the defense against bacterial infections.\n3. **IgA**: This antibody is found in mucosal areas, such as the gut, respiratory tract, and urogenital tract, and in secretions like saliva, tears, and breast milk. It is important for mucosal immunity but not the primary defense in systemic bacterial infections.\n4. **IgM**: This is the first antibody produced in response to an infection and is effective in forming antigen-antibody complexes. However, it is not as effective as IgG in neutralizing toxins and opsonizing bacteria.\n\nGiven that the infection is systemic and involves neutralizing toxins and opsonizing bacteria, the primary defense would involve IgG.\n\nFinal answer: (A) Immunoglobulin- IgG",
+            "(A) Immunoglobulin- IgG"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "1",
+            "0"
+        ],
+        "final_solution": "The primary defense against bacteria and toxins produced by Staphylococcus aureus involves the immune system's response to the pathogen. Immunoglobulins (antibodies) play a crucial role in this defense. \n\n1. **IgG**: This is the most abundant antibody in the blood and extracellular fluid, and it plays a significant role in the immune response to bacterial infections by neutralizing toxins and opsonizing bacteria for phagocytosis.\n2. **IgD**: This antibody is primarily found on the surface of immature B-lymphocytes and has a role in initiating B-cell activation, but it is not a major player in the defense against bacterial infections.\n3. **IgA**: This antibody is found in mucosal areas, such as the gut, respiratory tract, and urogenital tract, and in secretions like saliva, tears, and breast milk. It is important for mucosal immunity but not the primary defense in systemic bacterial infections.\n4. **IgM**: This is the first antibody produced in response to an infection and is effective in forming antigen-antibody complexes. However, it is not as effective as IgG in neutralizing toxins and opsonizing bacteria.\n\nGiven that the infection is systemic and involves neutralizing toxins and opsonizing bacteria, the primary defense would involve IgG.\n\nFinal answer: (A) Immunoglobulin- IgG"
     },
     {
         "realidx": 155,
@@ -856,9 +1010,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1782,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.523712635040283
+        "time_elapsed": 4.170303821563721,
+        "raw_responses": [
+            "(D) Synthetic cathinone intoxication",
+            "(D) Synthetic cathinone intoxication",
+            "(D) Synthetic cathinone intoxication"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Synthetic cathinone intoxication"
     },
     {
         "realidx": 160,
@@ -919,12 +1084,23 @@
             "patient",
             "infections"
         ],
-        "predicted_answer": "D",
+        "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1587,
-            "completion_tokens": 42
+            "completion_tokens": 41
         },
-        "time_elapsed": 3.814345121383667
+        "time_elapsed": 5.081685304641724,
+        "raw_responses": [
+            "(C) 1 and 2",
+            "(D) 1, 2, and 3",
+            "(C) 1 and 2"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "The best final answer is 2."
+        ],
+        "final_solution": "(C) 1 and 2"
     },
     {
         "realidx": 171,
@@ -978,10 +1154,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3048,
-            "completion_tokens": 536
+            "prompt_tokens": 3084,
+            "completion_tokens": 634
         },
-        "time_elapsed": 8.476417541503906
+        "time_elapsed": 10.029240369796753,
+        "raw_responses": [
+            "The fetus described in the scenario has several features suggestive of a specific genetic syndrome. The key findings include intrauterine growth restriction (IUGR), microcephaly, convex-rounded feet, clenched fists with overlapping fingers, and a ventricular septal defect (VSD). Additionally, the amniotic fluid index (AFI) is elevated at 26 cm, indicating polyhydramnios.\n\nThese findings are characteristic of Edwards syndrome (Trisomy 18). Common features of Edwards syndrome include:\n\n- Microcephaly\n- Clenched fists with overlapping fingers\n- Rocker-bottom feet (convex-rounded feet)\n- Cardiac defects such as VSD\n- Polyhydramnios\n\nGiven these features, the additional finding most likely to be observed in this fetus is a prominent occiput, which is also a common feature of Edwards syndrome.\n\nFinal answer: (D) Prominent occiput",
+            "The fetus presents with intrauterine growth restriction (IUGR), microcephaly, convex-rounded feet, clenched fists with overlapping fingers, and a ventricular septal defect (VSD). These findings are suggestive of a chromosomal abnormality, specifically Trisomy 18 (Edwards syndrome).\n\nTrisomy 18 is characterized by:\n- IUGR\n- Microcephaly\n- Clenched fists with overlapping fingers\n- Rocker-bottom feet (convex-rounded feet)\n- Cardiac defects such as VSD\n- Polyhydramnios (AFI of 26 cm indicates polyhydramnios)\n\nAdditional common findings in Trisomy 18 include:\n- Prominent occiput\n\nGiven the options:\n(A) Cleft palate\n(B) Epicanthal folds\n(C) Micropthlamia\n(D) Prominent occiput\n\nThe most likely additional finding in this fetus is:\n(D) Prominent occiput",
+            "The findings of intrauterine growth restriction (IUGR), microcephaly, convex-rounded feet, clenched fists with overlapping fingers, and a ventricular septal defect (VSD) are suggestive of a chromosomal abnormality. The combination of these features is characteristic of Trisomy 18 (Edwards syndrome).\n\nTrisomy 18 is associated with several physical anomalies, including:\n- Microcephaly\n- Clenched fists with overlapping fingers\n- Rocker-bottom feet (convex-rounded feet)\n- Cardiac defects such as VSD\n- Polyhydramnios (increased amniotic fluid index)\n\nOne of the additional characteristic features of Trisomy 18 is a prominent occiput.\n\nFinal answer: (D) Prominent occiput"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "The best final answer is option 2. \n\nOption 2 provides a clear and concise explanation of the findings and their association with Trisomy 18 (Edwards syndrome). It also lists the characteristic features of Trisomy 18 and correctly identifies the most likely additional finding, which is a prominent occiput. The explanation is thorough and aligns well with the clinical presentation described in the problem.",
+            "1"
+        ],
+        "final_solution": "The fetus presents with intrauterine growth restriction (IUGR), microcephaly, convex-rounded feet, clenched fists with overlapping fingers, and a ventricular septal defect (VSD). These findings are suggestive of a chromosomal abnormality, specifically Trisomy 18 (Edwards syndrome).\n\nTrisomy 18 is characterized by:\n- IUGR\n- Microcephaly\n- Clenched fists with overlapping fingers\n- Rocker-bottom feet (convex-rounded feet)\n- Cardiac defects such as VSD\n- Polyhydramnios (AFI of 26 cm indicates polyhydramnios)\n\nAdditional common findings in Trisomy 18 include:\n- Prominent occiput\n\nGiven the options:\n(A) Cleft palate\n(B) Epicanthal folds\n(C) Micropthlamia\n(D) Prominent occiput\n\nThe most likely additional finding in this fetus is:\n(D) Prominent occiput"
     },
     {
         "realidx": 178,
@@ -1028,12 +1215,23 @@
             "seen",
             "patient"
         ],
-        "predicted_answer": "C",
+        "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1224,
-            "completion_tokens": 53
+            "prompt_tokens": 1212,
+            "completion_tokens": 38
         },
-        "time_elapsed": 3.8114938735961914
+        "time_elapsed": 4.1072187423706055,
+        "raw_responses": [
+            "(D) Right-sided analgesia",
+            "(D) Right-sided analgesia",
+            "(C) Contralateral corticospinal tract involvement"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is 1.",
+            "2",
+            "0"
+        ],
+        "final_solution": "(D) Right-sided analgesia"
     },
     {
         "realidx": 196,
@@ -1077,10 +1275,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2565,
-            "completion_tokens": 522
+            "prompt_tokens": 1752,
+            "completion_tokens": 417
         },
-        "time_elapsed": 9.757983446121216
+        "time_elapsed": 7.634035110473633,
+        "raw_responses": [
+            "To determine which anticoagulant the patient most likely consumed, we need to consider the pharmacokinetics of each drug, particularly their elimination rates.\n\n(A) Warfarin: Warfarin has a long half-life and is eliminated slowly from the body. It is not typically eliminated at a rate of 0.5 mg every 4 hours.\n\n(B) Enoxaparin: Enoxaparin is a low molecular weight heparin and is eliminated more rapidly than warfarin, but its elimination is not typically measured in mg per 4 hours in a straightforward manner.\n\n(C) Fondaparinux: Fondaparinux is another anticoagulant with a relatively long half-life, and its elimination rate is not typically described as 0.5 mg every 4 hours.\n\n(D) Apixaban: Apixaban is a direct oral anticoagulant (DOAC) with a relatively short half-life and is eliminated more rapidly compared to warfarin and fondaparinux. The elimination rate of 0.5 mg every 4 hours is more consistent with the pharmacokinetics of apixaban.\n\nFinal answer: (D) Apixaban",
+            "(A) Warfarin",
+            "(A) Warfarin"
+        ],
+        "ensemble_raw_responses": [
+            "Option 0 provides a detailed analysis of the pharmacokinetics of each anticoagulant and concludes that the elimination rate of 0.5 mg every 4 hours is most consistent with apixaban. Options 1 and 2 simply state \"Warfarin\" without any explanation or analysis, which does not support the decision-making process.\n\nTherefore, the best final answer is option 0.",
+            "Option 0 provides a detailed analysis of the pharmacokinetics of each anticoagulant and concludes that the elimination rate of 0.5 mg every 4 hours is most consistent with apixaban. Options 1 and 2 simply state \"Warfarin\" without any explanation or analysis, which does not support the decision-making process.\n\nTherefore, the best final answer is option 0.",
+            "0"
+        ],
+        "final_solution": "To determine which anticoagulant the patient most likely consumed, we need to consider the pharmacokinetics of each drug, particularly their elimination rates.\n\n(A) Warfarin: Warfarin has a long half-life and is eliminated slowly from the body. It is not typically eliminated at a rate of 0.5 mg every 4 hours.\n\n(B) Enoxaparin: Enoxaparin is a low molecular weight heparin and is eliminated more rapidly than warfarin, but its elimination is not typically measured in mg per 4 hours in a straightforward manner.\n\n(C) Fondaparinux: Fondaparinux is another anticoagulant with a relatively long half-life, and its elimination rate is not typically described as 0.5 mg every 4 hours.\n\n(D) Apixaban: Apixaban is a direct oral anticoagulant (DOAC) with a relatively short half-life and is eliminated more rapidly compared to warfarin and fondaparinux. The elimination rate of 0.5 mg every 4 hours is more consistent with the pharmacokinetics of apixaban.\n\nFinal answer: (D) Apixaban"
     },
     {
         "realidx": 198,
@@ -1131,10 +1340,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1725,
-            "completion_tokens": 200
+            "prompt_tokens": 1764,
+            "completion_tokens": 219
         },
-        "time_elapsed": 5.347317695617676
+        "time_elapsed": 6.872278928756714,
+        "raw_responses": [
+            "(D) Prostate cancer",
+            "(D) Prostate cancer",
+            "The 28-year-old woman has been trying to conceive for 2 years and has a history of abdominal surgery and a family history of endocrine abnormalities. The treatment is administered intermittently one week before her normal menstrual cycle. This suggests the use of a drug that is used in the context of infertility and possibly related to hormonal regulation.\n\nOne such drug is a GnRH agonist or antagonist, which can be used to treat infertility by regulating the release of gonadotropins. When administered intermittently, it can help in conditions like endometriosis or uterine fibroids, which can affect fertility.\n\nIf a GnRH agonist or antagonist is administered continuously, it can suppress gonadotropin release, leading to decreased levels of sex hormones. This continuous administration is used in the treatment of prostate cancer, as it reduces testosterone levels, which can help in managing the cancer.\n\nTherefore, the condition that may also be treated by this drug when administered in a different manner is:\n\n(D) Prostate cancer"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "1"
+        ],
+        "final_solution": "The 28-year-old woman has been trying to conceive for 2 years and has a history of abdominal surgery and a family history of endocrine abnormalities. The treatment is administered intermittently one week before her normal menstrual cycle. This suggests the use of a drug that is used in the context of infertility and possibly related to hormonal regulation.\n\nOne such drug is a GnRH agonist or antagonist, which can be used to treat infertility by regulating the release of gonadotropins. When administered intermittently, it can help in conditions like endometriosis or uterine fibroids, which can affect fertility.\n\nIf a GnRH agonist or antagonist is administered continuously, it can suppress gonadotropin release, leading to decreased levels of sex hormones. This continuous administration is used in the treatment of prostate cancer, as it reduces testosterone levels, which can help in managing the cancer.\n\nTherefore, the condition that may also be treated by this drug when administered in a different manner is:\n\n(D) Prostate cancer"
     },
     {
         "realidx": 202,
@@ -1192,9 +1412,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1326,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 8.926383972167969
+        "time_elapsed": 3.985368251800537,
+        "raw_responses": [
+            "(B) Cervical lymph nodes",
+            "(B) Cervical lymph nodes",
+            "(B) Cervical lymph nodes"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Cervical lymph nodes"
     },
     {
         "realidx": 203,
@@ -1249,10 +1480,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1434,
-            "completion_tokens": 26
+            "prompt_tokens": 1182,
+            "completion_tokens": 125
         },
-        "time_elapsed": 4.557548761367798
+        "time_elapsed": 5.690197706222534,
+        "raw_responses": [
+            "(A) Benznidazole",
+            "(A) Benznidazole",
+            "(A) Benznidazole"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is option 0. \n\nAll three solutions suggest the same drug, Benznidazole, which is used to treat Chagas disease, a condition that can present with symptoms such as fever, swelling of the eyelid (Romana's sign), and an indurated red patch (chagoma) after visiting endemic areas like Brazil. Since all solutions are identical, any of them would be correct, but option 0 is chosen as the final answer.",
+            "(A) Benznidazole"
+        ],
+        "final_solution": "(A) Benznidazole"
     },
     {
         "realidx": 211,
@@ -1335,10 +1577,21 @@
         ],
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 4548,
-            "completion_tokens": 693
+            "prompt_tokens": 4095,
+            "completion_tokens": 548
         },
-        "time_elapsed": 10.815157651901245
+        "time_elapsed": 11.717054605484009,
+        "raw_responses": [
+            "The patient's presentation of painless lymphadenopathy, intermittent fevers, night sweats, significant weight loss, and splenomegaly, along with laboratory findings of anemia, leukocytosis, thrombocytopenia, and elevated lactate dehydrogenase, is highly suggestive of a hematologic malignancy, specifically lymphoma. Given the patient's history of HIV, he is at increased risk for non-Hodgkin lymphoma (NHL), particularly diffuse large B-cell lymphoma (DLBCL).\n\nThe excisional biopsy of the lymph node confirms the diagnosis of lymphoma. The next step in the diagnostic workup should focus on staging and further characterization of the lymphoma to guide treatment.\n\nThe options provided are:\n(A) Antinuclear antibody\n(B) Hepatitis C virus antibodies\n(C) JAK-2 mutation\n(D) Tartrate-resistant acid phosphatase (TRAP) test\n\nNone of these options are directly related to the staging or further characterization of lymphoma. However, given the patient's HIV status, it is important to rule out other infections that could complicate the clinical picture. Hepatitis C virus (HCV) infection is associated with an increased risk of lymphoma, and co-infection with HCV can influence the management and prognosis of lymphoma in HIV-positive patients.\n\nTherefore, the next best diagnostic step in the workup of this patient is:\n(B) Hepatitis C virus antibodies",
+            "The patient's presentation of painless lymphadenopathy, intermittent fevers, night sweats, significant weight loss, and elevated lactate dehydrogenase (LDH) is highly suggestive of a lymphoproliferative disorder, such as lymphoma. Given his history of HIV, he is at increased risk for non-Hodgkin lymphoma (NHL). The excisional biopsy of the lymph node confirms the diagnosis of lymphoma. \n\nThe next best diagnostic step in the workup of this patient would be to determine the extent of the disease and to identify any potential involvement of other organs. This typically involves imaging studies such as a PET-CT scan or CT scan of the chest, abdomen, and pelvis. However, these options are not provided in the list.\n\nAmong the given options, none directly relate to staging or further characterizing lymphoma. However, considering the patient's HIV status, it is important to rule out other infections that could complicate the clinical picture. Hepatitis C virus (HCV) infection is associated with an increased risk of lymphoma, and co-infection with HCV can influence the management and prognosis of lymphoma in HIV-positive patients.\n\nTherefore, the next best diagnostic step among the given options is:\n\n(B) Hepatitis C virus antibodies",
+            "(B) Hepatitis C virus antibodies"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "2",
+            "1"
+        ],
+        "final_solution": "The patient's presentation of painless lymphadenopathy, intermittent fevers, night sweats, significant weight loss, and splenomegaly, along with laboratory findings of anemia, leukocytosis, thrombocytopenia, and elevated lactate dehydrogenase, is highly suggestive of a hematologic malignancy, specifically lymphoma. Given the patient's history of HIV, he is at increased risk for non-Hodgkin lymphoma (NHL), particularly diffuse large B-cell lymphoma (DLBCL).\n\nThe excisional biopsy of the lymph node confirms the diagnosis of lymphoma. The next step in the diagnostic workup should focus on staging and further characterization of the lymphoma to guide treatment.\n\nThe options provided are:\n(A) Antinuclear antibody\n(B) Hepatitis C virus antibodies\n(C) JAK-2 mutation\n(D) Tartrate-resistant acid phosphatase (TRAP) test\n\nNone of these options are directly related to the staging or further characterization of lymphoma. However, given the patient's HIV status, it is important to rule out other infections that could complicate the clinical picture. Hepatitis C virus (HCV) infection is associated with an increased risk of lymphoma, and co-infection with HCV can influence the management and prognosis of lymphoma in HIV-positive patients.\n\nTherefore, the next best diagnostic step in the workup of this patient is:\n(B) Hepatitis C virus antibodies"
     },
     {
         "realidx": 212,
@@ -1411,9 +1664,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1599,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.6163485050201416
+        "time_elapsed": 4.178826332092285,
+        "raw_responses": [
+            "(B) Low number of patients",
+            "(B) Low number of patients",
+            "(B) Low number of patients"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Low number of patients"
     },
     {
         "realidx": 215,
@@ -1462,9 +1726,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1221,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 3.9982919692993164
+        "time_elapsed": 4.098165512084961,
+        "raw_responses": [
+            "(A) Urinalysis and serum creatinine",
+            "(A) Urinalysis and serum creatinine",
+            "(A) Urinalysis and serum creatinine"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Urinalysis and serum creatinine"
     },
     {
         "realidx": 222,
@@ -1518,9 +1793,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1533,
-            "completion_tokens": 52
+            "completion_tokens": 51
         },
-        "time_elapsed": 4.4731903076171875
+        "time_elapsed": 4.5047447681427,
+        "raw_responses": [
+            "(B) Closure of ATP-sensitive K-channels in the pancreatic beta-cell",
+            "(B) Closure of ATP-sensitive K-channels in the pancreatic beta-cell",
+            "(B) Closure of ATP-sensitive K-channels in the pancreatic beta-cell"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(B) Closure of ATP-sensitive K-channels in the pancreatic beta-cell"
     },
     {
         "realidx": 231,
@@ -1570,9 +1856,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1317,
-            "completion_tokens": 160
+            "completion_tokens": 190
         },
-        "time_elapsed": 5.080790996551514
+        "time_elapsed": 5.285585880279541,
+        "raw_responses": [
+            "(A) Staphylococcus epidermidis",
+            "(A) Staphylococcus epidermidis",
+            "(A) Staphylococcus epidermidis"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are identical, all suggesting that the most likely causal organism is Staphylococcus epidermidis. Given the context of a recent knee arthroplasty and the presentation of septic arthritis, Staphylococcus epidermidis is a common cause of prosthetic joint infections.\n\nTherefore, any of the solutions could be chosen as they all provide the same correct answer. I will choose option number 0.\n\n0",
+            "0",
+            "The solutions provided are identical, all suggesting that the most likely causal organism is Staphylococcus epidermidis. Given the context of a recent knee arthroplasty and the presentation of septic arthritis, Staphylococcus epidermidis is a common cause of prosthetic joint infections.\n\nTherefore, any of the solutions can be chosen as they all provide the same correct answer. I will choose option number 0.\n\n0"
+        ],
+        "final_solution": "(A) Staphylococcus epidermidis"
     },
     {
         "realidx": 234,
@@ -1620,9 +1917,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1545,
-            "completion_tokens": 59
+            "completion_tokens": 65
         },
-        "time_elapsed": 3.943351984024048
+        "time_elapsed": 4.221867561340332,
+        "raw_responses": [
+            "(C) Secretion of \u03b3-interferon by activated T-lymphocytes",
+            "(C) Secretion of \u03b3-interferon by activated T-lymphocytes",
+            "(C) Secretion of \u03b3-interferon by activated T-lymphocytes"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Secretion of \u03b3-interferon by activated T-lymphocytes"
     },
     {
         "realidx": 237,
@@ -1697,9 +2005,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1839,
-            "completion_tokens": 42
+            "completion_tokens": 48
         },
-        "time_elapsed": 3.5727150440216064
+        "time_elapsed": 4.559462308883667,
+        "raw_responses": [
+            "(A) Diffuse infiltrate of lymphoid cells destroying thyroid follicles",
+            "(A) Diffuse infiltrate of lymphoid cells destroying thyroid follicles",
+            "(A) Diffuse infiltrate of lymphoid cells destroying thyroid follicles"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Diffuse infiltrate of lymphoid cells destroying thyroid follicles"
     },
     {
         "realidx": 238,
@@ -1754,9 +2073,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1422,
-            "completion_tokens": 218
+            "completion_tokens": 226
         },
-        "time_elapsed": 5.911595106124878
+        "time_elapsed": 5.621917724609375,
+        "raw_responses": [
+            "(B) The prevalence of SLE during consecutively shorter time windows will be overestimated.",
+            "(B) The prevalence of SLE during consecutively shorter time windows will be overestimated.",
+            "(B) The prevalence of SLE during consecutively shorter time windows will be overestimated."
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are identical, with each stating that the prevalence of SLE during consecutively shorter time windows will be overestimated. Since all solutions are the same, any of them can be chosen as the final answer.\n\nI will choose option number 0.\n\n0",
+            "The solutions provided are identical, with each stating that \"The prevalence of SLE during consecutively shorter time windows will be overestimated.\" Since all solutions are the same, any of them can be chosen as the final answer.\n\nTherefore, the chosen option number is: 0.",
+            "The solutions provided are identical, and they all state that \"The prevalence of SLE during consecutively shorter time windows will be overestimated.\" Since all solutions are the same, any of them can be chosen as the final answer.\n\nTherefore, the chosen option number is: 0."
+        ],
+        "final_solution": "(B) The prevalence of SLE during consecutively shorter time windows will be overestimated."
     },
     {
         "realidx": 239,
@@ -1812,9 +2142,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1476,
-            "completion_tokens": 15
+            "completion_tokens": 29
         },
-        "time_elapsed": 3.314857244491577
+        "time_elapsed": 3.7741427421569824,
+        "raw_responses": [
+            "(A) Muscle biopsy",
+            "(A) Muscle biopsy",
+            "(A) Muscle biopsy"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(A) Muscle biopsy"
     },
     {
         "realidx": 241,
@@ -1893,9 +2234,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1914,
-            "completion_tokens": 30
+            "completion_tokens": 36
         },
-        "time_elapsed": 4.2389233112335205
+        "time_elapsed": 4.0382981300354,
+        "raw_responses": [
+            "(A) Mucosal defect in the stomach",
+            "(A) Mucosal defect in the stomach",
+            "(A) Mucosal defect in the stomach"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Mucosal defect in the stomach"
     },
     {
         "realidx": 243,
@@ -1945,9 +2297,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1218,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.836117744445801
+        "time_elapsed": 4.814738035202026,
+        "raw_responses": [
+            "(C) Initiate a different statin",
+            "(C) Initiate a different statin",
+            "(C) Initiate a different statin"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Initiate a different statin"
     },
     {
         "realidx": 246,
@@ -2007,9 +2370,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1491,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.114030122756958
+        "time_elapsed": 4.470417261123657,
+        "raw_responses": [
+            "(A) Repeat blood cultures now",
+            "(A) Repeat blood cultures now",
+            "(A) Repeat blood cultures now"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Repeat blood cultures now"
     },
     {
         "realidx": 258,
@@ -2072,10 +2446,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 3753,
-            "completion_tokens": 780
+            "prompt_tokens": 2727,
+            "completion_tokens": 442
         },
-        "time_elapsed": 11.91271162033081
+        "time_elapsed": 7.1612162590026855,
+        "raw_responses": [
+            "The patient has been on a standard anti-tuberculosis medication regimen for 3 months and now presents with symptoms of fatigue, dizziness, weakness, numbness in her feet, and conjunctival pallor. Her lab work shows a hemoglobin level of 10 g/dL and a mean corpuscular volume (MCV) of 68 fl, indicating microcytic anemia.\n\nStep-by-step reasoning:\n1. The standard anti-tuberculosis regimen typically includes isoniazid, rifampin, pyrazinamide, and ethambutol.\n2. Isoniazid is known to cause vitamin B6 (pyridoxine) deficiency, which can lead to sideroblastic anemia.\n3. Sideroblastic anemia is characterized by microcytic anemia (low MCV) and can present with symptoms such as fatigue, dizziness, and weakness.\n4. Vitamin B6 is a cofactor for the enzyme delta-aminolevulinic acid (ALA) synthase, which is involved in heme synthesis.\n5. A deficiency in vitamin B6 leads to decreased ALA synthesis, resulting in impaired heme production and microcytic anemia.\n\nTherefore, the most likely cause of her current symptoms is:\n(D) Decreased ALA synthesis",
+            "(D) Decreased ALA synthesis",
+            "The patient is being treated for tuberculosis and presents with symptoms of fatigue, dizziness, weakness, and numbness in her feet. Her lab work shows a hemoglobin level of 10 g/dL and a mean corpuscular volume (MCV) of 68 fl, indicating microcytic anemia. \n\nThe standard anti-tuberculosis medication regimen includes isoniazid, which is known to cause vitamin B6 (pyridoxine) deficiency. Vitamin B6 is a cofactor for the enzyme delta-aminolevulinic acid (ALA) synthase, which is involved in heme synthesis. A deficiency in vitamin B6 can lead to decreased ALA synthesis, resulting in microcytic anemia.\n\nTherefore, the most likely cause of her current symptoms is:\n\n(D) Decreased ALA synthesis"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is:\n\n2",
+            "1",
+            "2"
+        ],
+        "final_solution": "The patient has been on a standard anti-tuberculosis medication regimen for 3 months and now presents with symptoms of fatigue, dizziness, weakness, numbness in her feet, and conjunctival pallor. Her lab work shows a hemoglobin level of 10 g/dL and a mean corpuscular volume (MCV) of 68 fl, indicating microcytic anemia.\n\nStep-by-step reasoning:\n1. The standard anti-tuberculosis regimen typically includes isoniazid, rifampin, pyrazinamide, and ethambutol.\n2. Isoniazid is known to cause vitamin B6 (pyridoxine) deficiency, which can lead to sideroblastic anemia.\n3. Sideroblastic anemia is characterized by microcytic anemia (low MCV) and can present with symptoms such as fatigue, dizziness, and weakness.\n4. Vitamin B6 is a cofactor for the enzyme delta-aminolevulinic acid (ALA) synthase, which is involved in heme synthesis.\n5. A deficiency in vitamin B6 leads to decreased ALA synthesis, resulting in impaired heme production and microcytic anemia.\n\nTherefore, the most likely cause of her current symptoms is:\n(D) Decreased ALA synthesis"
     },
     {
         "realidx": 265,
@@ -2116,10 +2501,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1854,
-            "completion_tokens": 255
+            "prompt_tokens": 1917,
+            "completion_tokens": 282
         },
-        "time_elapsed": 5.6400957107543945
+        "time_elapsed": 7.883426904678345,
+        "raw_responses": [
+            "(A) Nodular mass spreading along pleural surfaces",
+            "The patient has a history of chronic obstructive pulmonary disease (COPD), significant smoking history, and occupational exposure as a shipbuilder, which is associated with asbestos exposure. The chest radiograph findings of increased bronchovascular markings, reticular parenchymal opacities, and multiple pleural plaques are suggestive of asbestos-related disease. Given the weight loss and progressive dyspnea, the most concerning diagnosis would be a malignancy related to asbestos exposure, such as mesothelioma.\n\nThe most likely finding on the chest CT in this context would be a nodular mass spreading along pleural surfaces, which is characteristic of mesothelioma.\n\nFinal answer: (A) Nodular mass spreading along pleural surfaces",
+            "The patient has a history of chronic obstructive pulmonary disease (COPD), significant smoking history, and occupational exposure as a shipbuilder, which is associated with asbestos exposure. The chest radiograph findings of increased bronchovascular markings, reticular parenchymal opacities, and multiple pleural plaques are suggestive of asbestos-related disease. Given the weight loss and progressive dyspnea, the most concerning diagnosis would be a malignancy related to asbestos exposure, such as mesothelioma.\n\nThe most likely finding on the chest CT in this context would be:\n(A) Nodular mass spreading along pleural surfaces"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "2"
+        ],
+        "final_solution": "The patient has a history of chronic obstructive pulmonary disease (COPD), significant smoking history, and occupational exposure as a shipbuilder, which is associated with asbestos exposure. The chest radiograph findings of increased bronchovascular markings, reticular parenchymal opacities, and multiple pleural plaques are suggestive of asbestos-related disease. Given the weight loss and progressive dyspnea, the most concerning diagnosis would be a malignancy related to asbestos exposure, such as mesothelioma.\n\nThe most likely finding on the chest CT in this context would be a nodular mass spreading along pleural surfaces, which is characteristic of mesothelioma.\n\nFinal answer: (A) Nodular mass spreading along pleural surfaces"
     },
     {
         "realidx": 267,
@@ -2143,12 +2539,23 @@
             "carrier of",
             "disease"
         ],
-        "predicted_answer": "D",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 1206,
-            "completion_tokens": 332
+            "prompt_tokens": 612,
+            "completion_tokens": 524
         },
-        "time_elapsed": 6.43027663230896
+        "time_elapsed": 8.390029907226562,
+        "raw_responses": [
+            "(C) 50%",
+            "(C) 50%",
+            "(C) 50%"
+        ],
+        "ensemble_raw_responses": [
+            "The correct answer is 1. \n\nAll three solutions provide the same answer, which is 50%. Since hemophilia A is an X-linked recessive disorder, a male with hemophilia will pass the affected X chromosome to all his daughters, making them carriers. Therefore, each daughter has a 50% chance of being a carrier. \n\nSince all solutions are identical and correct, any of them could be chosen. I will choose option 1.",
+            "The correct answer is 1.\n\nThe probability that the second daughter is a carrier of hemophilia A is 50%. This is because hemophilia A is an X-linked recessive disorder. The father, who has hemophilia A, has the genotype X^hY, where X^h represents the X chromosome with the hemophilia mutation. The mother is unaffected, so she has the genotype XX. Each daughter inherits one X chromosome from the father and one X chromosome from the mother. Since the father can only pass on his X^h chromosome to his daughters, each daughter has a 50% chance of inheriting the X^h chromosome from the father and a normal X chromosome from the mother, making her a carrier.\n\nAll three solutions (0, 1, and 2) provide the same correct answer, but since the solutions are identical, any of them can be chosen. Therefore, the chosen option number is 1.",
+            "The correct answer is 1.\n\nThe probability that the second daughter is a carrier of hemophilia A is 50%. This is because hemophilia A is an X-linked recessive disorder. The father, who has hemophilia A, has the genotype X^hY, where X^h represents the X chromosome with the hemophilia mutation. The mother is unaffected, so she has the genotype XX. Each daughter inherits one X chromosome from the father and one X chromosome from the mother. Since the father can only pass on his X^h chromosome, each daughter will inherit X^h from him and an X chromosome from the mother. The mother can pass on either of her X chromosomes, so there is a 50% chance that the daughter will inherit the X chromosome without the mutation and a 50% chance that she will inherit the X chromosome with the mutation, making her a carrier.\n\nTherefore, the probability that the second daughter is a carrier is 50%. The solutions provided are all correct, but the best final answer is option 1."
+        ],
+        "final_solution": "(C) 50%"
     },
     {
         "realidx": 271,
@@ -2219,9 +2626,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2028,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.6829333305358887
+        "time_elapsed": 3.7558963298797607,
+        "raw_responses": [
+            "(C) Urinalysis",
+            "(C) Urinalysis",
+            "(C) Urinalysis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Urinalysis"
     },
     {
         "realidx": 273,
@@ -2285,9 +2703,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1758,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.9234471321105957
+        "time_elapsed": 3.5309085845947266,
+        "raw_responses": [
+            "(A) Abdominal CT scan",
+            "(A) Abdominal CT scan",
+            "(A) Abdominal CT scan"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Abdominal CT scan"
     },
     {
         "realidx": 284,
@@ -2358,9 +2787,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1815,
-            "completion_tokens": 60
+            "completion_tokens": 58
         },
-        "time_elapsed": 4.770752429962158
+        "time_elapsed": 4.724356651306152,
+        "raw_responses": [
+            "(B) Preferential dilatation of capacitance vessels",
+            "(B) Preferential dilatation of capacitance vessels",
+            "(B) Preferential dilatation of capacitance vessels"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "0",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(B) Preferential dilatation of capacitance vessels"
     },
     {
         "realidx": 285,
@@ -2418,9 +2858,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1461,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.754969358444214
+        "time_elapsed": 4.1181981563568115,
+        "raw_responses": [
+            "(D) Order an ACTH stimulation test",
+            "(D) Order an ACTH stimulation test",
+            "(D) Order an ACTH stimulation test"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Order an ACTH stimulation test"
     },
     {
         "realidx": 303,
@@ -2525,9 +2976,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 3093,
-            "completion_tokens": 15
+            "completion_tokens": 21
         },
-        "time_elapsed": 3.2394697666168213
+        "time_elapsed": 4.537144899368286,
+        "raw_responses": [
+            "(D) Normal development",
+            "(D) Normal development",
+            "(D) Normal development"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Normal development"
     },
     {
         "realidx": 307,
@@ -2606,9 +3068,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1932,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.730734348297119
+        "time_elapsed": 4.115530729293823,
+        "raw_responses": [
+            "(B) Refer this case to the court",
+            "(B) Refer this case to the court",
+            "(B) Refer this case to the court"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Refer this case to the court"
     },
     {
         "realidx": 321,
@@ -2664,9 +3137,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1482,
-            "completion_tokens": 38
+            "completion_tokens": 30
         },
-        "time_elapsed": 10.869805574417114
+        "time_elapsed": 3.952571153640747,
+        "raw_responses": [
+            "(C) Ventilation-perfusion scan",
+            "(C) Ventilation-perfusion scan",
+            "(C) Ventilation-perfusion scan"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Ventilation-perfusion scan"
     },
     {
         "realidx": 329,
@@ -2741,10 +3225,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2631,
-            "completion_tokens": 262
+            "prompt_tokens": 2265,
+            "completion_tokens": 146
         },
-        "time_elapsed": 5.801997184753418
+        "time_elapsed": 5.1166908740997314,
+        "raw_responses": [
+            "The patient is presenting with symptoms suggestive of an acute stroke, including dysarthria and left-sided facial droop. Given her history of sickle cell disease, she is at increased risk for stroke. The most appropriate therapy for an acute ischemic stroke within the therapeutic window is thrombolytic therapy.\n\n(A) Alteplase",
+            "The patient is presenting with symptoms suggestive of an acute stroke, including dysarthria and left-sided facial droop. Given her history of sickle cell disease, she is at increased risk for stroke. The most appropriate therapy for an acute ischemic stroke within the therapeutic window is thrombolytic therapy.\n\n(A) Alteplase",
+            "(B) Exchange transfusion"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient is presenting with symptoms suggestive of an acute stroke, including dysarthria and left-sided facial droop. Given her history of sickle cell disease, she is at increased risk for stroke. The most appropriate therapy for an acute ischemic stroke within the therapeutic window is thrombolytic therapy.\n\n(A) Alteplase"
     },
     {
         "realidx": 336,
@@ -2816,9 +3311,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1674,
-            "completion_tokens": 126
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.41793155670166
+        "time_elapsed": 3.7792065143585205,
+        "raw_responses": [
+            "(A) Epstein-Barr virus",
+            "(A) Epstein-Barr virus",
+            "(A) Epstein-Barr virus"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Epstein-Barr virus"
     },
     {
         "realidx": 337,
@@ -2887,12 +3393,23 @@
             "change",
             "patients condition"
         ],
-        "predicted_answer": "D",
+        "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3408,
-            "completion_tokens": 692
+            "prompt_tokens": 3126,
+            "completion_tokens": 457
         },
-        "time_elapsed": 10.664079666137695
+        "time_elapsed": 8.514487743377686,
+        "raw_responses": [
+            "The patient has a history of a cardiac murmur and is now experiencing symptoms of cyanosis and dyspnea during pregnancy. The murmur and fixed splitting of S2 suggest an underlying congenital heart defect, likely an atrial septal defect (ASD). \n\nDuring pregnancy, several physiological changes occur:\n1. Increase in heart rate\n2. Decrease in systemic vascular resistance\n3. Increase in cardiac output\n4. Increase in blood volume\n\nThese changes are necessary to meet the increased metabolic demands of the mother and the developing fetus. \n\nIn the context of an ASD, the increase in blood volume and cardiac output can exacerbate the left-to-right shunt, leading to increased pulmonary blood flow and pressure. This can result in symptoms such as dyspnea and cyanosis due to the increased workload on the heart and potential development of right heart failure or pulmonary hypertension.\n\nGiven the patient's symptoms and the physiological changes during pregnancy, the most relevant change causing her condition is the increase in cardiac output.\n\nFinal answer: (C) Increase in cardiac output",
+            "The patient has a history of a cardiac murmur and is now experiencing symptoms of cyanosis and dyspnea during pregnancy. The murmur and fixed splitting of S2 suggest an atrial septal defect (ASD). During pregnancy, several physiological changes occur, including an increase in blood volume, cardiac output, and heart rate, as well as a decrease in systemic vascular resistance.\n\n1. Increase in heart rate: This occurs during pregnancy but is not the primary factor exacerbating her symptoms.\n2. Decrease in systemic vascular resistance: This occurs during pregnancy but is not the primary factor exacerbating her symptoms.\n3. Increase in cardiac output: This occurs during pregnancy and can exacerbate symptoms in patients with pre-existing cardiac conditions like ASD.\n4. Increase in blood volume: This occurs during pregnancy and can exacerbate symptoms in patients with pre-existing cardiac conditions like ASD.\n\nBoth increased cardiac output and increased blood volume can exacerbate symptoms in patients with ASD. However, the increase in cardiac output is more directly related to the increased workload on the heart, which can lead to worsening symptoms in this patient.\n\nFinal answer: (C) Increase in cardiac output",
+            "(C) Increase in cardiac output"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "The patient has a history of a cardiac murmur and is now experiencing symptoms of cyanosis and dyspnea during pregnancy. The murmur and fixed splitting of S2 suggest an underlying congenital heart defect, likely an atrial septal defect (ASD). \n\nDuring pregnancy, several physiological changes occur:\n1. Increase in heart rate\n2. Decrease in systemic vascular resistance\n3. Increase in cardiac output\n4. Increase in blood volume\n\nThese changes are necessary to meet the increased metabolic demands of the mother and the developing fetus. \n\nIn the context of an ASD, the increase in blood volume and cardiac output can exacerbate the left-to-right shunt, leading to increased pulmonary blood flow and pressure. This can result in symptoms such as dyspnea and cyanosis due to the increased workload on the heart and potential development of right heart failure or pulmonary hypertension.\n\nGiven the patient's symptoms and the physiological changes during pregnancy, the most relevant change causing her condition is the increase in cardiac output.\n\nFinal answer: (C) Increase in cardiac output"
     },
     {
         "realidx": 340,
@@ -2965,9 +3482,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1704,
-            "completion_tokens": 576
+            "completion_tokens": 421
         },
-        "time_elapsed": 10.275111198425293
+        "time_elapsed": 7.072079181671143,
+        "raw_responses": [
+            "(A) Warfarin therapy",
+            "(A) Warfarin therapy",
+            "(A) Warfarin therapy"
+        ],
+        "ensemble_raw_responses": [
+            "None of the provided solutions seem appropriate for the given clinical scenario. The patient presents with symptoms suggestive of a chronic subdural hematoma (e.g., increasing forgetfulness, unsteadiness, falls, and a bruise over the left temple) and the CT scan would likely show evidence of this condition. Warfarin therapy is not indicated in this context and could potentially worsen the bleeding.\n\nThe most appropriate next step in management would typically involve neurosurgical evaluation and possibly surgical intervention to evacuate the hematoma, not anticoagulation therapy.\n\nTherefore, none of the options (0, 1, 2) are correct.",
+            "None of the provided solutions seem appropriate for the given clinical scenario. The patient presents with symptoms suggestive of a chronic subdural hematoma (e.g., increasing forgetfulness, unsteadiness, falls, and a bruise over the left temple) and the CT scan would likely show evidence of this condition. Warfarin therapy is not indicated in this context and could potentially worsen the bleeding.\n\nThe most appropriate next step in management would typically involve neurosurgical evaluation and possibly surgical intervention to evacuate the hematoma, not anticoagulation therapy.\n\nTherefore, none of the options (0, 1, 2) are correct.",
+            "None of the provided solutions seem appropriate for the given clinical scenario. The patient presents with symptoms suggestive of a chronic subdural hematoma (e.g., progressive cognitive decline, unsteady gait, focal neurological deficits, and a history of falls). The CT scan of the head would likely show a subdural hematoma, which requires neurosurgical evaluation rather than anticoagulation therapy with warfarin.\n\nTherefore, the correct next step in management would be to refer the patient for neurosurgical evaluation and possible intervention, not warfarin therapy. Since none of the provided solutions are correct, I cannot choose any of the given options (0, 1, or 2)."
+        ],
+        "final_solution": "(A) Warfarin therapy"
     },
     {
         "realidx": 367,
@@ -3043,10 +3571,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2193,
-            "completion_tokens": 41
+            "prompt_tokens": 2196,
+            "completion_tokens": 48
         },
-        "time_elapsed": 3.8186705112457275
+        "time_elapsed": 4.45094108581543,
+        "raw_responses": [
+            "(D) Recommend additional serologic testing for parvovirus B19",
+            "(D) Recommend additional serologic testing for parvovirus B19",
+            "(D) Recommend additional serologic testing for parvovirus B19"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Recommend additional serologic testing for parvovirus B19"
     },
     {
         "realidx": 380,
@@ -3106,10 +3645,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3324,
-            "completion_tokens": 546
+            "prompt_tokens": 3159,
+            "completion_tokens": 497
         },
-        "time_elapsed": 8.158300161361694
+        "time_elapsed": 8.30974292755127,
+        "raw_responses": [
+            "The patient's presentation of sudden onset shortness of breath, cough, bipedal edema, and jugular venous distention (JVD) suggests acute heart failure or pulmonary edema. The rapid improvement with BIPAP and medical therapy supports this diagnosis. The lab values show hypokalemia (K+ of 3.2 mEq/L) and a slightly elevated bicarbonate (HCO3- of 31 mEq/L), which can be seen in the context of diuretic use. Given the patient's symptoms and lab findings, the most likely explanation is the use of a diuretic that can cause hypokalemia and metabolic alkalosis.\n\nThe best explanation of this patient's current presentation is:\n(A) Furosemide",
+            "The patient's presentation of sudden onset shortness of breath, cough, bipedal edema, and jugular venous distention (JVD) suggests acute decompensated heart failure. The lab values show hypokalemia (K+ of 3.2 mEq/L) and a slightly elevated bicarbonate level (HCO3- of 31 mEq/L). Given the patient's rapid improvement with BIPAP and medical therapy, the most likely cause of his symptoms is fluid overload due to heart failure.\n\nThe best explanation for the patient's current presentation is the use of a diuretic, which can cause hypokalemia and metabolic alkalosis. Among the options provided, furosemide is a loop diuretic commonly used to treat heart failure and can cause these electrolyte abnormalities.\n\nFinal answer: (A) Furosemide",
+            "The patient's presentation of sudden onset shortness of breath, cough, bipedal edema, and jugular venous distention (JVD) suggests acute decompensated heart failure. The lab values show hypokalemia (K+ of 3.2 mEq/L) and a slightly elevated bicarbonate level (HCO3- of 31 mEq/L). Given the patient's rapid improvement with BIPAP and medical therapy, the most likely cause of his symptoms is fluid overload due to heart failure.\n\nThe best explanation for the patient's current presentation is the use of a diuretic, which can cause hypokalemia and metabolic alkalosis. Among the options provided, furosemide is a loop diuretic commonly used to treat heart failure and can cause these electrolyte abnormalities.\n\nFinal answer: (A) Furosemide"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "1"
+        ],
+        "final_solution": "The patient's presentation of sudden onset shortness of breath, cough, bipedal edema, and jugular venous distention (JVD) suggests acute decompensated heart failure. The lab values show hypokalemia (K+ of 3.2 mEq/L) and a slightly elevated bicarbonate level (HCO3- of 31 mEq/L). Given the patient's rapid improvement with BIPAP and medical therapy, the most likely cause of his symptoms is fluid overload due to heart failure.\n\nThe best explanation for the patient's current presentation is the use of a diuretic, which can cause hypokalemia and metabolic alkalosis. Among the options provided, furosemide is a loop diuretic commonly used to treat heart failure and can cause these electrolyte abnormalities.\n\nFinal answer: (A) Furosemide"
     },
     {
         "realidx": 413,
@@ -3172,10 +3722,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 2991,
-            "completion_tokens": 425
+            "prompt_tokens": 3519,
+            "completion_tokens": 615
         },
-        "time_elapsed": 7.595754384994507
+        "time_elapsed": 10.401610612869263,
+        "raw_responses": [
+            "The patient has hypernatremia (Na+ 154 mEq/L) and signs of dehydration (dry skin and mucous membranes, difficult to arouse). The best next step in management is to provide free water to correct the hypernatremia and dehydration. \n\nOption (A) 0.9% saline IV is not appropriate because it would not correct the hypernatremia and could worsen it.\nOption (B) 5% dextrose IV is not appropriate alone because it does not provide electrolytes.\nOption (C) 5% dextrose IV with 0.45% saline IV is appropriate because it provides free water to correct hypernatremia and some electrolytes to prevent rapid shifts.\nOption (D) Oral free water replacement is not appropriate because the patient is difficult to arouse and may not be able to safely drink.\n\nThe best next step in management is:\n(C) 5% dextrose IV with 0.45% saline IV",
+            "The patient has hypernatremia (Na+ 154 mEq/L) and signs of dehydration (dry skin and mucous membranes, difficult to arouse). The best next step in management is to provide free water to correct the hypernatremia and dehydration. \n\n(A) 0.9% saline IV - This would not be appropriate as it would not correct the hypernatremia and could potentially worsen it.\n(B) 5% dextrose IV - This would provide free water but without any electrolytes, which might not be sufficient.\n(C) 5% dextrose IV with 0.45% saline IV - This provides free water and some electrolytes, which is appropriate for correcting hypernatremia and dehydration.\n(D) Oral free water replacement - This is not appropriate for a patient who is difficult to arouse and likely unable to drink adequately.\n\nFinal answer: (C) 5% dextrose IV with 0.45% saline IV",
+            "The patient has hypernatremia (Na+ 154 mEq/L) and signs of dehydration (dry skin and mucous membranes, difficult to arouse). The best next step in management is to provide free water to correct the hypernatremia and dehydration. \n\nOption (A) 0.9% saline IV is not appropriate because it would not correct the hypernatremia and could worsen it.\nOption (B) 5% dextrose IV would provide free water but without any electrolytes, which might not be sufficient.\nOption (C) 5% dextrose IV with 0.45% saline IV provides both free water and some electrolytes, which is appropriate for correcting hypernatremia and dehydration.\nOption (D) Oral free water replacement is not appropriate in an ICU setting for a patient who is difficult to arouse.\n\nFinal answer: (C) 5% dextrose IV with 0.45% saline IV"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2.",
+            "1",
+            "1"
+        ],
+        "final_solution": "The patient has hypernatremia (Na+ 154 mEq/L) and signs of dehydration (dry skin and mucous membranes, difficult to arouse). The best next step in management is to provide free water to correct the hypernatremia and dehydration. \n\nOption (A) 0.9% saline IV is not appropriate because it would not correct the hypernatremia and could worsen it.\nOption (B) 5% dextrose IV is not appropriate alone because it does not provide electrolytes.\nOption (C) 5% dextrose IV with 0.45% saline IV is appropriate because it provides free water to correct hypernatremia and some electrolytes to prevent rapid shifts.\nOption (D) Oral free water replacement is not appropriate because the patient is difficult to arouse and may not be able to safely drink.\n\nThe best next step in management is:\n(C) 5% dextrose IV with 0.45% saline IV"
     },
     {
         "realidx": 423,
@@ -3262,10 +3823,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 3345,
-            "completion_tokens": 307
+            "prompt_tokens": 3249,
+            "completion_tokens": 281
         },
-        "time_elapsed": 6.039896488189697
+        "time_elapsed": 6.580121755599976,
+        "raw_responses": [
+            "(A) Alcohol-induced liver injury",
+            "The patient's presentation includes acute onset bloody diarrhea, severe abdominal pain, weight loss, and a history of generalized seizures. The laboratory findings show elevated BUN and creatinine, indicating possible renal impairment, and elevated liver enzymes (AST and ALT), suggesting liver injury. The presence of protein in the urine suggests possible kidney damage. The patient also has a history of cocaine use and binge drinking, which can contribute to both liver and kidney damage.\n\nGiven the combination of elevated liver enzymes, renal impairment, and proteinuria, the most likely explanation for the patient's laboratory findings is protein deposition, which can occur in conditions such as amyloidosis or other protein deposition diseases that affect multiple organs, including the kidneys and liver.\n\nFinal answer: (D) Protein deposition",
+            "The patient's presentation includes acute onset bloody diarrhea, severe abdominal pain, weight loss, and a history of generalized seizures. The laboratory findings show elevated BUN and creatinine, indicating possible renal impairment, and elevated liver enzymes (AST and ALT), suggesting liver involvement. The urine analysis shows proteinuria and the presence of cocaine and marijuana.\n\nGiven the combination of renal impairment, proteinuria, and elevated liver enzymes, the most likely explanation for the laboratory findings is protein deposition, which can occur in conditions such as amyloidosis or other protein deposition diseases.\n\nFinal answer: (D) Protein deposition"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Alcohol-induced liver injury"
     },
     {
         "realidx": 448,
@@ -3366,9 +3938,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 2514,
-            "completion_tokens": 42
+            "completion_tokens": 48
         },
-        "time_elapsed": 6.164921998977661
+        "time_elapsed": 4.444482088088989,
+        "raw_responses": [
+            "(A) Discharge with clinical surveillance and ultrasound every 6 months",
+            "(A) Discharge with clinical surveillance and ultrasound every 6 months",
+            "(A) Discharge with clinical surveillance and ultrasound every 6 months"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Discharge with clinical surveillance and ultrasound every 6 months"
     },
     {
         "realidx": 452,
@@ -3425,9 +4008,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1446,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.5290918350219727
+        "time_elapsed": 4.195082187652588,
+        "raw_responses": [
+            "(A) Cultured on charcoal and yeast",
+            "(A) Cultured on charcoal and yeast",
+            "(A) Cultured on charcoal and yeast"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Cultured on charcoal and yeast"
     },
     {
         "realidx": 454,
@@ -3479,12 +4073,23 @@
             "region",
             "histology slide shown"
         ],
-        "predicted_answer": "D",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 2724,
-            "completion_tokens": 565
+            "prompt_tokens": 2067,
+            "completion_tokens": 278
         },
-        "time_elapsed": 9.647209405899048
+        "time_elapsed": 6.490675687789917,
+        "raw_responses": [
+            "The patient's symptoms of episodic headaches, palpitations, profuse sweating, and hypertension are suggestive of pheochromocytoma, a tumor of the adrenal medulla that secretes catecholamines. The adrenal medulla is located in region D of the histology slide.\n\nFinal answer: (D)",
+            "The patient's symptoms of episodic headaches, palpitations, profuse sweating, and hypertension are suggestive of pheochromocytoma, a tumor of the adrenal medulla that secretes catecholamines. The adrenal medulla is located in region C of the histology slide.\n\nFinal answer: (C) C",
+            "The patient's symptoms of episodic headaches, palpitations, profuse sweating, and hypertension suggest a diagnosis of pheochromocytoma. Pheochromocytomas are tumors that arise from chromaffin cells in the adrenal medulla, which produce catecholamines (epinephrine and norepinephrine). \n\nIn the histology slide of the adrenal gland:\n- Region A represents the adrenal cortex.\n- Region B represents the adrenal medulla.\n- Region C represents the zona glomerulosa.\n- Region E represents the zona reticularis.\n\nThe adrenal medulla (Region B) is where chromaffin cells are located and where catecholamines are produced.\n\nFinal answer: (B)"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "2"
+        ],
+        "final_solution": "The patient's symptoms of episodic headaches, palpitations, profuse sweating, and hypertension suggest a diagnosis of pheochromocytoma. Pheochromocytomas are tumors that arise from chromaffin cells in the adrenal medulla, which produce catecholamines (epinephrine and norepinephrine). \n\nIn the histology slide of the adrenal gland:\n- Region A represents the adrenal cortex.\n- Region B represents the adrenal medulla.\n- Region C represents the zona glomerulosa.\n- Region E represents the zona reticularis.\n\nThe adrenal medulla (Region B) is where chromaffin cells are located and where catecholamines are produced.\n\nFinal answer: (B)"
     },
     {
         "realidx": 461,
@@ -3554,9 +4159,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1818,
-            "completion_tokens": 39
+            "completion_tokens": 45
         },
-        "time_elapsed": 4.09035587310791
+        "time_elapsed": 4.1139655113220215,
+        "raw_responses": [
+            "(D) Switch citalopram to bupropion",
+            "(D) Switch citalopram to bupropion",
+            "(D) Switch citalopram to bupropion"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Switch citalopram to bupropion"
     },
     {
         "realidx": 477,
@@ -3601,9 +4217,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1056,
-            "completion_tokens": 28
+            "completion_tokens": 48
         },
-        "time_elapsed": 4.56888484954834
+        "time_elapsed": 4.829159259796143,
+        "raw_responses": [
+            "(A) Elbow flexion",
+            "(A) Elbow flexion",
+            "(A) Elbow flexion"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is 0.",
+            "The best final answer is 0.",
+            "The best final answer is 0."
+        ],
+        "final_solution": "(A) Elbow flexion"
     },
     {
         "realidx": 480,
@@ -3653,10 +4280,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3930,
-            "completion_tokens": 920
+            "prompt_tokens": 3039,
+            "completion_tokens": 725
         },
-        "time_elapsed": 11.248396873474121
+        "time_elapsed": 10.245946645736694,
+        "raw_responses": [
+            "(C) XY karyotype",
+            "The patient is a 17-year-old girl with primary amenorrhea and lack of secondary sexual characteristics (Tanner I stage). Her vital signs show elevated blood pressure (BP 137/92). Given these findings, we need to consider conditions that can cause delayed puberty and hypertension.\n\n(A) Aromatase enzyme deficiency: This condition would lead to a lack of estrogen production, resulting in delayed puberty. However, it does not typically cause hypertension.\n\n(B) Hypokalemia: This is not directly related to delayed puberty or hypertension in this context.\n\n(C) XY karyotype: Androgen Insensitivity Syndrome (AIS) is a condition where an individual has an XY karyotype but is phenotypically female due to resistance to androgens. Patients with AIS typically have normal female external genitalia, lack of secondary sexual characteristics, and primary amenorrhea. However, hypertension is not a characteristic feature of AIS.\n\n(D) Hypercortisolism: Cushing's syndrome can cause hypertension and delayed puberty, but it usually presents with other signs such as weight gain, striae, and a characteristic facial appearance, which are not mentioned here.\n\nGiven the combination of primary amenorrhea, lack of secondary sexual characteristics, and hypertension, the most likely diagnosis is 17-alpha-hydroxylase deficiency, a form of congenital adrenal hyperplasia. This condition results in an XY karyotype with female external genitalia and hypertension due to excess mineralocorticoids.\n\nFinal answer: (C) XY karyotype",
+            "The patient is a 17-year-old girl with primary amenorrhea and lack of secondary sexual characteristics (Tanner I stage). Her vital signs show elevated blood pressure (BP 137/92). Given these findings, we need to consider conditions that can cause delayed puberty and hypertension.\n\n(A) Aromatase enzyme deficiency: This condition would lead to a lack of estrogen production, resulting in delayed puberty. However, it does not typically cause hypertension.\n\n(B) Hypokalemia: This is not directly related to delayed puberty or hypertension in this context.\n\n(C) XY karyotype: Androgen Insensitivity Syndrome (AIS) is a condition where an individual has an XY karyotype but is phenotypically female due to resistance to androgens. Patients with AIS typically have normal female external genitalia, lack of secondary sexual characteristics, and primary amenorrhea. However, hypertension is not a characteristic feature of AIS.\n\n(D) Hypercortisolism: Cushing's syndrome can cause hypertension and delayed puberty, but it usually presents with other signs such as weight gain, striae, and a characteristic facial appearance, which are not mentioned here.\n\nGiven the combination of primary amenorrhea, lack of secondary sexual characteristics, and hypertension, the most likely diagnosis is 17-alpha-hydroxylase deficiency, a form of congenital adrenal hyperplasia. This condition results in an XY karyotype with female external genitalia and hypertension due to excess mineralocorticoids.\n\nFinal answer: (C) XY karyotype"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "Option 1 is the best final answer. \n\nBoth solutions 1 and 2 provide a detailed explanation and correctly identify 17-alpha-hydroxylase deficiency as the most likely diagnosis, which results in an XY karyotype with female external genitalia and hypertension. However, solution 1 provides a more comprehensive analysis of the differential diagnoses and clearly explains why 17-alpha-hydroxylase deficiency is the most likely condition. \n\nTherefore, the chosen option is:\n1"
+        ],
+        "final_solution": "The patient is a 17-year-old girl with primary amenorrhea and lack of secondary sexual characteristics (Tanner I stage). Her vital signs show elevated blood pressure (BP 137/92). Given these findings, we need to consider conditions that can cause delayed puberty and hypertension.\n\n(A) Aromatase enzyme deficiency: This condition would lead to a lack of estrogen production, resulting in delayed puberty. However, it does not typically cause hypertension.\n\n(B) Hypokalemia: This is not directly related to delayed puberty or hypertension in this context.\n\n(C) XY karyotype: Androgen Insensitivity Syndrome (AIS) is a condition where an individual has an XY karyotype but is phenotypically female due to resistance to androgens. Patients with AIS typically have normal female external genitalia, lack of secondary sexual characteristics, and primary amenorrhea. However, hypertension is not a characteristic feature of AIS.\n\n(D) Hypercortisolism: Cushing's syndrome can cause hypertension and delayed puberty, but it usually presents with other signs such as weight gain, striae, and a characteristic facial appearance, which are not mentioned here.\n\nGiven the combination of primary amenorrhea, lack of secondary sexual characteristics, and hypertension, the most likely diagnosis is 17-alpha-hydroxylase deficiency, a form of congenital adrenal hyperplasia. This condition results in an XY karyotype with female external genitalia and hypertension due to excess mineralocorticoids.\n\nFinal answer: (C) XY karyotype"
     },
     {
         "realidx": 483,
@@ -3720,9 +4358,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1740,
-            "completion_tokens": 37
+            "completion_tokens": 43
         },
-        "time_elapsed": 4.2222511768341064
+        "time_elapsed": 4.434550762176514,
+        "raw_responses": [
+            "(B) Lactulose",
+            "(B) Lactulose",
+            "(B) Lactulose"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is 0.",
+            "The best final answer is option 0.",
+            "The best final answer is 0."
+        ],
+        "final_solution": "(B) Lactulose"
     },
     {
         "realidx": 485,
@@ -3778,9 +4427,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1323,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 4.264800071716309
+        "time_elapsed": 3.9278721809387207,
+        "raw_responses": [
+            "(A) Budesonide",
+            "(A) Budesonide",
+            "(A) Budesonide"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Budesonide"
     },
     {
         "realidx": 497,
@@ -3834,10 +4494,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1815,
-            "completion_tokens": 293
+            "prompt_tokens": 2076,
+            "completion_tokens": 354
         },
-        "time_elapsed": 7.213097810745239
+        "time_elapsed": 7.33823823928833,
+        "raw_responses": [
+            "The patient presents with blurred vision, pain around the eye during movement, and optic disk swelling, which are indicative of optic neuritis. Optic neuritis is often associated with multiple sclerosis (MS), a condition that can also present with sensory loss. Therefore, specific additional history should be obtained regarding sensory loss.\n\nFinal answer: (D) Sensory loss",
+            "The patient's symptoms of blurred vision, pain with eye movement, and optic disk swelling in the right eye suggest optic neuritis. The presence of a relative afferent pupillary defect (RAPD) further supports this diagnosis. Optic neuritis is often associated with multiple sclerosis (MS), which can present with various neurological symptoms, including sensory loss. Therefore, specific additional history should be obtained regarding sensory loss.\n\nFinal answer: (D) Sensory loss",
+            "The patient's symptoms of blurred vision, pain with eye movement, and optic disk swelling in the right eye suggest optic neuritis. The presence of a relative afferent pupillary defect (RAPD) further supports this diagnosis. Optic neuritis is often associated with multiple sclerosis (MS), which can present with various neurological symptoms, including sensory loss. Therefore, specific additional history should be obtained regarding sensory loss.\n\nFinal answer: (D) Sensory loss"
+        ],
+        "ensemble_raw_responses": [
+            "All three candidate solutions (0, 1, and 2) provide the same final answer: (D) Sensory loss. They all correctly identify the symptoms as indicative of optic neuritis, which is often associated with multiple sclerosis (MS), and suggest obtaining additional history regarding sensory loss.\n\nSince all solutions are identical in their reasoning and conclusion, any of them can be chosen. Therefore, I will choose option 0.\n\nFinal answer: 0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient's symptoms of blurred vision, pain with eye movement, and optic disk swelling in the right eye suggest optic neuritis. The presence of a relative afferent pupillary defect (RAPD) further supports this diagnosis. Optic neuritis is often associated with multiple sclerosis (MS), which can present with various neurological symptoms, including sensory loss. Therefore, specific additional history should be obtained regarding sensory loss.\n\nFinal answer: (D) Sensory loss"
     },
     {
         "realidx": 499,
@@ -3896,10 +4567,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1620,
-            "completion_tokens": 160
+            "prompt_tokens": 2478,
+            "completion_tokens": 333
         },
-        "time_elapsed": 4.270877838134766
+        "time_elapsed": 7.005370140075684,
+        "raw_responses": [
+            "This patient most likely has a mutation in which of the following classes of proteins?\n\nThe patient's history of recurrent upper respiratory infections, severe pneumonia, and infertility suggests a possible diagnosis of primary ciliary dyskinesia (PCD). PCD is a genetic disorder that affects the function of cilia, leading to impaired mucociliary clearance and issues with sperm motility. The absence of heart sounds in the typical location suggests situs inversus, which is commonly associated with PCD.\n\nPCD is often caused by mutations in proteins that are part of the ciliary structure, specifically those involved in the dynein arms, which are microtubule-associated motor proteins responsible for ciliary movement.\n\nTherefore, the most likely class of proteins involved in this patient's condition is:\n\n(A) Microtubule monomeric protein",
+            "This patient presents with infertility and a history of recurrent respiratory infections, which suggests a possible diagnosis of primary ciliary dyskinesia (PCD). PCD is often associated with Kartagener syndrome, which includes situs inversus (indicated by the silent cardiac auscultation in the left 5th intercostal space), chronic sinusitis, and bronchiectasis. PCD is caused by defects in the cilia, which are composed of microtubules and associated motor proteins. The specific defect in PCD is often in the dynein arms, which are anterograde cytoskeletal motor proteins.\n\nFinal answer: (D) Anterograde cytoskeletal motor protein",
+            "(A) Microtubule monomeric protein"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 2.",
+            "0",
+            "0"
+        ],
+        "final_solution": "This patient most likely has a mutation in which of the following classes of proteins?\n\nThe patient's history of recurrent upper respiratory infections, severe pneumonia, and infertility suggests a possible diagnosis of primary ciliary dyskinesia (PCD). PCD is a genetic disorder that affects the function of cilia, leading to impaired mucociliary clearance and issues with sperm motility. The absence of heart sounds in the typical location suggests situs inversus, which is commonly associated with PCD.\n\nPCD is often caused by mutations in proteins that are part of the ciliary structure, specifically those involved in the dynein arms, which are microtubule-associated motor proteins responsible for ciliary movement.\n\nTherefore, the most likely class of proteins involved in this patient's condition is:\n\n(A) Microtubule monomeric protein"
     },
     {
         "realidx": 501,
@@ -3946,10 +4628,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 2175,
-            "completion_tokens": 317
+            "prompt_tokens": 1992,
+            "completion_tokens": 262
         },
-        "time_elapsed": 5.875168085098267
+        "time_elapsed": 5.935814380645752,
+        "raw_responses": [
+            "The patient has a postoperative wound infection with gram-positive cocci in clusters, which is most likely Staphylococcus aureus. The failure to improve with dicloxacillin, a \u03b2-lactam antibiotic, suggests that the organism is resistant to this class of antibiotics. The most common mechanism of resistance in Staphylococcus aureus to \u03b2-lactam antibiotics is the alteration of penicillin-binding proteins (PBPs), which prevents the antibiotic from effectively binding to its target.\n\nTherefore, the characteristic of the infecting organism that best explains the failure to improve with antibiotic therapy is:\n\n(D) Adaptation in binding proteins",
+            "(D) Adaptation in binding proteins",
+            "The patient has a postoperative wound infection with gram-positive cocci in clusters, which is most likely Staphylococcus aureus. The failure to improve with dicloxacillin, a \u03b2-lactam antibiotic, suggests that the organism is resistant to this class of antibiotics. The most common mechanism of resistance in Staphylococcus aureus to \u03b2-lactam antibiotics is the alteration of penicillin-binding proteins (PBPs), which prevents the antibiotic from effectively binding to its target.\n\nTherefore, the characteristic of the infecting organism that best explains the failure to improve with antibiotic therapy is:\n\n(D) Adaptation in binding proteins"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient has a postoperative wound infection with gram-positive cocci in clusters, which is most likely Staphylococcus aureus. The failure to improve with dicloxacillin, a \u03b2-lactam antibiotic, suggests that the organism is resistant to this class of antibiotics. The most common mechanism of resistance in Staphylococcus aureus to \u03b2-lactam antibiotics is the alteration of penicillin-binding proteins (PBPs), which prevents the antibiotic from effectively binding to its target.\n\nTherefore, the characteristic of the infecting organism that best explains the failure to improve with antibiotic therapy is:\n\n(D) Adaptation in binding proteins"
     },
     {
         "realidx": 514,
@@ -4010,10 +4703,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 2634,
-            "completion_tokens": 357
+            "prompt_tokens": 3021,
+            "completion_tokens": 502
         },
-        "time_elapsed": 6.344038248062134
+        "time_elapsed": 8.30815839767456,
+        "raw_responses": [
+            "The patient has a history of recurrent respiratory infections, abdominal cramps, and foul-smelling greasy diarrhea. The stool microscopy shows pear-shaped multi-flagellated organisms, which are indicative of Giardia lamblia infection. These symptoms and findings suggest an underlying immunodeficiency, specifically common variable immunodeficiency (CVID). Patients with CVID are at increased risk for infections due to their impaired antibody production.\n\nGiven the options:\n(A) Anaphylactic transfusion reactions - This is associated with IgA deficiency, not CVID.\n(B) Cutaneous granulomas - This can be seen in chronic granulomatous disease, not CVID.\n(C) Non-Hodgkin lymphoma - Patients with CVID are at increased risk for this due to their impaired immune system.\n(D) Disseminated tuberculosis - This is more common in patients with severe T-cell deficiencies, such as HIV/AIDS.\n\nThe correct answer is:\n(C) Non-Hodgkin lymphoma",
+            "The patient has a history of recurrent respiratory infections, abdominal cramps, and foul-smelling greasy diarrhea. The stool microscopy shows pear-shaped multi-flagellated organisms, which are indicative of Giardia lamblia infection. These symptoms and findings suggest an underlying immunodeficiency, specifically common variable immunodeficiency (CVID). Patients with CVID are at increased risk for gastrointestinal infections, respiratory infections, and certain malignancies, including non-Hodgkin lymphoma.\n\nFinal answer: (C) Non-Hodgkin lymphoma",
+            "The patient has a history of recurrent respiratory infections, abdominal cramps, and foul-smelling greasy diarrhea. The stool microscopy shows pear-shaped multi-flagellated organisms, which are indicative of Giardia lamblia infection. These symptoms and findings suggest an underlying immunodeficiency, specifically common variable immunodeficiency (CVID). Patients with CVID are at increased risk for infections due to their impaired antibody production.\n\nGiven the options:\n(A) Anaphylactic transfusion reactions - This is associated with IgA deficiency, not CVID.\n(B) Cutaneous granulomas - This can be seen in chronic granulomatous disease, not CVID.\n(C) Non-Hodgkin lymphoma - Patients with CVID are at increased risk for this due to their impaired immune system.\n(D) Disseminated tuberculosis - This is more common in patients with severe T-cell deficiencies, such as HIV/AIDS.\n\nThe correct answer is:\n(C) Non-Hodgkin lymphoma"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "The best final answer is option number: 1."
+        ],
+        "final_solution": "The patient has a history of recurrent respiratory infections, abdominal cramps, and foul-smelling greasy diarrhea. The stool microscopy shows pear-shaped multi-flagellated organisms, which are indicative of Giardia lamblia infection. These symptoms and findings suggest an underlying immunodeficiency, specifically common variable immunodeficiency (CVID). Patients with CVID are at increased risk for gastrointestinal infections, respiratory infections, and certain malignancies, including non-Hodgkin lymphoma.\n\nFinal answer: (C) Non-Hodgkin lymphoma"
     },
     {
         "realidx": 524,
@@ -4059,9 +4763,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1221,
-            "completion_tokens": 28
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.3333239555358887
+        "time_elapsed": 3.964216947555542,
+        "raw_responses": [
+            "(B) T-cell receptor signaling",
+            "(B) T-cell receptor signaling",
+            "(B) T-cell receptor signaling"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) T-cell receptor signaling"
     },
     {
         "realidx": 531,
@@ -4140,9 +4855,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 2355,
-            "completion_tokens": 44
+            "completion_tokens": 50
         },
-        "time_elapsed": 3.3820223808288574
+        "time_elapsed": 4.268285751342773,
+        "raw_responses": [
+            "(C) Start IV insulin infusion",
+            "(C) Start IV insulin infusion",
+            "(C) Start IV insulin infusion"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 0.",
+            "The best final answer is 0.",
+            "The best final answer is option 0."
+        ],
+        "final_solution": "(C) Start IV insulin infusion"
     },
     {
         "realidx": 560,
@@ -4217,10 +4943,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2604,
-            "completion_tokens": 259
+            "prompt_tokens": 3600,
+            "completion_tokens": 626
         },
-        "time_elapsed": 5.282760858535767
+        "time_elapsed": 9.855420112609863,
+        "raw_responses": [
+            "The patient is on warfarin, which requires monitoring of the INR to ensure it is within the therapeutic range (typically 2.0-3.0 for most indications). The patient's INR is 1.0, which is below the therapeutic range, indicating that the warfarin is not having its intended anticoagulant effect. \n\nGiven the patient's recent switch to an all-vegetarian diet, it is important to consider the impact of dietary changes on warfarin metabolism. Warfarin's effectiveness can be influenced by vitamin K intake, which is found in green leafy vegetables and other components of a vegetarian diet. Increased intake of vitamin K can decrease the effectiveness of warfarin, leading to a lower INR.\n\nTherefore, the best explanation for this patient\u2019s laboratory values is:\n\n(A) Dietary changes",
+            "The patient is on warfarin, which requires monitoring of the INR to ensure it is within the therapeutic range (typically 2.0-3.0 for most indications). The patient's INR is 1.0, which is below the therapeutic range, indicating that the warfarin is not having its intended anticoagulant effect. \n\nGiven the patient's recent switch to an all-vegetarian diet, it is important to consider the impact of dietary changes on warfarin metabolism. Warfarin's effectiveness can be influenced by vitamin K intake, which is found in green leafy vegetables and other components of a vegetarian diet. Increased intake of vitamin K can decrease the effectiveness of warfarin, leading to a lower INR.\n\nTherefore, the best explanation for this patient\u2019s laboratory values is:\n\n(A) Dietary changes",
+            "The patient is on warfarin, which requires monitoring of the INR to ensure it is within the therapeutic range (typically 2.0-3.0 for atrial fibrillation). The patient's INR is 1.0, which is below the therapeutic range, indicating that the warfarin is not having its intended anticoagulant effect. \n\nGiven the patient's recent switch to an all-vegetarian diet, it is important to consider the impact of dietary changes on warfarin metabolism. Warfarin's effectiveness can be influenced by vitamin K intake, which is found in high amounts in green leafy vegetables. An increase in dietary vitamin K can decrease the effectiveness of warfarin, leading to a lower INR.\n\nTherefore, the best explanation for this patient\u2019s laboratory values is:\n\n(A) Dietary changes"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option number: 2.",
+            "All three candidate solutions (0, 1, and 2) provide the same explanation for the patient's laboratory values, specifically focusing on the impact of dietary changes on warfarin metabolism due to increased vitamin K intake from a vegetarian diet. Each solution correctly identifies that the patient's INR is below the therapeutic range, indicating that the warfarin is not having its intended anticoagulant effect.\n\nSince all three solutions are essentially identical in their reasoning and conclusion, any of them would be an appropriate choice. Therefore, I will choose option 0.\n\n0",
+            "The best final answer is option number: 2."
+        ],
+        "final_solution": "The patient is on warfarin, which requires monitoring of the INR to ensure it is within the therapeutic range (typically 2.0-3.0 for atrial fibrillation). The patient's INR is 1.0, which is below the therapeutic range, indicating that the warfarin is not having its intended anticoagulant effect. \n\nGiven the patient's recent switch to an all-vegetarian diet, it is important to consider the impact of dietary changes on warfarin metabolism. Warfarin's effectiveness can be influenced by vitamin K intake, which is found in high amounts in green leafy vegetables. An increase in dietary vitamin K can decrease the effectiveness of warfarin, leading to a lower INR.\n\nTherefore, the best explanation for this patient\u2019s laboratory values is:\n\n(A) Dietary changes"
     },
     {
         "realidx": 564,
@@ -4266,9 +5003,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1194,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.431884288787842
+        "time_elapsed": 3.4147191047668457,
+        "raw_responses": [
+            "(B) Addition of bupropion",
+            "(B) Addition of bupropion",
+            "(B) Addition of bupropion"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Addition of bupropion"
     },
     {
         "realidx": 579,
@@ -4349,12 +5097,23 @@
             "most likely reveal",
             "following"
         ],
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2517,
-            "completion_tokens": 45
+            "completion_tokens": 51
         },
-        "time_elapsed": 3.920858383178711
+        "time_elapsed": 3.9577131271362305,
+        "raw_responses": [
+            "(A) Expansile lytic lesion with thin sclerotic margins",
+            "(D) Well-defined cystic lesion with peritrabecular fibrosis",
+            "(D) Well-defined cystic lesion with peritrabecular fibrosis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "2"
+        ],
+        "final_solution": "(D) Well-defined cystic lesion with peritrabecular fibrosis"
     },
     {
         "realidx": 583,
@@ -4412,9 +5171,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2262,
-            "completion_tokens": 312
+            "completion_tokens": 318
         },
-        "time_elapsed": 5.987940311431885
+        "time_elapsed": 7.1096532344818115,
+        "raw_responses": [
+            "The patient's symptoms of nausea, vomiting, weakness, and back/leg pain, along with the EKG finding of T wave flattening, suggest an electrolyte imbalance, specifically hypokalemia. The recent administration of an antibiotic and the prescription of a thiazide diuretic further support this diagnosis, as both can contribute to hypokalemia.\n\nHypokalemia can be associated with renal tubular acidosis (RTA), particularly type 1 (distal) RTA, which can present with hypokalemia. One of the diseases associated with type 1 RTA is Sjogren syndrome.\n\nFinal answer: (B) Sjogren syndrome",
+            "(B) Sjogren syndrome",
+            "The patient's symptoms of nausea, vomiting, weakness, and back/leg pain, along with the EKG finding of T wave flattening, suggest an electrolyte imbalance, specifically hypokalemia. The recent administration of an antibiotic during her travels raises the possibility of an adverse effect or interaction leading to this condition. The prescription of a thiazide diuretic, which can exacerbate hypokalemia, indicates that the physician is addressing an underlying condition that causes hypokalemia.\n\nOne condition that can cause hypokalemia and is associated with the need for thiazide diuretics is distal (type 1) renal tubular acidosis (RTA). Distal RTA can be associated with autoimmune diseases.\n\nAmong the options provided, Sjogren syndrome is known to be associated with distal renal tubular acidosis.\n\nFinal answer: (B) Sjogren syndrome"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "The patient's symptoms of nausea, vomiting, weakness, and back/leg pain, along with the EKG finding of T wave flattening, suggest an electrolyte imbalance, specifically hypokalemia. The recent administration of an antibiotic and the prescription of a thiazide diuretic further support this diagnosis, as both can contribute to hypokalemia.\n\nHypokalemia can be associated with renal tubular acidosis (RTA), particularly type 1 (distal) RTA, which can present with hypokalemia. One of the diseases associated with type 1 RTA is Sjogren syndrome.\n\nFinal answer: (B) Sjogren syndrome"
     },
     {
         "realidx": 587,
@@ -4454,9 +5224,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 999,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.338959217071533
+        "time_elapsed": 3.9381825923919678,
+        "raw_responses": [
+            "(B) Sacral agenesis",
+            "(B) Sacral agenesis",
+            "(B) Sacral agenesis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Sacral agenesis"
     },
     {
         "realidx": 596,
@@ -4509,9 +5290,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1443,
-            "completion_tokens": 162
+            "completion_tokens": 169
         },
-        "time_elapsed": 4.989421844482422
+        "time_elapsed": 5.68356728553772,
+        "raw_responses": [
+            "(C) Oxidization of Fe2+ to Fe3+",
+            "(C) Oxidization of Fe2+ to Fe3+",
+            "(C) Oxidization of Fe2+ to Fe3+"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are all identical, with each one indicating that the most likely cause of the infant's cyanosis is the oxidization of Fe2+ to Fe3+. Given that all solutions are the same, any of them can be chosen as the final answer.\n\nI will choose option number 0.\n\n0",
+            "The solutions provided are all identical, with each one indicating that the most likely cause of the infant's cyanosis is the oxidization of Fe2+ to Fe3+. Given that all solutions are the same, any of them can be chosen as the final answer.\n\nI will choose option 0.\n\n0",
+            "0"
+        ],
+        "final_solution": "(C) Oxidization of Fe2+ to Fe3+"
     },
     {
         "realidx": 616,
@@ -4555,9 +5347,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1491,
-            "completion_tokens": 182
+            "completion_tokens": 188
         },
-        "time_elapsed": 5.2260987758636475
+        "time_elapsed": 6.910476922988892,
+        "raw_responses": [
+            "(B) Amyloidosis",
+            "The patient presents with fevers, chills, night sweats, and generalized swelling with significant proteinuria. These symptoms suggest a systemic condition that could affect multiple organs, including the kidneys.\n\n1. The presence of generalized swelling and 4+ protein in the urine indicates nephrotic syndrome.\n2. Nephrotic syndrome can be caused by various glomerular diseases.\n3. The patient's systemic symptoms (fevers, chills, night sweats) and the need for a lymph node biopsy suggest a possible underlying systemic disease, such as a malignancy or chronic inflammatory condition.\n4. Amyloidosis is a condition that can be associated with chronic inflammatory diseases or malignancies and can lead to nephrotic syndrome.\n5. On renal biopsy, amyloidosis would show characteristic amyloid deposits.\n\nFinal answer: (B) Amyloidosis",
+            "(B) Amyloidosis"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "2"
+        ],
+        "final_solution": "The patient presents with fevers, chills, night sweats, and generalized swelling with significant proteinuria. These symptoms suggest a systemic condition that could affect multiple organs, including the kidneys.\n\n1. The presence of generalized swelling and 4+ protein in the urine indicates nephrotic syndrome.\n2. Nephrotic syndrome can be caused by various glomerular diseases.\n3. The patient's systemic symptoms (fevers, chills, night sweats) and the need for a lymph node biopsy suggest a possible underlying systemic disease, such as a malignancy or chronic inflammatory condition.\n4. Amyloidosis is a condition that can be associated with chronic inflammatory diseases or malignancies and can lead to nephrotic syndrome.\n5. On renal biopsy, amyloidosis would show characteristic amyloid deposits.\n\nFinal answer: (B) Amyloidosis"
     },
     {
         "realidx": 627,
@@ -4621,10 +5424,21 @@
         ],
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1620,
-            "completion_tokens": 34
+            "prompt_tokens": 1614,
+            "completion_tokens": 90
         },
-        "time_elapsed": 4.87635612487793
+        "time_elapsed": 4.590688943862915,
+        "raw_responses": [
+            "(A) Hysterectomy",
+            "(B) Intravenous oxytocin",
+            "(B) Intravenous oxytocin"
+        ],
+        "ensemble_raw_responses": [
+            "The best next step in management for this patient, who is experiencing postpartum hemorrhage likely due to uterine atony after a prolonged labor and manual removal of the placenta, is to administer intravenous oxytocin to help contract the uterus and control the bleeding.\n\nTherefore, the chosen option number is:\n\n0",
+            "1",
+            "0"
+        ],
+        "final_solution": "(B) Intravenous oxytocin"
     },
     {
         "realidx": 634,
@@ -4686,9 +5500,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1650,
-            "completion_tokens": 33
+            "completion_tokens": 39
         },
-        "time_elapsed": 3.733163356781006
+        "time_elapsed": 6.341642618179321,
+        "raw_responses": [
+            "(A) Bethanechol and intermittent straight catheterization",
+            "(A) Bethanechol and intermittent straight catheterization",
+            "(A) Bethanechol and intermittent straight catheterization"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Bethanechol and intermittent straight catheterization"
     },
     {
         "realidx": 651,
@@ -4750,10 +5575,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 2004,
-            "completion_tokens": 172
+            "prompt_tokens": 1560,
+            "completion_tokens": 30
         },
-        "time_elapsed": 4.432310342788696
+        "time_elapsed": 3.813206434249878,
+        "raw_responses": [
+            "(C) Decreased iron-binding capacity",
+            "(C) Decreased iron-binding capacity",
+            "(C) Decreased iron-binding capacity"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) Decreased iron-binding capacity"
     },
     {
         "realidx": 659,
@@ -4813,9 +5649,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1593,
-            "completion_tokens": 25
+            "completion_tokens": 38
         },
-        "time_elapsed": 3.3132483959198
+        "time_elapsed": 3.949493169784546,
+        "raw_responses": [
+            "(B) Subsolid component",
+            "(B) Subsolid component",
+            "(B) Subsolid component"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is 0.",
+            "The best final answer is 0.",
+            "0"
+        ],
+        "final_solution": "(B) Subsolid component"
     },
     {
         "realidx": 663,
@@ -4860,9 +5707,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1152,
-            "completion_tokens": 21
+            "completion_tokens": 27
         },
-        "time_elapsed": 3.7982285022735596
+        "time_elapsed": 4.014587879180908,
+        "raw_responses": [
+            "(B) Lateral medulla",
+            "(B) Lateral medulla",
+            "(B) Lateral medulla"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Lateral medulla"
     },
     {
         "realidx": 664,
@@ -4902,12 +5760,23 @@
             "most likely diagnosis",
             "patient"
         ],
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2163,
-            "completion_tokens": 356
+            "prompt_tokens": 1167,
+            "completion_tokens": 379
         },
-        "time_elapsed": 6.975130558013916
+        "time_elapsed": 7.482093811035156,
+        "raw_responses": [
+            "(A) Acute lymphoblastic leukemia",
+            "(A) Acute lymphoblastic leukemia",
+            "(A) Acute lymphoblastic leukemia"
+        ],
+        "ensemble_raw_responses": [
+            "None of the provided solutions seem to address the correct diagnosis based on the given clinical presentation and lab results. The prolonged aPTT with normal PT and normal complete blood count suggests a possible coagulation disorder, such as Hemophilia or von Willebrand disease, rather than acute lymphoblastic leukemia.\n\nHowever, since the task is to choose among the given options, and all options are the same, I will select option 0.\n\n0",
+            "The given problem describes a 9-year-old boy with bruising and petechiae, a normal complete blood count, and a prolonged activated partial thromboplastin time (aPTT) with a normal prothrombin time (PT). This clinical presentation is more suggestive of a bleeding disorder rather than acute lymphoblastic leukemia, which typically presents with abnormal blood counts (e.g., anemia, thrombocytopenia, leukocytosis, or leukopenia).\n\nGiven the options provided, all of which suggest acute lymphoblastic leukemia, none of them seem to be the correct diagnosis based on the clinical presentation and laboratory findings. However, since the task is to choose the best final answer from the given options, and all options are the same, I will choose option 0.\n\nThe chosen option number is: 0",
+            "The most likely diagnosis in this patient is not acute lymphoblastic leukemia. The key findings are normal complete blood count, normal PT, and prolonged aPTT. This suggests a possible coagulation factor deficiency, such as hemophilia, rather than leukemia.\n\nGiven that all the candidate solutions provided are the same and incorrect, none of the options (0, 1, 2) are correct. Therefore, I cannot choose any of the provided options as the best final answer."
+        ],
+        "final_solution": "(A) Acute lymphoblastic leukemia"
     },
     {
         "realidx": 665,
@@ -4951,12 +5820,23 @@
             "entrapment",
             "mass"
         ],
-        "predicted_answer": "B",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 2445,
-            "completion_tokens": 446
+            "prompt_tokens": 1905,
+            "completion_tokens": 521
         },
-        "time_elapsed": 7.06911563873291
+        "time_elapsed": 8.008865356445312,
+        "raw_responses": [
+            "The mass is located on the lateral volar aspect of the left wrist, which is the area where the median nerve runs. The symptoms of decreased sensation in the thumb, index finger, middle finger, and radial half of the ring finger are consistent with median nerve distribution. The tingling pain aggravated by tapping over the swelling (Tinel's sign) also suggests median nerve involvement. Therefore, the structure at risk of entrapment is the median nerve.\n\nFinal answer: None of the provided options directly mention the median nerve, but based on the anatomical location and symptoms, the correct answer should be the median nerve. However, since the median nerve is not listed, the question may be flawed or missing the correct option.",
+            "Flexor pollicis longus tendon",
+            "The mass described is likely a ganglion cyst, which is common on the dorsal or volar aspect of the wrist. The symptoms of decreased sensation in the thumb, index finger, middle finger, and radial half of the ring finger suggest involvement of the median nerve. The median nerve runs through the carpal tunnel, which is located on the volar aspect of the wrist. Given the location of the mass and the symptoms, the structure at risk of entrapment is the median nerve.\n\nFinal answer: (C) Flexor carpi radialis tendon"
+        ],
+        "ensemble_raw_responses": [
+            "Option 2 is the best final answer. The analysis correctly identifies the median nerve as the structure at risk of entrapment based on the anatomical location and symptoms described. Although the median nerve is not listed among the provided options, the reasoning is sound and aligns with the clinical presentation. Therefore, option 2 provides the most accurate and thorough explanation.\n\nFinal answer: 2",
+            "0",
+            "The best final answer is option 0. \n\nOption 0 correctly identifies the median nerve as the structure at risk of entrapment based on the anatomical location and symptoms described. The symptoms of decreased sensation in the thumb, index finger, middle finger, and radial half of the ring finger are consistent with median nerve distribution. The tingling pain aggravated by tapping over the swelling (Tinel's sign) also suggests median nerve involvement. Although the final answer mentions that the median nerve is not listed among the options, it accurately identifies the correct structure at risk.\n\nOption 1 incorrectly concludes with the flexor carpi radialis tendon, which does not align with the symptoms described.\n\nOption 2 does not provide a complete analysis and incorrectly identifies the flexor pollicis longus tendon, which is not consistent with the symptoms described.\n\nTherefore, the chosen option is 0."
+        ],
+        "final_solution": "The mass is located on the lateral volar aspect of the left wrist, which is the area where the median nerve runs. The symptoms of decreased sensation in the thumb, index finger, middle finger, and radial half of the ring finger are consistent with median nerve distribution. The tingling pain aggravated by tapping over the swelling (Tinel's sign) also suggests median nerve involvement. Therefore, the structure at risk of entrapment is the median nerve.\n\nFinal answer: None of the provided options directly mention the median nerve, but based on the anatomical location and symptoms, the correct answer should be the median nerve. However, since the median nerve is not listed, the question may be flawed or missing the correct option."
     },
     {
         "realidx": 670,
@@ -4990,12 +5870,23 @@
             "mechanism of action",
             "chlorhexidine"
         ],
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1182,
-            "completion_tokens": 105
+            "prompt_tokens": 1284,
+            "completion_tokens": 204
         },
-        "time_elapsed": 4.138148784637451
+        "time_elapsed": 5.331344842910767,
+        "raw_responses": [
+            "Chlorhexidine is a disinfectant and antiseptic that is widely used in medical settings. It works by disrupting the cell membrane of bacteria, leading to cell death. This mechanism is effective at both low and high concentrations, making it bactericidal. \n\nOption (A) Bactericidal at low concentrations is the correct answer.",
+            "(A) Bactericidal at low concentrations",
+            "(C) Attack of free-sulfur amino acids, nucleotides, and fatty acids within the bacteria"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "2",
+            "The best final answer is option 2. \n\nOption 2 correctly identifies that chlorhexidine is bactericidal at low concentrations, which aligns with the known mechanism of action of chlorhexidine. Option 1 provides a detailed explanation but incorrectly states the correct answer as option (A) instead of just stating the correct answer directly. Option 0 is incorrect as it does not accurately describe the mechanism of action of chlorhexidine. \n\nTherefore, the chosen option number is 2."
+        ],
+        "final_solution": "Chlorhexidine is a disinfectant and antiseptic that is widely used in medical settings. It works by disrupting the cell membrane of bacteria, leading to cell death. This mechanism is effective at both low and high concentrations, making it bactericidal. \n\nOption (A) Bactericidal at low concentrations is the correct answer."
     },
     {
         "realidx": 676,
@@ -5039,12 +5930,23 @@
             "cell-type indicated",
             "arrow"
         ],
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1173,
-            "completion_tokens": 110
+            "prompt_tokens": 1176,
+            "completion_tokens": 138
         },
-        "time_elapsed": 4.6636962890625
+        "time_elapsed": 5.288597583770752,
+        "raw_responses": [
+            "(B) Interferon-gamma",
+            "(A) Platelet activating factor",
+            "(A) Platelet activating factor"
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "Option 2 is the best final answer.\n\nThe presence of the cell-type indicated by the arrow in the photomicrograph is most likely a macrophage, which is typically involved in the immune response to bacterial infections like Streptococcus pneumoniae. Interferon-gamma (IFN-\u03b3) is a key cytokine that activates macrophages and enhances their ability to kill bacteria. Therefore, the mediator most likely responsible for the presence of macrophages in the lung tissue is Interferon-gamma.\n\nSo, the chosen option number is:\n2",
+            "0"
+        ],
+        "final_solution": "(B) Interferon-gamma"
     },
     {
         "realidx": 677,
@@ -5093,9 +5995,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 1221,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.832432746887207
+        "time_elapsed": 4.125264883041382,
+        "raw_responses": [
+            "(B) Involvement of social services",
+            "(B) Involvement of social services",
+            "(B) Involvement of social services"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Involvement of social services"
     },
     {
         "realidx": 689,
@@ -5146,9 +6059,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1530,
-            "completion_tokens": 51
+            "completion_tokens": 57
         },
-        "time_elapsed": 4.054847717285156
+        "time_elapsed": 4.166325569152832,
+        "raw_responses": [
+            "(A) Perform lumbar puncture, treat based on presence or absence of CNS disease",
+            "(A) Perform lumbar puncture, treat based on presence or absence of CNS disease",
+            "(A) Perform lumbar puncture, treat based on presence or absence of CNS disease"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Perform lumbar puncture, treat based on presence or absence of CNS disease"
     },
     {
         "realidx": 706,
@@ -5223,9 +6147,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1836,
-            "completion_tokens": 24
+            "completion_tokens": 30
         },
-        "time_elapsed": 3.7651941776275635
+        "time_elapsed": 3.9818038940429688,
+        "raw_responses": [
+            "(D) Supportive therapy and observation",
+            "(D) Supportive therapy and observation",
+            "(D) Supportive therapy and observation"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Supportive therapy and observation"
     },
     {
         "realidx": 709,
@@ -5257,12 +6192,23 @@
             "plasma ratio",
             "urea"
         ],
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 747,
-            "completion_tokens": 24
+            "prompt_tokens": 786,
+            "completion_tokens": 44
         },
-        "time_elapsed": 3.804025650024414
+        "time_elapsed": 4.007487058639526,
+        "raw_responses": [
+            "Without the graph in figure A, it is not possible to determine the correct answer.",
+            "The correct answer is (C) D.",
+            "The correct answer is (C) D."
+        ],
+        "ensemble_raw_responses": [
+            "2",
+            "0",
+            "1"
+        ],
+        "final_solution": "Without the graph in figure A, it is not possible to determine the correct answer."
     },
     {
         "realidx": 714,
@@ -5333,10 +6279,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1926,
-            "completion_tokens": 54
+            "prompt_tokens": 1944,
+            "completion_tokens": 260
         },
-        "time_elapsed": 3.5412518978118896
+        "time_elapsed": 6.634728670120239,
+        "raw_responses": [
+            "(D) Systolic ejection murmur at the right second intercostal space",
+            "(A) Holosystolic, high-pitched blowing murmur at the lower left sternal border",
+            "(A) Holosystolic, high-pitched blowing murmur at the lower left sternal border"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "1",
+            "The patient's presentation of excruciating chest pain described as ripping and radiating to the back, along with a history of a heart murmur, hypotension, tachycardia, and physical features such as tall stature and joint hypermobility, is highly suggestive of an aortic dissection. Aortic dissection is often associated with Marfan syndrome, which can present with these physical features.\n\nThe murmur associated with aortic dissection is typically a diastolic murmur due to aortic regurgitation, not a holosystolic or systolic ejection murmur. However, the given options do not include a diastolic murmur. \n\nGiven the options, the most relevant murmur in the context of aortic dissection and Marfan syndrome would be a systolic ejection murmur at the right second intercostal space, which can be associated with aortic root dilation.\n\nTherefore, the best final answer is:\n\n2"
+        ],
+        "final_solution": "(D) Systolic ejection murmur at the right second intercostal space"
     },
     {
         "realidx": 720,
@@ -5381,12 +6338,23 @@
             "likely substance",
             "case"
         ],
-        "predicted_answer": "B",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1428,
-            "completion_tokens": 120
+            "prompt_tokens": 1140,
+            "completion_tokens": 754
         },
-        "time_elapsed": 4.747979640960693
+        "time_elapsed": 10.937912225723267,
+        "raw_responses": [
+            "(A) Decreased oxytocin",
+            "(A) Decreased oxytocin",
+            "(A) Decreased oxytocin"
+        ],
+        "ensemble_raw_responses": [
+            "The problem describes a 28-year-old woman with symptoms that suggest a possible endocrine disorder. The key symptoms include recent motor vehicle accidents, intermittent headaches, and unexpected wet shirts, which could indicate galactorrhea. The blood test reveals an abnormal elevation of a circulating substance, which is likely prolactin, given the symptoms.\n\nProlactin is a hormone produced by the pituitary gland that stimulates milk production (lactation). Elevated prolactin levels can lead to galactorrhea (unexpected milk production) and can also cause headaches due to a pituitary adenoma. Additionally, elevated prolactin levels can inhibit the secretion of gonadotropin-releasing hormone (GnRH), leading to decreased levels of other hormones such as oxytocin.\n\nGiven this analysis, the correct answer is:\n(A) Decreased oxytocin\n\nAll three candidate solutions (0, 1, and 2) provide the same answer. Therefore, any of these options would be correct. I will choose option 0.\n\n0",
+            "The problem describes a 28-year-old woman with symptoms that suggest a possible endocrine disorder. The key symptoms include recent motor vehicle accidents, intermittent headaches, and unexpected wet shirts, which could indicate galactorrhea. The blood test reveals an abnormal elevation of a circulating substance, which is likely prolactin, given the symptoms.\n\nProlactin is a hormone produced by the pituitary gland that stimulates milk production (lactation). Elevated prolactin levels can lead to galactorrhea (unexpected milk production) and can also cause headaches due to a pituitary adenoma. Additionally, elevated prolactin levels can inhibit the secretion of gonadotropin-releasing hormone (GnRH), leading to decreased levels of other hormones such as oxytocin.\n\nGiven this analysis, the correct answer is \"Decreased oxytocin,\" which is consistent with the physiological effects of elevated prolactin levels.\n\nAll three candidate solutions (0, 1, and 2) provide the same answer: (A) Decreased oxytocin. Therefore, any of these options would be correct.\n\nI will choose option 0 as the final answer.\n\n0",
+            "The problem describes a 28-year-old woman with symptoms that suggest a possible endocrine disorder, such as a pituitary adenoma. The symptoms include visual disturbances (likely due to a mass effect on the optic chiasm), headaches, and galactorrhea (suggested by her shirts getting wet unexpectedly, which is indicative of milk production). These symptoms are consistent with hyperprolactinemia, which is an elevated level of prolactin.\n\nProlactin is a hormone produced by the anterior pituitary gland, and its primary function is to promote lactation (milk production). Elevated prolactin levels can inhibit the secretion of gonadotropin-releasing hormone (GnRH), leading to decreased levels of other hormones such as estrogen and testosterone. However, the most direct physiological function associated with prolactin is lactation.\n\nGiven the options provided, the correct answer should relate to the physiological function of prolactin. The correct answer is:\n\n(A) Decreased oxytocin\n\nOxytocin is another hormone involved in lactation, specifically in the milk ejection reflex. Elevated prolactin levels can be associated with changes in oxytocin levels.\n\nAll three candidate solutions (0, 1, and 2) provide the same answer: (A) Decreased oxytocin. Therefore, any of these options would be correct.\n\nI will choose option 0 as the final answer.\n\n0"
+        ],
+        "final_solution": "(A) Decreased oxytocin"
     },
     {
         "realidx": 724,
@@ -5460,10 +6428,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 2748,
-            "completion_tokens": 268
+            "prompt_tokens": 2733,
+            "completion_tokens": 376
         },
-        "time_elapsed": 6.855654954910278
+        "time_elapsed": 7.20305323600769,
+        "raw_responses": [
+            "The patient's presentation of fever, nausea, vomiting, photophobia, and neck stiffness suggests meningitis. The cerebrospinal fluid (CSF) analysis shows an elevated white blood cell count (175/mm^3), which is indicative of an infection. The glucose level is slightly low (49 mg/dL), and the protein level is elevated (55 mg/dL), which are consistent with bacterial meningitis. \n\nGiven the patient's symptoms and CSF findings, the most likely diagnosis is bacterial meningitis. The appropriate treatment for bacterial meningitis is antibiotics.\n\nFinal answer: (C) Ceftriaxone and vancomycin",
+            "The patient's presentation of fever, nausea, vomiting, photophobia, and neck stiffness, along with the cerebrospinal fluid (CSF) findings, suggests a diagnosis of bacterial meningitis. The CSF analysis shows an elevated white blood cell count (175/mm^3), which is indicative of an infection. The glucose level is slightly low (49 mg/dL), and the protein level is elevated (55 mg/dL), both of which are consistent with bacterial meningitis. The best treatment for bacterial meningitis is broad-spectrum antibiotics.\n\nFinal answer: (C) Ceftriaxone and vancomycin",
+            "(C) Ceftriaxone and vancomycin"
+        ],
+        "ensemble_raw_responses": [
+            "The best final answer is option 1. \n\nOption 1 provides a clear and detailed explanation of the patient's symptoms, CSF findings, and the rationale for the diagnosis of bacterial meningitis. It also correctly identifies the appropriate treatment with antibiotics, specifically ceftriaxone and vancomycin. \n\nOption 0 also provides a good explanation but is slightly less concise than option 1. \n\nOption 2 is correct but lacks any explanation or rationale, making it less informative. \n\nTherefore, option 1 is the best choice.",
+            "1",
+            "0"
+        ],
+        "final_solution": "The patient's presentation of fever, nausea, vomiting, photophobia, and neck stiffness suggests meningitis. The cerebrospinal fluid (CSF) analysis shows an elevated white blood cell count (175/mm^3), which is indicative of an infection. The glucose level is slightly low (49 mg/dL), and the protein level is elevated (55 mg/dL), which are consistent with bacterial meningitis. \n\nGiven the patient's symptoms and CSF findings, the most likely diagnosis is bacterial meningitis. The appropriate treatment for bacterial meningitis is antibiotics.\n\nFinal answer: (C) Ceftriaxone and vancomycin"
     },
     {
         "realidx": 748,
@@ -5500,9 +6479,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 915,
-            "completion_tokens": 18
+            "completion_tokens": 240
         },
-        "time_elapsed": 4.0361328125
+        "time_elapsed": 6.7364182472229,
+        "raw_responses": [
+            "(B) cAMP pathway",
+            "(B) cAMP pathway",
+            "(B) cAMP pathway"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "The symptoms described in the problem, including headaches, constipation, increased thirst, increased urinary frequency, high blood pressure, and low potassium levels, along with the presence of a mass in the adrenal gland, suggest the possibility of primary hyperaldosteronism (Conn's syndrome). This condition is characterized by the overproduction of aldosterone, which acts on the kidneys to increase sodium reabsorption and potassium excretion, leading to hypertension and hypokalemia.\n\nAldosterone exerts its effects primarily through the mineralocorticoid receptor, which is part of the steroid hormone receptor family and typically acts via the intracellular receptor pathway, not the cAMP pathway.\n\nGiven this understanding, the correct pathway for aldosterone action is not the cAMP pathway. Therefore, none of the provided solutions (0, 1, 2) correctly identify the pathway used by aldosterone.\n\nHowever, since the task is to choose the best final answer from the given options, and all options are the same, I will select option 0 as the representative answer.\n\nThe chosen option number is:\n0"
+        ],
+        "final_solution": "(B) cAMP pathway"
     },
     {
         "realidx": 755,
@@ -5573,10 +6563,21 @@
         ],
         "predicted_answer": "C",
         "token_usage": {
-            "prompt_tokens": 3564,
-            "completion_tokens": 606
+            "prompt_tokens": 2640,
+            "completion_tokens": 296
         },
-        "time_elapsed": 9.291983127593994
+        "time_elapsed": 6.742953300476074,
+        "raw_responses": [
+            "The patient is a 31-year-old pregnant woman at 28 weeks gestation presenting with shortness of breath, right-sided chest pain that worsens with inspiration, and tachycardia. These symptoms raise concern for a pulmonary embolism (PE), especially given her recent travel, which is a risk factor for venous thromboembolism.\n\n1. **Symptoms and Signs**: The patient has pleuritic chest pain, shortness of breath, and tachycardia, which are classic signs of PE.\n2. **Risk Factors**: Pregnancy and recent long-distance travel are significant risk factors for PE.\n3. **Physical Examination**: Decreased air movement in the right lung and tachycardia further support the suspicion of PE.\n4. **Diagnostic Imaging**: \n   - **ECG**: While it can show signs of right heart strain, it is not definitive for PE.\n   - **Chest Radiography**: Useful to rule out other causes but not definitive for PE.\n   - **V/Q Scan**: Preferred in pregnancy due to lower radiation exposure to the fetus compared to CT.\n   - **CT Pulmonary Angiogram**: Gold standard for diagnosing PE but involves higher radiation exposure.\n\nGiven the patient's pregnancy, the best next step is to minimize radiation exposure while effectively diagnosing PE.\n\nFinal Answer: (C) V/Q scan",
+            "(C) V/Q scan",
+            "(C) V/Q scan"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "2",
+            "2"
+        ],
+        "final_solution": "The patient is a 31-year-old pregnant woman at 28 weeks gestation presenting with shortness of breath, right-sided chest pain that worsens with inspiration, and tachycardia. These symptoms raise concern for a pulmonary embolism (PE), especially given her recent travel, which is a risk factor for venous thromboembolism.\n\n1. **Symptoms and Signs**: The patient has pleuritic chest pain, shortness of breath, and tachycardia, which are classic signs of PE.\n2. **Risk Factors**: Pregnancy and recent long-distance travel are significant risk factors for PE.\n3. **Physical Examination**: Decreased air movement in the right lung and tachycardia further support the suspicion of PE.\n4. **Diagnostic Imaging**: \n   - **ECG**: While it can show signs of right heart strain, it is not definitive for PE.\n   - **Chest Radiography**: Useful to rule out other causes but not definitive for PE.\n   - **V/Q Scan**: Preferred in pregnancy due to lower radiation exposure to the fetus compared to CT.\n   - **CT Pulmonary Angiogram**: Gold standard for diagnosing PE but involves higher radiation exposure.\n\nGiven the patient's pregnancy, the best next step is to minimize radiation exposure while effectively diagnosing PE.\n\nFinal Answer: (C) V/Q scan"
     },
     {
         "realidx": 758,
@@ -5665,9 +6666,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 2556,
-            "completion_tokens": 27
+            "completion_tokens": 33
         },
-        "time_elapsed": 3.5917696952819824
+        "time_elapsed": 4.3110268115997314,
+        "raw_responses": [
+            "(D) Group D streptococci",
+            "(D) Group D streptococci",
+            "(D) Group D streptococci"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Group D streptococci"
     },
     {
         "realidx": 764,
@@ -5725,10 +6737,21 @@
         ],
         "predicted_answer": "D",
         "token_usage": {
-            "prompt_tokens": 1518,
-            "completion_tokens": 44
+            "prompt_tokens": 1524,
+            "completion_tokens": 52
         },
-        "time_elapsed": 3.7942419052124023
+        "time_elapsed": 5.542094469070435,
+        "raw_responses": [
+            "(C) Treat and transfer the patient after she makes a written request",
+            "(D) Transfer the patient only if the medical benefits of transfer outweigh the risks",
+            "(D) Transfer the patient only if the medical benefits of transfer outweigh the risks"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "1",
+            "1"
+        ],
+        "final_solution": "(D) Transfer the patient only if the medical benefits of transfer outweigh the risks"
     },
     {
         "realidx": 778,
@@ -5773,9 +6796,20 @@
         "predicted_answer": "A",
         "token_usage": {
             "prompt_tokens": 1257,
-            "completion_tokens": 357
+            "completion_tokens": 231
         },
-        "time_elapsed": 6.570111036300659
+        "time_elapsed": 7.492618799209595,
+        "raw_responses": [
+            "(A) He is already overcommitting and must reduce the number of hours",
+            "(A) He is already overcommitting and must reduce the number of hours",
+            "(A) He is already overcommitting and must reduce the number of hours"
+        ],
+        "ensemble_raw_responses": [
+            "The solutions provided are identical, all stating that the resident is overcommitting and must reduce the number of hours. Given that the Accreditation Council for Graduate Medical Education (ACGME) limits residents to a maximum of 80 hours of work per week, the resident in question is working 70 hours per week (60 hours in residency and 10 hours moonlighting). This is within the ACGME limit. However, the solutions suggest that the resident is overcommitting, which may be a consideration for patient safety and personal well-being.\n\nSince all solutions are the same, any of them can be chosen. Therefore, the chosen option number is:\n\n0",
+            "The solutions provided are all identical, stating that the resident is already overcommitting and must reduce the number of hours. Since they are all the same, any of them would be correct. Therefore, the best final answer is:\n\n0",
+            "0"
+        ],
+        "final_solution": "(A) He is already overcommitting and must reduce the number of hours"
     },
     {
         "realidx": 784,
@@ -5828,10 +6862,21 @@
         ],
         "predicted_answer": "B",
         "token_usage": {
-            "prompt_tokens": 1671,
-            "completion_tokens": 116
+            "prompt_tokens": 1386,
+            "completion_tokens": 27
         },
-        "time_elapsed": 4.858131408691406
+        "time_elapsed": 4.666361331939697,
+        "raw_responses": [
+            "(B) Cell-free DNA testing",
+            "(B) Cell-free DNA testing",
+            "(B) Cell-free DNA testing"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Cell-free DNA testing"
     },
     {
         "realidx": 785,
@@ -5888,9 +6933,20 @@
         "predicted_answer": "C",
         "token_usage": {
             "prompt_tokens": 1482,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.710355281829834
+        "time_elapsed": 3.996242046356201,
+        "raw_responses": [
+            "(C) B lymphocytes",
+            "(C) B lymphocytes",
+            "(C) B lymphocytes"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(C) B lymphocytes"
     },
     {
         "realidx": 791,
@@ -5943,9 +6999,20 @@
         "predicted_answer": "D",
         "token_usage": {
             "prompt_tokens": 1416,
-            "completion_tokens": 18
+            "completion_tokens": 24
         },
-        "time_elapsed": 3.639376401901245
+        "time_elapsed": 4.684785842895508,
+        "raw_responses": [
+            "(D) Vesicular rash",
+            "(D) Vesicular rash",
+            "(D) Vesicular rash"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(D) Vesicular rash"
     },
     {
         "realidx": 803,
@@ -6009,10 +7076,21 @@
         ],
         "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1548,
-            "completion_tokens": 18
+            "prompt_tokens": 2595,
+            "completion_tokens": 373
         },
-        "time_elapsed": 3.414876699447632
+        "time_elapsed": 7.116184711456299,
+        "raw_responses": [
+            "The patient presents with symptoms suggestive of a transient ischemic attack (TIA), given the sudden onset of slurred speech and arm weakness that resolved within 30 minutes. The patient's history of hypertension, atrial fibrillation, diabetes, and vascular claudication increases her risk for cerebrovascular events. The initial head CT shows diffuse atrophy but no acute findings.\n\nThe next step in management should focus on identifying the cause of the TIA and preventing future strokes. A CT angiogram can help evaluate the cerebral vasculature for any stenosis or occlusion that might have caused the TIA. An echocardiogram can assess for cardiac sources of emboli, especially given her history of atrial fibrillation. Heparin is not typically used in the acute setting of a TIA without evidence of ongoing ischemia or embolism. An MRI can provide detailed imaging of the brain to identify any small infarcts not seen on CT.\n\nGiven the acute presentation and the need to evaluate the cerebral vasculature, the best next step is:\n\n(A) CT angiogram",
+            "The patient presents with symptoms suggestive of a transient ischemic attack (TIA), given the sudden onset of slurred speech and arm weakness that resolved within 30 minutes. The patient's history of hypertension, atrial fibrillation, diabetes, and vascular claudication increases her risk for cerebrovascular events. The initial head CT shows diffuse atrophy but no acute findings.\n\nThe best next step in management for a suspected TIA is to evaluate the cerebral vasculature to identify any potential sources of emboli or stenosis that could lead to future strokes. A CT angiogram is a non-invasive imaging study that can provide detailed information about the blood vessels in the brain and neck.\n\nFinal answer: (A) CT angiogram",
+            "(A) CT angiogram"
+        ],
+        "ensemble_raw_responses": [
+            "1",
+            "0",
+            "0"
+        ],
+        "final_solution": "The patient presents with symptoms suggestive of a transient ischemic attack (TIA), given the sudden onset of slurred speech and arm weakness that resolved within 30 minutes. The patient's history of hypertension, atrial fibrillation, diabetes, and vascular claudication increases her risk for cerebrovascular events. The initial head CT shows diffuse atrophy but no acute findings.\n\nThe best next step in management for a suspected TIA is to evaluate the cerebral vasculature to identify any potential sources of emboli or stenosis that could lead to future strokes. A CT angiogram is a non-invasive imaging study that can provide detailed information about the blood vessels in the brain and neck.\n\nFinal answer: (A) CT angiogram"
     },
     {
         "realidx": 822,
@@ -6101,9 +7179,20 @@
         "predicted_answer": "B",
         "token_usage": {
             "prompt_tokens": 2535,
-            "completion_tokens": 39
+            "completion_tokens": 45
         },
-        "time_elapsed": 3.488154411315918
+        "time_elapsed": 4.705840349197388,
+        "raw_responses": [
+            "(B) Decreased UDP-glucuronyl transferase activity",
+            "(B) Decreased UDP-glucuronyl transferase activity",
+            "(B) Decreased UDP-glucuronyl transferase activity"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(B) Decreased UDP-glucuronyl transferase activity"
     },
     {
         "realidx": 829,
@@ -6154,11 +7243,22 @@
             "next best step",
             "management"
         ],
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "token_usage": {
-            "prompt_tokens": 1446,
-            "completion_tokens": 43
+            "prompt_tokens": 1425,
+            "completion_tokens": 42
         },
-        "time_elapsed": 3.6352856159210205
+        "time_elapsed": 4.445874214172363,
+        "raw_responses": [
+            "(A) Azithromycin and admission to the medical floor",
+            "(A) Azithromycin and admission to the medical floor",
+            "(A) Azithromycin and admission to the medical floor"
+        ],
+        "ensemble_raw_responses": [
+            "0",
+            "0",
+            "0"
+        ],
+        "final_solution": "(A) Azithromycin and admission to the medical floor"
     }
 ]
