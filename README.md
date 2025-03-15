@@ -2,7 +2,12 @@
 
 **MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**
 
-![Paper](https://arxiv.org/abs/2503.07459)
+
+<p align="center">
+   📑&nbsp; <a href="[https://arxiv.org/abs/2503.09089](https://arxiv.org/abs/2503.07459)" target="_blank">Paper</a>
+   | 📊&nbsp; <a href="https://huggingface.co/datasets/super-dainiu/medagents-benchmark" target="_blank">HuggingFace</a>
+</p>
+
 
 This repository contains the evaluation benchmark for medical question-answering agents.
 
