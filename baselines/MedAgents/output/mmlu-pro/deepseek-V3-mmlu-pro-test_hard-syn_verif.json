@@ -9,13 +9,13 @@
             "C": "No disease at all",
             "D": "Kidney infections"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "A",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 13233,
-            "completion_tokens": 4172
+            "prompt_tokens": 16625,
+            "completion_tokens": 4582
         },
-        "time_elapsed": 504.9092664718628
+        "time_elapsed": 463.2199511528015
     },
     {
         "id": 1,
@@ -33,13 +33,13 @@
             "I": "The botanist Dmitri Iwanowsky",
             "J": "The physicist Albert Einstein"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 15245,
-            "completion_tokens": 4303
+            "prompt_tokens": 13563,
+            "completion_tokens": 3843
         },
-        "time_elapsed": 331.5636525154114
+        "time_elapsed": 376.51483368873596
     },
     {
         "id": 2,
@@ -60,10 +60,10 @@
         "predicted_answer": "E",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 17337,
-            "completion_tokens": 5378
+            "prompt_tokens": 16115,
+            "completion_tokens": 4522
         },
-        "time_elapsed": 592.4571132659912
+        "time_elapsed": 339.78929829597473
     },
     {
         "id": 3,
@@ -81,13 +81,13 @@
             "I": "Inspiratory component shorter and quieter with a gap between expiration and inspiration",
             "J": "Expiratory component shorter and quieter with a gap between inspiration and expiration"
         },
-        "predicted_answer": "",
+        "predicted_answer": "D",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 16603,
-            "completion_tokens": 4636
+            "prompt_tokens": 27184,
+            "completion_tokens": 7516
         },
-        "time_elapsed": 423.0918550491333
+        "time_elapsed": 602.2965829372406
     },
     {
         "id": 4,
@@ -108,10 +108,10 @@
         "predicted_answer": "A",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 6514,
-            "completion_tokens": 2203
+            "prompt_tokens": 15004,
+            "completion_tokens": 4565
         },
-        "time_elapsed": 163.91792702674866
+        "time_elapsed": 387.2939102649689
     },
     {
         "id": 5,
@@ -132,10 +132,10 @@
         "predicted_answer": "B",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 13871,
-            "completion_tokens": 4241
+            "prompt_tokens": 12880,
+            "completion_tokens": 3288
         },
-        "time_elapsed": 354.89614939689636
+        "time_elapsed": 283.75431299209595
     },
     {
         "id": 6,
@@ -153,13 +153,13 @@
             "I": "arise from the ascending aorta and fill during diastole.",
             "J": "arise from the arch of the aorta and fill during diastole."
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 18835,
-            "completion_tokens": 5267
+            "prompt_tokens": 17292,
+            "completion_tokens": 5035
         },
-        "time_elapsed": 481.98316979408264
+        "time_elapsed": 341.43845105171204
     },
     {
         "id": 7,
@@ -177,13 +177,13 @@
             "I": "The ribs, sternum and clavicle",
             "J": "The ribs"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 28957,
-            "completion_tokens": 7330
+            "prompt_tokens": 23977,
+            "completion_tokens": 6729
         },
-        "time_elapsed": 553.5593237876892
+        "time_elapsed": 458.290828704834
     },
     {
         "id": 8,
@@ -204,10 +204,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 20462,
-            "completion_tokens": 5793
+            "prompt_tokens": 31493,
+            "completion_tokens": 8145
         },
-        "time_elapsed": 499.9967215061188
+        "time_elapsed": 586.8259761333466
     },
     {
         "id": 9,
@@ -228,10 +228,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 21664,
-            "completion_tokens": 5609
+            "prompt_tokens": 23532,
+            "completion_tokens": 5683
         },
-        "time_elapsed": 492.6450517177582
+        "time_elapsed": 423.6752462387085
     },
     {
         "id": 10,
@@ -252,10 +252,10 @@
         "predicted_answer": "B",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 20540,
-            "completion_tokens": 4966
+            "prompt_tokens": 20016,
+            "completion_tokens": 4779
         },
-        "time_elapsed": 399.4615590572357
+        "time_elapsed": 394.38355326652527
     },
     {
         "id": 11,
@@ -274,10 +274,10 @@
         "predicted_answer": "D",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 22469,
-            "completion_tokens": 5942
+            "prompt_tokens": 21743,
+            "completion_tokens": 5488
         },
-        "time_elapsed": 422.7781229019165
+        "time_elapsed": 473.233026266098
     },
     {
         "id": 12,
@@ -295,13 +295,13 @@
             "I": "5%",
             "J": "32%"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "B",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 15519,
-            "completion_tokens": 4584
+            "prompt_tokens": 15803,
+            "completion_tokens": 4701
         },
-        "time_elapsed": 381.2782738208771
+        "time_elapsed": 398.67047595977783
     },
     {
         "id": 13,
@@ -319,13 +319,13 @@
             "I": "Carboxylation of pyruvate to oxaloacetate",
             "J": "Synthesis of methylene tetrahydrofolate"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 15660,
-            "completion_tokens": 4520
+            "prompt_tokens": 15079,
+            "completion_tokens": 4057
         },
-        "time_elapsed": 346.5208716392517
+        "time_elapsed": 293.098774433136
     },
     {
         "id": 14,
@@ -343,13 +343,13 @@
             "I": "Carboxylation of pyruvate to oxaloacetate",
             "J": "Synthesis of methylene tetrahydrofolate"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 16150,
-            "completion_tokens": 4543
+            "prompt_tokens": 14429,
+            "completion_tokens": 3831
         },
-        "time_elapsed": 372.6579179763794
+        "time_elapsed": 299.05987000465393
     },
     {
         "id": 15,
@@ -367,13 +367,13 @@
             "I": "Cross-links formed by oxidation of -SH groups of cysteine to form disulphide bridges render the amino acid unavailable to digestion.",
             "J": "The sequence of amino acids in a protein is its tertiary structure"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 18231,
-            "completion_tokens": 4686
+            "prompt_tokens": 18293,
+            "completion_tokens": 4625
         },
-        "time_elapsed": 339.36891865730286
+        "time_elapsed": 309.29894042015076
     },
     {
         "id": 16,
@@ -392,10 +392,10 @@
         "predicted_answer": "C",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 16642,
-            "completion_tokens": 5077
+            "prompt_tokens": 15837,
+            "completion_tokens": 4786
         },
-        "time_elapsed": 938.4685506820679
+        "time_elapsed": 309.1273515224457
     },
     {
         "id": 17,
@@ -410,13 +410,13 @@
             "F": "Increase in body fat percentage",
             "G": "Hypoglycaemia"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 14724,
-            "completion_tokens": 4378
+            "prompt_tokens": 13722,
+            "completion_tokens": 4161
         },
-        "time_elapsed": 292.9110269546509
+        "time_elapsed": 289.28330397605896
     },
     {
         "id": 18,
@@ -434,13 +434,13 @@
             "I": "Water is mostly absorbed by the cells lining the gut (enterocytes) via osmosis",
             "J": "Water movement in the small intestine is always lesser than dietary intake of water"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 19525,
-            "completion_tokens": 4925
+            "prompt_tokens": 17785,
+            "completion_tokens": 4177
         },
-        "time_elapsed": 779.4431953430176
+        "time_elapsed": 294.51436972618103
     },
     {
         "id": 19,
@@ -458,13 +458,13 @@
             "I": "High dose \u00df-carotene supplements",
             "J": "Drinking green tea"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 16090,
-            "completion_tokens": 4780
+            "prompt_tokens": 13254,
+            "completion_tokens": 4090
         },
-        "time_elapsed": 349.2531487941742
+        "time_elapsed": 377.9496273994446
     },
     {
         "id": 20,
@@ -482,13 +482,13 @@
             "I": "High dose \u00df-carotene supplements",
             "J": "Drinking green tea"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 17603,
-            "completion_tokens": 5527
+            "prompt_tokens": 15413,
+            "completion_tokens": 4644
         },
-        "time_elapsed": 496.8454473018646
+        "time_elapsed": 393.27892088890076
     },
     {
         "id": 21,
@@ -505,13 +505,13 @@
             "H": "Obesity",
             "I": "Diverticular disease"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "F",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 17154,
-            "completion_tokens": 5394
+            "prompt_tokens": 15985,
+            "completion_tokens": 5105
         },
-        "time_elapsed": 440.102162361145
+        "time_elapsed": 408.2137575149536
     },
     {
         "id": 22,
@@ -526,10 +526,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 14572,
-            "completion_tokens": 4766
+            "prompt_tokens": 15065,
+            "completion_tokens": 4526
         },
-        "time_elapsed": 384.6277120113373
+        "time_elapsed": 394.9426703453064
     },
     {
         "id": 23,
@@ -541,13 +541,13 @@
             "C": "An icosahedral large pleomorphic virus",
             "D": "Large regimented barrel shaped virus"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "A",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 17304,
-            "completion_tokens": 5456
+            "prompt_tokens": 16233,
+            "completion_tokens": 4866
         },
-        "time_elapsed": 431.5086328983307
+        "time_elapsed": 314.5879340171814
     },
     {
         "id": 24,
@@ -565,13 +565,13 @@
             "I": "Factor VIII is derived from animals, which cannot carry HIV",
             "J": "Factor VIII is subject to detergent \u201cwashing\u201d prior to release"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 16858,
-            "completion_tokens": 4604
+            "prompt_tokens": 17183,
+            "completion_tokens": 4460
         },
-        "time_elapsed": 326.32401871681213
+        "time_elapsed": 303.954439163208
     },
     {
         "id": 25,
@@ -589,13 +589,13 @@
             "I": "Part of a cycle of mosquitoes biting humans in cities",
             "J": "A YF virus that only affects humans in rural areas"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 31651,
-            "completion_tokens": 9801
+            "prompt_tokens": 18173,
+            "completion_tokens": 5103
         },
-        "time_elapsed": 612.311680316925
+        "time_elapsed": 368.8679618835449
     },
     {
         "id": 26,
@@ -616,10 +616,10 @@
         "predicted_answer": "A",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 14651,
-            "completion_tokens": 4164
+            "prompt_tokens": 14905,
+            "completion_tokens": 4592
         },
-        "time_elapsed": 329.24276065826416
+        "time_elapsed": 330.14728331565857
     },
     {
         "id": 27,
@@ -637,13 +637,13 @@
             "I": "5' - GGATCCTCAG - 3'",
             "J": "5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 17774,
-            "completion_tokens": 4765
+            "prompt_tokens": 19049,
+            "completion_tokens": 5019
         },
-        "time_elapsed": 385.83101511001587
+        "time_elapsed": 446.8329417705536
     },
     {
         "id": 28,
@@ -661,13 +661,13 @@
             "I": "A diversified and developed economy.",
             "J": "An economy centralized around one natural resource."
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 17264,
-            "completion_tokens": 4887
+            "prompt_tokens": 16026,
+            "completion_tokens": 4835
         },
-        "time_elapsed": 400.48370027542114
+        "time_elapsed": 432.3505856990814
     },
     {
         "id": 29,
@@ -685,13 +685,13 @@
             "I": "Pressure in the root of the neck reduces the impulse",
             "J": "Pressure in the mid-section reduces the impulse"
         },
-        "predicted_answer": "",
+        "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 17517,
-            "completion_tokens": 5071
+            "prompt_tokens": 18407,
+            "completion_tokens": 5240
         },
-        "time_elapsed": 388.22606468200684
+        "time_elapsed": 438.55155062675476
     },
     {
         "id": 30,
@@ -712,10 +712,10 @@
         "predicted_answer": "A",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 16398,
-            "completion_tokens": 4729
+            "prompt_tokens": 14979,
+            "completion_tokens": 4360
         },
-        "time_elapsed": 361.04444575309753
+        "time_elapsed": 394.6412208080292
     },
     {
         "id": 31,
@@ -736,10 +736,10 @@
         "predicted_answer": "E",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 16801,
-            "completion_tokens": 5099
+            "prompt_tokens": 15920,
+            "completion_tokens": 4739
         },
-        "time_elapsed": 417.6599934101105
+        "time_elapsed": 311.4665822982788
     },
     {
         "id": 32,
@@ -760,10 +760,10 @@
         "predicted_answer": "D",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 28482,
-            "completion_tokens": 6912
+            "prompt_tokens": 27559,
+            "completion_tokens": 6644
         },
-        "time_elapsed": 455.293564081192
+        "time_elapsed": 507.3688361644745
     },
     {
         "id": 33,
@@ -784,10 +784,10 @@
         "predicted_answer": "D",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 28578,
-            "completion_tokens": 6817
+            "prompt_tokens": 26977,
+            "completion_tokens": 6488
         },
-        "time_elapsed": 472.4960732460022
+        "time_elapsed": 399.82718443870544
     },
     {
         "id": 34,
@@ -805,13 +805,13 @@
             "I": "Formation of antibodies to RhC",
             "J": "Development of natural killer cells"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 20117,
-            "completion_tokens": 5223
+            "prompt_tokens": 21480,
+            "completion_tokens": 5911
         },
-        "time_elapsed": 438.2816958427429
+        "time_elapsed": 416.06092619895935
     },
     {
         "id": 35,
@@ -829,13 +829,13 @@
             "I": "Formation of antibodies to RhC",
             "J": "Development of natural killer cells"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 20209,
-            "completion_tokens": 7912
+            "prompt_tokens": 19943,
+            "completion_tokens": 5189
         },
-        "time_elapsed": 494.5026066303253
+        "time_elapsed": 475.74602365493774
     },
     {
         "id": 36,
@@ -851,10 +851,10 @@
         "predicted_answer": "A",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 15103,
-            "completion_tokens": 4543
+            "prompt_tokens": 15040,
+            "completion_tokens": 4743
         },
-        "time_elapsed": 367.37320351600647
+        "time_elapsed": 435.3255124092102
     },
     {
         "id": 37,
@@ -872,13 +872,13 @@
             "I": "1.5 units of BMI",
             "J": "2 units of BMI"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 16027,
-            "completion_tokens": 4643
+            "prompt_tokens": 14927,
+            "completion_tokens": 4138
         },
-        "time_elapsed": 344.7043409347534
+        "time_elapsed": 439.8022940158844
     },
     {
         "id": 38,
@@ -896,13 +896,13 @@
             "I": "glucose-1-phosphate.",
             "J": "glucose-1,2-diphosphate."
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 15107,
-            "completion_tokens": 4131
+            "prompt_tokens": 14840,
+            "completion_tokens": 3968
         },
-        "time_elapsed": 341.9552607536316
+        "time_elapsed": 416.0456922054291
     },
     {
         "id": 39,
@@ -920,13 +920,13 @@
             "I": "Innate",
             "J": "Active"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 16118,
-            "completion_tokens": 4519
+            "prompt_tokens": 15951,
+            "completion_tokens": 4406
         },
-        "time_elapsed": 405.77538776397705
+        "time_elapsed": 360.20723271369934
     },
     {
         "id": 40,
@@ -947,10 +947,10 @@
         "predicted_answer": "E",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 18478,
-            "completion_tokens": 5716
+            "prompt_tokens": 15535,
+            "completion_tokens": 4101
         },
-        "time_elapsed": 418.01874589920044
+        "time_elapsed": 591.0592615604401
     },
     {
         "id": 41,
@@ -968,13 +968,13 @@
             "I": "It increases the risk of thyroid cancer",
             "J": "Dysphagia is an indication for surgery"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 20429,
-            "completion_tokens": 5961
+            "prompt_tokens": 19669,
+            "completion_tokens": 5578
         },
-        "time_elapsed": 659.466148853302
+        "time_elapsed": 536.6100783348083
     },
     {
         "id": 42,
@@ -992,13 +992,13 @@
             "I": "the highest rate of air expelled from the lungs through an open mouth.",
             "J": "the rate of air inhaled into the lungs through an open mouth."
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 15525,
-            "completion_tokens": 7236
+            "prompt_tokens": 15958,
+            "completion_tokens": 4291
         },
-        "time_elapsed": 689.407829284668
+        "time_elapsed": 504.3271703720093
     },
     {
         "id": 43,
@@ -1016,13 +1016,13 @@
             "I": "Authority",
             "J": "Identity"
         },
-        "predicted_answer": "",
+        "predicted_answer": "J",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 12428,
-            "completion_tokens": 3587
+            "prompt_tokens": 12237,
+            "completion_tokens": 3230
         },
-        "time_elapsed": 510.0529570579529
+        "time_elapsed": 395.94013261795044
     },
     {
         "id": 44,
@@ -1043,10 +1043,10 @@
         "predicted_answer": "D",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 15421,
-            "completion_tokens": 4649
+            "prompt_tokens": 13339,
+            "completion_tokens": 3770
         },
-        "time_elapsed": 407.1044189929962
+        "time_elapsed": 538.6106119155884
     },
     {
         "id": 45,
@@ -1064,13 +1064,13 @@
             "I": "developmental epigenetics",
             "J": "in utero epigenetics"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 15899,
-            "completion_tokens": 4684
+            "prompt_tokens": 14824,
+            "completion_tokens": 4121
         },
-        "time_elapsed": 640.4369375705719
+        "time_elapsed": 537.8719744682312
     },
     {
         "id": 46,
@@ -1088,13 +1088,13 @@
             "I": "constitutive repression of the lac operon genes",
             "J": "reduced expression of the lac operon genes only when lactose is present"
         },
-        "predicted_answer": "E",
+        "predicted_answer": "I",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 23051,
-            "completion_tokens": 5367
+            "prompt_tokens": 18016,
+            "completion_tokens": 4392
         },
-        "time_elapsed": 610.5540390014648
+        "time_elapsed": 520.5294206142426
     },
     {
         "id": 47,
@@ -1112,13 +1112,13 @@
             "I": "0.08",
             "J": "0.06"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 16621,
-            "completion_tokens": 4844
+            "prompt_tokens": 18610,
+            "completion_tokens": 5336
         },
-        "time_elapsed": 532.2279150485992
+        "time_elapsed": 542.1168611049652
     },
     {
         "id": 48,
@@ -1136,13 +1136,13 @@
             "I": "Pupillary constriction and a lateral strabismus",
             "J": "Pupillary dilatation and a upward strabismus"
         },
-        "predicted_answer": "",
+        "predicted_answer": "A",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 20036,
-            "completion_tokens": 6011
+            "prompt_tokens": 19679,
+            "completion_tokens": 5588
         },
-        "time_elapsed": 650.4343326091766
+        "time_elapsed": 396.42341232299805
     },
     {
         "id": 49,
@@ -1160,13 +1160,13 @@
             "I": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
             "J": "posterior fragment to be displaced medially by action of the medial pterygoid muscle."
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 20310,
-            "completion_tokens": 5805
+            "prompt_tokens": 20418,
+            "completion_tokens": 5670
         },
-        "time_elapsed": 525.9649889469147
+        "time_elapsed": 346.53730940818787
     },
     {
         "id": 50,
@@ -1184,13 +1184,13 @@
             "I": "articular cartilage and synovial membrane.",
             "J": "synovial membrane and ligaments."
         },
-        "predicted_answer": "E",
+        "predicted_answer": "B",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 15027,
-            "completion_tokens": 6783
+            "prompt_tokens": 14546,
+            "completion_tokens": 3969
         },
-        "time_elapsed": 465.1530718803406
+        "time_elapsed": 226.53114461898804
     },
     {
         "id": 51,
@@ -1208,13 +1208,13 @@
             "I": "larynx descends.",
             "J": "uvula raises."
         },
-        "predicted_answer": "",
+        "predicted_answer": "J",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 15734,
-            "completion_tokens": 4762
+            "prompt_tokens": 14487,
+            "completion_tokens": 4452
         },
-        "time_elapsed": 474.967978477478
+        "time_elapsed": 279.9054129123688
     },
     {
         "id": 52,
@@ -1231,13 +1231,13 @@
             "H": "Hypoglycemia",
             "I": "Atlanto-axial instability"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 32068,
-            "completion_tokens": 7226
+            "prompt_tokens": 22458,
+            "completion_tokens": 5437
         },
-        "time_elapsed": 606.507298707962
+        "time_elapsed": 502.32164788246155
     },
     {
         "id": 53,
@@ -1252,10 +1252,10 @@
         "predicted_answer": "D",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18863,
-            "completion_tokens": 7699
+            "prompt_tokens": 18782,
+            "completion_tokens": 5028
         },
-        "time_elapsed": 440.5824077129364
+        "time_elapsed": 509.30116391181946
     },
     {
         "id": 54,
@@ -1271,13 +1271,13 @@
             "G": "The study will have more power",
             "H": "There is a decreased likelihood of statistically significant findings"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 18602,
-            "completion_tokens": 4848
+            "prompt_tokens": 19155,
+            "completion_tokens": 5102
         },
-        "time_elapsed": 362.1332416534424
+        "time_elapsed": 497.9549705982208
     },
     {
         "id": 55,
@@ -1295,13 +1295,13 @@
             "I": "20%-25%",
             "J": "70%-75 %"
         },
-        "predicted_answer": "",
+        "predicted_answer": "J",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 18637,
-            "completion_tokens": 5152
+            "prompt_tokens": 16660,
+            "completion_tokens": 4228
         },
-        "time_elapsed": 400.0061180591583
+        "time_elapsed": 386.7843499183655
     },
     {
         "id": 56,
@@ -1322,10 +1322,10 @@
         "predicted_answer": "A",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 14999,
-            "completion_tokens": 4629
+            "prompt_tokens": 13315,
+            "completion_tokens": 3799
         },
-        "time_elapsed": 278.0318441390991
+        "time_elapsed": 324.3632187843323
     },
     {
         "id": 57,
@@ -1344,10 +1344,10 @@
         "predicted_answer": "C",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 14032,
-            "completion_tokens": 4129
+            "prompt_tokens": 14612,
+            "completion_tokens": 4252
         },
-        "time_elapsed": 286.65852522850037
+        "time_elapsed": 411.8415071964264
     },
     {
         "id": 58,
@@ -1368,10 +1368,10 @@
         "predicted_answer": "D",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 20103,
-            "completion_tokens": 5183
+            "prompt_tokens": 18688,
+            "completion_tokens": 5014
         },
-        "time_elapsed": 299.972371339798
+        "time_elapsed": 353.1068947315216
     },
     {
         "id": 59,
@@ -1392,10 +1392,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 16439,
-            "completion_tokens": 4560
+            "prompt_tokens": 15849,
+            "completion_tokens": 4407
         },
-        "time_elapsed": 552.1531970500946
+        "time_elapsed": 355.02738785743713
     },
     {
         "id": 60,
@@ -1413,13 +1413,13 @@
             "I": "C20 and C22 polyunsaturated fatty acids",
             "J": "C18 and C20 monounsaturated fatty acids"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 19241,
-            "completion_tokens": 5816
+            "prompt_tokens": 18344,
+            "completion_tokens": 4784
         },
-        "time_elapsed": 301.69122791290283
+        "time_elapsed": 347.1205277442932
     },
     {
         "id": 61,
@@ -1440,10 +1440,10 @@
         "predicted_answer": "D",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 16475,
-            "completion_tokens": 5220
+            "prompt_tokens": 14865,
+            "completion_tokens": 4183
         },
-        "time_elapsed": 367.44951272010803
+        "time_elapsed": 342.11647152900696
     },
     {
         "id": 62,
@@ -1461,13 +1461,13 @@
             "I": "2 mol retinol /mol \u00df-carotene",
             "J": "0.1 mol retinol /mol \u00df-carotene"
         },
-        "predicted_answer": "",
+        "predicted_answer": "D",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 18618,
-            "completion_tokens": 5380
+            "prompt_tokens": 15328,
+            "completion_tokens": 3903
         },
-        "time_elapsed": 365.0012369155884
+        "time_elapsed": 295.9264073371887
     },
     {
         "id": 63,
@@ -1485,13 +1485,13 @@
             "I": "gain in body mass.",
             "J": "loss of electrolytes."
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 16381,
-            "completion_tokens": 7651
+            "prompt_tokens": 12343,
+            "completion_tokens": 3250
         },
-        "time_elapsed": 520.8797831535339
+        "time_elapsed": 280.594153881073
     },
     {
         "id": 64,
@@ -1509,13 +1509,13 @@
             "I": "Dyspnoea, tachycardia, and distended neck veins.",
             "J": "Hypotension, oliguria, and uticaria."
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 20781,
-            "completion_tokens": 6284
+            "prompt_tokens": 18000,
+            "completion_tokens": 5297
         },
-        "time_elapsed": 367.5308907032013
+        "time_elapsed": 487.6824326515198
     },
     {
         "id": 65,
@@ -1533,13 +1533,13 @@
             "I": "Attending educational courses",
             "J": "Volunteering"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 13161,
-            "completion_tokens": 3789
+            "prompt_tokens": 13654,
+            "completion_tokens": 4197
         },
-        "time_elapsed": 258.09330773353577
+        "time_elapsed": 370.24572706222534
     },
     {
         "id": 66,
@@ -1560,10 +1560,10 @@
         "predicted_answer": "C",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 14443,
-            "completion_tokens": 4023
+            "prompt_tokens": 13715,
+            "completion_tokens": 3820
         },
-        "time_elapsed": 274.99647188186646
+        "time_elapsed": 377.02690958976746
     },
     {
         "id": 67,
@@ -1581,13 +1581,13 @@
             "I": "Hurler syndrome",
             "J": "Pompe disease"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 17288,
-            "completion_tokens": 5379
+            "prompt_tokens": 14182,
+            "completion_tokens": 4004
         },
-        "time_elapsed": 282.1598629951477
+        "time_elapsed": 336.24352979660034
     },
     {
         "id": 68,
@@ -1605,13 +1605,13 @@
             "I": "incomplete dominance",
             "J": "inbreeding depression"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 16209,
-            "completion_tokens": 4526
+            "prompt_tokens": 15847,
+            "completion_tokens": 4153
         },
-        "time_elapsed": 309.9894025325775
+        "time_elapsed": 466.82744574546814
     },
     {
         "id": 69,
@@ -1632,10 +1632,10 @@
         "predicted_answer": "D",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 16884,
-            "completion_tokens": 4548
+            "prompt_tokens": 17070,
+            "completion_tokens": 4859
         },
-        "time_elapsed": 507.0069921016693
+        "time_elapsed": 495.49406576156616
     },
     {
         "id": 70,
@@ -1656,10 +1656,10 @@
         "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 12526,
-            "completion_tokens": 3688
+            "prompt_tokens": 13108,
+            "completion_tokens": 3656
         },
-        "time_elapsed": 262.77933502197266
+        "time_elapsed": 365.39847230911255
     },
     {
         "id": 71,
@@ -1677,677 +1677,12 @@
             "I": "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
             "J": "Right atrium \u2192 right ventricle \u2192 pulmonary trunk \u2192 veins \u2192 capillaries \u2192 arteries"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 17256,
-            "completion_tokens": 4596
+            "prompt_tokens": 14881,
+            "completion_tokens": 3533
         },
-        "time_elapsed": 328.96521830558777
-    },
-    {
-        "id": 72,
-        "realidx": 72,
-        "question": "A 28-year-old man comes to the office because he would like to quit smoking cigarettes. He says, \"I cannot go more than a day without cigarettes because I get so anxious and irritable. I even wake up at night to smoke.\" The patient began smoking cigarettes at age 12 years; he was smoking two packs of cigarettes daily by age 17 years, and he has not curtailed his use since that time. He does not drink alcoholic beverages or use illicit drugs. Medical history is remarkable for childhood febrile seizures. He takes no medications. Vital signs are normal. The patient is interested in using a nicotine patch and bupropion therapy because he says his friend found the treatments to be helpful. In combining these two therapies, this patient is at greatest risk for which of the following?",
-        "options": {
-            "A": "Hypertension",
-            "B": "Heart arrhythmia",
-            "C": "Increased anxiety",
-            "D": "Polyuria",
-            "E": "Renal insufficiency",
-            "F": "Liver toxicity",
-            "G": "Hypoglycemia",
-            "H": "The patient is at no increased risk",
-            "I": "Seizures",
-            "J": "Respiratory distress"
-        },
-        "predicted_answer": "",
-        "answer_idx": "H",
-        "token_usage": {
-            "prompt_tokens": 19038,
-            "completion_tokens": 4778
-        },
-        "time_elapsed": 655.5602140426636
-    },
-    {
-        "id": 73,
-        "realidx": 73,
-        "question": "A 28-year-old man comes to the office because he would like to quit smoking cigarettes. He says, \"I cannot go more than a day without cigarettes because I get so anxious and irritable. I even wake up at night to smoke.\" The patient began smoking cigarettes at age 12 years; he was smoking two packs of cigarettes daily by age 17 years, and he has not curtailed his use since that time. He does not drink alcoholic beverages or use illicit drugs. Medical history is remarkable for childhood febrile seizures. He takes no medications. Vital signs are normal. The patient is interested in using a nicotine patch and bupropion therapy because he says his friend found the treatments to be helpful. In combining these two therapies, this patient is at greatest risk for which of the following?",
-        "options": {
-            "A": "Hypertension",
-            "B": "Heart arrhythmia",
-            "C": "Increased anxiety",
-            "D": "Polyuria",
-            "E": "Renal insufficiency",
-            "F": "Liver toxicity",
-            "G": "Hypoglycemia",
-            "H": "The patient is at no increased risk",
-            "I": "Seizures",
-            "J": "Respiratory distress"
-        },
-        "predicted_answer": "",
-        "answer_idx": "H",
-        "token_usage": {
-            "prompt_tokens": 19998,
-            "completion_tokens": 5404
-        },
-        "time_elapsed": 634.6915464401245
-    },
-    {
-        "id": 74,
-        "realidx": 74,
-        "question": "A 16-year-old girl is brought to the office by her mother because she is concerned that she may have contracted meningitis from her soccer teammate, who was diagnosed with meningococcal meningitis and admitted to the hospital yesterday. The patient's soccer team traveled to a neighboring state to participate in a tournament 1 week ago and she shared a hotel room with the girl who was hospitalized. The patient feels well but is concerned she may have \"caught the same bug.\" Medical history is remarkable for asthma. Medications include inhaled albuterol. Vital signs are temperature 37.2\u00b0C (98.9\u00b0F), pulse 64/min, respirations 16/min, and blood pressure 107/58 mm Hg. Physical examination shows no abnormalities. Which of the following is the most appropriate intervention for this patient at this time?",
-        "options": {
-            "A": "Administer a tetanus shot",
-            "B": "Prescribe azithromycin",
-            "C": "Administer the meningococcal vaccine",
-            "D": "Prescribe ibuprofen",
-            "E": "Prescribe penicillin",
-            "F": "Administer the pneumococcal vaccine",
-            "G": "Prescribe amoxicillin",
-            "H": "Prescribe doxycycline",
-            "I": "Prescribe rifampin",
-            "J": "No intervention is needed at this time"
-        },
-        "predicted_answer": "",
-        "answer_idx": "I",
-        "token_usage": {
-            "prompt_tokens": 20439,
-            "completion_tokens": 5041
-        },
-        "time_elapsed": 397.8462872505188
-    },
-    {
-        "id": 75,
-        "realidx": 75,
-        "question": "A 16-year-old girl is brought to the office by her mother because she is concerned that she may have contracted meningitis from her soccer teammate, who was diagnosed with meningococcal meningitis and admitted to the hospital yesterday. The patient's soccer team traveled to a neighboring state to participate in a tournament 1 week ago and she shared a hotel room with the girl who was hospitalized. The patient feels well but is concerned she may have \"caught the same bug.\" Medical history is remarkable for asthma. Medications include inhaled albuterol. Vital signs are temperature 37.2\u00b0C (98.9\u00b0F), pulse 64/min, respirations 16/min, and blood pressure 107/58 mm Hg. Physical examination shows no abnormalities. Which of the following is the most appropriate intervention for this patient at this time?",
-        "options": {
-            "A": "Administer a tetanus shot",
-            "B": "Prescribe azithromycin",
-            "C": "Administer the meningococcal vaccine",
-            "D": "Prescribe ibuprofen",
-            "E": "Prescribe penicillin",
-            "F": "Administer the pneumococcal vaccine",
-            "G": "Prescribe amoxicillin",
-            "H": "Prescribe doxycycline",
-            "I": "Prescribe rifampin",
-            "J": "No intervention is needed at this time"
-        },
-        "predicted_answer": "",
-        "answer_idx": "I",
-        "token_usage": {
-            "prompt_tokens": 20114,
-            "completion_tokens": 4938
-        },
-        "time_elapsed": 304.43869829177856
-    },
-    {
-        "id": 76,
-        "realidx": 76,
-        "question": "A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache, dizziness, nausea, and one episode of vomiting. His symptoms began during the first hour of full-contact football practice in full uniform. He reported feeling weak and faint but did not lose consciousness. He vomited once after drinking water. On arrival, he is diaphoretic. He is not oriented to person, place, or time. His temperature is 39.5\u00b0C (103.1\u00b0F), pulse is 120/min, respirations are 40/min, and blood pressure is 90/65 mm Hg. Examination, including neurologic examination, shows no other abnormalities. Which of the following is the most appropriate next step in management?",
-        "options": {
-            "A": "Administer an epinephrine injection",
-            "B": "Administer oxygen via a nasal cannula",
-            "C": "Perform a lumbar puncture",
-            "D": "Immerse the patient in an ice water bath",
-            "E": "Apply cold compresses to the forehead",
-            "F": "Obtain a CT scan of the head",
-            "G": "Administer a dose of ibuprofen",
-            "H": "Administer intravenous fluids",
-            "I": "Administer sodium chloride tablets",
-            "J": "Administer a glucose injection"
-        },
-        "predicted_answer": "D",
-        "answer_idx": "H",
-        "token_usage": {
-            "prompt_tokens": 21395,
-            "completion_tokens": 5493
-        },
-        "time_elapsed": 661.7725222110748
-    },
-    {
-        "id": 77,
-        "realidx": 77,
-        "question": "A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache, dizziness, nausea, and one episode of vomiting. His symptoms began during the first hour of full-contact football practice in full uniform. He reported feeling weak and faint but did not lose consciousness. He vomited once after drinking water. On arrival, he is diaphoretic. He is not oriented to person, place, or time. His temperature is 39.5\u00b0C (103.1\u00b0F), pulse is 120/min, respirations are 40/min, and blood pressure is 90/65 mm Hg. Examination, including neurologic examination, shows no other abnormalities. Which of the following is the most appropriate next step in management?",
-        "options": {
-            "A": "Administer an epinephrine injection",
-            "B": "Administer oxygen via a nasal cannula",
-            "C": "Perform a lumbar puncture",
-            "D": "Immerse the patient in an ice water bath",
-            "E": "Apply cold compresses to the forehead",
-            "F": "Obtain a CT scan of the head",
-            "G": "Administer a dose of ibuprofen",
-            "H": "Administer intravenous fluids",
-            "I": "Administer sodium chloride tablets",
-            "J": "Administer a glucose injection"
-        },
-        "predicted_answer": "D",
-        "answer_idx": "H",
-        "token_usage": {
-            "prompt_tokens": 20202,
-            "completion_tokens": 5085
-        },
-        "time_elapsed": 744.6692450046539
-    },
-    {
-        "id": 78,
-        "realidx": 78,
-        "question": "Which single statement about fat digestion and absorption is correct?\n?",
-        "options": {
-            "A": "After absorption, both medium chain triglycerides (MCT) and long chain triglycerides enter the lymphatic system.",
-            "B": "The products of complete digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this decreases absorption",
-            "C": "Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the distal duodenum",
-            "D": "Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported",
-            "E": "After absorption, medium chain triglycerides (MCT) enter the lymphatic system, whereas long chain triglycerides enter the portal blood system.",
-            "F": "Absorption of fatty acids in the intestine occurs primarily through the FABP and FAT/CD36 transport proteins in the proximal duodenum",
-            "G": "Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the mid jejunum.",
-            "H": "The products of partial digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this increases absorption",
-            "I": "After absorption, long chain triglycerides (LCT) enter the lymphatic system, whereas medium chain triglycerides enter the portal blood system.",
-            "J": "Triglycerides (triacylglycerols) can be directly transported without being emulsified and digested"
-        },
-        "predicted_answer": "D",
-        "answer_idx": "D",
-        "token_usage": {
-            "prompt_tokens": 21323,
-            "completion_tokens": 5156
-        },
-        "time_elapsed": 556.5007891654968
-    },
-    {
-        "id": 79,
-        "realidx": 79,
-        "question": "Fats normally contain triacylglycerols at concentrations of:\n?",
-        "options": {
-            "A": "> 95%",
-            "B": "95-100%",
-            "C": "< 50%",
-            "D": "75-95%",
-            "E": "50-60%",
-            "F": "60-75%",
-            "G": "50- 75%",
-            "H": "25-50%",
-            "I": "10-25%",
-            "J": "< 10%"
-        },
-        "predicted_answer": "B",
-        "answer_idx": "A",
-        "token_usage": {
-            "prompt_tokens": 16049,
-            "completion_tokens": 7987
-        },
-        "time_elapsed": 394.0157904624939
-    },
-    {
-        "id": 80,
-        "realidx": 80,
-        "question": "The Worldwide HIV/AIDS campaigns have made significant progress over the last years. The HIV infection rates in Europe\n?",
-        "options": {
-            "A": "Have been sporadically fluctuating",
-            "B": "Have been steadily decreasing in the past but recently started increasing",
-            "C": "Have been increasing",
-            "D": "Have been unchanged",
-            "E": "Have been significantly increasing in certain age groups",
-            "F": "Are unknown",
-            "G": "Are currently at their highest rates ever",
-            "H": "Have been significantly decreasing",
-            "I": "Are inconsistent across different countries",
-            "J": "Have been decreasing in some areas and increasing in others"
-        },
-        "predicted_answer": "",
-        "answer_idx": "D",
-        "token_usage": {
-            "prompt_tokens": 16487,
-            "completion_tokens": 4949
-        },
-        "time_elapsed": 333.06676387786865
-    },
-    {
-        "id": 81,
-        "realidx": 81,
-        "question": "What is the prevalence of alcoholic myopathy in alcoholics\n?",
-        "options": {
-            "A": "70 to 90%",
-            "B": "40 to 60%",
-            "C": "80 to 100%",
-            "D": "30 to 50%",
-            "E": "10 to 30%",
-            "F": "20 to 40%",
-            "G": "More than 90%",
-            "H": "50 to 70%",
-            "I": "60 to 80%",
-            "J": "Less than 10%"
-        },
-        "predicted_answer": "B",
-        "answer_idx": "B",
-        "token_usage": {
-            "prompt_tokens": 15014,
-            "completion_tokens": 4140
-        },
-        "time_elapsed": 205.6127257347107
-    },
-    {
-        "id": 82,
-        "realidx": 82,
-        "question": "Which of the following statements about the protein:energy ratio of the requirement is correct?\n?",
-        "options": {
-            "A": "Infants and children need the most protein dense food",
-            "B": "Young adults need the most protein dense food",
-            "C": "Infants are most susceptible to protein deficient diets",
-            "D": "Adults in their middle age need the most protein dense food",
-            "E": "Toddlers need the most protein dense food",
-            "F": "Teenagers are most susceptible to protein deficient diets",
-            "G": "The elderly are most susceptible to protein deficient diets",
-            "H": "The elderly need the most protein dense food",
-            "I": "Children are most susceptible to protein deficient diets",
-            "J": "Pregnant women need the most protein dense food"
-        },
-        "predicted_answer": "C",
-        "answer_idx": "H",
-        "token_usage": {
-            "prompt_tokens": 15860,
-            "completion_tokens": 4437
-        },
-        "time_elapsed": 282.8143768310547
-    },
-    {
-        "id": 83,
-        "realidx": 83,
-        "question": "The best available evidence for an association between amount of sugars and risk of dental caries comes from which type of study design?\n?",
-        "options": {
-            "A": "Case-control study",
-            "B": "Longitudinal study",
-            "C": "Non-randomised controlled",
-            "D": "Cross sectional observational",
-            "E": "Experimental study",
-            "F": "Meta-analysis",
-            "G": "Qualitative study",
-            "H": "Randomised controlled",
-            "I": "Cohort",
-            "J": "Ecological study"
-        },
-        "predicted_answer": "B",
-        "answer_idx": "I",
-        "token_usage": {
-            "prompt_tokens": 15105,
-            "completion_tokens": 4594
-        },
-        "time_elapsed": 368.44392943382263
-    },
-    {
-        "id": 84,
-        "realidx": 84,
-        "question": "The best available evidence for an association between amount of sugars and risk of dental caries comes from which type of study design?\n?",
-        "options": {
-            "A": "Case-control study",
-            "B": "Longitudinal study",
-            "C": "Non-randomised controlled",
-            "D": "Cross sectional observational",
-            "E": "Experimental study",
-            "F": "Meta-analysis",
-            "G": "Qualitative study",
-            "H": "Randomised controlled",
-            "I": "Cohort",
-            "J": "Ecological study"
-        },
-        "predicted_answer": "",
-        "answer_idx": "I",
-        "token_usage": {
-            "prompt_tokens": 15068,
-            "completion_tokens": 4454
-        },
-        "time_elapsed": 293.38386130332947
-    },
-    {
-        "id": 85,
-        "realidx": 85,
-        "question": "Most pandemics have arisen from influenza viruses from which of the following animals?",
-        "options": {
-            "A": "Wild birds",
-            "B": "Cats",
-            "C": "Fish",
-            "D": "Humans",
-            "E": "Dogs",
-            "F": "Horses",
-            "G": "Pigs",
-            "H": "Cows",
-            "I": "Chickens",
-            "J": "Bats"
-        },
-        "predicted_answer": "A",
-        "answer_idx": "G",
-        "token_usage": {
-            "prompt_tokens": 15971,
-            "completion_tokens": 4974
-        },
-        "time_elapsed": 339.99520540237427
-    },
-    {
-        "id": 86,
-        "realidx": 86,
-        "question": "Which of the following HPV viruses are known to cause cervical cancer?",
-        "options": {
-            "A": "Viruses of all 5 clades",
-            "B": "Types 14, 16, 18, 31, 45",
-            "C": "None are oncogenic per se",
-            "D": "Types 1-180"
-        },
-        "predicted_answer": "B",
-        "answer_idx": "C",
-        "token_usage": {
-            "prompt_tokens": 15139,
-            "completion_tokens": 4559
-        },
-        "time_elapsed": 337.17472887039185
-    },
-    {
-        "id": 87,
-        "realidx": 87,
-        "question": "Which of the following is recommended for cleaning the mouth?",
-        "options": {
-            "A": "Baking soda.",
-            "B": "Hydrogen peroxide.",
-            "C": "Water.",
-            "D": "Bleach.",
-            "E": "Alcohol swabs.",
-            "F": "Normal saline.",
-            "G": "Vinegar.",
-            "H": "Mouthwash containing alcohol.",
-            "I": "Lemon and glycerine swabs.",
-            "J": "Dish soap."
-        },
-        "predicted_answer": "C",
-        "answer_idx": "C",
-        "token_usage": {
-            "prompt_tokens": 14401,
-            "completion_tokens": 4527
-        },
-        "time_elapsed": 309.8511173725128
-    },
-    {
-        "id": 88,
-        "realidx": 88,
-        "question": "Bu is often late for appointments but says it's because she had more important things on her mind. This is an example of which coping strategy?",
-        "options": {
-            "A": "Projection",
-            "B": "Regression",
-            "C": "Immunization",
-            "D": "Assimilation",
-            "E": "Avoidance",
-            "F": "Displacement",
-            "G": "Denial",
-            "H": "Accommodation",
-            "I": "Sublimation"
-        },
-        "predicted_answer": "E",
-        "answer_idx": "C",
-        "token_usage": {
-            "prompt_tokens": 14272,
-            "completion_tokens": 4215
-        },
-        "time_elapsed": 277.6571373939514
-    },
-    {
-        "id": 89,
-        "realidx": 89,
-        "question": "All other things being equal, which of the following persons is likely to live the longest?",
-        "options": {
-            "A": "A black woman",
-            "B": "A Hispanic man",
-            "C": "A white woman",
-            "D": "An Asian man",
-            "E": "A white man",
-            "F": "A Native American man",
-            "G": "A Hispanic woman",
-            "H": "A Native American woman",
-            "I": "A black man",
-            "J": "An Asian woman"
-        },
-        "predicted_answer": "",
-        "answer_idx": "C",
-        "token_usage": {
-            "prompt_tokens": 15818,
-            "completion_tokens": 4904
-        },
-        "time_elapsed": 378.96126198768616
-    },
-    {
-        "id": 90,
-        "realidx": 90,
-        "question": "Which of the following age differences could be, in part, a cohort effect? Differences in?",
-        "options": {
-            "A": "Heart Disease",
-            "B": "Alcoholism",
-            "C": "Suicide",
-            "D": "Diabetes",
-            "E": "Depression",
-            "F": "Schizophrenia",
-            "G": "Dementia",
-            "H": "Asthma",
-            "I": "Obesity",
-            "J": "Hypertension"
-        },
-        "predicted_answer": "",
-        "answer_idx": "B",
-        "token_usage": {
-            "prompt_tokens": 15953,
-            "completion_tokens": 5047
-        },
-        "time_elapsed": 360.4800179004669
-    },
-    {
-        "id": 91,
-        "realidx": 91,
-        "question": "One reason that older adults may have difficulty in retrieving memories is that?",
-        "options": {
-            "A": "There are many more memories to search through to find the one that is sought",
-            "B": "The aging brain is less capable of accessing long-term memory",
-            "C": "Memory is less well organized as we grow older and finding a memory can be quite difficult",
-            "D": "Older adults intentionally suppress certain memories",
-            "E": "Memory retrieval is physically tiring for older adults",
-            "F": "Older adults are less capable of forming new memories",
-            "G": "Long-term memory often discards older and unused memories",
-            "H": "Memory retrieval is often affected by external distractions faced by older adults",
-            "I": "The process of memory retrieval slows down significantly with age",
-            "J": "Older adults quit searching because they have more important things to do"
-        },
-        "predicted_answer": "",
-        "answer_idx": "A",
-        "token_usage": {
-            "prompt_tokens": 18426,
-            "completion_tokens": 5276
-        },
-        "time_elapsed": 302.0364100933075
-    },
-    {
-        "id": 92,
-        "realidx": 92,
-        "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:",
-        "options": {
-            "A": "25%",
-            "B": "15%",
-            "C": "75%",
-            "D": "60%",
-            "E": "50%",
-            "F": "1%",
-            "G": "10%",
-            "H": "30%",
-            "I": "Almost 100%",
-            "J": "90%"
-        },
-        "predicted_answer": "",
-        "answer_idx": "I",
-        "token_usage": {
-            "prompt_tokens": 14569,
-            "completion_tokens": 4186
-        },
-        "time_elapsed": 296.2720260620117
-    },
-    {
-        "id": 93,
-        "realidx": 93,
-        "question": "The proportion of babies that have an abnormality identifiable at birth is _____.",
-        "options": {
-            "A": "1 in 100",
-            "B": "1 in 50",
-            "C": "1 in 5",
-            "D": "1 in 10",
-            "E": "1 in 1000",
-            "F": "1 in 20",
-            "G": "1 in 25",
-            "H": "1 in 200",
-            "I": "1 in 40",
-            "J": "1 in 500"
-        },
-        "predicted_answer": "B",
-        "answer_idx": "I",
-        "token_usage": {
-            "prompt_tokens": 16354,
-            "completion_tokens": 5004
-        },
-        "time_elapsed": 323.9096522331238
-    },
-    {
-        "id": 94,
-        "realidx": 94,
-        "question": "A \"dished face\" profile is often associated with?",
-        "options": {
-            "A": "a small chin due to micrognathia.",
-            "B": "a recessive maxilla due to failure of elongation of the cranial base.",
-            "C": "a sunken cheek due to maxillary hypoplasia.",
-            "D": "an enlarged frontal bone due to hydrocephaly.",
-            "E": "a protruding mandible due to reactivation of the condylar cartilage by acromegaly.",
-            "F": "defective development of the maxillary air sinus.",
-            "G": "a wide-set eye due to hypertelorism.",
-            "H": "a protruding forehead due to craniosynostosis.",
-            "I": "a flattened forehead due to plagiocephaly.",
-            "J": "an enlarged mandible due to gigantism."
-        },
-        "predicted_answer": "C",
-        "answer_idx": "B",
-        "token_usage": {
-            "prompt_tokens": 18182,
-            "completion_tokens": 5545
-        },
-        "time_elapsed": 377.07794761657715
-    },
-    {
-        "id": 95,
-        "realidx": 95,
-        "question": "Which of the following statements is true of the temporomandibular joint?",
-        "options": {
-            "A": "It has an articular disc of fibrocartilage",
-            "B": "Proprioceptive information is carried by the chorda tympani and deep temporal nerves",
-            "C": "It is a hinge type of synovial joint",
-            "D": "Proprioceptive information is carried by the masseteric and auriculotemporal nerves.",
-            "E": "Proprioceptive information is carried by the glossopharyngeal and vagus nerves.",
-            "F": "Its articular surfaces are covered by hyaline cartilage",
-            "G": "Its articular surfaces are covered by fibrocartilage",
-            "H": "Proprioceptive information is carried by the facial and trigeminal nerves",
-            "I": "It has an articular disc of hyaline cartilage",
-            "J": "It is a pivot type of synovial joint"
-        },
-        "predicted_answer": "A",
-        "answer_idx": "D",
-        "token_usage": {
-            "prompt_tokens": 18000,
-            "completion_tokens": 5096
-        },
-        "time_elapsed": 302.357528924942
-    },
-    {
-        "id": 96,
-        "realidx": 96,
-        "question": "A pulse may be felt on a patient's face where the?",
-        "options": {
-            "A": "superficial temporal artery crosses the zygomatic arch.",
-            "B": "superficial temporal artery crosses the mandible.",
-            "C": "maxillary artery crosses the mandible.",
-            "D": "superficial temporal artery crosses the orbital rim.",
-            "E": "facial artery crosses the orbital rim.",
-            "F": "superficial temporal artery crosses the maxilla.",
-            "G": "facial artery crosses the zygomatic arch.",
-            "H": "maxillary artery crosses the orbital rim.",
-            "I": "facial artery crosses the maxilla.",
-            "J": "facial artery crosses the mandible."
-        },
-        "predicted_answer": "",
-        "answer_idx": "J",
-        "token_usage": {
-            "prompt_tokens": 16181,
-            "completion_tokens": 4581
-        },
-        "time_elapsed": 305.7989728450775
-    },
-    {
-        "id": 97,
-        "realidx": 97,
-        "question": "The dorsal roots of all spinal nerves contain?",
-        "options": {
-            "A": "motor and autonomic neuronal processes.",
-            "B": "both autonomic and motor neuronal processes.",
-            "C": "both sensory and motor neuronal processes.",
-            "D": "sensory and autonomic neuronal processes.",
-            "E": "motor neuronal processes.",
-            "F": "only autonomic neuronal processes.",
-            "G": "no neuronal processes.",
-            "H": "sensory, motor and autonomic neuronal processes.",
-            "I": "sensory neuronal processes.",
-            "J": "autonomic neuronal processes."
-        },
-        "predicted_answer": "",
-        "answer_idx": "I",
-        "token_usage": {
-            "prompt_tokens": 14426,
-            "completion_tokens": 3879
-        },
-        "time_elapsed": 248.9881772994995
-    },
-    {
-        "id": 98,
-        "realidx": 98,
-        "question": "A 16-year-old high school student, whose prenatal course you have managed, delivers a 3256-g (7-lb 3-oz) baby girl during the night with the assistance of your associate. On morning rounds you note that the delivery records report that she had mildly elevated blood pressure during labor and sustained an estimated third-stage blood loss of 500 mL. Today blood pressure is 132/84 mm Hg, she is afebrile, and deep tendon reflexes are normal. The uterine fundus is firm and at the level of the umbilicus, and her perineum is slightly edematous. Hematocrit is 33%. She is cuddling her infant and normal bonding seems to be occurring. Which of the following is the most important next step in management?",
-        "options": {
-            "A": "Order a blood transfusion",
-            "B": "Order daily sitz baths",
-            "C": "Initiate breastfeeding education",
-            "D": "Begin oral methyldopa",
-            "E": "Perform a pelvic examination",
-            "F": "Institute fundal massage",
-            "G": "Prescribe bed rest",
-            "H": "Begin intravenous fluids",
-            "I": "Administer antihypertensive medication",
-            "J": "Provide education for well-baby care"
-        },
-        "predicted_answer": "",
-        "answer_idx": "J",
-        "token_usage": {
-            "prompt_tokens": 25634,
-            "completion_tokens": 5837
-        },
-        "time_elapsed": 426.0842070579529
-    },
-    {
-        "id": 99,
-        "realidx": 99,
-        "question": "A 23-year-old woman comes to the physician for genetic counseling prior to conception. Her brother and maternal uncle had Duchenne muscular dystrophy (DMD) and died at the ages of 28 and 17 years, respectively. Genetic analysis was not performed on either relative prior to death. Serum studies show a muscle creatine kinase concentration of 120 U/L (N=22\u2013 198). The patient's 50-year-old mother has a serum muscle creatine kinase concentration of 300 U/L. Which of the following is the most appropriate assessment of this patient's carrier status for this disease?",
-        "options": {
-            "A": "The patient is not a carrier of the DMD as her muscle creatine kinase concentration is within the normal range",
-            "B": "The patient's mother is a carrier, hence the patient is definitely a carrier too",
-            "C": "The patient is a carrier of the disease based on her family history of DMD",
-            "D": "The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives.",
-            "E": "The patient has a 25% risk of having a child with DMD",
-            "F": "The patient is a carrier of the disease based on her mother's elevated creatine kinase concentration",
-            "G": "The patient's DMD carrier status is certain due to maternal transmission",
-            "H": "The patient has a 50% risk of having a child with DMD",
-            "I": "The patient's DMD carrier status is uncertain because of random X inactivation",
-            "J": "The patient is not a carrier of the DMD based on her normal creatine kinase concentration"
-        },
-        "predicted_answer": "D",
-        "answer_idx": "I",
-        "token_usage": {
-            "prompt_tokens": 22654,
-            "completion_tokens": 5585
-        },
-        "time_elapsed": 363.66257977485657
+        "time_elapsed": 360.9793076515198
     }
 ]

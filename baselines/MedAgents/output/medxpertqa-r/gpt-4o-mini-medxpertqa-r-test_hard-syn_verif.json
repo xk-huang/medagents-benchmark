@@ -15,13 +15,13 @@
             "I": "58-year-old male with glenoid retroversion of 12-degrees undergoing shoulder arthroplasty",
             "J": "55-year-old male with glenoid retroversion of 8-degrees undergoing total shoulder arthroplasty"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 27936,
-            "completion_tokens": 5527
+            "prompt_tokens": 27707,
+            "completion_tokens": 5455
         },
-        "time_elapsed": 45.10940599441528
+        "time_elapsed": 78.03429698944092
     },
     {
         "id": 1,
@@ -42,10 +42,10 @@
         "predicted_answer": "C",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 21506,
-            "completion_tokens": 4564
+            "prompt_tokens": 21990,
+            "completion_tokens": 4835
         },
-        "time_elapsed": 38.80914807319641
+        "time_elapsed": 52.520684003829956
     },
     {
         "id": 2,
@@ -66,10 +66,10 @@
         "predicted_answer": "E",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 24326,
-            "completion_tokens": 4511
+            "prompt_tokens": 23773,
+            "completion_tokens": 4190
         },
-        "time_elapsed": 40.442298412323
+        "time_elapsed": 49.13511848449707
     },
     {
         "id": 3,
@@ -87,13 +87,13 @@
             "I": "Begin cabergoline 0.25 mg twice weekly",
             "J": "Begin bromocriptine 2.5 mg daily"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 25359,
-            "completion_tokens": 4750
+            "prompt_tokens": 25313,
+            "completion_tokens": 4846
         },
-        "time_elapsed": 39.38746786117554
+        "time_elapsed": 47.27637791633606
     },
     {
         "id": 4,
@@ -114,10 +114,10 @@
         "predicted_answer": "C",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 29989,
-            "completion_tokens": 5977
+            "prompt_tokens": 29692,
+            "completion_tokens": 5938
         },
-        "time_elapsed": 44.165783405303955
+        "time_elapsed": 63.22800350189209
     },
     {
         "id": 5,
@@ -138,10 +138,10 @@
         "predicted_answer": "C",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 22131,
-            "completion_tokens": 4607
+            "prompt_tokens": 22247,
+            "completion_tokens": 4618
         },
-        "time_elapsed": 36.64235758781433
+        "time_elapsed": 54.21623468399048
     },
     {
         "id": 6,
@@ -159,13 +159,13 @@
             "I": "Middle finger MCP extension",
             "J": "Full extension of the elbow"
         },
-        "predicted_answer": "",
+        "predicted_answer": "E",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 19379,
-            "completion_tokens": 4513
+            "prompt_tokens": 19169,
+            "completion_tokens": 4529
         },
-        "time_elapsed": 37.38472771644592
+        "time_elapsed": 53.13372445106506
     },
     {
         "id": 7,
@@ -183,13 +183,13 @@
             "I": "Order a CT scan of the chest to assess for septic emboli",
             "J": "Wait for sensitivity results before repeating blood cultures"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "H",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 28914,
-            "completion_tokens": 4734
+            "prompt_tokens": 34274,
+            "completion_tokens": 5833
         },
-        "time_elapsed": 42.694050788879395
+        "time_elapsed": 64.5801293849945
     },
     {
         "id": 8,
@@ -210,10 +210,10 @@
         "predicted_answer": "E",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 36232,
-            "completion_tokens": 4998
+            "prompt_tokens": 42368,
+            "completion_tokens": 6414
         },
-        "time_elapsed": 46.676294803619385
+        "time_elapsed": 70.51423382759094
     },
     {
         "id": 9,
@@ -234,10 +234,10 @@
         "predicted_answer": "A",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 47722,
-            "completion_tokens": 7112
+            "prompt_tokens": 45279,
+            "completion_tokens": 6911
         },
-        "time_elapsed": 64.9306972026825
+        "time_elapsed": 94.81428909301758
     },
     {
         "id": 10,
@@ -258,10 +258,10 @@
         "predicted_answer": "B",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 21129,
-            "completion_tokens": 4231
+            "prompt_tokens": 21194,
+            "completion_tokens": 4255
         },
-        "time_elapsed": 35.35464882850647
+        "time_elapsed": 49.258607625961304
     },
     {
         "id": 11,
@@ -282,10 +282,10 @@
         "predicted_answer": "A",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 19910,
-            "completion_tokens": 4112
+            "prompt_tokens": 19849,
+            "completion_tokens": 4041
         },
-        "time_elapsed": 36.819175720214844
+        "time_elapsed": 66.0542356967926
     },
     {
         "id": 12,
@@ -306,10 +306,10 @@
         "predicted_answer": "B",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 17791,
-            "completion_tokens": 3694
+            "prompt_tokens": 17280,
+            "completion_tokens": 3557
         },
-        "time_elapsed": 30.88785433769226
+        "time_elapsed": 41.93055033683777
     },
     {
         "id": 13,
@@ -330,10 +330,10 @@
         "predicted_answer": "D",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 20581,
-            "completion_tokens": 4625
+            "prompt_tokens": 20786,
+            "completion_tokens": 4759
         },
-        "time_elapsed": 41.279080629348755
+        "time_elapsed": 49.70212173461914
     },
     {
         "id": 14,
@@ -351,13 +351,13 @@
             "I": "*Streptococcus bovis*",
             "J": "*Enterococcus*"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 21852,
-            "completion_tokens": 4780
+            "prompt_tokens": 22061,
+            "completion_tokens": 4805
         },
-        "time_elapsed": 38.45903778076172
+        "time_elapsed": 51.93678331375122
     },
     {
         "id": 15,
@@ -378,10 +378,10 @@
         "predicted_answer": "D",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 25284,
-            "completion_tokens": 5072
+            "prompt_tokens": 25561,
+            "completion_tokens": 5431
         },
-        "time_elapsed": 40.68746209144592
+        "time_elapsed": 54.40208053588867
     },
     {
         "id": 16,
@@ -399,13 +399,13 @@
             "I": "Right ventricular hypertrophy with pulmonary stenosis",
             "J": "Hypoplastic left heart syndrome"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "J",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 43005,
-            "completion_tokens": 6711
+            "prompt_tokens": 41887,
+            "completion_tokens": 6843
         },
-        "time_elapsed": 58.624396562576294
+        "time_elapsed": 97.19708442687988
     },
     {
         "id": 17,
@@ -426,10 +426,10 @@
         "predicted_answer": "B",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 27039,
-            "completion_tokens": 4532
+            "prompt_tokens": 26834,
+            "completion_tokens": 4476
         },
-        "time_elapsed": 39.95463418960571
+        "time_elapsed": 54.20406532287598
     },
     {
         "id": 18,
@@ -450,10 +450,10 @@
         "predicted_answer": "E",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 21516,
-            "completion_tokens": 4515
+            "prompt_tokens": 22235,
+            "completion_tokens": 4748
         },
-        "time_elapsed": 36.55413746833801
+        "time_elapsed": 50.83142828941345
     },
     {
         "id": 19,
@@ -471,13 +471,13 @@
             "I": "Osteopetrosis",
             "J": "Aneurysmal bone cyst"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "D",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 18698,
-            "completion_tokens": 4779
+            "prompt_tokens": 18277,
+            "completion_tokens": 4708
         },
-        "time_elapsed": 41.93011474609375
+        "time_elapsed": 71.19606304168701
     },
     {
         "id": 20,
@@ -495,13 +495,13 @@
             "I": "Increased serum erythropoietin levels",
             "J": "Increased serum ferritin concentration"
         },
-        "predicted_answer": "",
+        "predicted_answer": "A",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 25741,
+            "prompt_tokens": 25490,
             "completion_tokens": 4981
         },
-        "time_elapsed": 40.42049431800842
+        "time_elapsed": 69.07986307144165
     },
     {
         "id": 21,
@@ -519,13 +519,13 @@
             "I": "Cross-sectional study",
             "J": "Meta-analysis"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 18559,
-            "completion_tokens": 4724
+            "prompt_tokens": 18330,
+            "completion_tokens": 4667
         },
-        "time_elapsed": 38.58298206329346
+        "time_elapsed": 55.722506046295166
     },
     {
         "id": 22,
@@ -546,10 +546,10 @@
         "predicted_answer": "D",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 21471,
-            "completion_tokens": 4389
+            "prompt_tokens": 27391,
+            "completion_tokens": 4666
         },
-        "time_elapsed": 42.65432000160217
+        "time_elapsed": 51.07915759086609
     },
     {
         "id": 23,
@@ -570,10 +570,10 @@
         "predicted_answer": "B",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 18653,
-            "completion_tokens": 4030
+            "prompt_tokens": 18449,
+            "completion_tokens": 4020
         },
-        "time_elapsed": 34.10319757461548
+        "time_elapsed": 49.4811635017395
     },
     {
         "id": 24,
@@ -591,13 +591,13 @@
             "I": "Peripheral blood smear",
             "J": "IV iron supplementation"
         },
-        "predicted_answer": "",
+        "predicted_answer": "J",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 40382,
-            "completion_tokens": 6036
+            "prompt_tokens": 25007,
+            "completion_tokens": 4984
         },
-        "time_elapsed": 53.17983365058899
+        "time_elapsed": 54.174763679504395
     },
     {
         "id": 25,
@@ -615,13 +615,13 @@
             "I": "T12-L1",
             "J": "L5-S2"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 21532,
-            "completion_tokens": 5065
+            "prompt_tokens": 21167,
+            "completion_tokens": 4839
         },
-        "time_elapsed": 41.158320903778076
+        "time_elapsed": 58.98015546798706
     },
     {
         "id": 26,
@@ -639,13 +639,13 @@
             "I": "Morning stiffness in the proximal interphalangeal joints",
             "J": "Butterfly rash across the nasal bridge"
         },
-        "predicted_answer": "",
+        "predicted_answer": "C",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 24963,
-            "completion_tokens": 4693
+            "prompt_tokens": 32549,
+            "completion_tokens": 5036
         },
-        "time_elapsed": 40.258811950683594
+        "time_elapsed": 64.65976357460022
     },
     {
         "id": 27,
@@ -663,13 +663,13 @@
             "I": "Measles, mumps, rubella vaccine at 2 months of chronological age",
             "J": "Diphtheria and tetanus toxoids, acellular pertussis (DTaP) vaccine at 2 months of chronological age"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 23092,
-            "completion_tokens": 4125
+            "prompt_tokens": 23478,
+            "completion_tokens": 4310
         },
-        "time_elapsed": 33.407249212265015
+        "time_elapsed": 59.06457042694092
     },
     {
         "id": 28,
@@ -690,10 +690,10 @@
         "predicted_answer": "B",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 21049,
-            "completion_tokens": 4141
+            "prompt_tokens": 20794,
+            "completion_tokens": 4008
         },
-        "time_elapsed": 40.622809648513794
+        "time_elapsed": 42.372458696365356
     },
     {
         "id": 29,
@@ -714,10 +714,10 @@
         "predicted_answer": "C",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 31960,
-            "completion_tokens": 4887
+            "prompt_tokens": 31322,
+            "completion_tokens": 4689
         },
-        "time_elapsed": 43.8336820602417
+        "time_elapsed": 62.86190414428711
     },
     {
         "id": 30,
@@ -735,13 +735,13 @@
             "I": "700 mL",
             "J": "320 mL"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 29541,
-            "completion_tokens": 5100
+            "prompt_tokens": 32998,
+            "completion_tokens": 6149
         },
-        "time_elapsed": 44.59031820297241
+        "time_elapsed": 74.34762787818909
     },
     {
         "id": 31,
@@ -762,10 +762,10 @@
         "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 25925,
-            "completion_tokens": 4874
+            "prompt_tokens": 25880,
+            "completion_tokens": 4812
         },
-        "time_elapsed": 41.3644700050354
+        "time_elapsed": 81.43742084503174
     },
     {
         "id": 32,
@@ -783,13 +783,13 @@
             "I": "Arthroscopic repair of the bursal-sided tear without conversion",
             "J": "Convert it to a full-thickness tear and repair it with suture anchors"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 37777,
-            "completion_tokens": 6106
+            "prompt_tokens": 22149,
+            "completion_tokens": 4676
         },
-        "time_elapsed": 53.40073847770691
+        "time_elapsed": 54.88587999343872
     },
     {
         "id": 33,
@@ -810,10 +810,10 @@
         "predicted_answer": "E",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 25734,
-            "completion_tokens": 5387
+            "prompt_tokens": 25697,
+            "completion_tokens": 5475
         },
-        "time_elapsed": 42.088334798812866
+        "time_elapsed": 51.8840069770813
     },
     {
         "id": 34,
@@ -831,13 +831,13 @@
             "I": "Perform nasal endoscopy and cauterize the bleeding vessel",
             "J": "Administer tranexamic acid intranasally"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 32745,
-            "completion_tokens": 5351
+            "prompt_tokens": 24522,
+            "completion_tokens": 4674
         },
-        "time_elapsed": 47.95121097564697
+        "time_elapsed": 47.654398679733276
     },
     {
         "id": 35,
@@ -858,10 +858,10 @@
         "predicted_answer": "B",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 25573,
-            "completion_tokens": 4218
+            "prompt_tokens": 25249,
+            "completion_tokens": 4181
         },
-        "time_elapsed": 34.68326759338379
+        "time_elapsed": 45.35858726501465
     },
     {
         "id": 36,
@@ -879,13 +879,13 @@
             "I": "Familial hypercholesterolemia",
             "J": "Niemann-Pick disease type A"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 21360,
-            "completion_tokens": 4473
+            "prompt_tokens": 21358,
+            "completion_tokens": 4507
         },
-        "time_elapsed": 38.78791427612305
+        "time_elapsed": 63.8534779548645
     },
     {
         "id": 37,
@@ -906,10 +906,10 @@
         "predicted_answer": "D",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 33023,
-            "completion_tokens": 5376
+            "prompt_tokens": 31344,
+            "completion_tokens": 5161
         },
-        "time_elapsed": 52.859448194503784
+        "time_elapsed": 70.71239709854126
     },
     {
         "id": 38,
@@ -927,13 +927,13 @@
             "I": "Cognitive decline and irreversible demyelination",
             "J": "Gastrointestinal symptoms and malabsorption"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 22593,
-            "completion_tokens": 4665
+            "prompt_tokens": 22791,
+            "completion_tokens": 4759
         },
-        "time_elapsed": 39.26978802680969
+        "time_elapsed": 76.33397555351257
     },
     {
         "id": 39,
@@ -954,10 +954,10 @@
         "predicted_answer": "B",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 20691,
-            "completion_tokens": 4005
+            "prompt_tokens": 21226,
+            "completion_tokens": 4276
         },
-        "time_elapsed": 34.33627939224243
+        "time_elapsed": 40.00122308731079
     },
     {
         "id": 40,
@@ -978,10 +978,10 @@
         "predicted_answer": "C",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 22590,
-            "completion_tokens": 5573
+            "prompt_tokens": 23143,
+            "completion_tokens": 5691
         },
-        "time_elapsed": 42.63236904144287
+        "time_elapsed": 77.83698773384094
     },
     {
         "id": 41,
@@ -1002,10 +1002,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 30468,
-            "completion_tokens": 5280
+            "prompt_tokens": 28959,
+            "completion_tokens": 5146
         },
-        "time_elapsed": 49.63894748687744
+        "time_elapsed": 57.544339656829834
     },
     {
         "id": 42,
@@ -1026,10 +1026,10 @@
         "predicted_answer": "A",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 25495,
-            "completion_tokens": 5462
+            "prompt_tokens": 20976,
+            "completion_tokens": 5323
         },
-        "time_elapsed": 48.720422983169556
+        "time_elapsed": 69.32010698318481
     },
     {
         "id": 43,
@@ -1050,10 +1050,10 @@
         "predicted_answer": "E",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 18674,
-            "completion_tokens": 4123
+            "prompt_tokens": 18812,
+            "completion_tokens": 4101
         },
-        "time_elapsed": 34.26122212409973
+        "time_elapsed": 46.9648916721344
     },
     {
         "id": 44,
@@ -1074,10 +1074,10 @@
         "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 20182,
-            "completion_tokens": 4169
+            "prompt_tokens": 20003,
+            "completion_tokens": 4060
         },
-        "time_elapsed": 34.486945152282715
+        "time_elapsed": 55.73876142501831
     },
     {
         "id": 45,
@@ -1095,13 +1095,13 @@
             "I": "Meckel diverticulum",
             "J": "Duodenal web"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 20605,
-            "completion_tokens": 4560
+            "prompt_tokens": 21221,
+            "completion_tokens": 4975
         },
-        "time_elapsed": 36.650773763656616
+        "time_elapsed": 60.335381269454956
     },
     {
         "id": 46,
@@ -1122,10 +1122,10 @@
         "predicted_answer": "A",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 20780,
-            "completion_tokens": 4295
+            "prompt_tokens": 20902,
+            "completion_tokens": 4256
         },
-        "time_elapsed": 39.61295700073242
+        "time_elapsed": 43.089656829833984
     },
     {
         "id": 47,
@@ -1143,13 +1143,13 @@
             "I": "Hydrocodone-acetaminophen",
             "J": "Oxycodone"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 20610,
-            "completion_tokens": 4500
+            "prompt_tokens": 20754,
+            "completion_tokens": 4412
         },
-        "time_elapsed": 38.16551113128662
+        "time_elapsed": 45.53056788444519
     },
     {
         "id": 48,
@@ -1167,13 +1167,13 @@
             "I": "35\u00ba",
             "J": "58\u00ba"
         },
-        "predicted_answer": "",
+        "predicted_answer": "C",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 19285,
-            "completion_tokens": 4058
+            "prompt_tokens": 18741,
+            "completion_tokens": 3791
         },
-        "time_elapsed": 35.41386795043945
+        "time_elapsed": 43.624982595443726
     },
     {
         "id": 49,
@@ -1194,10 +1194,10 @@
         "predicted_answer": "B",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 20604,
-            "completion_tokens": 4658
+            "prompt_tokens": 20316,
+            "completion_tokens": 4513
         },
-        "time_elapsed": 38.28189206123352
+        "time_elapsed": 42.31678295135498
     },
     {
         "id": 50,
@@ -1218,10 +1218,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 23032,
-            "completion_tokens": 4330
+            "prompt_tokens": 22714,
+            "completion_tokens": 4278
         },
-        "time_elapsed": 35.0363404750824
+        "time_elapsed": 47.20797657966614
     },
     {
         "id": 51,
@@ -1239,13 +1239,13 @@
             "I": "Initiate atorvastatin therapy",
             "J": "Replace metformin with glimepiride"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 23998,
-            "completion_tokens": 4564
+            "prompt_tokens": 23093,
+            "completion_tokens": 4358
         },
-        "time_elapsed": 37.018253564834595
+        "time_elapsed": 48.56094217300415
     },
     {
         "id": 52,
@@ -1266,10 +1266,10 @@
         "predicted_answer": "D",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 21629,
-            "completion_tokens": 4596
+            "prompt_tokens": 21860,
+            "completion_tokens": 4680
         },
-        "time_elapsed": 36.46404242515564
+        "time_elapsed": 45.4673228263855
     },
     {
         "id": 53,
@@ -1290,10 +1290,10 @@
         "predicted_answer": "A",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 28114,
-            "completion_tokens": 4920
+            "prompt_tokens": 20942,
+            "completion_tokens": 4282
         },
-        "time_elapsed": 45.52975130081177
+        "time_elapsed": 41.43288445472717
     },
     {
         "id": 54,
@@ -1311,13 +1311,13 @@
             "I": "Increase dose of Ipratropium and albuterol and observe for 72 hours",
             "J": "Start levofloxacin and observe for 72 hours"
         },
-        "predicted_answer": "E",
+        "predicted_answer": "B",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 28158,
-            "completion_tokens": 5069
+            "prompt_tokens": 27955,
+            "completion_tokens": 5215
         },
-        "time_elapsed": 43.389782428741455
+        "time_elapsed": 71.81230449676514
     },
     {
         "id": 55,
@@ -1335,13 +1335,13 @@
             "I": "Thyroid storm",
             "J": "Status epilepticus"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "B",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 33692,
-            "completion_tokens": 6083
+            "prompt_tokens": 35213,
+            "completion_tokens": 6299
         },
-        "time_elapsed": 59.35622596740723
+        "time_elapsed": 65.29364228248596
     },
     {
         "id": 56,
@@ -1362,10 +1362,10 @@
         "predicted_answer": "C",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18786,
-            "completion_tokens": 4804
+            "prompt_tokens": 18342,
+            "completion_tokens": 4904
         },
-        "time_elapsed": 38.89688181877136
+        "time_elapsed": 63.53267955780029
     },
     {
         "id": 57,
@@ -1383,13 +1383,13 @@
             "I": "Upper endoscopy",
             "J": "Tagged red blood cell scintigraphy"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 21947,
-            "completion_tokens": 4645
+            "prompt_tokens": 21976,
+            "completion_tokens": 4654
         },
-        "time_elapsed": 41.03138494491577
+        "time_elapsed": 46.10513257980347
     },
     {
         "id": 58,
@@ -1410,10 +1410,10 @@
         "predicted_answer": "A",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 22108,
-            "completion_tokens": 4652
+            "prompt_tokens": 22261,
+            "completion_tokens": 4643
         },
-        "time_elapsed": 38.75483536720276
+        "time_elapsed": 66.20671391487122
     },
     {
         "id": 59,
@@ -1434,10 +1434,10 @@
         "predicted_answer": "E",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 20461,
-            "completion_tokens": 4261
+            "prompt_tokens": 20096,
+            "completion_tokens": 4187
         },
-        "time_elapsed": 34.699849128723145
+        "time_elapsed": 67.56701159477234
     },
     {
         "id": 60,
@@ -1455,13 +1455,13 @@
             "I": "T5 FRRSR",
             "J": "T6 FRRSL"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 32273,
-            "completion_tokens": 5414
+            "prompt_tokens": 32428,
+            "completion_tokens": 5531
         },
-        "time_elapsed": 54.4114773273468
+        "time_elapsed": 60.2930474281311
     },
     {
         "id": 61,
@@ -1482,10 +1482,10 @@
         "predicted_answer": "B",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 18790,
-            "completion_tokens": 4139
+            "prompt_tokens": 18354,
+            "completion_tokens": 3895
         },
-        "time_elapsed": 36.8653769493103
+        "time_elapsed": 43.8020715713501
     },
     {
         "id": 62,
@@ -1506,10 +1506,10 @@
         "predicted_answer": "A",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 19869,
-            "completion_tokens": 4298
+            "prompt_tokens": 19796,
+            "completion_tokens": 4316
         },
-        "time_elapsed": 38.30075716972351
+        "time_elapsed": 49.049766540527344
     },
     {
         "id": 63,
@@ -1530,10 +1530,10 @@
         "predicted_answer": "C",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 19146,
-            "completion_tokens": 4365
+            "prompt_tokens": 18850,
+            "completion_tokens": 4297
         },
-        "time_elapsed": 36.109118938446045
+        "time_elapsed": 43.4046745300293
     },
     {
         "id": 64,
@@ -1554,10 +1554,10 @@
         "predicted_answer": "C",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 21778,
-            "completion_tokens": 4685
+            "prompt_tokens": 21609,
+            "completion_tokens": 4680
         },
-        "time_elapsed": 37.80325222015381
+        "time_elapsed": 48.193567991256714
     },
     {
         "id": 65,
@@ -1575,13 +1575,13 @@
             "I": "Plateletpheresis",
             "J": "Bone marrow transplant due to high platelet count"
         },
-        "predicted_answer": "",
+        "predicted_answer": "E",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 27541,
-            "completion_tokens": 5038
+            "prompt_tokens": 22202,
+            "completion_tokens": 4724
         },
-        "time_elapsed": 44.57207202911377
+        "time_elapsed": 49.09558939933777
     },
     {
         "id": 66,
@@ -1599,13 +1599,13 @@
             "I": "History of multiple blood transfusions",
             "J": "Recurrent pulmonary embolism"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 22856,
-            "completion_tokens": 4404
+            "prompt_tokens": 23431,
+            "completion_tokens": 4745
         },
-        "time_elapsed": 36.62409067153931
+        "time_elapsed": 47.233988761901855
     },
     {
         "id": 67,
@@ -1626,10 +1626,10 @@
         "predicted_answer": "B",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 21819,
-            "completion_tokens": 4744
+            "prompt_tokens": 20504,
+            "completion_tokens": 4109
         },
-        "time_elapsed": 40.17611312866211
+        "time_elapsed": 62.579049587249756
     },
     {
         "id": 68,
@@ -1650,10 +1650,10 @@
         "predicted_answer": "B",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 23260,
-            "completion_tokens": 4639
+            "prompt_tokens": 23408,
+            "completion_tokens": 4840
         },
-        "time_elapsed": 36.538801431655884
+        "time_elapsed": 50.42352509498596
     },
     {
         "id": 69,
@@ -1671,13 +1671,13 @@
             "I": "Begin high-dose ganciclovir therapy",
             "J": "Perform lumbar puncture"
         },
-        "predicted_answer": "",
+        "predicted_answer": "F",
         "answer_idx": "F",
         "token_usage": {
-            "prompt_tokens": 23239,
-            "completion_tokens": 4812
+            "prompt_tokens": 22687,
+            "completion_tokens": 4917
         },
-        "time_elapsed": 37.99433636665344
+        "time_elapsed": 61.42031764984131
     },
     {
         "id": 70,
@@ -1695,13 +1695,13 @@
             "I": "Thrombolytic therapy with tissue plasminogen activator (tPA)",
             "J": "Low molecular weight heparin therapy"
         },
-        "predicted_answer": "",
+        "predicted_answer": "J",
         "answer_idx": "B",
         "token_usage": {
-            "prompt_tokens": 50025,
-            "completion_tokens": 7879
+            "prompt_tokens": 42254,
+            "completion_tokens": 6373
         },
-        "time_elapsed": 75.51354241371155
+        "time_elapsed": 85.24008798599243
     },
     {
         "id": 71,
@@ -1722,10 +1722,10 @@
         "predicted_answer": "D",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 20219,
-            "completion_tokens": 4242
+            "prompt_tokens": 19974,
+            "completion_tokens": 4158
         },
-        "time_elapsed": 38.177066802978516
+        "time_elapsed": 55.82911396026611
     },
     {
         "id": 72,
@@ -1743,13 +1743,13 @@
             "I": "Right hip flexion with left leg extended and internal rotation",
             "J": "Marked right hip flexion with right thigh abduction and external rotation"
         },
-        "predicted_answer": "",
+        "predicted_answer": "J",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 23792,
-            "completion_tokens": 3923
+            "prompt_tokens": 36834,
+            "completion_tokens": 5279
         },
-        "time_elapsed": 32.766437292099
+        "time_elapsed": 62.45574712753296
     },
     {
         "id": 73,
@@ -1767,13 +1767,13 @@
             "I": "Cervical radiculopathy (C5-C6)",
             "J": "Posterior and inferior sternoclavicular somatic dysfunction"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 48083,
-            "completion_tokens": 8567
+            "prompt_tokens": 21457,
+            "completion_tokens": 4506
         },
-        "time_elapsed": 77.82191705703735
+        "time_elapsed": 58.906495571136475
     },
     {
         "id": 74,
@@ -1791,13 +1791,13 @@
             "I": "MRI of the abdomen and pelvis",
             "J": "Urine culture"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 22472,
-            "completion_tokens": 3949
+            "prompt_tokens": 21729,
+            "completion_tokens": 3775
         },
-        "time_elapsed": 32.93155574798584
+        "time_elapsed": 49.91291904449463
     },
     {
         "id": 75,
@@ -1818,10 +1818,10 @@
         "predicted_answer": "B",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 22083,
-            "completion_tokens": 4613
+            "prompt_tokens": 43595,
+            "completion_tokens": 7671
         },
-        "time_elapsed": 38.24195456504822
+        "time_elapsed": 92.5196681022644
     },
     {
         "id": 76,
@@ -1839,13 +1839,13 @@
             "I": "Compensated metabolic acidosis with normal respiratory function",
             "J": "Primary metabolic acidosis with respiratory alkalosis"
         },
-        "predicted_answer": "",
+        "predicted_answer": "C",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 42829,
-            "completion_tokens": 7558
+            "prompt_tokens": 34077,
+            "completion_tokens": 6640
         },
-        "time_elapsed": 67.2512948513031
+        "time_elapsed": 72.58253693580627
     },
     {
         "id": 77,
@@ -1863,13 +1863,13 @@
             "I": "Metronidazole once; doxycycline for 7 days",
             "J": "Ceftriaxone once; metronidazole for 7 days without doxycycline"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "A",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 25021,
-            "completion_tokens": 4782
+            "prompt_tokens": 25459,
+            "completion_tokens": 4915
         },
-        "time_elapsed": 40.06069302558899
+        "time_elapsed": 54.44641923904419
     },
     {
         "id": 78,
@@ -1887,13 +1887,13 @@
             "I": "a false rib with restricted inhalation motion",
             "J": "a true rib with restricted torsional motion"
         },
-        "predicted_answer": "D",
+        "predicted_answer": "F",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 22567,
-            "completion_tokens": 4490
+            "prompt_tokens": 27225,
+            "completion_tokens": 4542
         },
-        "time_elapsed": 37.934248208999634
+        "time_elapsed": 46.06308722496033
     },
     {
         "id": 79,
@@ -1911,13 +1911,13 @@
             "I": "Thyroidectomy",
             "J": "Aspirin"
         },
-        "predicted_answer": "",
+        "predicted_answer": "H",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 35253,
-            "completion_tokens": 5851
+            "prompt_tokens": 34892,
+            "completion_tokens": 5379
         },
-        "time_elapsed": 53.59878849983215
+        "time_elapsed": 71.47982168197632
     },
     {
         "id": 80,
@@ -1935,13 +1935,13 @@
             "I": "Hepatitis A vaccine",
             "J": "Hepatitis B vaccine"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "G",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 22596,
-            "completion_tokens": 4899
+            "prompt_tokens": 22739,
+            "completion_tokens": 4874
         },
-        "time_elapsed": 41.34742212295532
+        "time_elapsed": 61.194156646728516
     },
     {
         "id": 81,
@@ -1962,10 +1962,10 @@
         "predicted_answer": "D",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 30268,
-            "completion_tokens": 5801
+            "prompt_tokens": 28944,
+            "completion_tokens": 5409
         },
-        "time_elapsed": 49.861560106277466
+        "time_elapsed": 73.89830875396729
     },
     {
         "id": 82,
@@ -1983,13 +1983,13 @@
             "I": "Start bilevel positive airway pressure (BiPAP)",
             "J": "Initiate heliox therapy"
         },
-        "predicted_answer": "",
+        "predicted_answer": "I",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 31248,
-            "completion_tokens": 5225
+            "prompt_tokens": 25059,
+            "completion_tokens": 5236
         },
-        "time_elapsed": 46.81886267662048
+        "time_elapsed": 53.525537967681885
     },
     {
         "id": 83,
@@ -2010,10 +2010,10 @@
         "predicted_answer": "A",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 21741,
-            "completion_tokens": 4463
+            "prompt_tokens": 21440,
+            "completion_tokens": 4394
         },
-        "time_elapsed": 40.59812784194946
+        "time_elapsed": 44.8409481048584
     },
     {
         "id": 84,
@@ -2031,13 +2031,13 @@
             "I": "Postural drainage and percussion",
             "J": "Empiric broad-spectrum antibiotics"
         },
-        "predicted_answer": "",
+        "predicted_answer": "J",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 41977,
-            "completion_tokens": 8642
+            "prompt_tokens": 42347,
+            "completion_tokens": 8245
         },
-        "time_elapsed": 81.24433660507202
+        "time_elapsed": 103.9666976928711
     },
     {
         "id": 85,
@@ -2058,10 +2058,10 @@
         "predicted_answer": "A",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 27817,
-            "completion_tokens": 5217
+            "prompt_tokens": 19840,
+            "completion_tokens": 4393
         },
-        "time_elapsed": 44.49879837036133
+        "time_elapsed": 49.130043506622314
     },
     {
         "id": 86,
@@ -2082,10 +2082,10 @@
         "predicted_answer": "C",
         "answer_idx": "E",
         "token_usage": {
-            "prompt_tokens": 32485,
-            "completion_tokens": 4834
+            "prompt_tokens": 20834,
+            "completion_tokens": 4187
         },
-        "time_elapsed": 47.983643531799316
+        "time_elapsed": 43.032448291778564
     },
     {
         "id": 87,
@@ -2103,13 +2103,13 @@
             "I": "End-stage renal disease",
             "J": "Pulmonary fibrosis"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "I",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 31899,
-            "completion_tokens": 4756
+            "prompt_tokens": 25855,
+            "completion_tokens": 4381
         },
-        "time_elapsed": 45.45786499977112
+        "time_elapsed": 54.26790952682495
     },
     {
         "id": 88,
@@ -2130,10 +2130,10 @@
         "predicted_answer": "E",
         "answer_idx": "C",
         "token_usage": {
-            "prompt_tokens": 21835,
-            "completion_tokens": 4323
+            "prompt_tokens": 21768,
+            "completion_tokens": 4295
         },
-        "time_elapsed": 37.484999656677246
+        "time_elapsed": 48.23553109169006
     },
     {
         "id": 89,
@@ -2154,10 +2154,10 @@
         "predicted_answer": "A",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 31616,
-            "completion_tokens": 6136
+            "prompt_tokens": 31528,
+            "completion_tokens": 6252
         },
-        "time_elapsed": 54.64585733413696
+        "time_elapsed": 75.01015949249268
     },
     {
         "id": 90,
@@ -2175,13 +2175,13 @@
             "I": "Serial hemoglobin monitoring",
             "J": "Anti-D immune globulin administration"
         },
-        "predicted_answer": "",
+        "predicted_answer": "J",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18393,
-            "completion_tokens": 3481
+            "prompt_tokens": 18629,
+            "completion_tokens": 3632
         },
-        "time_elapsed": 31.547523975372314
+        "time_elapsed": 45.02782845497131
     },
     {
         "id": 91,
@@ -2199,13 +2199,13 @@
             "I": "Valproic acid",
             "J": "Olanzapine"
         },
-        "predicted_answer": "",
+        "predicted_answer": "D",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 18346,
-            "completion_tokens": 4276
+            "prompt_tokens": 22686,
+            "completion_tokens": 4602
         },
-        "time_elapsed": 35.25184202194214
+        "time_elapsed": 53.43874669075012
     },
     {
         "id": 92,
@@ -2223,13 +2223,13 @@
             "I": "Empiric antibiotic therapy",
             "J": "CT angiogram of the head"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "H",
         "token_usage": {
-            "prompt_tokens": 21095,
-            "completion_tokens": 4565
+            "prompt_tokens": 21224,
+            "completion_tokens": 4662
         },
-        "time_elapsed": 37.306143045425415
+        "time_elapsed": 53.13967227935791
     },
     {
         "id": 93,
@@ -2250,10 +2250,10 @@
         "predicted_answer": "A",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 24722,
-            "completion_tokens": 5307
+            "prompt_tokens": 25009,
+            "completion_tokens": 5559
         },
-        "time_elapsed": 42.63786840438843
+        "time_elapsed": 69.22516655921936
     },
     {
         "id": 94,
@@ -2274,10 +2274,10 @@
         "predicted_answer": "D",
         "answer_idx": "G",
         "token_usage": {
-            "prompt_tokens": 39424,
-            "completion_tokens": 5675
+            "prompt_tokens": 44957,
+            "completion_tokens": 7188
         },
-        "time_elapsed": 50.68308234214783
+        "time_elapsed": 110.79107546806335
     },
     {
         "id": 95,
@@ -2298,10 +2298,10 @@
         "predicted_answer": "A",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 24727,
-            "completion_tokens": 4494
+            "prompt_tokens": 31236,
+            "completion_tokens": 5094
         },
-        "time_elapsed": 44.840293884277344
+        "time_elapsed": 59.713167905807495
     },
     {
         "id": 96,
@@ -2322,10 +2322,10 @@
         "predicted_answer": "A",
         "answer_idx": "I",
         "token_usage": {
-            "prompt_tokens": 18926,
-            "completion_tokens": 4330
+            "prompt_tokens": 19754,
+            "completion_tokens": 4453
         },
-        "time_elapsed": 36.63049292564392
+        "time_elapsed": 50.08618474006653
     },
     {
         "id": 97,
@@ -2346,10 +2346,10 @@
         "predicted_answer": "D",
         "answer_idx": "J",
         "token_usage": {
-            "prompt_tokens": 27518,
-            "completion_tokens": 4857
+            "prompt_tokens": 27103,
+            "completion_tokens": 4798
         },
-        "time_elapsed": 38.07211875915527
+        "time_elapsed": 56.52271223068237
     },
     {
         "id": 98,
@@ -2370,10 +2370,10 @@
         "predicted_answer": "B",
         "answer_idx": "D",
         "token_usage": {
-            "prompt_tokens": 22715,
-            "completion_tokens": 4833
+            "prompt_tokens": 23206,
+            "completion_tokens": 5146
         },
-        "time_elapsed": 38.22472071647644
+        "time_elapsed": 57.85062074661255
     },
     {
         "id": 99,
@@ -2391,12 +2391,12 @@
             "I": "Absent a waves",
             "J": "Delayed c wave formation"
         },
-        "predicted_answer": "",
+        "predicted_answer": "G",
         "answer_idx": "A",
         "token_usage": {
-            "prompt_tokens": 18666,
-            "completion_tokens": 4056
+            "prompt_tokens": 18664,
+            "completion_tokens": 4149
         },
-        "time_elapsed": 34.95098090171814
+        "time_elapsed": 57.02458953857422
     }
 ]

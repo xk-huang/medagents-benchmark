@@ -15,7 +15,14 @@ def process_sample(idx, raw_sample, realqid, handler, args, dataobj):
     question = raw_sample['question'] if raw_sample['question'][-1] in punctuation else raw_sample['question'] + '?'
     options = raw_sample['options']
     gold_answer = raw_sample['answer_idx']
-    return fully_decode(idx, realqid, question, options, gold_answer, handler, args, dataobj)
+    try:
+        output = fully_decode(idx, realqid, question, options, gold_answer, handler, args, dataobj)
+        if len(output['predicted_answer']) != 1:
+            return None
+        return output
+    except Exception as e:
+        print(f"Error processing sample: {e}")
+        return None
 
 def save_results(results, existing_output_file):
     results = sorted(results, key=lambda x: x['id'])
@@ -79,9 +86,10 @@ if __name__ == '__main__':
             futures.append(executor.submit(process_sample, idx, raw_sample, realqid, handler, args, dataobj))
 
         for future in tqdm.tqdm(as_completed(futures), total=len(futures), desc="Collecting results"):
-            # try:
+            try:
                 data_info = future.result()
-                results.append(data_info)  # Store result with its index
-                save_results(results, existing_output_file)
-            # except Exception as e:
-            #     print(f"Error processing sample: {e}")
+                if data_info is not None:
+                    results.append(data_info)  # Store result with its index
+                    save_results(results, existing_output_file)
+            except Exception as e:
+                print(f"Error processing sample: {e}")

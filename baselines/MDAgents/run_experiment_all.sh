@@ -10,9 +10,9 @@
 LOGS_DIR=logs
 DATA_DIR=../../data
 
-for dataset in medexqa medxpertqa-r medxpertqa-u; do
+for dataset in medqa pubmedqa medmcqa medexqa medbullets mmlu mmlu-pro medxpertqa-r medxpertqa-u; do
     mkdir -p $LOGS_DIR/$dataset
-    for model in gpt-4o-mini gpt-4o deepseek-V3; do
+    for model in gpt-4o-mini gpt-4o; do
         for split in test_hard; do
             for difficulty in adaptive; do
                 log_file=$LOGS_DIR/$dataset/${model}_${dataset}_${split}_${difficulty}.log

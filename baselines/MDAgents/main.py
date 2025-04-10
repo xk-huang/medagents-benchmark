@@ -75,14 +75,20 @@ def process_sample(sample):
 
         if difficulty == 'basic':
             final_decision, final_decision_usage = process_basic_query(question, examplers, args.model, args)
+            if len(final_decision['answer']) != 1:
+                return None
             total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
             total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
         elif difficulty == 'intermediate':
             final_decision, final_decision_usage = process_intermediate_query(question, examplers, args.model, args)
+            if len(final_decision['answer']) != 1:
+                return None
             total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
             total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
         elif difficulty == 'advanced':
             final_decision, final_decision_usage = process_advanced_query(question, args.model, args)
+            if len(final_decision['answer']) != 1:
+                return None
             total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
             total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
 

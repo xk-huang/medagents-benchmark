@@ -159,13 +159,13 @@ def cleansing_syn_report(question, options, raw_synthesized_report):
 def cleansing_final_output(output):
     try:
         ans = output.split(":")[-1]
-        ans = re.findall(r'A|B|C|D|E', ans)
+        ans = re.findall(r'A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z', ans)
         if len(ans) == 0:
             ans = ""
         else:
             ans = ans[0]
     except:
-        ans = re.findall(r'A|B|C|D|E', ans)
+        ans = re.findall(r'A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z', ans)
         if len(ans) == 0:
             ans = ""
         else:

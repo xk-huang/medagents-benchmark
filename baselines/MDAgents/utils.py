@@ -281,16 +281,14 @@ def load_data(dataset_dir, split):
 
     return test_qa, examplers
 
-def create_question(sample, dataset):
-    if dataset == 'medqa':
-        question = sample['question'] + " Options: "
-        options = []
-        for k, v in sample['options'].items():
-            options.append("({}) {}".format(k, v))
-        random.shuffle(options)
-        question += " ".join(options)
-        return question, None
-    return sample['question'], None
+def create_question(sample, dataset): 
+    question = sample['question'] + " Options: "
+    options = []
+    for k, v in sample['options'].items():
+        options.append("({}) {}".format(k, v))
+    random.shuffle(options)
+    question += " ".join(options)
+    return question, None
 
 def determine_difficulty(question, difficulty, model):
     if difficulty != 'adaptive':
@@ -313,23 +311,22 @@ def process_basic_query(question, examplers, model, args):
     medical_agent = Agent(instruction='You are a helpful medical agent.', role='medical expert', model_info=model)
     new_examplers = []
     total_usage = {'prompt_tokens': 0, 'completion_tokens': 0}
-    if args.dataset == 'medqa':
-        random.shuffle(examplers)
-        for ie, exampler in enumerate(examplers[:5]):
-            tmp_exampler = {}
-            exampler_question = exampler['question']
-            choices = [f"({k}) {v}" for k, v in exampler['options'].items()]
-            random.shuffle(choices)
-            exampler_question += " " + ' '.join(choices)
-            exampler_answer = f"Answer: ({exampler['answer_idx']}) {exampler['answer']}\n\n"
-            exampler_reason, exampler_reason_usage = medical_agent.chat(f"You are a helpful medical agent. Below is an example of medical knowledge question and answer. After reviewing the below medical question and answering, can you provide 1-2 sentences of reason that support the answer as you didn't know the answer ahead?\n\nQuestion: {exampler_question}\n\nAnswer: {exampler_answer}")
+    random.shuffle(examplers)
+    for ie, exampler in enumerate(examplers[:5]):
+        tmp_exampler = {}
+        exampler_question = exampler['question']
+        choices = [f"({k}) {v}" for k, v in exampler['options'].items()]
+        random.shuffle(choices)
+        exampler_question += " " + ' '.join(choices)
+        exampler_answer = f"Answer: ({exampler['answer_idx']}) {exampler['answer']}\n\n"
+        exampler_reason, exampler_reason_usage = medical_agent.chat(f"You are a helpful medical agent. Below is an example of medical knowledge question and answer. After reviewing the below medical question and answering, can you provide 1-2 sentences of reason that support the answer as you didn't know the answer ahead?\n\nQuestion: {exampler_question}\n\nAnswer: {exampler_answer}")
 
-            total_usage['prompt_tokens'] += exampler_reason_usage['prompt_tokens']
-            total_usage['completion_tokens'] += exampler_reason_usage['completion_tokens']
-            tmp_exampler['question'] = exampler_question
-            tmp_exampler['reason'] = exampler_reason
-            tmp_exampler['answer'] = exampler_answer
-            new_examplers.append(tmp_exampler)
+        total_usage['prompt_tokens'] += exampler_reason_usage['prompt_tokens']
+        total_usage['completion_tokens'] += exampler_reason_usage['completion_tokens']
+        tmp_exampler['question'] = exampler_question
+        tmp_exampler['reason'] = exampler_reason
+        tmp_exampler['answer'] = exampler_answer
+        new_examplers.append(tmp_exampler)
 
     single_agent = Agent(instruction='You are a helpful assistant that answers multiple choice questions about medical knowledge.', role='medical expert', examplers=new_examplers, model_info=model)
     single_agent.chat('You are a helpful assistant that answers multiple choice questions about medical knowledge.')
@@ -340,7 +337,7 @@ def process_basic_query(question, examplers, model, args):
 
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output A, B, C, D, or E from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
 
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
@@ -400,21 +397,20 @@ def process_intermediate_query(question, examplers, model, args):
             print(f"Agent {idx+1} ({agent_emoji[idx]}): {agent[0]}")
 
     fewshot_examplers = ""
-    medical_agent = Agent(instruction='You are a helpful medical agent.', role='medical expert', model_info=model)
-    if args.dataset == 'medqa':
-        random.shuffle(examplers)
-        for ie, exampler in enumerate(examplers[:5]):
-            exampler_question = f"[Example {ie+1}]\n" + exampler['question']
-            options = [f"({k}) {v}" for k, v in exampler['options'].items()]
-            random.shuffle(options)
-            exampler_question += " " + " ".join(options)
-            exampler_answer = f"Answer: ({exampler['answer_idx']}) {exampler['answer']}"
-            exampler_reason, exampler_reason_usage = tmp_agent.chat(f"Below is an example of medical knowledge question and answer. After reviewing the below medical question and answering, can you provide 1-2 sentences of reason that support the answer as you didn't know the answer ahead?\n\nQuestion: {exampler_question}\n\nAnswer: {exampler_answer}")
-            total_usage['prompt_tokens'] += exampler_reason_usage['prompt_tokens']
-            total_usage['completion_tokens'] += exampler_reason_usage['completion_tokens']
-            
-            exampler_question += f"\n{exampler_answer}\n{exampler_reason}\n\n"
-            fewshot_examplers += exampler_question
+    medical_agent = Agent(instruction='You are a helpful medical agent.', role='medical expert', model_info=model) 
+    random.shuffle(examplers)
+    for ie, exampler in enumerate(examplers[:5]):
+        exampler_question = f"[Example {ie+1}]\n" + exampler['question']
+        options = [f"({k}) {v}" for k, v in exampler['options'].items()]
+        random.shuffle(options)
+        exampler_question += " " + " ".join(options)
+        exampler_answer = f"Answer: ({exampler['answer_idx']}) {exampler['answer']}"
+        exampler_reason, exampler_reason_usage = tmp_agent.chat(f"Below is an example of medical knowledge question and answer. After reviewing the below medical question and answering, can you provide 1-2 sentences of reason that support the answer as you didn't know the answer ahead?\n\nQuestion: {exampler_question}\n\nAnswer: {exampler_answer}")
+        total_usage['prompt_tokens'] += exampler_reason_usage['prompt_tokens']
+        total_usage['completion_tokens'] += exampler_reason_usage['completion_tokens']
+        
+        exampler_question += f"\n{exampler_answer}\n{exampler_reason}\n\n"
+        fewshot_examplers += exampler_question
 
     print()
     cprint("[INFO] Step 2. Collaborative Decision Making", 'yellow', attrs=['blink'])
@@ -548,7 +544,7 @@ def process_intermediate_query(question, examplers, model, args):
     # Parse the final decision
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output A, B, C, D, or E from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
     
@@ -640,7 +636,7 @@ def process_advanced_query(question, model, args):
     # Parse the final decision
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output A, B, C, D, or E from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
     

@@ -2,7 +2,7 @@
     {
         "idx": 105,
         "realidx": 105,
-        "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.",
+        "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. Options: (A) They will be unable to breathe without life support. (B) They will only be able to breathe quietly. (C) It is impossible to predict an effect on breathing. (D) Breathing will be unaffected.",
         "answer_idx": "B",
         "answer": "They will only be able to breathe quietly.",
         "options": {
@@ -11,18 +11,18 @@
             "C": "It is impossible to predict an effect on breathing.",
             "D": "Breathing will be unaffected."
         },
-        "predicted_answer": "E",
+        "predicted_answer": "A",
         "difficulty": "advanced",
         "token_usage": {
-            "prompt_tokens": 12518,
-            "completion_tokens": 1705
+            "prompt_tokens": 11039,
+            "completion_tokens": 985
         },
-        "time_elapsed": 137.7379755973816
+        "time_elapsed": 117.91252326965332
     },
     {
         "idx": 108,
         "realidx": 108,
-        "question": "The palatine processes begin to fuse at",
+        "question": "The palatine processes begin to fuse at Options: (A) six weeks post-fertilization. (B) eight weeks post-fertilization. (D) twelve weeks post-fertilization. (C) ten weeks post-fertilization.",
         "answer_idx": "C",
         "answer": "ten weeks post-fertilization.",
         "options": {
@@ -34,15 +34,15 @@
         "predicted_answer": "A",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 440,
-            "completion_tokens": 125
+            "prompt_tokens": 553,
+            "completion_tokens": 129
         },
-        "time_elapsed": 3.5164244174957275
+        "time_elapsed": 4.457637071609497
     },
     {
         "idx": 114,
         "realidx": 114,
-        "question": "Which one of the following statements about the growth of the mandible is correct?",
+        "question": "Which one of the following statements about the growth of the mandible is correct? Options: (B) The condylar growth cartilage ceases activity at puberty (C) The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage (D) The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle (A) The mental symphysis closes at about 1 year postnatally",
         "answer_idx": "A",
         "answer": "The mental symphysis closes at about 1 year postnatally",
         "options": {
@@ -51,18 +51,18 @@
             "C": "The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage",
             "D": "The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle"
         },
-        "predicted_answer": "I would need to see the specific answer choices to provide a correct response. Please provide options A, B, C, D, and E related to the growth of the mandible.",
+        "predicted_answer": "A",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 653,
-            "completion_tokens": 336
+            "prompt_tokens": 1014,
+            "completion_tokens": 454
         },
-        "time_elapsed": 5.25303053855896
+        "time_elapsed": 6.986331462860107
     },
     {
         "idx": 123,
         "realidx": 123,
-        "question": "Gastrulation is the process of",
+        "question": "Gastrulation is the process of Options: (D) ectomesenchyme formation and occurs after neurulation. (B) ectomesenchyme formation and occurs before neurulation. (A) mesoderm formation and occurs after neurulation. (C) mesoderm formation and occurs before neurulation.",
         "answer_idx": "B",
         "answer": "ectomesenchyme formation and occurs before neurulation.",
         "options": {
@@ -71,18 +71,18 @@
             "C": "mesoderm formation and occurs before neurulation.",
             "D": "ectomesenchyme formation and occurs after neurulation."
         },
-        "predicted_answer": "E",
+        "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 468,
-            "completion_tokens": 145
+            "prompt_tokens": 714,
+            "completion_tokens": 262
         },
-        "time_elapsed": 3.9868738651275635
+        "time_elapsed": 8.280531167984009
     },
     {
         "idx": 125,
         "realidx": 125,
-        "question": "Which of the following substances is found in greater quantity in exhaled air?",
+        "question": "Which of the following substances is found in greater quantity in exhaled air? Options: (A) Carbon dioxide (B) Carbon monoxide (D) Oxygen (C) Nitrogen",
         "answer_idx": "C",
         "answer": "Nitrogen",
         "options": {
@@ -91,18 +91,18 @@
             "C": "Nitrogen",
             "D": "Oxygen"
         },
-        "predicted_answer": "C",
+        "predicted_answer": "A",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 599,
-            "completion_tokens": 278
+            "prompt_tokens": 736,
+            "completion_tokens": 358
         },
-        "time_elapsed": 18.801694631576538
+        "time_elapsed": 10.43718147277832
     },
     {
         "idx": 131,
         "realidx": 131,
-        "question": "Food is prevented from entering the larynx during the pharyngeal phase of swallowing by",
+        "question": "Food is prevented from entering the larynx during the pharyngeal phase of swallowing by Options: (B) upward movement of the epiglottis. (A) constriction of the laryngeal entrance. (C) downward movement of the larynx. (D) increase in respiratory rate.",
         "answer_idx": "A",
         "answer": "constriction of the laryngeal entrance.",
         "options": {
@@ -111,18 +111,18 @@
             "C": "downward movement of the larynx.",
             "D": "increase in respiratory rate."
         },
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 499,
-            "completion_tokens": 181
+            "prompt_tokens": 824,
+            "completion_tokens": 315
         },
-        "time_elapsed": 11.730319261550903
+        "time_elapsed": 6.125682830810547
     },
     {
         "idx": 133,
         "realidx": 133,
-        "question": "In which of the following positions does a patient lie face down?",
+        "question": "In which of the following positions does a patient lie face down? Options: (A) Dorsal (B) Erect (D) Prone (C) Lateral",
         "answer_idx": "B",
         "answer": "Erect",
         "options": {
@@ -131,18 +131,18 @@
             "C": "Lateral",
             "D": "Prone"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 463,
-            "completion_tokens": 113
+            "prompt_tokens": 559,
+            "completion_tokens": 170
         },
-        "time_elapsed": 3.664762258529663
+        "time_elapsed": 9.279025316238403
     },
     {
         "idx": 134,
         "realidx": 134,
-        "question": "Complete bilateral cleft palate is due to failure of fusion of the",
+        "question": "Complete bilateral cleft palate is due to failure of fusion of the Options: (D) palatine, frontonasal, secondary nasal processes and mandibular processes. (B) palatine and frontonasal processes. (C) palatine, frontonasal and secondary nasal processes. (A) palatine processes.",
         "answer_idx": "C",
         "answer": "palatine, frontonasal and secondary nasal processes.",
         "options": {
@@ -151,18 +151,18 @@
             "C": "palatine, frontonasal and secondary nasal processes.",
             "D": "palatine, frontonasal, secondary nasal processes and mandibular processes."
         },
-        "predicted_answer": "A",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 585,
-            "completion_tokens": 278
+            "prompt_tokens": 7786,
+            "completion_tokens": 855
         },
-        "time_elapsed": 5.342513799667358
+        "time_elapsed": 40.95676827430725
     },
     {
         "idx": 155,
         "realidx": 155,
-        "question": "If the foot is abducted, it is moved in which direction?",
+        "question": "If the foot is abducted, it is moved in which direction? Options: (C) Upward (D) Downward (A) Inward (B) Outward",
         "answer_idx": "D",
         "answer": "Downward",
         "options": {
@@ -171,18 +171,18 @@
             "C": "Upward",
             "D": "Downward"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 528,
-            "completion_tokens": 183
+            "prompt_tokens": 609,
+            "completion_tokens": 231
         },
-        "time_elapsed": 4.315400838851929
+        "time_elapsed": 4.925343990325928
     },
     {
         "idx": 159,
         "realidx": 159,
-        "question": "Which of the following muscles initiates elevation of the mandible?",
+        "question": "Which of the following muscles initiates elevation of the mandible? Options: (A) Masseter (B) Temporalis (D) Medial pterygoid. (C) Lateral pterygoid",
         "answer_idx": "D",
         "answer": "Medial pterygoid.",
         "options": {
@@ -194,15 +194,15 @@
         "predicted_answer": "A",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 463,
-            "completion_tokens": 138
+            "prompt_tokens": 673,
+            "completion_tokens": 245
         },
-        "time_elapsed": 4.522433280944824
+        "time_elapsed": 7.095360517501831
     },
     {
         "idx": 168,
         "realidx": 168,
-        "question": "The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the",
+        "question": "The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the Options: (A) thyroid cartilage. (B) cricothyroid membrane. (C) cricoid cartilage. (D) tracheal rings.",
         "answer_idx": "D",
         "answer": "tracheal rings.",
         "options": {
@@ -211,18 +211,18 @@
             "C": "cricoid cartilage.",
             "D": "tracheal rings."
         },
-        "predicted_answer": "C",
+        "predicted_answer": "D",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 513,
-            "completion_tokens": 179
+            "prompt_tokens": 717,
+            "completion_tokens": 280
         },
-        "time_elapsed": 3.7228007316589355
+        "time_elapsed": 5.469014883041382
     },
     {
         "idx": 173,
         "realidx": 173,
-        "question": "When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the",
+        "question": "When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the Options: (D) posterior fragment to be displaced medially by action of the medial pterygoid muscle. (B) posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle. (C) anterior fragment to be displaced backwards by action of the temporalis muscle. (A) anterior fragment to be displaced downwards by the action of the digastric muscle.",
         "answer_idx": "A",
         "answer": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
         "options": {
@@ -231,18 +231,18 @@
             "C": "anterior fragment to be displaced backwards by action of the temporalis muscle.",
             "D": "posterior fragment to be displaced medially by action of the medial pterygoid muscle."
         },
-        "predicted_answer": "Please provide the answer choices for the question regarding the examination of a patient with an unfavorable fracture of the body of the mandible.",
-        "difficulty": "basic",
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 492,
-            "completion_tokens": 215
+            "prompt_tokens": 9014,
+            "completion_tokens": 956
         },
-        "time_elapsed": 4.821910381317139
+        "time_elapsed": 48.40941047668457
     },
     {
         "idx": 197,
         "realidx": 197,
-        "question": "In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",
+        "question": "In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be Options: (D) red on both sides of the mucogingival junction. (C) red below the mucogingival junction and light pink above it. (A) light pink in colour on both sides of the mucogingigival junction. (B) light pink below the mucogingival junction and red above it.",
         "answer_idx": "C",
         "answer": "red below the mucogingival junction and light pink above it.",
         "options": {
@@ -254,15 +254,15 @@
         "predicted_answer": "A",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 619,
-            "completion_tokens": 235
+            "prompt_tokens": 774,
+            "completion_tokens": 224
         },
-        "time_elapsed": 4.112202167510986
+        "time_elapsed": 5.115537405014038
     },
     {
         "idx": 203,
         "realidx": 203,
-        "question": "Which of the following bones develop by endochondral ossification?",
+        "question": "Which of the following bones develop by endochondral ossification? Options: (C) The ribs, sternum and clavicle (D) The ribs, sternum, clavicle and vertebrae (B) The ribs and sternum (A) The ribs",
         "answer_idx": "B",
         "answer": "The ribs and sternum",
         "options": {
@@ -271,18 +271,18 @@
             "C": "The ribs, sternum and clavicle",
             "D": "The ribs, sternum, clavicle and vertebrae"
         },
-        "predicted_answer": "B",
+        "predicted_answer": "D",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 594,
-            "completion_tokens": 263
+            "prompt_tokens": 941,
+            "completion_tokens": 484
         },
-        "time_elapsed": 5.096368789672852
+        "time_elapsed": 13.06073522567749
     },
     {
         "idx": 207,
         "realidx": 207,
-        "question": "Proprioceptive nerve endings in synovial joints are located in",
+        "question": "Proprioceptive nerve endings in synovial joints are located in Options: (D) ligaments and articular discs. (A) articular cartilage and synovial membrane. (B) synovial membrane and capsule. (C) capsule and ligaments.",
         "answer_idx": "D",
         "answer": "ligaments and articular discs.",
         "options": {
@@ -294,15 +294,15 @@
         "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 583,
-            "completion_tokens": 219
+            "prompt_tokens": 874,
+            "completion_tokens": 429
         },
-        "time_elapsed": 5.36578369140625
+        "time_elapsed": 6.3502583503723145
     },
     {
         "idx": 229,
         "realidx": 229,
-        "question": "During swallowing the",
+        "question": "During swallowing the Options: (A) auditory tube opens. (D) gag reflex is suspended. (B) cricopharyngeus muscle contracts. (C) rima glottis opens.",
         "answer_idx": "A",
         "answer": "auditory tube opens.",
         "options": {
@@ -311,18 +311,18 @@
             "C": "rima glottis opens.",
             "D": "gag reflex is suspended."
         },
-        "predicted_answer": "It seems like your question is incomplete. Please provide the full question along with the answer options.",
-        "difficulty": "basic",
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 581,
-            "completion_tokens": 404
+            "prompt_tokens": 14837,
+            "completion_tokens": 1485
         },
-        "time_elapsed": 8.77784252166748
+        "time_elapsed": 65.98456978797913
     },
     {
         "idx": 491,
         "realidx": 491,
-        "question": "In what situation are closed pouches applied?",
+        "question": "In what situation are closed pouches applied? Options: (C) In the immediate post-operative period. (D) The patient has a urostomy. (B) The patient has a colostomy. (A) The patient has a semi-formed or liquid output.",
         "answer_idx": "B",
         "answer": "The patient has a colostomy.",
         "options": {
@@ -331,18 +331,18 @@
             "C": "In the immediate post-operative period.",
             "D": "The patient has a urostomy."
         },
-        "predicted_answer": "Please provide the specific options (A, B, C, D, or E) for the answer.",
+        "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 582,
-            "completion_tokens": 292
+            "prompt_tokens": 785,
+            "completion_tokens": 345
         },
-        "time_elapsed": 5.784302473068237
+        "time_elapsed": 6.152160882949829
     },
     {
         "idx": 493,
         "realidx": 493,
-        "question": "Which of the following is true in diplopia?",
+        "question": "Which of the following is true in diplopia? Options: (D) A sixth nerve palsy causes a divergent squint (A) Diplopia can never occur if one eye is covered (C) A fourth nerve palsy occurs when the patient looks upwards (B) The outer image is always the false image",
         "answer_idx": "B",
         "answer": "The outer image is always the false image",
         "options": {
@@ -351,18 +351,18 @@
             "C": "A fourth nerve palsy occurs when the patient looks upwards",
             "D": "A sixth nerve palsy causes a divergent squint"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 242056,
-            "completion_tokens": 8150
+            "prompt_tokens": 6071,
+            "completion_tokens": 770
         },
-        "time_elapsed": 146.27160000801086
+        "time_elapsed": 37.12304329872131
     },
     {
         "idx": 509,
         "realidx": 509,
-        "question": "Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)?",
+        "question": "Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)? Options: (C) 4 hours. (D) 12 hours. (B) 90 minutes. (A) 30 minutes.",
         "answer_idx": "A",
         "answer": "30 minutes.",
         "options": {
@@ -371,18 +371,18 @@
             "C": "4 hours.",
             "D": "12 hours."
         },
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 562,
-            "completion_tokens": 170
+            "prompt_tokens": 629,
+            "completion_tokens": 149
         },
-        "time_elapsed": 3.9918737411499023
+        "time_elapsed": 4.250938415527344
     },
     {
         "idx": 514,
         "realidx": 514,
-        "question": "Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles?",
+        "question": "Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles? Options: (A) More prominent in expiration (D) Clubbing (C) No pain over the area (B) Alters with coughing",
         "answer_idx": "A",
         "answer": "More prominent in expiration",
         "options": {
@@ -394,15 +394,15 @@
         "predicted_answer": "A",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 199538,
-            "completion_tokens": 5668
+            "prompt_tokens": 7722,
+            "completion_tokens": 682
         },
-        "time_elapsed": 105.29923367500305
+        "time_elapsed": 39.1002082824707
     },
     {
         "idx": 515,
         "realidx": 515,
-        "question": "In games like soccer the blood lactate concentration:",
+        "question": "In games like soccer the blood lactate concentration: Options: (D) increases throughout the course of the game as the players become more fatigued. (A) rarely increases above 3 mM. (C) is usually higher at the end of the game than at the end of the first half. (B) is usually lower at the end of the game than at the end of the first half.",
         "answer_idx": "B",
         "answer": "is usually lower at the end of the game than at the end of the first half.",
         "options": {
@@ -412,17 +412,17 @@
             "D": "increases throughout the course of the game as the players become more fatigued."
         },
         "predicted_answer": "C",
-        "difficulty": "basic",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 527,
-            "completion_tokens": 180
+            "prompt_tokens": 7316,
+            "completion_tokens": 624
         },
-        "time_elapsed": 6.147564172744751
+        "time_elapsed": 42.98208451271057
     },
     {
         "idx": 526,
         "realidx": 526,
-        "question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:",
+        "question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately: Options: (A) 400 kJ/min. (B) 200 kJ/min. (D) 40 kJ/min. (C) 80 kJ/min.",
         "answer_idx": "D",
         "answer": "40 kJ/min.",
         "options": {
@@ -434,15 +434,15 @@
         "predicted_answer": "D",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 660,
-            "completion_tokens": 284
+            "prompt_tokens": 705,
+            "completion_tokens": 236
         },
-        "time_elapsed": 4.757835388183594
+        "time_elapsed": 5.3863725662231445
     },
     {
         "idx": 537,
         "realidx": 537,
-        "question": "How often should a cannula be flushed?",
+        "question": "How often should a cannula be flushed? Options: (B) Every 8 hours. (A) Every 4 hours. (C) Every 12 hours. (D) Every 16 hours.",
         "answer_idx": "C",
         "answer": "Every 12 hours.",
         "options": {
@@ -451,18 +451,18 @@
             "C": "Every 12 hours.",
             "D": "Every 16 hours."
         },
-        "predicted_answer": "Please provide the specific answer choices for the question, and I'll help you select the most appropriate one!",
+        "predicted_answer": "A",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 557,
-            "completion_tokens": 225
+            "prompt_tokens": 565,
+            "completion_tokens": 147
         },
-        "time_elapsed": 4.940598964691162
+        "time_elapsed": 4.1274378299713135
     },
     {
         "idx": 552,
         "realidx": 552,
-        "question": "In hypovolaemic shock, what percentage of blood can be lost before it is reflected in changes in heart rate and blood pressure?",
+        "question": "In hypovolaemic shock, what percentage of blood can be lost before it is reflected in changes in heart rate and blood pressure? Options: (B) 10% (A) 5% (D) 30% (C) 20%",
         "answer_idx": "D",
         "answer": "30%",
         "options": {
@@ -472,17 +472,17 @@
             "D": "30%"
         },
         "predicted_answer": "C",
-        "difficulty": "intermediate",
+        "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 204755,
-            "completion_tokens": 7366
+            "prompt_tokens": 659,
+            "completion_tokens": 256
         },
-        "time_elapsed": 138.35385060310364
+        "time_elapsed": 5.03741455078125
     },
     {
         "idx": 568,
         "realidx": 568,
-        "question": "Hydrogen ions are formed when:",
+        "question": "Hydrogen ions are formed when: Options: (B) phosphocreatine breakdown occurs. (A) glycogen becomes depleted. (D) glycolysis is being used as a major means of resynthesising ATP. (C) pyruvate is converted to lactate.",
         "answer_idx": "D",
         "answer": "glycolysis is being used as a major means of resynthesising ATP.",
         "options": {
@@ -491,18 +491,18 @@
             "C": "pyruvate is converted to lactate.",
             "D": "glycolysis is being used as a major means of resynthesising ATP."
         },
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 594,
-            "completion_tokens": 259
+            "prompt_tokens": 5638,
+            "completion_tokens": 714
         },
-        "time_elapsed": 4.827724933624268
+        "time_elapsed": 10.514218807220459
     },
     {
         "idx": 576,
         "realidx": 576,
-        "question": "Bladder washout solution should be:",
+        "question": "Bladder washout solution should be: Options: (A) warm. (B) cold. (C) refrigerated. (D) room temperature.",
         "answer_idx": "D",
         "answer": "room temperature.",
         "options": {
@@ -514,15 +514,15 @@
         "predicted_answer": "A",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 458,
-            "completion_tokens": 124
+            "prompt_tokens": 539,
+            "completion_tokens": 135
         },
-        "time_elapsed": 4.347858667373657
+        "time_elapsed": 4.285379886627197
     },
     {
         "idx": 598,
         "realidx": 598,
-        "question": "How many different types of microorganisms may colonize the mouth?",
+        "question": "How many different types of microorganisms may colonize the mouth? Options: (A) 35 (C) 350 (D) 500 (B) 100",
         "answer_idx": "C",
         "answer": "350",
         "options": {
@@ -531,18 +531,18 @@
             "C": "350",
             "D": "500"
         },
-        "predicted_answer": "Please provide the multiple-choice options for the question, and I'll help you determine the best answer.",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 517,
-            "completion_tokens": 197
+            "prompt_tokens": 254427,
+            "completion_tokens": 9087
         },
-        "time_elapsed": 4.793922662734985
+        "time_elapsed": 184.45680046081543
     },
     {
         "idx": 614,
         "realidx": 614,
-        "question": "Insensible loss does not come from:",
+        "question": "Insensible loss does not come from: Options: (B) using unhumidified oxygen. (C) excessive weight loss. (A) pyrexia. (D) diarrhoea.",
         "answer_idx": "C",
         "answer": "excessive weight loss.",
         "options": {
@@ -551,18 +551,18 @@
             "C": "excessive weight loss.",
             "D": "diarrhoea."
         },
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 558,
-            "completion_tokens": 273
+            "prompt_tokens": 717,
+            "completion_tokens": 416
         },
-        "time_elapsed": 4.236243724822998
+        "time_elapsed": 12.475057601928711
     },
     {
         "idx": 628,
         "realidx": 628,
-        "question": "After what period of time does maximal dynamic exercise become predominantly aerobic?",
+        "question": "After what period of time does maximal dynamic exercise become predominantly aerobic? Options: (C) 1 minute (D) 4 minutes (B) 30 seconds (A) 10 seconds",
         "answer_idx": "C",
         "answer": "1 minute",
         "options": {
@@ -571,18 +571,18 @@
             "C": "1 minute",
             "D": "4 minutes"
         },
-        "predicted_answer": "To provide a final answer based on a majority vote, I would need to see the opinions or answers from each agent regarding the question about the time period after which maximal dynamic exercise becomes predominantly aerobic. Please provide those responses, and I will analyze them to determine the majority opinion.",
+        "predicted_answer": "D",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 6993,
-            "completion_tokens": 608
+            "prompt_tokens": 6666,
+            "completion_tokens": 765
         },
-        "time_elapsed": 30.80909252166748
+        "time_elapsed": 42.2380895614624
     },
     {
         "idx": 634,
         "realidx": 634,
-        "question": "In the discharge checklist recommended by the Department of Health (2004), who should be involved in completing the form?",
+        "question": "In the discharge checklist recommended by the Department of Health (2004), who should be involved in completing the form? Options: (C) The nurse, ward clerk, and consultant. (A) The GP, consultant, and named nurse. (B) The nurse, patient, and ward clerk. (D) The nurse, consultant, and GP.",
         "answer_idx": "B",
         "answer": "The nurse, patient, and ward clerk.",
         "options": {
@@ -591,18 +591,18 @@
             "C": "The nurse, ward clerk, and consultant.",
             "D": "The nurse, consultant, and GP."
         },
-        "predicted_answer": "Please provide the specific answer choices for the question.",
+        "predicted_answer": "D",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 612,
-            "completion_tokens": 256
+            "prompt_tokens": 902,
+            "completion_tokens": 446
         },
-        "time_elapsed": 5.0220067501068115
+        "time_elapsed": 6.237323045730591
     },
     {
         "idx": 640,
         "realidx": 640,
-        "question": "Which is the most reliable way to assess for clubbing?",
+        "question": "Which is the most reliable way to assess for clubbing? Options: (D) Inspect the nail-bed angle from the side (C) Schamroth's sign (A) Inspect the nail-bed angle from above (B) Assessing the fluctuancy of the nail-bed",
         "answer_idx": "D",
         "answer": "Inspect the nail-bed angle from the side",
         "options": {
@@ -611,18 +611,18 @@
             "C": "Schamroth's sign",
             "D": "Inspect the nail-bed angle from the side"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 502,
-            "completion_tokens": 173
+            "prompt_tokens": 655,
+            "completion_tokens": 200
         },
-        "time_elapsed": 4.060237646102905
+        "time_elapsed": 7.169635534286499
     },
     {
         "idx": 642,
         "realidx": 642,
-        "question": "Name three of the five main uses of the hand.",
+        "question": "Name three of the five main uses of the hand. Options: (C) Tap, slap, clap. (B) Grip, percussion, sensory. (D) Touch, pinch, grasp. (A) Touch, feel, stroke.",
         "answer_idx": "B",
         "answer": "Grip, percussion, sensory.",
         "options": {
@@ -631,18 +631,18 @@
             "C": "Tap, slap, clap.",
             "D": "Touch, pinch, grasp."
         },
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 496,
-            "completion_tokens": 154
+            "prompt_tokens": 824,
+            "completion_tokens": 369
         },
-        "time_elapsed": 4.054191589355469
+        "time_elapsed": 5.35119104385376
     },
     {
         "idx": 643,
         "realidx": 643,
-        "question": "Which of the following is true about an abdominal mass?",
+        "question": "Which of the following is true about an abdominal mass? Options: (C) A large mass arising out of the pelvis which disappears following urethral catheterization is caused by an ovarian cyst (D) An indentible mass is caused by faecal loading of the colon (B) An enlarged kidney is dull to percussion (A) A pulsatile mass is always due to an aortic aneurysm",
         "answer_idx": "D",
         "answer": "An indentible mass is caused by faecal loading of the colon",
         "options": {
@@ -651,18 +651,18 @@
             "C": "A large mass arising out of the pelvis which disappears following urethral catheterization is caused by an ovarian cyst",
             "D": "An indentible mass is caused by faecal loading of the colon"
         },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
+        "predicted_answer": "B",
+        "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 11048,
-            "completion_tokens": 1226
+            "prompt_tokens": 944,
+            "completion_tokens": 433
         },
-        "time_elapsed": 85.37762594223022
+        "time_elapsed": 6.123814582824707
     },
     {
         "idx": 694,
         "realidx": 694,
-        "question": "Which of the following is recommended for cleaning the mouth?",
+        "question": "Which of the following is recommended for cleaning the mouth? Options: (A) Hydrogen peroxide. (D) Normal saline. (B) Water. (C) Lemon and glycerine swabs.",
         "answer_idx": "B",
         "answer": "Water.",
         "options": {
@@ -671,18 +671,18 @@
             "C": "Lemon and glycerine swabs.",
             "D": "Normal saline."
         },
-        "predicted_answer": "I need the multiple-choice options to provide an answer. Please share the options available for the question.",
+        "predicted_answer": "B",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 464,
-            "completion_tokens": 137
+            "prompt_tokens": 607,
+            "completion_tokens": 177
         },
-        "time_elapsed": 4.038027286529541
+        "time_elapsed": 4.3285956382751465
     },
     {
         "idx": 698,
         "realidx": 698,
-        "question": "Under which circumstances would you not use a catheter valve?",
+        "question": "Under which circumstances would you not use a catheter valve? Options: (B) If the patient chooses it. (D) If urine does not need to be measured. (C) If the patient has bladder sensation. (A) If the patient is post-operative.",
         "answer_idx": "A",
         "answer": "If the patient is post-operative.",
         "options": {
@@ -691,18 +691,18 @@
             "C": "If the patient has bladder sensation.",
             "D": "If urine does not need to be measured."
         },
-        "predicted_answer": "A",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 723,
-            "completion_tokens": 366
+            "prompt_tokens": 7671,
+            "completion_tokens": 707
         },
-        "time_elapsed": 6.109812259674072
+        "time_elapsed": 37.52099919319153
     },
     {
         "idx": 721,
         "realidx": 721,
-        "question": "Which of the following is true in a sensory assessment of the arm?",
+        "question": "Which of the following is true in a sensory assessment of the arm? Options: (D) Impulses for pain travel principally up the dorsal columns (A) It is acceptable to test pain with a venepuncture needle (B) Proprioception is appreciated via the same tracts as light touch (C) It is best to test vibration sense with a 256 Hz tuning fork",
         "answer_idx": "B",
         "answer": "Proprioception is appreciated via the same tracts as light touch",
         "options": {
@@ -711,18 +711,18 @@
             "C": "It is best to test vibration sense with a 256 Hz tuning fork",
             "D": "Impulses for pain travel principally up the dorsal columns"
         },
-        "predicted_answer": "I need the specific options available for the sensory assessment of the arm to provide an accurate answer. Please provide the choices A, B, C, D, or E.",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 586,
-            "completion_tokens": 315
+            "prompt_tokens": 6494,
+            "completion_tokens": 780
         },
-        "time_elapsed": 4.67302131652832
+        "time_elapsed": 29.825879335403442
     },
     {
         "idx": 722,
         "realidx": 722,
-        "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:",
+        "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise: Options: (C) frequently falls by 1 - 3 mM. (A) frequently rises by 1 - 3 mM. (D) falls to hypoglycaemic levels. (B) remains relatively unchanged.",
         "answer_idx": "A",
         "answer": "frequently rises by 1 - 3 mM.",
         "options": {
@@ -734,15 +734,15 @@
         "predicted_answer": "A",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 198205,
-            "completion_tokens": 5843
+            "prompt_tokens": 352650,
+            "completion_tokens": 14476
         },
-        "time_elapsed": 110.65803217887878
+        "time_elapsed": 225.6134753227234
     },
     {
         "idx": 740,
         "realidx": 740,
-        "question": "Oxygen is used:",
+        "question": "Oxygen is used: Options: (B) in the conversion of fatty acids to acetyl CoA. (C) in the tricarboxylic acid cycle (Krebs' cycle). (D) in glycogenolysis. (A) in glycolysis.",
         "answer_idx": "B",
         "answer": "in the conversion of fatty acids to acetyl CoA.",
         "options": {
@@ -751,18 +751,18 @@
             "C": "in the tricarboxylic acid cycle (Krebs' cycle).",
             "D": "in glycogenolysis."
         },
-        "predicted_answer": "Please provide the multiple choice options for the question about the use of oxygen.",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 572,
-            "completion_tokens": 264
+            "prompt_tokens": 7323,
+            "completion_tokens": 836
         },
-        "time_elapsed": 10.928931713104248
+        "time_elapsed": 35.737099170684814
     },
     {
         "idx": 749,
         "realidx": 749,
-        "question": "What is the second commonest hospital acquired infection?",
+        "question": "What is the second commonest hospital acquired infection? Options: (C) Upper respiratory tract infection. (A) Urinary infection. (B) Wound infection. (D) Ventilator-associated pneumonia.",
         "answer_idx": "D",
         "answer": "Ventilator-associated pneumonia.",
         "options": {
@@ -771,18 +771,18 @@
             "C": "Upper respiratory tract infection.",
             "D": "Ventilator-associated pneumonia."
         },
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 467,
-            "completion_tokens": 140
+            "prompt_tokens": 672,
+            "completion_tokens": 275
         },
-        "time_elapsed": 3.4257521629333496
+        "time_elapsed": 5.399554014205933
     },
     {
         "idx": 791,
         "realidx": 791,
-        "question": "An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in drawing which of the following conclusions?",
+        "question": "An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in drawing which of the following conclusions? Options: (C) An early human embryo has features in common with early fish and avian embryos. (D) A human embryo displays features of adult fish and birds in the course of its development. (B) Early embryos display identical features of their class, order, and species. (A) Ontogeny recapitulates phylogeny.",
         "answer_idx": "A",
         "answer": "Ontogeny recapitulates phylogeny.",
         "options": {
@@ -791,18 +791,18 @@
             "C": "An early human embryo has features in common with early fish and avian embryos.",
             "D": "A human embryo displays features of adult fish and birds in the course of its development."
         },
-        "predicted_answer": "E",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 738,
-            "completion_tokens": 377
+            "prompt_tokens": 7997,
+            "completion_tokens": 901
         },
-        "time_elapsed": 5.850216388702393
+        "time_elapsed": 32.375871658325195
     },
     {
         "idx": 805,
         "realidx": 805,
-        "question": "Mouse sperm contain receptor proteins that bind to a glycoprotein (ZP3) in the zona pellucida of mouse eggs. Binding of ZP3 receptors to ZP3 initiates the sperm\u2019s acrosomal reaction. All of the following experimental observations would be expected EXCEPT:",
+        "question": "Mouse sperm contain receptor proteins that bind to a glycoprotein (ZP3) in the zona pellucida of mouse eggs. Binding of ZP3 receptors to ZP3 initiates the sperm\u2019s acrosomal reaction. All of the following experimental observations would be expected EXCEPT: Options: (A) Injecting eggs with antibodies that bind to ZP3 blocks in vitro fertilization. (B) Incubating sperm with purified ZP3 prior to mixing sperm and eggs blocks in vitro fertilization. (D) Coating synthetic beads with a different glycoprotein, ZP2, fails to lead to sperm aggregation on the beads. (C) Incubating eggs with antibodies that bind to ZP3 blocks in vitro fertilization.",
         "answer_idx": "A",
         "answer": "Injecting eggs with antibodies that bind to ZP3 blocks in vitro fertilization.",
         "options": {
@@ -811,18 +811,18 @@
             "C": "Incubating eggs with antibodies that bind to ZP3 blocks in vitro fertilization.",
             "D": "Coating synthetic beads with a different glycoprotein, ZP2, fails to lead to sperm aggregation on the beads."
         },
-        "predicted_answer": "D",
-        "difficulty": "advanced",
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 14143,
-            "completion_tokens": 1701
+            "prompt_tokens": 27942,
+            "completion_tokens": 2164
         },
-        "time_elapsed": 114.53781652450562
+        "time_elapsed": 51.766539096832275
     },
     {
         "idx": 876,
         "realidx": 876,
-        "question": "A behavioral response called a fixed action pattern shown by animals",
+        "question": "A behavioral response called a fixed action pattern shown by animals Options: (D) is triggered by a number of sensory signals in the animal's environment (A) occurs the second time an animal is exposed to the correct stimulus at the appropriate time in its life (B) occurs in the absence of sensory feedback (C) is a motor response which once released may be terminated spontaneously",
         "answer_idx": "B",
         "answer": "occurs in the absence of sensory feedback",
         "options": {
@@ -831,18 +831,18 @@
             "C": "is a motor response which once released may be terminated spontaneously",
             "D": "is triggered by a number of sensory signals in the animal's environment"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "D",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 485,
-            "completion_tokens": 155
+            "prompt_tokens": 896,
+            "completion_tokens": 390
         },
-        "time_elapsed": 8.403097152709961
+        "time_elapsed": 6.19473123550415
     },
     {
         "idx": 1210,
         "realidx": 1210,
-        "question": "A patient comes into the ER looking extremely agitated. They are acting aggressive, and claiming they need medication or \u201cbad things will happen\u201d. What is the likely state of this patient\u2019s dopamine system?",
+        "question": "A patient comes into the ER looking extremely agitated. They are acting aggressive, and claiming they need medication or \u201cbad things will happen\u201d. What is the likely state of this patient\u2019s dopamine system? Options: (D) There is seizure-like activity in the dopamine brain areas. (C) There is cell death in the areas with high dopamine cells. (B) There are decreased dopamine receptors on the post-synaptic membrane. (A) There is decreased dopamine in the synaptic cleft.",
         "answer_idx": "B",
         "answer": "There are decreased dopamine receptors on the post-synaptic membrane.",
         "options": {
@@ -851,18 +851,18 @@
             "C": "There is cell death in the areas with high dopamine cells.",
             "D": "There is seizure-like activity in the dopamine brain areas."
         },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
+        "predicted_answer": "D",
+        "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 196126,
-            "completion_tokens": 5192
+            "prompt_tokens": 947,
+            "completion_tokens": 403
         },
-        "time_elapsed": 100.72298097610474
+        "time_elapsed": 7.525588512420654
     },
     {
         "idx": 1211,
         "realidx": 1211,
-        "question": "A scientist carrying out experiments on hearing aids fits 30 mice that were genetically modified to lose their hearing with the latest technology and were tested to press a lever when they heard a bell. This was set to varying levels of power. At 80% power, 20 mice pressed the lever. At 70% power, 15 mice pressed the lever. At 60% power, 10 mice pressed the lever. Which of the following power levels corresponds to the absolute threshold for hearing the decibels produced by the bell?",
+        "question": "A scientist carrying out experiments on hearing aids fits 30 mice that were genetically modified to lose their hearing with the latest technology and were tested to press a lever when they heard a bell. This was set to varying levels of power. At 80% power, 20 mice pressed the lever. At 70% power, 15 mice pressed the lever. At 60% power, 10 mice pressed the lever. Which of the following power levels corresponds to the absolute threshold for hearing the decibels produced by the bell? Options: (C) 60% (A) 80% (B) 70% (D) Not enough information given.",
         "answer_idx": "B",
         "answer": "70%",
         "options": {
@@ -871,18 +871,18 @@
             "C": "60%",
             "D": "Not enough information given."
         },
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 154179,
-            "completion_tokens": 6444
+            "prompt_tokens": 7216,
+            "completion_tokens": 752
         },
-        "time_elapsed": 118.03340029716492
+        "time_elapsed": 36.128706216812134
     },
     {
         "idx": 1219,
         "realidx": 1219,
-        "question": "Living cells require constant interaction with the outside environment in order to attain the materials they need for survival, as well as to rid themselves of waste. Of the following processes, which uses only the gradient of material to control the direction in which the material moves across the cell membrane?",
+        "question": "Living cells require constant interaction with the outside environment in order to attain the materials they need for survival, as well as to rid themselves of waste. Of the following processes, which uses only the gradient of material to control the direction in which the material moves across the cell membrane? Options: (B) Passive Transport (C) Active Transport (A) Osmosis (D) Endocytosis",
         "answer_idx": "A",
         "answer": "Osmosis",
         "options": {
@@ -891,18 +891,18 @@
             "C": "Active Transport",
             "D": "Endocytosis"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 636,
-            "completion_tokens": 192
+            "prompt_tokens": 797,
+            "completion_tokens": 259
         },
-        "time_elapsed": 5.101685285568237
+        "time_elapsed": 4.801905632019043
     },
     {
         "idx": 1222,
         "realidx": 1222,
-        "question": "While working on a scene for an action movie, a sound technician is given the task of changing the frequency of a gunshot to more accurately reflect the normal speed of sound. The gunshot came from an actor inside a car traveling 108 km/h, and it was recorded by a camera on a platform 200 meters away traveling at 72 km/h in the same direction. If the frequency of the gunshot is normally 800Hz, what is the perceived frequency which the camera picks up the gunshot at?",
+        "question": "While working on a scene for an action movie, a sound technician is given the task of changing the frequency of a gunshot to more accurately reflect the normal speed of sound. The gunshot came from an actor inside a car traveling 108 km/h, and it was recorded by a camera on a platform 200 meters away traveling at 72 km/h in the same direction. If the frequency of the gunshot is normally 800Hz, what is the perceived frequency which the camera picks up the gunshot at? Options: (B) 787 Hz (D) 912 Hz (A) 941 Hz (C) 924 Hz",
         "answer_idx": "C",
         "answer": "924 Hz",
         "options": {
@@ -911,18 +911,18 @@
             "C": "924 Hz",
             "D": "912 Hz"
         },
-        "predicted_answer": "E",
+        "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 1211,
-            "completion_tokens": 629
+            "prompt_tokens": 1389,
+            "completion_tokens": 685
         },
-        "time_elapsed": 7.096200942993164
+        "time_elapsed": 7.715564489364624
     },
     {
         "idx": 1260,
         "realidx": 1260,
-        "question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:",
+        "question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately: Options: (C) 80 kJ/min. (A) 400 kJ/min. (B) 200 kJ/min. (D) 40 kJ/min.",
         "answer_idx": "D",
         "answer": "40 kJ/min.",
         "options": {
@@ -934,15 +934,15 @@
         "predicted_answer": "D",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 676,
-            "completion_tokens": 290
+            "prompt_tokens": 699,
+            "completion_tokens": 234
         },
-        "time_elapsed": 4.520425796508789
+        "time_elapsed": 5.174011468887329
     },
     {
         "idx": 1267,
         "realidx": 1267,
-        "question": "After what period of time does maximal dynamic exercise become predominantly aerobic?",
+        "question": "After what period of time does maximal dynamic exercise become predominantly aerobic? Options: (D) 4 minutes (C) 1 minute (A) 10 seconds (B) 30 seconds",
         "answer_idx": "C",
         "answer": "1 minute",
         "options": {
@@ -951,18 +951,18 @@
             "C": "1 minute",
             "D": "4 minutes"
         },
-        "predicted_answer": "B",
-        "difficulty": "intermediate",
+        "predicted_answer": "D",
+        "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 213124,
-            "completion_tokens": 7105
+            "prompt_tokens": 691,
+            "completion_tokens": 303
         },
-        "time_elapsed": 137.1234428882599
+        "time_elapsed": 10.703171730041504
     },
     {
         "idx": 1269,
         "realidx": 1269,
-        "question": "Mg(OH)2 is slowly dissolved in 500 mL of 25 oC water until the solution becomes fully saturated. Which of the following occurs when 10.0 mL of 0.1 M HCl is added?",
+        "question": "Mg(OH)2 is slowly dissolved in 500 mL of 25 oC water until the solution becomes fully saturated. Which of the following occurs when 10.0 mL of 0.1 M HCl is added? Options: (D) [H2O] increases (B) Mg(OH)2 precipitates (A) MgCl2 precipitates (C) Ksp for Mg(OH)2 increases",
         "answer_idx": "D",
         "answer": "[H2O] increases",
         "options": {
@@ -971,18 +971,18 @@
             "C": "Ksp for Mg(OH)2 increases",
             "D": "[H2O] increases"
         },
-        "predicted_answer": "E",
+        "predicted_answer": "B",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 1006,
-            "completion_tokens": 622
+            "prompt_tokens": 1105,
+            "completion_tokens": 614
         },
-        "time_elapsed": 9.506246328353882
+        "time_elapsed": 9.415802955627441
     },
     {
         "idx": 1273,
         "realidx": 1273,
-        "question": "All of the following are example of sensory, or neural, adaptation EXCEPT:",
+        "question": "All of the following are example of sensory, or neural, adaptation EXCEPT: Options: (B) After first walking into a crowded room, you no longer are distracted by the buzz of conversation around you. (D) After first walking into an anatomy lab, you no longer notice the smell of formaldehyde. (A) After putting on a shirt, you eventually no longer feel the sensation of the fabric on your back. (C) After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
         "answer_idx": "C",
         "answer": "After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
         "options": {
@@ -991,18 +991,18 @@
             "C": "After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
             "D": "After first walking into an anatomy lab, you no longer notice the smell of formaldehyde."
         },
-        "predicted_answer": "I cannot provide an answer without the specific options. Please provide the answer choices for me to help identify which one does not fit the concept of sensory adaptation.",
+        "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 656,
-            "completion_tokens": 351
+            "prompt_tokens": 1094,
+            "completion_tokens": 456
         },
-        "time_elapsed": 6.4831461906433105
+        "time_elapsed": 8.907525539398193
     },
     {
         "idx": 1276,
         "realidx": 1276,
-        "question": "What is the most likely outcome of this modification?\n\ufeff\nAn RNA strand that normally produces a transmembrane protein that facilitates potassium entry into muscle cells is modified to produce a different strand. The original strand is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUAACAGA\u2026 \n\nThe modified sequence is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUACCAGA\u2026",
+        "question": "What is the most likely outcome of this modification?\n\ufeff\nAn RNA strand that normally produces a transmembrane protein that facilitates potassium entry into muscle cells is modified to produce a different strand. The original strand is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUAACAGA\u2026 \n\nThe modified sequence is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUACCAGA\u2026 Options: (C) No change (D) Production of a larger, likely dysfunctional protein (B) Production of a similar-sized but dysfunctional protein (A) Absence of the protein",
         "answer_idx": "D",
         "answer": "Production of a larger, likely dysfunctional protein",
         "options": {
@@ -1011,18 +1011,18 @@
             "C": "No change",
             "D": "Production of a larger, likely dysfunctional protein"
         },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
+        "predicted_answer": "B",
+        "difficulty": "advanced",
         "token_usage": {
-            "prompt_tokens": 349653,
-            "completion_tokens": 10264
+            "prompt_tokens": 13604,
+            "completion_tokens": 1530
         },
-        "time_elapsed": 157.92303609848022
+        "time_elapsed": 136.6870584487915
     },
     {
         "idx": 1282,
         "realidx": 1282,
-        "question": "Hydrogen ions are formed when:",
+        "question": "Hydrogen ions are formed when: Options: (B) phosphocreatine breakdown occurs. (A) glycogen becomes depleted. (C) pyruvate is converted to lactate. (D) glycolysis is being used as a major means of resynthesising ATP.",
         "answer_idx": "D",
         "answer": "glycolysis is being used as a major means of resynthesising ATP.",
         "options": {
@@ -1031,18 +1031,18 @@
             "C": "pyruvate is converted to lactate.",
             "D": "glycolysis is being used as a major means of resynthesising ATP."
         },
-        "predicted_answer": "Please provide the specific answer choices A, B, C, D, or E, and I'll help you select the most appropriate one based on the context provided.",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 609,
-            "completion_tokens": 327
+            "prompt_tokens": 6612,
+            "completion_tokens": 691
         },
-        "time_elapsed": 4.919682264328003
+        "time_elapsed": 38.067983865737915
     },
     {
         "idx": 1284,
         "realidx": 1284,
-        "question": "A dentist that is performing procedures in his clinic is brought out to the front desk one day to handle a dispute between one of his patients and the clerk. The patient is a middle-aged businessman who is irate and creating a scene because he was told he would have to see the dental hygienist instead of the dentist. The patient loudly rants that he makes too much money to be subjected to treatment by a half-trained associate. The clerk explains to the dentist that the patient was 40 minutes late to his appointment, and the only opening now was with the hygienist. The patient snaps back that his time is worth more than any of the people in the office. What personality disorder is this patient likely exhibiting?",
+        "question": "A dentist that is performing procedures in his clinic is brought out to the front desk one day to handle a dispute between one of his patients and the clerk. The patient is a middle-aged businessman who is irate and creating a scene because he was told he would have to see the dental hygienist instead of the dentist. The patient loudly rants that he makes too much money to be subjected to treatment by a half-trained associate. The clerk explains to the dentist that the patient was 40 minutes late to his appointment, and the only opening now was with the hygienist. The patient snaps back that his time is worth more than any of the people in the office. What personality disorder is this patient likely exhibiting? Options: (A) Histrionic (D) Obsessive-compulsive (C) Paranoid (B) Narcissistic",
         "answer_idx": "C",
         "answer": "Paranoid",
         "options": {
@@ -1051,18 +1051,18 @@
             "C": "Paranoid",
             "D": "Obsessive-compulsive"
         },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
+        "predicted_answer": "B",
+        "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 13652,
-            "completion_tokens": 786
+            "prompt_tokens": 935,
+            "completion_tokens": 183
         },
-        "time_elapsed": 34.69793629646301
+        "time_elapsed": 4.205948352813721
     },
     {
         "idx": 1286,
         "realidx": 1286,
-        "question": "A young man working with a therapist on becoming more productive is expressing many of his desires throughout growing up and how he feels that it has affected him. Through discernment, the therapist states that he believes the young man\u2019s development is stuck in a stage that reflects itself by his inability to keep his house clean. According to Freud\u2019s theory of psychosexual development, what stage would this young man be fixated in?",
+        "question": "A young man working with a therapist on becoming more productive is expressing many of his desires throughout growing up and how he feels that it has affected him. Through discernment, the therapist states that he believes the young man\u2019s development is stuck in a stage that reflects itself by his inability to keep his house clean. According to Freud\u2019s theory of psychosexual development, what stage would this young man be fixated in? Options: (A) Anal (B) Phallic (C) Latent (D) Genital",
         "answer_idx": "B",
         "answer": "Phallic",
         "options": {
@@ -1074,15 +1074,15 @@
         "predicted_answer": "A",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 758,
-            "completion_tokens": 179
+            "prompt_tokens": 785,
+            "completion_tokens": 194
         },
-        "time_elapsed": 3.935382127761841
+        "time_elapsed": 4.448075532913208
     },
     {
         "idx": 1293,
         "realidx": 1293,
-        "question": "Tyler is a high school student who is planning on becoming an engineer. In his calculus II class sophomore year, he receives an F on his first test. Which of the following responses to this event would indicate that Tyler has a higher likelihood of improving in subsequent exams?",
+        "question": "Tyler is a high school student who is planning on becoming an engineer. In his calculus II class sophomore year, he receives an F on his first test. Which of the following responses to this event would indicate that Tyler has a higher likelihood of improving in subsequent exams? Options: (A) He decides that the first test is always harder than the others. (C) He says it was due to some home circumstances that won\u2019t be present during the next exam. (B) He says the teacher graded his exam harder because she doesn\u2019t like him. (D) He critiques his study methods and tries to find out which led to poor returns.",
         "answer_idx": "A",
         "answer": "He decides that the first test is always harder than the others.",
         "options": {
@@ -1091,18 +1091,18 @@
             "C": "He says it was due to some home circumstances that won\u2019t be present during the next exam.",
             "D": "He critiques his study methods and tries to find out which led to poor returns."
         },
-        "predicted_answer": "C",
+        "predicted_answer": "D",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 723,
-            "completion_tokens": 324
+            "prompt_tokens": 986,
+            "completion_tokens": 318
         },
-        "time_elapsed": 5.807366371154785
+        "time_elapsed": 6.794694662094116
     },
     {
         "idx": 1298,
         "realidx": 1298,
-        "question": "Oxygen is used:",
+        "question": "Oxygen is used: Options: (B) in the conversion of fatty acids to acetyl CoA. (A) in glycolysis. (D) in glycogenolysis. (C) in the tricarboxylic acid cycle (Krebs' cycle).",
         "answer_idx": "B",
         "answer": "in the conversion of fatty acids to acetyl CoA.",
         "options": {
@@ -1111,18 +1111,18 @@
             "C": "in the tricarboxylic acid cycle (Krebs' cycle).",
             "D": "in glycogenolysis."
         },
-        "predicted_answer": "0.0",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 413,
-            "completion_tokens": 77
+            "prompt_tokens": 5675,
+            "completion_tokens": 776
         },
-        "time_elapsed": 5.057011127471924
+        "time_elapsed": 26.046302795410156
     },
     {
         "idx": 1307,
         "realidx": 1307,
-        "question": "If a gas occupies 0.1L at 200atm, what will its volume be at 1atm?",
+        "question": "If a gas occupies 0.1L at 200atm, what will its volume be at 1atm? Options: (A) slightly less than 20L (C) slightly more than 20L (D) 2000L (B) 20L",
         "answer_idx": "A",
         "answer": "slightly less than 20L",
         "options": {
@@ -1131,18 +1131,18 @@
             "C": "slightly more than 20L",
             "D": "2000L"
         },
-        "predicted_answer": "E",
+        "predicted_answer": "B",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 773,
-            "completion_tokens": 409
+            "prompt_tokens": 826,
+            "completion_tokens": 432
         },
-        "time_elapsed": 9.260129451751709
+        "time_elapsed": 6.442894458770752
     },
     {
         "idx": 1316,
         "realidx": 1316,
-        "question": "In games like soccer the blood lactate concentration:",
+        "question": "In games like soccer the blood lactate concentration: Options: (D) increases throughout the course of the game as the players become more fatigued. (C) is usually higher at the end of the game than at the end of the first half. (A) rarely increases above 3 mM. (B) is usually lower at the end of the game than at the end of the first half.",
         "answer_idx": "B",
         "answer": "is usually lower at the end of the game than at the end of the first half.",
         "options": {
@@ -1151,18 +1151,18 @@
             "C": "is usually higher at the end of the game than at the end of the first half.",
             "D": "increases throughout the course of the game as the players become more fatigued."
         },
-        "predicted_answer": "A",
-        "difficulty": "basic",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 495,
-            "completion_tokens": 165
+            "prompt_tokens": 7230,
+            "completion_tokens": 620
         },
-        "time_elapsed": 3.9852025508880615
+        "time_elapsed": 28.202080249786377
     },
     {
         "idx": 1322,
         "realidx": 1322,
-        "question": "Which of the following molecules will stop being produced first when oxygen is no longer supplied to the cell?",
+        "question": "Which of the following molecules will stop being produced first when oxygen is no longer supplied to the cell? Options: (D) Adenosine triphosphate (B) Pyruvate (C) Water (A) Oxaloacetate",
         "answer_idx": "C",
         "answer": "Water",
         "options": {
@@ -1171,18 +1171,18 @@
             "C": "Water",
             "D": "Adenosine triphosphate"
         },
-        "predicted_answer": "To provide a final answer based on the majority vote, I would need to see the opinions or answers from each agent regarding the question about which molecule stops being produced first when oxygen is no longer supplied to the cell. Please provide those details, and I will analyze them to reach a conclusion.",
-        "difficulty": "intermediate",
+        "predicted_answer": "D",
+        "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 13916,
-            "completion_tokens": 1205
+            "prompt_tokens": 801,
+            "completion_tokens": 367
         },
-        "time_elapsed": 36.80257773399353
+        "time_elapsed": 6.3838396072387695
     },
     {
         "idx": 1325,
         "realidx": 1325,
-        "question": "A wrestler attempting to lose weight for a match in December commits himself to dropping 30lbs over 2 months. Which of the following is NOT a good method to restrict his caloric intake?",
+        "question": "A wrestler attempting to lose weight for a match in December commits himself to dropping 30lbs over 2 months. Which of the following is NOT a good method to restrict his caloric intake? Options: (C) Snap himself with a rubber band when he eats a high calorie snack. (D) Hide snack food out of sight within his house. (A) Study at a health smoothie store instead of a coffee shop. (B) Reward himself with a savory meal every Saturday for meeting his calorie goals.",
         "answer_idx": "D",
         "answer": "Hide snack food out of sight within his house.",
         "options": {
@@ -1194,15 +1194,15 @@
         "predicted_answer": "C",
         "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 664,
-            "completion_tokens": 241
+            "prompt_tokens": 909,
+            "completion_tokens": 310
         },
-        "time_elapsed": 4.548251390457153
+        "time_elapsed": 5.338134765625
     },
     {
         "idx": 1344,
         "realidx": 1344,
-        "question": "According to attachment theory, which of the following children is most likely to attach to a male psychologist, previously unknown to the child, in the course of a psychological study?",
+        "question": "According to attachment theory, which of the following children is most likely to attach to a male psychologist, previously unknown to the child, in the course of a psychological study? Options: (B) A five month old male infant raised in a safe, stable environment (C) An eight month old male infant raised by a single caregiver who frequently neglect the child (A) A two month old female infant raised in a safe, stable environment (D) A thirteen month old female infant raised by two caregivers who occasionally neglect the child",
         "answer_idx": "A",
         "answer": "A two month old female infant raised in a safe, stable environment",
         "options": {
@@ -1214,15 +1214,15 @@
         "predicted_answer": "A",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 7585,
-            "completion_tokens": 745
+            "prompt_tokens": 198003,
+            "completion_tokens": 7165
         },
-        "time_elapsed": 40.880563735961914
+        "time_elapsed": 139.88202047348022
     },
     {
         "idx": 1358,
         "realidx": 1358,
-        "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nAccording to the article, which of the following is NOT a benefit of sauna use?",
+        "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nAccording to the article, which of the following is NOT a benefit of sauna use? Options: (A) Decreased risk of heart attacks. (D) Decreased rate of erectile dysfunction. (B) Increase in stroke volume. (C) Improved mental health.",
         "answer_idx": "D",
         "answer": "Decreased rate of erectile dysfunction.",
         "options": {
@@ -1231,18 +1231,18 @@
             "C": "Improved mental health.",
             "D": "Decreased rate of erectile dysfunction."
         },
-        "predicted_answer": "Please provide the multiple choice options, and I will help you identify which one is NOT a benefit of sauna use.",
-        "difficulty": "basic",
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 3130,
-            "completion_tokens": 262
+            "prompt_tokens": 44937,
+            "completion_tokens": 1542
         },
-        "time_elapsed": 4.659093379974365
+        "time_elapsed": 57.591546297073364
     },
     {
         "idx": 1364,
         "realidx": 1364,
-        "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:",
+        "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise: Options: (C) frequently falls by 1 - 3 mM. (D) falls to hypoglycaemic levels. (B) remains relatively unchanged. (A) frequently rises by 1 - 3 mM.",
         "answer_idx": "A",
         "answer": "frequently rises by 1 - 3 mM.",
         "options": {
@@ -1251,18 +1251,18 @@
             "C": "frequently falls by 1 - 3 mM.",
             "D": "falls to hypoglycaemic levels."
         },
-        "predicted_answer": "D",
-        "difficulty": "intermediate",
+        "predicted_answer": "B",
+        "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 306465,
-            "completion_tokens": 8798
+            "prompt_tokens": 887,
+            "completion_tokens": 444
         },
-        "time_elapsed": 147.18308901786804
+        "time_elapsed": 7.929975986480713
     },
     {
         "idx": 1365,
         "realidx": 1365,
-        "question": "During DNA replication, mistakes are coded into the leading strand about once every 100,000/1 million copies. This DNA is subject to proofreading by several mechanisms. If a mistake is noted and the incorrect base is removed shortly following the time RNA primer is removed, this would most likely be the work of which repair mechanism?",
+        "question": "During DNA replication, mistakes are coded into the leading strand about once every 100,000/1 million copies. This DNA is subject to proofreading by several mechanisms. If a mistake is noted and the incorrect base is removed shortly following the time RNA primer is removed, this would most likely be the work of which repair mechanism? Options: (A) DNA polymerase I (B) DNA polymerase III (D) Endonuclease repair (C) Mismatch repair mechanism",
         "answer_idx": "A",
         "answer": "DNA polymerase I",
         "options": {
@@ -1271,18 +1271,18 @@
             "C": "Mismatch repair mechanism",
             "D": "Endonuclease repair"
         },
-        "predicted_answer": "I'm sorry, but it seems like there was no provided list of options A, B, C, D, or E in your message. Could you please provide the multiple choice options for the question on DNA replication and repair mechanisms?",
+        "predicted_answer": "A",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 26940,
-            "completion_tokens": 2197
+            "prompt_tokens": 346479,
+            "completion_tokens": 12152
         },
-        "time_elapsed": 60.364060163497925
+        "time_elapsed": 215.15591144561768
     },
     {
         "idx": 7339,
         "realidx": 7339,
-        "question": "Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which prevents binding of the repressor to lactose should result in: ",
+        "question": "Assuming that the level of glucose is low, a mutation in the repressor associated with the lac operon of E. coli which prevents binding of the repressor to lactose should result in:  Options: (D) expression of the genes only when lactose is absent (C) expression of the genes only when lactose is present (B) lack of expression or reduced expression of the lac operon genes under all circumstances (A) constitutive expression of the lac operon genes",
         "answer_idx": "B",
         "answer": "lack of expression or reduced expression of the lac operon genes under all circumstances",
         "options": {
@@ -1291,18 +1291,18 @@
             "C": "expression of the genes only when lactose is present",
             "D": "expression of the genes only when lactose is absent"
         },
-        "predicted_answer": "D",
-        "difficulty": "basic",
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 822,
-            "completion_tokens": 420
+            "prompt_tokens": 7245,
+            "completion_tokens": 729
         },
-        "time_elapsed": 7.641509771347046
+        "time_elapsed": 38.217084646224976
     },
     {
         "idx": 12213,
         "realidx": 12213,
-        "question": "A 30-year-old woman, gravida 2, para 0, aborta 1, at 28 weeks' gestation comes to the office for a prenatal visit. She has had one previous pregnancy resulting in a spontaneous abortion at 12 weeks' gestation. Today, her vital signs are within normal limits. Physical examination shows a uterus consistent in size with a 28-week gestation. Fetal ultrasonography shows a male fetus with no abnormalities. Her blood group is O, Rh-negative. The father's blood group is B, Rh-positive. The physician recommends administration of Rho",
+        "question": "A 30-year-old woman, gravida 2, para 0, aborta 1, at 28 weeks' gestation comes to the office for a prenatal visit. She has had one previous pregnancy resulting in a spontaneous abortion at 12 weeks' gestation. Today, her vital signs are within normal limits. Physical examination shows a uterus consistent in size with a 28-week gestation. Fetal ultrasonography shows a male fetus with no abnormalities. Her blood group is O, Rh-negative. The father's blood group is B, Rh-positive. The physician recommends administration of Rho Options: (D) Formation of antibodies to RhD (B) Development of natural killer cells (A) immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother? (C) Development of polycythemia",
         "answer_idx": "C",
         "answer": "Development of polycythemia",
         "options": {
@@ -1311,18 +1311,18 @@
             "C": "Development of polycythemia",
             "D": "Formation of antibodies to RhD"
         },
-        "predicted_answer": "The correct answer is: **Rho(D) immune globulin (RhoGAM)**.",
-        "difficulty": "basic",
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 899,
-            "completion_tokens": 287
+            "prompt_tokens": 171643,
+            "completion_tokens": 5621
         },
-        "time_elapsed": 4.840324640274048
+        "time_elapsed": 116.28241539001465
     },
     {
         "idx": 12247,
         "realidx": 12247,
-        "question": "A 30-year-old nulliparous female presents to the office with the complaint of mood changes. She says that for the past several months she has been anxious, hyperactive, and unable to sleep 3 to 4\u00a0days prior to the onset of menses. She further reports that on the day her menses begins she becomes acutely depressed, anorectic, irritable, and lethargic. She has no psychiatric history. Physical examination findings are normal. She and her husband have been trying to conceive for over 2\u00a0years. History reveals a tuboplasty approximately 1\u00a0year ago to correct a closed fallopian tube. The most likely diagnosis is",
+        "question": "A 30-year-old nulliparous female presents to the office with the complaint of mood changes. She says that for the past several months she has been anxious, hyperactive, and unable to sleep 3 to 4\u00a0days prior to the onset of menses. She further reports that on the day her menses begins she becomes acutely depressed, anorectic, irritable, and lethargic. She has no psychiatric history. Physical examination findings are normal. She and her husband have been trying to conceive for over 2\u00a0years. History reveals a tuboplasty approximately 1\u00a0year ago to correct a closed fallopian tube. The most likely diagnosis is Options: (D) generalized anxiety disorder (C) cyclothymic personality (A) adjustment disorder with depressed mood (B) bipolar I disorder, mixed",
         "answer_idx": "A",
         "answer": "adjustment disorder with depressed mood",
         "options": {
@@ -1331,18 +1331,18 @@
             "C": "cyclothymic personality",
             "D": "generalized anxiety disorder"
         },
-        "predicted_answer": "To provide a final answer, I would need to review the opinions of the agents regarding the diagnosis based on the provided clinical scenario. Please share the opinions or answers from the agents, and I will determine the majority vote to arrive at a final decision.",
+        "predicted_answer": "A",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 7455,
-            "completion_tokens": 709
+            "prompt_tokens": 238778,
+            "completion_tokens": 9975
         },
-        "time_elapsed": 27.23758864402771
+        "time_elapsed": 178.64559745788574
     },
     {
         "idx": 12260,
         "realidx": 12260,
-        "question": "A 49-year-old man, who is recovering in the hospital 2 days after uncomplicated left femoral-popliteal bypass grafting for claudication, has now developed increasing pain in his left foot. Until now, the patient's postoperative course had been unremarkable and he has been treated with low-dose morphine for pain control. Medical history is remarkable for type 2 diabetes mellitus controlled with metformin and diet. Vital signs now are temperature 36.8\u00b0C (98.2\u00b0F), pulse 80/min and regular, respirations 20/min, and blood pressure 150/92 mm Hg. The surgical incision appears clean and well approximated without abnormal erythema or swelling. The left lower extremity and foot appear pale. Palpation of the left lower extremity discloses a strong femoral pulse, a weak popliteal pulse, and a cool, pulseless foot. Which of the following is the most appropriate management?",
+        "question": "A 49-year-old man, who is recovering in the hospital 2 days after uncomplicated left femoral-popliteal bypass grafting for claudication, has now developed increasing pain in his left foot. Until now, the patient's postoperative course had been unremarkable and he has been treated with low-dose morphine for pain control. Medical history is remarkable for type 2 diabetes mellitus controlled with metformin and diet. Vital signs now are temperature 36.8\u00b0C (98.2\u00b0F), pulse 80/min and regular, respirations 20/min, and blood pressure 150/92 mm Hg. The surgical incision appears clean and well approximated without abnormal erythema or swelling. The left lower extremity and foot appear pale. Palpation of the left lower extremity discloses a strong femoral pulse, a weak popliteal pulse, and a cool, pulseless foot. Which of the following is the most appropriate management? Options: (C) Intra-arterial tissue plasminogen activator (tPA) therapy (A) Bedside compartment pressure measurements (D) Intraoperative angiography (B) Doppler ultrasonography of the left lower extremity",
         "answer_idx": "D",
         "answer": "Intraoperative angiography",
         "options": {
@@ -1351,18 +1351,18 @@
             "C": "Intra-arterial tissue plasminogen activator (tPA) therapy",
             "D": "Intraoperative angiography"
         },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 13047,
-            "completion_tokens": 1548
+            "prompt_tokens": 12050,
+            "completion_tokens": 1229
         },
-        "time_elapsed": 100.74016308784485
+        "time_elapsed": 49.66829967498779
     },
     {
         "idx": 12296,
         "realidx": 12296,
-        "question": "A 37-year-old man with type 1 diabetes mellitus is admitted to the hospital because of inadequate control of his glucose concentrations for the past 2 months. Despite his poor control, he demands that he be discharged. He reports that he has had a 3-month history of fatigue, irritability, and feelings of hopelessness. He says that he has been noncompliant with his diabetic regimen, adding, \"Sometimes I forget.\" He has been avoiding his family and friends because he is not in the mood to see them but admits that he is lonely. He did not get out of bed for 2 days, which prompted his wife to call an ambulance and have him admitted to the hospital. Prior to admission to the hospital, his only medication was insulin, although he often missed doses. He does not drink alcohol. He is 168 cm (5 ft 6 in) tall and weighs 100 kg (220 lb); BMI is 36 kg/m2 . His temperature is 37\u00b0C (98.6\u00b0F), pulse is 68/min, respirations are 18/min, and blood pressure is 150/85 mm Hg. Physical examination shows no abnormalities. On mental status examination, he is tired and has a restricted affect. There is no evidence of suicidal ideation. Cognition is intact. His fasting serum glucose concentration is 120 mg/dL. Which of the following is the most appropriate next step in management?",
+        "question": "A 37-year-old man with type 1 diabetes mellitus is admitted to the hospital because of inadequate control of his glucose concentrations for the past 2 months. Despite his poor control, he demands that he be discharged. He reports that he has had a 3-month history of fatigue, irritability, and feelings of hopelessness. He says that he has been noncompliant with his diabetic regimen, adding, \"Sometimes I forget.\" He has been avoiding his family and friends because he is not in the mood to see them but admits that he is lonely. He did not get out of bed for 2 days, which prompted his wife to call an ambulance and have him admitted to the hospital. Prior to admission to the hospital, his only medication was insulin, although he often missed doses. He does not drink alcohol. He is 168 cm (5 ft 6 in) tall and weighs 100 kg (220 lb); BMI is 36 kg/m2 . His temperature is 37\u00b0C (98.6\u00b0F), pulse is 68/min, respirations are 18/min, and blood pressure is 150/85 mm Hg. Physical examination shows no abnormalities. On mental status examination, he is tired and has a restricted affect. There is no evidence of suicidal ideation. Cognition is intact. His fasting serum glucose concentration is 120 mg/dL. Which of the following is the most appropriate next step in management? Options: (C) Schedule neuropsychological testing (A) Adhere to the patient's wishes and discuss home-care options (B) Adhere to the patient's wishes on the condition that he agree to home nursing care (D) Seek a court order to appoint a legal guardian",
         "answer_idx": "A",
         "answer": "Adhere to the patient's wishes and discuss home-care options",
         "options": {
@@ -1371,18 +1371,18 @@
             "C": "Schedule neuropsychological testing",
             "D": "Seek a court order to appoint a legal guardian"
         },
-        "predicted_answer": "A",
-        "difficulty": "advanced",
+        "predicted_answer": "B",
+        "difficulty": "basic",
         "token_usage": {
-            "prompt_tokens": 14788,
-            "completion_tokens": 1414
+            "prompt_tokens": 1637,
+            "completion_tokens": 457
         },
-        "time_elapsed": 96.29436898231506
+        "time_elapsed": 7.119123697280884
     },
     {
         "idx": 12307,
         "realidx": 12307,
-        "question": "A 35-year-old female develops nausea and vomiting after she underwent a cholecystectomy for protracted ileus. Her body mass index was 23\u00a0kg/m2\u00a0before surgery, and, except for the cholecystitis, she was in good health. The patient remains unable to eat 6\u00a0days after surgery. Which of the following forms of nutritional support is most appropriate for this patient?",
+        "question": "A 35-year-old female develops nausea and vomiting after she underwent a cholecystectomy for protracted ileus. Her body mass index was 23\u00a0kg/m2\u00a0before surgery, and, except for the cholecystitis, she was in good health. The patient remains unable to eat 6\u00a0days after surgery. Which of the following forms of nutritional support is most appropriate for this patient? Options: (B) feeding through a nasogastric feeding tube (A) central hyperalimentation (D) peripheral hyperalimentation (C) oral fat-free modular diet",
         "answer_idx": "D",
         "answer": "peripheral hyperalimentation",
         "options": {
@@ -1391,18 +1391,18 @@
             "C": "oral fat-free modular diet",
             "D": "peripheral hyperalimentation"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "B",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 139892,
-            "completion_tokens": 4926
+            "prompt_tokens": 285041,
+            "completion_tokens": 10909
         },
-        "time_elapsed": 123.59572124481201
+        "time_elapsed": 182.4652280807495
     },
     {
         "idx": 12317,
         "realidx": 12317,
-        "question": "A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and nausea for the past 2 days. She is sexually active and does not use any contraception. Her last menstrual period ended 6 days ago. Temperature is 38.3\u00b0C (101.0\u00b0F). Physical examination discloses abdominal tenderness in the lower quadrants bilaterally with rebound and guarding. Pelvic examination discloses leukorrhea at the cervical os and tenderness of the uterus to palpation. The adnexal areas are tender but no masses are palpable. Which of the following is the most appropriate diagnostic study?",
+        "question": "A 29-year-old woman comes to the emergency department because she has had increasingly severe lower abdominal pain and nausea for the past 2 days. She is sexually active and does not use any contraception. Her last menstrual period ended 6 days ago. Temperature is 38.3\u00b0C (101.0\u00b0F). Physical examination discloses abdominal tenderness in the lower quadrants bilaterally with rebound and guarding. Pelvic examination discloses leukorrhea at the cervical os and tenderness of the uterus to palpation. The adnexal areas are tender but no masses are palpable. Which of the following is the most appropriate diagnostic study? Options: (C) Laparoscopy (A) Cervical culture (B) Culdocentesis (D) Serum \u03b2-hCG concentration",
         "answer_idx": "A",
         "answer": "Cervical culture",
         "options": {
@@ -1411,18 +1411,18 @@
             "C": "Laparoscopy",
             "D": "Serum \u03b2-hCG concentration"
         },
-        "predicted_answer": "A",
-        "difficulty": "intermediate",
+        "predicted_answer": "D",
+        "difficulty": "advanced",
         "token_usage": {
-            "prompt_tokens": 151326,
-            "completion_tokens": 5240
+            "prompt_tokens": 11233,
+            "completion_tokens": 1222
         },
-        "time_elapsed": 111.19344806671143
+        "time_elapsed": 94.24627304077148
     },
     {
         "idx": 12341,
         "realidx": 12341,
-        "question": "A 22-year-old male presents to the office with a\u00a05-day\u00a0history of diarrhea after completing his third course of antibiotics for mastoiditis. Physical examination reveals vague generalized abdominal pain on palpation. Culture on hektoen enteric agar is positive. The most likely etiologic agent causing the diarrhea is",
+        "question": "A 22-year-old male presents to the office with a\u00a05-day\u00a0history of diarrhea after completing his third course of antibiotics for mastoiditis. Physical examination reveals vague generalized abdominal pain on palpation. Culture on hektoen enteric agar is positive. The most likely etiologic agent causing the diarrhea is Options: (C) Giardia lamblia (D) Salmonella typhi (B) Entamoeba histolytica (A) Clostridium difficile",
         "answer_idx": "D",
         "answer": "Salmonella typhi",
         "options": {
@@ -1431,18 +1431,18 @@
             "C": "Giardia lamblia",
             "D": "Salmonella typhi"
         },
-        "predicted_answer": "B",
-        "difficulty": "basic",
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 867,
-            "completion_tokens": 438
+            "prompt_tokens": 8186,
+            "completion_tokens": 740
         },
-        "time_elapsed": 6.8931591510772705
+        "time_elapsed": 40.31923222541809
     },
     {
         "idx": 12424,
         "realidx": 12424,
-        "question": "A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive. The patient resists disclosure to his wife because he has not told her about his extramarital sexual partners. The physician informs the patient that his wife's right to know is paramount because she could also be HIV positive. Which of the following relationships best describes the rationale for the physician's recommendation that the patient inform his wife of his condition rather than withhold this information?",
+        "question": "A 35-year-old male presents to the office for the result of an HIV test, and he is informed that the result is positive. The patient resists disclosure to his wife because he has not told her about his extramarital sexual partners. The physician informs the patient that his wife's right to know is paramount because she could also be HIV positive. Which of the following relationships best describes the rationale for the physician's recommendation that the patient inform his wife of his condition rather than withhold this information? Options: (B) autonomy overrides justice (D) nonmaleficence overrides autonomy (C) beneficence overrides autonomy (A) autonomy overrides beneficence",
         "answer_idx": "D",
         "answer": "nonmaleficence overrides autonomy",
         "options": {
@@ -1451,12 +1451,12 @@
             "C": "beneficence overrides autonomy",
             "D": "nonmaleficence overrides autonomy"
         },
-        "predicted_answer": "A",
+        "predicted_answer": "C",
         "difficulty": "intermediate",
         "token_usage": {
-            "prompt_tokens": 82844,
-            "completion_tokens": 3547
+            "prompt_tokens": 16117,
+            "completion_tokens": 1248
         },
-        "time_elapsed": 75.4580352306366
+        "time_elapsed": 43.500540018081665
     }
 ]
