@@ -598,6 +598,32 @@
         "time_elapsed": 93.77243137359619
     },
     {
+        "idx": "Text-225",
+        "realidx": "Text-225",
+        "question": "A 52-year-old female patient with advanced AIDS is being evaluated for hospice care due to her decision to discontinue antiretroviral therapy and recent deterioration in performance status. She has a documented history of opioid use disorder. Which statement accurately describes the management of opioid use disorder?\nAnswer Choices: (A) Naltrexone is preferred in patients who are actively using opioids. (B) Buprenorphine is contraindicated in patients with a history of advanced liver disease. (C) In most patients with a moderate to severe opioid use disorder, methadone is preferred to buprenorphine. (D) Methadone requires daily administration in a supervised clinical setting. (E) Buprenorphine is less effective than methadone in reducing opioid cravings in patients with severe opioid use disorder. (F) For patients with a mild opioid use disorder in whom medication therapy is chosen, naltrexone is considered the first-line treatment. (G) A patient who is hospitalized cannot be treated with buprenorphine unless the prescriber has a DEA waiver. (H) Methadone is only effective in treating withdrawal symptoms and not in preventing relapse. (I) Naltrexone is the only medication that can be used in patients who are pregnant. (J) Patients with mild opioid use disorder should avoid all pharmacologic therapy and focus exclusively on behavioral interventions. Options: (D) Methadone requires daily administration in a supervised clinical setting. (F) For patients with a mild opioid use disorder in whom medication therapy is chosen, naltrexone is considered the first-line treatment. (A) Naltrexone is preferred in patients who are actively using opioids. (C) In most patients with a moderate to severe opioid use disorder, methadone is preferred to buprenorphine. (G) A patient who is hospitalized cannot be treated with buprenorphine unless the prescriber has a DEA waiver. (H) Methadone is only effective in treating withdrawal symptoms and not in preventing relapse. (B) Buprenorphine is contraindicated in patients with a history of advanced liver disease. (I) Naltrexone is the only medication that can be used in patients who are pregnant. (J) Patients with mild opioid use disorder should avoid all pharmacologic therapy and focus exclusively on behavioral interventions. (E) Buprenorphine is less effective than methadone in reducing opioid cravings in patients with severe opioid use disorder.",
+        "answer_idx": "F",
+        "answer": "For patients with a mild opioid use disorder in whom medication therapy is chosen, naltrexone is considered the first-line treatment.",
+        "options": {
+            "A": "Naltrexone is preferred in patients who are actively using opioids.",
+            "B": "Buprenorphine is contraindicated in patients with a history of advanced liver disease.",
+            "C": "In most patients with a moderate to severe opioid use disorder, methadone is preferred to buprenorphine.",
+            "D": "Methadone requires daily administration in a supervised clinical setting.",
+            "E": "Buprenorphine is less effective than methadone in reducing opioid cravings in patients with severe opioid use disorder.",
+            "F": "For patients with a mild opioid use disorder in whom medication therapy is chosen, naltrexone is considered the first-line treatment.",
+            "G": "A patient who is hospitalized cannot be treated with buprenorphine unless the prescriber has a DEA waiver.",
+            "H": "Methadone is only effective in treating withdrawal symptoms and not in preventing relapse.",
+            "I": "Naltrexone is the only medication that can be used in patients who are pregnant.",
+            "J": "Patients with mild opioid use disorder should avoid all pharmacologic therapy and focus exclusively on behavioral interventions."
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 68164,
+            "completion_tokens": 1649
+        },
+        "time_elapsed": 62.57945680618286
+    },
+    {
         "idx": "Text-229",
         "realidx": "Text-229",
         "question": "A physician scientist conducting postmarket surveillance for a pharmaceutical company is tasked with evaluating the efficacy of two antidepressant drugs, vortioxetine and vilazodone. Both medications function as serotonin reuptake inhibitors and act on the 5-HT1A serotonin receptor, either as partial or full agonists. Which of the following statements accurately describes the efficacy of vortioxetine compared to vilazodone at the 5-HT1A receptor?\nAnswer Choices: (A) At the same dose, vortioxetine is less efficacious. (B) Vilazodone is equally effective as vortioxetine. (C) Both vortioxetine and vilazodone act as competitive antagonists of the 5-HT1A receptor. (D) At the same dose, vilazodone will always have a submaximal effect. (E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor. (F) As a partial agonist, vortioxetine has partial inhibitory effects at the 5-HT1A receptor. (G) Vortioxetine has a higher binding affinity for the 5-HT1A receptor, but lower efficacy compared to vilazodone. (H) Vilazodone acts as a full antagonist at the 5-HT1A receptor. (I) Vortioxetine has no intrinsic activity at the 5-HT1A receptor. (J) As a full agonist, vortioxetine binds to and inhibits the 5-HT1A receptor. Options: (D) At the same dose, vilazodone will always have a submaximal effect. (I) Vortioxetine has no intrinsic activity at the 5-HT1A receptor. (H) Vilazodone acts as a full antagonist at the 5-HT1A receptor. (G) Vortioxetine has a higher binding affinity for the 5-HT1A receptor, but lower efficacy compared to vilazodone. (C) Both vortioxetine and vilazodone act as competitive antagonists of the 5-HT1A receptor. (A) At the same dose, vortioxetine is less efficacious. (J) As a full agonist, vortioxetine binds to and inhibits the 5-HT1A receptor. (B) Vilazodone is equally effective as vortioxetine. (E) Vilazodone is a partial agonist, while vortioxetine is a full agonist at the 5-HT1A receptor. (F) As a partial agonist, vortioxetine has partial inhibitory effects at the 5-HT1A receptor.",
