@@ -12,6 +12,8 @@ import time
 import re
 import random
 from collections import Counter
+import numpy as np
+from sklearn.neighbors import NearestNeighbors
 
 load_dotenv()
 
@@ -24,18 +26,6 @@ ANTHROPIC_MODELS = {
     "claude-3-5-sonnet": "anthropic.claude-3-5-sonnet-20240620-v1:0",
     "claude-3-5-haiku": "anthropic.claude-3-5-haiku-20241022-v1:0"
 }
-
-# Prompt templates for the MedPrompt process.
-MEDPROMPT_GENERATE_PROMPT = (
-    "Question:\n{question}\n\nOptions:\n{options}\n\n"
-    "Please reason step by step and provide your final answer without any additional text."
-)
-
-MEDPROMPT_ENSEMBLE_PROMPT = (
-    "You are given a problem:\n{question}\n\n"
-    "Below are multiple candidate solutions generated for the problem:\n{solutions}\n\n"
-    "Analyze these solutions and decide on the best final answer by returning only the chosen option number from the following options: {option_letters}."
-)
 
 # Helper function to call the LLM with a given prompt.
 def call_llm(prompt: str, client: Any, model: str) -> tuple:
@@ -87,7 +77,7 @@ def parse_answer(raw_response: str, options: Dict, client_old: Any, explanation:
 
     extraction_prompt = (
         "You are an answer extractor. Extract the answer option from the text below. "
-        "Only return the answer as a JSON object following this format: {\"answer_idx\": \"<option>\"" 
+        "Only return the answer as a JSON object following this format: {\"answer_idx\": \"<option>\""
         + (", \"explanation\": \"<explanation>\"" if explanation else "") + "}, "
         "where <option> is one of the following: " + ", ".join(options.keys()) + "."
         "\nText:\n" + raw_response
@@ -103,37 +93,102 @@ def parse_answer(raw_response: str, options: Dict, client_old: Any, explanation:
     result = AnswerResponse.parse_raw(extraction_raw_response)
     return result.answer_idx, result.explanation if explanation else None
 
-def shuffle_answers(solutions: List[str]) -> Tuple[List[str], Dict[str, str]]:
+def shuffle_answers(solutions: List[str]) -> Tuple[List[str], Dict[str, int]]:
     shuffled_solutions = solutions.copy()
     random.shuffle(shuffled_solutions)
     answer_mapping = {str(i): solutions.index(solution) for i, solution in enumerate(shuffled_solutions)}
     return shuffled_solutions, answer_mapping
 
-# MedPrompt based problem solver.
-def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, num_rounds: int = 3, vote_count: int = 3) -> Dict:
+
+def get_embeddings(texts: List[str], client: Any, embedding_model: str) -> List[List[float]]:
+    embedding = client.embeddings.create(
+        model=embedding_model,
+        input=texts
+    )
+    return [embedding.data[0].embedding for _ in texts]
+
+def get_nearest_examples(question: str, nbrs: NearestNeighbors, training_data: List[Dict[str, Any]], k: int,
+                         client: Any, embedding_model: str) -> List[Dict[str, Any]]:
+    question_embedding = get_embeddings([question], client, embedding_model)[0]
+    distances, indices = nbrs.kneighbors([question_embedding])
+    return [training_data[i] for i in indices[0]]
+
+def build_few_shot_prompt(question: str,
+                          options: Dict[str, str],
+                          knn_examples: List[Dict[str, Any]]) -> str:
+    """
+    Build a few-shot prompt that includes the retrieved KNN examples with their correct answers.
+    """
+    prompt = "Use these examples to guide your reasoning:\n\n"
+    for idx, example in enumerate(knn_examples):
+        ex_question = example["question"]
+        ex_options = example["options"]
+        ex_answer = example["answer"] if "answer" in example else None
+        # If stored data has direct 'answer_idx', you could decode it to actual text.
+        # For demonstration, let's assume 'answer' is the correct key in the example.
+        prompt += f"Example {idx+1}:\n"
+        prompt += f"Q: {ex_question}\n"
+        if ex_answer is not None:
+            prompt += f"A: {ex_answer}\n"
+        prompt += "\n"
+
+    prompt += "Now, here is a new question:\n"
+    prompt += f"Question:\n{question}\n\nOptions:\n"
+    for opt_key, opt_val in options.items():
+        prompt += f"{opt_key}. {opt_val}\n"
+    prompt += (
+        "\nLet's think step by step:\n"
+        "1. Consider relevant information from examples\n"
+        "2. Compare and eliminate incorrect choices\n"
+        "3. Provide the final answer: [X]\n"
+    )
+    return prompt
+
+def run(problem: Dict,
+        client: Any,
+        embedding_client: Any,
+        model: str = "o3-mini",
+        nbrs: NearestNeighbors = None,
+        retries: int = 3,
+        num_rounds: int = 3,
+        vote_count: int = 3,
+        training_data: List[Dict[str, Any]] = None,
+        k_examples: int = 3,
+        embedding_model: str = "miblab-text-embed-small") -> Dict:
+    """
+    Solve a given problem with a few-shot approach based on KNN examples.
+    """
     question_text = problem.get('question', '')
     options = problem.get('options', {})
     options_text = ' '.join([f"({key}) {value}" for key, value in options.items()])
     prompt_tokens, completion_tokens = 0, 0
     start_time = time.time()
 
+    # 1) Retrieve KNN examples if training data is provided
+    knn_example_data = []
+    if training_data:
+        knn_example_data = get_nearest_examples(question_text, nbrs, training_data, k_examples, embedding_client, embedding_model)
+
+    # 2) Build a prompt using the KNN examples
     candidate_solutions = []
     raw_responses = []
-    for i in range(num_rounds):
-        generate_prompt = MEDPROMPT_GENERATE_PROMPT.format(
+    for _ in range(num_rounds):
+        # Instead of zero-shot prompt, we use the few-shot prompt with KNN examples
+        generate_prompt = build_few_shot_prompt(
             question=question_text,
-            options=options_text,
-            option_letters=", ".join(options.keys())
+            options=options,
+            knn_examples=knn_example_data
         )
         try:
             completion, raw_response = call_llm(generate_prompt, client, model)
             usage = completion.usage
+            # Usage tokens might differ for specific LLM providers
             if model in ["claude-3-5-sonnet", "claude-3-5-haiku"]:
                 prompt_tokens += usage.input_tokens
                 completion_tokens += usage.output_tokens
             else:
-                prompt_tokens += usage.prompt_tokens
-                completion_tokens += usage.completion_tokens
+                prompt_tokens += getattr(usage, "prompt_tokens", 0)
+                completion_tokens += getattr(usage, "completion_tokens", 0)
             candidate_solutions.append(raw_response)
             raw_responses.append(raw_response)
         except Exception as e:
@@ -142,17 +197,23 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
 
     counter = Counter()
     ensemble_raw_responses = []
-    for i in range(vote_count):
+
+    # Simple ensemble approach for majority voting
+    for _ in range(vote_count):
         shuffled_solutions, answer_mapping = shuffle_answers(candidate_solutions)
         ensemble_solutions_text = ""
         for index, sol in enumerate(shuffled_solutions):
             ensemble_solutions_text += f"{index}: \n{sol}\n\n"
 
-        ensemble_prompt = MEDPROMPT_ENSEMBLE_PROMPT.format(
-            question=question_text,
-            solutions=ensemble_solutions_text,
-            option_letters=", ".join(answer_mapping.keys())
+        # Combine the solutions in the prompt
+        ensemble_prompt = (
+            f"You are given a problem:\n{question_text}\n\n"
+            "Below are multiple candidate solutions generated for the problem:\n"
+            f"{ensemble_solutions_text}\n"
+            "Analyze these solutions and decide on the best final answer by returning only the chosen "
+            f"option number from the following options: {', '.join(answer_mapping.keys())}."
         )
+
         try:
             completion, raw_response = call_llm(ensemble_prompt, client, model)
             usage = completion.usage
@@ -160,8 +221,8 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
                 prompt_tokens += usage.input_tokens
                 completion_tokens += usage.output_tokens
             else:
-                prompt_tokens += usage.prompt_tokens
-                completion_tokens += usage.completion_tokens
+                prompt_tokens += getattr(usage, "prompt_tokens", 0)
+                completion_tokens += getattr(usage, "completion_tokens", 0)
             ensemble_response = raw_response
             ensemble_raw_responses.append(raw_response)
         except Exception as e:
@@ -169,16 +230,16 @@ def run(problem: Dict, client: Any, model: str = "o3-mini", retries: int = 3, nu
             ensemble_response = candidate_solutions[0] if candidate_solutions else ""
             ensemble_raw_responses.append(ensemble_response)
 
-        print(ensemble_response)
-        predicted_answer, _ = parse_answer(ensemble_response, answer_mapping, client_old)
-        counter[answer_mapping[predicted_answer]] += 1
+        predicted_idx, _ = parse_answer(ensemble_response, answer_mapping, client_old=client)
+        counter[answer_mapping[predicted_idx]] += 1
 
-    predicted_answer = counter.most_common(1)[0][0]
-    final_solution = candidate_solutions[predicted_answer]
-    predicted_answer, _ = parse_answer(final_solution, options, client_old)
+    best_idx = counter.most_common(1)[0][0]
+    final_solution = candidate_solutions[best_idx]
+
+    predicted_answer, _ = parse_answer(final_solution, options, client_old=client)
     end_time = time.time()
     time_elapsed = end_time - start_time
-    
+
     problem['predicted_answer'] = predicted_answer
     problem['token_usage'] = {
         "prompt_tokens": prompt_tokens,
@@ -217,22 +278,28 @@ if __name__ == "__main__":
     parser.add_argument('--output_files_folder', default='./output/')
     parser.add_argument('--num_processes', type=int, default=4)
     parser.add_argument('--retries', type=int, default=3)
+    parser.add_argument('--knn_examples', type=int, default=3,
+                        help='Number of nearest neighbors to retrieve')
+    parser.add_argument('--embedding_model', type=str, default='miblab-text-embed-small',
+                        help='Name of the embedding model to use')
 
     args = parser.parse_args()
-    
+
+    # Prepare an old and a default client, if needed
     client_old = AzureOpenAI(
         api_version=os.getenv("AZURE_API_VERSION"),
         azure_endpoint=os.getenv("AZURE_ENDPOINT"),
         api_key=os.getenv("AZURE_API_KEY"),
     )
-    
+
     if args.model_name in ["o3-mini", "o1-mini"]:
         client = AzureOpenAI(
             api_version=os.getenv("AZURE_API_VERSION_2"),
             azure_endpoint=os.getenv("AZURE_ENDPOINT_2"),
             api_key=os.getenv("AZURE_API_KEY_2"),
         )
-    elif args.model_name in ["Qwen/QwQ-32B-Preview", "deepseek-ai/DeepSeek-R1", "deepseek-ai/DeepSeek-V3", "meta-llama/Llama-3.3-70B-Instruct-Turbo"]:
+    elif args.model_name in ["Qwen/QwQ-32B-Preview", "deepseek-ai/DeepSeek-R1",
+                             "deepseek-ai/DeepSeek-V3", "meta-llama/Llama-3.3-70B-Instruct-Turbo"]:
         client = OpenAI(
             base_url="https://api.together.xyz/v1",
             api_key=os.getenv("TOGETHER_API_KEY"),
@@ -246,6 +313,24 @@ if __name__ == "__main__":
     else:
         client = client_old
 
+    embedding_client = AzureOpenAI(
+        api_version=os.getenv("AZURE_OPENAI_EMBEDDING_API_VERSION"),
+        azure_endpoint=os.getenv("AZURE_OPENAI_EMBEDDING_BASE"),
+        api_key=os.getenv("AZURE_OPENAI_EMBEDDING_API_KEY"),
+    )
+    train_file = os.path.join(args.dataset_dir, 'train.jsonl')
+    if os.path.exists(train_file):
+        training_data = load_jsonl(train_file)
+    else:
+        print("Warning: training file not found. KNN examples won't be used.")
+        training_data = []
+
+    if len(training_data) > 100:
+        training_data = training_data[:100]
+
+    nbrs = NearestNeighbors(n_neighbors=args.knn_examples, algorithm='brute', metric='cosine')
+    nbrs.fit(get_embeddings([item["question"] for item in training_data], embedding_client, args.embedding_model))
+
     os.makedirs(args.output_files_folder, exist_ok=True)
     subfolder = os.path.join(args.output_files_folder, args.dataset_name)
     os.makedirs(subfolder, exist_ok=True)
@@ -254,7 +339,7 @@ if __name__ == "__main__":
         args.dataset_name,
         f"{args.model_name.split('/')[-1]}-{args.dataset_name}-{args.split}-medprompt-{args.num_rounds}.json"
     )
-    
+
     if os.path.exists(existing_output_file):
         print(f"Existing output file found: {existing_output_file}")
         with open(existing_output_file, 'r', encoding='utf-8') as f:
@@ -274,8 +359,23 @@ if __name__ == "__main__":
     print(f"Processing {len(problems_to_process)} problems out of {len(problems)} total problems.")
 
     with ThreadPoolExecutor(max_workers=args.num_processes) as executor:
-        # Using MedPrompt iterations for problem solving.
-        futures = {executor.submit(run, problem, client, args.model_name, args.retries, args.num_rounds, args.vote_count): problem for problem in problems_to_process}
+        futures = {
+            executor.submit(
+                run,
+                problem,
+                client,
+                embedding_client,
+                args.model_name,
+                nbrs,
+                args.retries,
+                args.num_rounds,
+                args.vote_count,
+                training_data,
+                args.knn_examples,
+                args.embedding_model
+            ): problem
+            for problem in problems_to_process
+        }
         for future in tqdm(as_completed(futures), total=len(futures), desc="Processing problems", unit="problem"):
             try:
                 result = future.result()
