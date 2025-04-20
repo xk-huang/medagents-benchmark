@@ -30,6 +30,7 @@ parser.add_argument('--model', type=str, default='deepseek-V3')
 parser.add_argument('--difficulty', type=str, default='adaptive')
 parser.add_argument('--num_samples', type=int, default=None)
 parser.add_argument('--num_processes', type=int, default=1)
+parser.add_argument("--output_dir", type=str, default="./output/")
 args = parser.parse_args()
 
 model, client = setup_model(args.model)
@@ -38,7 +39,7 @@ test_qa, examplers = load_data(args.dataset_dir, args.split)
 agent_emoji = ['\U0001F468\u200D\u2695\uFE0F', '\U0001F468\U0001F3FB\u200D\u2695\uFE0F', '\U0001F469\U0001F3FC\u200D\u2695\uFE0F', '\U0001F469\U0001F3FB\u200D\u2695\uFE0F', '\U0001f9d1\u200D\u2695\uFE0F', '\U0001f9d1\U0001f3ff\u200D\u2695\uFE0F', '\U0001f468\U0001f3ff\u200D\u2695\uFE0F', '\U0001f468\U0001f3fd\u200D\u2695\uFE0F', '\U0001f9d1\U0001f3fd\u200D\u2695\uFE0F', '\U0001F468\U0001F3FD\u200D\u2695\uFE0F']
 random.shuffle(agent_emoji)
 
-path = os.path.join(os.getcwd(), 'output')
+path = args.output_dir
 os.makedirs(path, exist_ok=True)
 subpath = os.path.join(path, args.dataset)
 os.makedirs(subpath, exist_ok=True)

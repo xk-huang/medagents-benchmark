@@ -25,7 +25,7 @@ class Agent:
         if self.model_info == 'gemini-pro':
             self.model = genai.GenerativeModel('gemini-pro')
             self._chat = self.model.start_chat(history=[])
-        elif self.model_info in ['gpt-4', 'gpt-4o', 'gpt-4o-mini']:
+        elif self.model_info in ['gpt-4', 'gpt-4o', 'gpt-4o-mini'] or self.model_info.startswith('gpt-4o'):
             self.client = AzureOpenAI(
                 azure_endpoint = os.getenv("AZURE_ENDPOINT"),
                 api_key = os.getenv("AZURE_API_KEY"),
@@ -51,6 +51,8 @@ class Agent:
                 for exampler in examplers:
                     self.messages.append({"role": "user", "content": exampler['question']})
                     self.messages.append({"role": "assistant", "content": exampler['answer'] + "\n\n" + exampler['reason']})
+        else:
+            raise ValueError(f"Unsupported model: {self.model_info}")
             
 
     def chat(self, message, img_path=None, chat_mode=True):
@@ -66,7 +68,7 @@ class Agent:
                     continue
             return "Error: Failed to get response from Gemini."
 
-        elif self.model_info in ['gpt-4', 'gpt-4o', 'gpt-4o-mini']:
+        elif self.model_info in ['gpt-4', 'gpt-4o', 'gpt-4o-mini'] or self.model_info.startswith('gpt-4o'):
             self.messages.append({"role": "user", "content": message})
             response = self.client.chat.completions.create(
                 model=self.model_info,
@@ -86,7 +88,7 @@ class Agent:
             raise ValueError(f"Unsupported model: {self.model_info}")
 
     def temp_responses(self, message, img_path=None):
-        if self.model_info in ['gpt-4', 'gpt-4o', 'gpt-4o-mini']:      
+        if self.model_info in ['gpt-4', 'gpt-4o', 'gpt-4o-mini'] or self.model_info.startswith('gpt-4o'):      
             self.messages.append({"role": "user", "content": message})
             
             temperatures = [0.0]
@@ -331,16 +333,18 @@ def process_basic_query(question, examplers, model, args):
     single_agent = Agent(instruction='You are a helpful assistant that answers multiple choice questions about medical knowledge.', role='medical expert', examplers=new_examplers, model_info=model)
     single_agent.chat('You are a helpful assistant that answers multiple choice questions about medical knowledge.')
     final_decision, final_decision_usage = single_agent.temp_responses(f'''The following are multiple choice questions (with answers) about medical knowledge. Let's think step by step.\n\n**Question:** {question}\nAnswer: ''', img_path=None)
+    print(f"final_decision: {final_decision}")
 
     total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
     total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
 
-    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
+    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=model)
     decision_agent.chat('You are an answer parser.')
     decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
 
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
+    print(f"decision_answer: {decision_answer}")
 
     return {
         'majority': final_decision,
@@ -486,15 +490,15 @@ def process_intermediate_query(question, examplers, model, args):
         if num_yes == 0:
             break
 
-        tmp_final_answer = {}
-        for i, agent in enumerate(medical_agents):
-            response, response_usage = agent.chat(f"Now that you've interacted with other medical experts, remind your expertise and the comments from other experts and make your final answer to the given question:\n{question}\nAnswer: ")
-            total_usage['prompt_tokens'] += response_usage['prompt_tokens']
-            total_usage['completion_tokens'] += response_usage['completion_tokens']
-            tmp_final_answer[agent.role] = response
+    tmp_final_answer = {}
+    for i, agent in enumerate(medical_agents):
+        response, response_usage = agent.chat(f"Now that you've interacted with other medical experts, remind your expertise and the comments from other experts and make your final answer to the given question:\n{question}\nAnswer: ")
+        total_usage['prompt_tokens'] += response_usage['prompt_tokens']
+        total_usage['completion_tokens'] += response_usage['completion_tokens']
+        tmp_final_answer[agent.role] = response
 
-        round_answers[round_name] = tmp_final_answer
-        final_answer = tmp_final_answer
+    round_answers[round_name] = tmp_final_answer
+    final_answer = tmp_final_answer
 
     print('\nInteraction Log')        
     myTable = PrettyTable([''] + [f"Agent {i+1} ({agent_emoji[i]})" for i in range(len(medical_agents))])
@@ -542,11 +546,12 @@ def process_intermediate_query(question, examplers, model, args):
     print()
 
     # Parse the final decision
-    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
+    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=model)
     decision_agent.chat('You are an answer parser.')
     decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
+    print(f"decision_answer: {decision_answer}")
     
     return {
         'majority': final_decision,
@@ -623,6 +628,7 @@ def process_advanced_query(question, model, args):
     compiled_report = ""
     for idx, decision in enumerate(final_decisions):
         compiled_report += f"Group {idx+1} - {decision[0]}\n{decision[1]}\n\n"
+    print(f"compiled_report: {compiled_report}")
 
     # STEP 3. Final Decision
     decision_prompt = f"""You are an experienced medical expert. Now, given the investigations from multidisciplinary teams (MDT), please review them very carefully and return your final decision to the medical query."""
@@ -632,13 +638,15 @@ def process_advanced_query(question, model, args):
     final_decision, final_decision_usage = tmp_agent.temp_responses(f"""Investigation:\n{initial_assessment_report}\n\nQuestion: {question}""", img_path=None)
     total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
     total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
+    print(f"final_decision: {final_decision}")
 
     # Parse the final decision
-    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
+    decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=model)
     decision_agent.chat('You are an answer parser.')
     decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
+    print(f"decision_answer: {decision_answer}")
     
     return {
         'majority': final_decision,
