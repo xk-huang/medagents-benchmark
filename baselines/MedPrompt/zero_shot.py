@@ -103,7 +103,9 @@ def zero_shot(problem: Dict, client: Any, model: str = "o3-mini", retries: int =
             )
             extraction_messages = [{"role": "user", "content": extraction_prompt}]
             extraction_completion = client_old.chat.completions.create(
-                model="gpt-4o-mini",
+                # model="gpt-4o-mini",
+                # NOTE(xk): we only have gpt-4o-1120-nofilter-global
+                model=os.getenv("AZURE_PARSE_ANSWER_MODEL", None),
                 messages=extraction_messages,
                 response_format={"type": "json_schema", "json_schema": answer_schema}
             )
@@ -162,6 +164,9 @@ if __name__ == "__main__":
     parser.add_argument('--num_processes', type=int, default=4)
 
     args = parser.parse_args()
+    print(f"Model: {args.model_name}")
+    print(f"Dataset: {args.dataset_name}")
+    print(f"Split: {args.split}")
     
     client_old = AzureOpenAI(
         api_version=os.getenv("AZURE_API_VERSION"),

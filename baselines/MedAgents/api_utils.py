@@ -133,7 +133,7 @@ class api_handler:
             self.engine = 'deepseek-ai/DeepSeek-V3'
 
         else:
-            raise NotImplementedError
+            self.engine = model
 
     def get_output_multiagent(self, system_role, user_input, temperature=0,
                     frequency_penalty=0, presence_penalty=0, stop=None):

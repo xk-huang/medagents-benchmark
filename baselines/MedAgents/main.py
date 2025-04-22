@@ -50,7 +50,8 @@ if __name__ == '__main__':
     if args.model_name in ['gpt-4o', 'gpt-4o-mini', 'deepseek-V3']: # select the model
         handler = api_handler(args.model_name)
     else:
-        raise ValueError
+        handler = api_handler(args.model_name)
+        # raise ValueError
 
     # get dataobj
     dataobj = QADataset(args, traindata_obj=None)

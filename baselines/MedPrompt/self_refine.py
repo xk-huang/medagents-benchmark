@@ -106,7 +106,9 @@ def parse_answer(raw_response: str, options: Dict, client_old: Any, answer_idx: 
     extraction_messages = [{"role": "user", "content": extraction_prompt}]
     # Parse the response using the schema.
     extraction_completion = client_old.chat.completions.create(
-        model='gpt-4o-mini',
+        # model="gpt-4o-mini",
+        # NOTE(xk): we only have gpt-4o-1120-nofilter-global
+        model=os.getenv("AZURE_PARSE_ANSWER_MODEL", None),
         messages=extraction_messages,
         response_format={"type": "json_schema", "json_schema": answer_schema}
     )
