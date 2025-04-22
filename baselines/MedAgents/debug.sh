@@ -1,7 +1,7 @@
-rm -rf ../../outputs/medagents
+rm -rf ../../outputs/medagents/debug
 LOGS_DIR=../../logs
 DATA_DIR=../../data
-OUTPUT_DIR=../../outputs/medagents
+OUTPUT_DIR=../../outputs/medagents/debug
 dataset=medqa
 model=gpt-4o-1120-nofilter-global
 split=test_hard

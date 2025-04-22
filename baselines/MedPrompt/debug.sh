@@ -1,4 +1,4 @@
-LOGS_DIR=../../logs
+LOGS_DIR=../../logs/medprompt/debug
 DATA_DIR=../../data
 OUTPUT_DIR=../../outputs/medprompt/debug
 model=gpt-4o-1120-nofilter-global
@@ -17,3 +17,6 @@ python cot.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split 
 python cot_sc.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder $OUTPUT_DIR --num_processes 1
 python multi_persona.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder $OUTPUT_DIR --num_processes 1
 python self_refine.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder $OUTPUT_DIR --num_processes 1
+
+embedding_model=text-embedding-3-small-nofilter-global
+python medprompt.py --dataset_name $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --output_files_folder $OUTPUT_DIR --embedding_model $embedding_model --num_processes 1
