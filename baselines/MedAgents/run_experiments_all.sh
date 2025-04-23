@@ -11,7 +11,8 @@ LOGS_DIR=../../logs
 DATA_DIR=../../data
 OUTPUT_DIR=../../outputs/medagents
 
-for dataset in mmlu-pro medxpertqa-r medxpertqa-u; do
+# for dataset in mmlu-pro medxpertqa-r medxpertqa-u; do
+for dataset in medqa pubmedqa medmcqa medexqa medbullets mmlu mmlu-pro medxpertqa-r medxpertqa-u; do
     mkdir -p $LOGS_DIR/$dataset
     # for model in gpt-4o-mini gpt-4o; do
     # NOTE xk: only 4o is available right now.
