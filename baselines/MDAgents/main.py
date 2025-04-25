@@ -76,19 +76,25 @@ def process_sample(sample):
 
         if difficulty == 'basic':
             final_decision, final_decision_usage = process_basic_query(question, examplers, args.model, args)
+            # NOTE (xk): if the answer is not a single option, we skip this sample
             if len(final_decision['answer']) != 1:
+                print(f"[ERROR] Answer is not a single option: {final_decision['answer']}")
                 return None
             total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
             total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
         elif difficulty == 'intermediate':
             final_decision, final_decision_usage = process_intermediate_query(question, examplers, args.model, args)
+            # NOTE (xk): if the answer is not a single option, we skip this sample
             if len(final_decision['answer']) != 1:
+                print(f"[ERROR] Answer is not a single option: {final_decision['answer']}")
                 return None
             total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
             total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
         elif difficulty == 'advanced':
             final_decision, final_decision_usage = process_advanced_query(question, args.model, args)
+            # NOTE (xk): if the answer is not a single option, we skip this sample
             if len(final_decision['answer']) != 1:
+                print(f"[ERROR] Answer is not a single option: {final_decision['answer']}")
                 return None
             total_usage['prompt_tokens'] += final_decision_usage['prompt_tokens']
             total_usage['completion_tokens'] += final_decision_usage['completion_tokens']
@@ -117,14 +123,22 @@ try:
                 if result is not None:
                     results.append(result)
                     save_results(results, results_path)
+                    print(f"[INFO] Saving sample {result['idx']}. Total: {len(results)}")
+                else:
+                    print(f"[ERROR] Saving sample failed")
     else:
         for no, sample in enumerate(tqdm(new_samples)):
             result = process_sample(sample)
             if result is not None:
                 results.append(result)
                 save_results(results, results_path)
+                print(f"[INFO] Saving sample {result['idx']}. Total: {len(results)}")
+            else:
+                print(f"[ERROR] Saving sample failed")
+
 except KeyboardInterrupt:
-    print(f"[ERROR] Processing samples interrupted by user")
+    print(f"[ERROR] Saving samples interrupted by user")
 
 finally:
     save_results(results, results_path)
+    print(f"[INFO] Saving total: {len(results)}")

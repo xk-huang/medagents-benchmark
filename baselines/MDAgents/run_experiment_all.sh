@@ -22,7 +22,7 @@ for dataset in medqa pubmedqa medmcqa medexqa medbullets mmlu mmlu-pro medxpertq
                 error_file=$LOGS_DIR/$dataset/${model}_${dataset}_${split}_${difficulty}.err
                 echo "Running $model on $split with difficulty $difficulty"
                 python main.py --dataset $dataset --dataset_dir $DATA_DIR/$dataset/ --split $split --model $model --difficulty $difficulty --output_dir $OUTPUT_DIR \
-                --num_processes 4 | tee $log_file
+                --num_processes 4 2>&1 | tee $log_file
                 # 2> $error_file
             done
         done

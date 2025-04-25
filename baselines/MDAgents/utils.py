@@ -340,7 +340,7 @@ def process_basic_query(question, examplers, model, args):
 
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=os.getenv("AZURE_PARSE_ANSWER_MODEL", None))
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question:\n\n"""\n{question}\n"""\n\nOnly output the **single** letter from the following:\n\n"""\n{final_decision}\n""".', img_path=None)
 
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
@@ -548,7 +548,7 @@ def process_intermediate_query(question, examplers, model, args):
     # Parse the final decision
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=os.getenv("AZURE_PARSE_ANSWER_MODEL", None))
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question:\n\n"""\n{question}\n"""\n\nOnly output the **single** letter from the following:\n\n"""\n{final_decision}\n""".', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
     print(f"decision_answer: {decision_answer}")
@@ -643,7 +643,7 @@ def process_advanced_query(question, model, args):
     # Parse the final decision
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info=os.getenv("AZURE_PARSE_ANSWER_MODEL", None))
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question:\n\n"""\n{question}\n"""\n\nOnly output the **single** letter from the following:\n\n"""\n{final_decision}\n""".', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
     print(f"decision_answer: {decision_answer}")
