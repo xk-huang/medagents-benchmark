@@ -308,6 +308,9 @@ def determine_difficulty(question, difficulty, model):
         return 'intermediate', response_usage
     elif 'advanced' in response.lower() or '3)' in response.lower():
         return 'advanced', response_usage
+    else:
+        print(f"[Error] Unsupported difficulty, use `basic` by default: the response {response}")
+        return 'basic', response_usage
 
 def process_basic_query(question, examplers, model, args):
     medical_agent = Agent(instruction='You are a helpful medical agent.', role='medical expert', model_info=model)
