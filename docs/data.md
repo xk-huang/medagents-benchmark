@@ -48,3 +48,7 @@ for dataset in ${datasets[@]}; do
     echo "======== Finish $base_dir ========\n"
 done
 ```
+
+Upload the datasets to huggingface with `data/upload_hardset.ipynb`
+
+repo: https://huggingface.co/datasets/xk-huang/medagents-benchmark
