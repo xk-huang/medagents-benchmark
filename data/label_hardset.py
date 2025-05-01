@@ -7,13 +7,40 @@ import glob
 from typing import List, Dict, Tuple, Any
 
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(override=True)
 
 client = openai.AzureOpenAI(
     api_key=os.getenv("AZURE_API_KEY"),
     azure_endpoint=os.getenv("AZURE_ENDPOINT"), 
     api_version=os.getenv("AZURE_API_VERSION")
 )
+# NOTE(xk): gpt-4o-1120-nofilter-global
+"""
+AZURE_MODEL_4O='gpt-4o-1120-nofilter-global' AZURE_MODEL_4O_MINI='gpt-4o-mini-20240718-nofilter-global' python data/label_hardset.py 
+
+DEBUG=1 AZURE_MODEL_4O='gpt-4o-0806-nofilter-global' AZURE_MODEL_4O_MINI='gpt-4o-mini-20240718-nofilter-global' python data/label_hardset.py 
+"""
+model_4o = os.getenv("AZURE_MODEL_4O")
+model_4o_mini = os.getenv("AZURE_MODEL_4O_MINI")
+
+if os.getenv("DEBUG"):
+    for model in [model_4o, model_4o_mini]:
+        print(f"Using model: {model}")
+        test_api_response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": "Hello! Who are you?"}
+            ],
+            temperature=0.5
+        )
+        content = test_api_response.choices[0].message.content
+        prompt_tokens = test_api_response.usage.prompt_tokens
+        completion_tokens = test_api_response.usage.completion_tokens
+        print(f"Response: {content}")
+        print(f"Prompt tokens: {prompt_tokens}")
+        print(f"Completion tokens: {completion_tokens}")
+        breakpoint()
 
 def inspect_problem(problem: Dict, client: Any, retries: int = 3) -> Tuple[str, Dict]:
     question_text = problem.get('question', '')
@@ -41,7 +68,8 @@ def inspect_problem(problem: Dict, client: Any, retries: int = 3) -> Tuple[str, 
     for attempt in range(retries):
         try:
             completion = client.chat.completions.create(
-                model="gpt-4o",
+                # model="gpt-4o",
+                model=model_4o,
                 messages=messages,
                 temperature=0
             )
@@ -106,7 +134,8 @@ def solve_and_classify(problem: Dict, client: Any, retries: int = 3) -> Tuple[st
     for attempt in range(retries):
         try:
             completion = client.chat.completions.create(
-                model="gpt-4o-mini",
+                # model="gpt-4o-mini",
+                model=model_4o_mini,
                 messages=messages,
                 temperature=0
             )
@@ -149,14 +178,16 @@ def load_jsonl(file_path: str) -> List[Dict]:
             data.append(json.loads(line.strip()))
     return data
 
-if __name__ == "__main__":
-    test_files = glob.glob('../data/**/*test.jsonl', recursive=True)
+
+def process_file_type(file_type):
+    test_files = glob.glob(f'data/**/*{file_type}.jsonl', recursive=True)
+
     for f in test_files:
         print(f'\n{f}')
         
         # Check if good set exists
-        good_file = f.replace('test.jsonl', 'test_good.jsonl')
-        hard_file = f.replace('test.jsonl', 'test_hard.jsonl')
+        good_file = f.replace(f'{file_type}.jsonl', f'{file_type}_good_reimp.jsonl')
+        hard_file = f.replace(f'{file_type}.jsonl', f'{file_type}_hard_reimp.jsonl')
         
         if os.path.exists(good_file):
             print(f'Loading existing good problems from {good_file}')
@@ -189,3 +220,11 @@ if __name__ == "__main__":
                 json.dump(problem, fout, ensure_ascii=False)
                 fout.write('\n')
         print(f'Saved hard problems to {hard_file}')
+
+
+if __name__ == "__main__":
+    # file_type_list = ["train", "test"]
+    file_type_list = ["test", "train"]
+    for file_type in file_type_list:
+        process_file_type(file_type)
+    
